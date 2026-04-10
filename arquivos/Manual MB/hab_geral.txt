@@ -1,0 +1,110 @@
+Habilidades Gerais
+Essas são Habilidades ao alcance de
+qualquer personagem que preencha seus
+Requisitos, independente de sua Classe –
+porém a Raça do personagem pode restringir essas escolhas
+
+---
+--Agilidade Heróica--
+Habilidade (Característica) – Suporte
+Raças: Todas
+Requisito: Nível 5
+Descrição: Você possui uma agilidade
+e flexibilidade que já lhe salvaram em muitas
+ocasiões. Você tem Agilidade +1.
+---
+--Atletismo--
+Habilidade (Técnica) – Suporte
+Raças: Todas
+Descrição: Você treinou exercícios
+físicos durante muito tempo – seja por vontade própria ou por necessidade – e é muito
+bom nisso. Você recebe +2 em testes para
+correr, escalar, nadar, se equilibrar, prender
+o fôlego ou qualquer outra atividade que exija força física e coordenação motora. Esse
+bônus também se aplica em testes para evitar
+ser derrubado.
+---
+--Força Heróica--
+Habilidade (Característica) – Suporte
+Raças: Todas
+Requisito: Nível 5
+Descrição: Você possui uma força e resistência forjadas na batalha. Você tem Força
++1.
+---
+--Fúria de Batalha--
+Habilidade (Técnica) – Reação
+Raças: Todas exceto Aesires.
+Mana: 30
+Descrição: Quando você é ferido você é
+tomado por uma irrefreável fúria destrutiva, ficando neste estado até o final do combate – ou
+até ficar dois turnos sem atacar. Você precisa
+sofrer pelo menos 1 ponto de dano de qualquer
+fonte – inclusive auto-infligido – para que essa
+Habilidade possa ser ativada. Enquanto estiver
+em Fúria, você recebe Força +2 e fica imune a
+efeitos de Medo.
+---
+--Inteligência Heroica--
+Habilidade (Característica) – Suporte
+Raças: Todas
+Requisito: Nível 5
+Descrição: Você possui uma percepção
+e uma capacidade de raciocínio extremamente
+afiadas. Você tem Inteligência +1.
+---
+--Nanismo--
+Habilidade (Característica) – Suporte
+Raças: Todas exceto Metadílios
+Descrição: Você é menor do que a
+média de sua raça – em média entre 1 e 1,2
+metros de altura. Você pode rolar +1d6 quando fizer testes para se esconder, se mover em
+silêncio ou passar despercebido de qualquer
+forma. Além disso, seu bônus automático de
+Defesa é 6 ao invés de 5. No entanto, armas
+corporais que requerem duas mãos são grandes demais para que você possa usá-las com
+eficiência, e você precisa usar ambas as mãos
+para usar qualquer arma corporal com FN 5
+ou mais.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Nervos de Aço--
+Habilidade (Característica) – Suporte
+Raças: Todas
+Requisito: Nível 5
+Descrição: Você tem um autocontrole
+invejável e é capaz de se concentrar mesmo
+quando outros entrariam em desespero. Você
+tem +20 Pontos de Mana.
+---
+--Recursos--
+Habilidade – Especial
+Raças: Todas, exceto Hamelins
+Descrição: Você possui (ou possuía) um
+pequeno negócio ou vem de uma família nobre.
+Você começa o jogo com o dobro das moedas
+inicias.
+Especial: Esta habilidade só pode ser
+escolhida durante a criação do Personagem.
+---
+--Sentidos Apurados--
+Habilidade (Característica) – Suporte
+Raças: Todas exceto Mahoks
+Descrição: Você possui sentidos treinados e extremamente apurados e aprendeu
+a confiar instintivamente no que eles captam.
+Você recebe +2 em todos os testes de para perceber, procurar, observar, ouvir ou usar seus
+cinco sentidos e também em testes de Iniciativa.
+---
+--Vontade de Ferro--
+Habilidade (Característica) – Suporte
+Raças: Todas
+Requisito: Nível 5
+Descrição: Você não se entrega com facilidade e é muito difícil derrubar você em combate. Você tem +20 Pontos de vida.
+---
+--Vontade Heróica--
+Habilidade (característica) – Suporte
+Raças: Todas
+Requisito: Nível 5
+Descrição: Sua determinação e autoconfiança são quase inabaláveis. Você tem Vontade
++1.
+---

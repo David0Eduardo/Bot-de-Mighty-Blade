@@ -1,0 +1,285 @@
+Novas Magias
+
+---
+--Alterar Acesso--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 10
+*Descrição: Desenhando uma Runa Arcana sobre um item que contenha um encantamento, você pode alterar a limitação de Acesso
+e Sintonização daquele item incluindo acrescentar um Acesso (mesmo que o item não possua
+essa limitação originalmente), remover uma
+Sintonização e/ou adicionar uma Sintonização.
+Quando conjurar esta magia sobre um item, escolha um Acesso (de acordo com as regras de
+criação de itens, Guia do Herói página 64) e/ou
+uma Sintonização (se o item possuir alguma). O
+item perde qualquer característica de Acesso e
+Sintonização que ele pudesse ter e passa a ter o
+novo Acesso que você determinar, além de ficar
+Sintonizado à você.
+Esta Runa Arcana dura 1 minuto.
+*Especial: Esta magia só altera as propriedades mágicas de um item. Assim, uma
+adaga pode ter seu Acesso alterado para permitir que você esteja sintonizada à ela ao invés de um outro conjurador que tenha sua
+Runa Pessoal sobre ela, por exemplo, mas
+isso não impedirá que qualquer um possa utilizar esta adaga para apunhalar um alvo.
+---
+--Cauterizar--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 9
+*Descrição: Desenhando uma Runa
+Arcana ou Selo Místico sobre uma criatura,
+você remove todos os efeitos de sangramento que estiverem afetando o alvo. Para cada
+efeito removido dessa forma, o alvo sofre
+dano igual à 4/Fogo.
+Os efeitos dessa Runa Arcana ou Selo
+se dissipam assim que seus efeitos forem desencadeados.
+---
+--Controlar Chamas--
+Habilidade (Magia) – Ação
+Mana: 5
+Dificuldade da Magia: 8
+*Descrição: Desenhando uma Runa
+Arcana no ar entre você e uma chama – com
+tamanho máximo de uma fogueira de acampamento – dentro de sua linha de visão, você
+pode modificar suas propriedades. Você pode
+alterar a coloração da chama para qualquer
+matiz que desejar (o que não afeta sua iluminação de forma alguma), fazer com que ela não
+emita calor (o que impede que cause dano ou
+inflame objetos) ou modificar sua forma geral
+para que lembra vagamente um objeto ou criatura. Se houver material combustível disponível, a chama pode aumentar até o dobro do
+tamanho, e de forma contrária, é possível apagar totalmente a chama ou reduzi-la a brasas.
+Esta Runa dura por tanto tempo quanto a chama afetada se mantiver acesa, mas o
+conjurador pode dissipar esta Runa a qualquer momento. 
+---
+--Cristalizar Pensamento--
+Habilidade (Magia) – Ação
+Mana: 5
+Dificuldade da Magia: 8
+*Descrição: Desenhando uma Runa Arcana ou Selo Místico sobre si mesmo, você cria
+um pequeno cristal de memória diretamente à
+frente de sua testa. Este cristal emana uma leve
+fosforescência e é considerado um item mágico com 1 Ponto de Vida e peso insignificante. Um cristal da memória contém uma idéia,
+mensagem ou memória na qual o conjurador
+estava se concentrando quando conjura esta
+magia, podendo comportar uma quantidade
+de minutos igual à Vontade do conjurador de
+informações guardadas dentro dele. Qualquer
+criatura viva que segure o cristal contra sua testa e feche os olhos receberá a mensagem, idéia
+ou memória em questão, em tempo real.
+Esta Runa ou Selo é perene, e o cristal
+continuará existindo enquanto A Runa ou Selo
+estiver ativo, mas o Conjurador pode dissipar
+esta Runa ou Selo a qualquer momento. Um
+conjurador pode ter uma quantidade de cristais
+de memória ativos igual à sua Determinação.
+---
+--Explosão de Luz--
+Habilidade (Magia) – Ação
+Mana: 5
+Dificuldade da Magia: 9
+*Descrição: Desenhando uma Runa Arcana no ar, você faz com que uma intensa luz
+brilhe momentaneamente. Todas as criaturas a
+uma quantidade de metros igual à Inteligência
+do conjurador devem passar em um teste de
+Inteligência (Dificuldade igual à Determinação
+do conjurador) ou ficam cegas por 1 turno.
+Esta Runa Arcana se dissipa imediatamente assim que seus efeitos são desencadeados.
+---
+--Centelha--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+*Descrição: Desenhando uma Runa
+Arcana entre você e um objeto ou criatura,
+você faz com que uma pequena descarga elétrica atinja o alvo. Materiais em condições
+ideais (gravetos, papiro, palha ou algodão
+secos, por exemplo) entram em combustão.
+Criaturas sofrem um dano igual à Vontade do
+conjurador/Eletricidade.
+Esta Runa Arcana se dissipa assim que
+seus efeitos forem desencadeados.
+---
+--Ilusão Menor--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+*Descrição: Desenhando uma Runa
+Arcana ou Selo Místico no ar, você cria uma
+ilusão sensorial que afeta todas as criaturas
+que estiverem até sua Inteligência em metros de distância. Você pode criar sons de
+animais, sussurros abafados, urros ou gritos
+(mas não palavras compreensíveis) um odor
+qualquer, sensação de calor ou frio momentâneo, chuvas de faíscas, folhas, flocos de
+neve, fagulhas ou brilhos multicoloridos,
+etc. A ilusão criada não dura mais do que alguns segundos (ou 1 turno em uma situação
+de combate).
+Esta Runa Arcana ou Selo Místico se
+dissipa imediatamente depois que seus efeitos
+são desencadeados.
+---
+--Imantar--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+*Descrição: Desenhando uma Runa
+Arcana sobre uma peça de metal, você faz
+com que ela se torne um imã. Se for usada
+sobre um imã, ele perde seus efeitos magnéticos. O objeto afetado pode ter um peso
+máximo igual a 100 vezes a Vontade do conjurador em gramas.
+A Runa Arcana se dissipa imediatamente assim que seus efeitos forem desencadeados, mas os efeitos magnéticos
+ganhos (ou perdidos) pelo objeto são permanentes.
+---
+--Murmúrio Mágico--
+Habilidade (Magia) – Ação
+Mana: 5
+Dificuldade da Magia: 9
+*Descrição: Desenhando uma Runa
+Arcana ou Selo Místico sobre si mesmo, você
+consegue enviar uma mensagem para alguém
+que tenha uma Runa Arcana ou Selo Místico
+desenhado por você (incluindo itens encantados) sobre seu corpo ou em um item que esteja carregando. Você pode decidir se enviará
+a mensagem a uma pessoa ou para uma Runa
+ou Selo. A mensagem pode ter um número
+máximo de palavras igual à sua Determinação e o alvo – ou qualquer criatura tocando o
+item – receberá a informação como se você a
+estivesse sussurrando em seu ouvido.
+Essa Runa Arcana ou Selo Místico se
+dissipa imediatamente depois que seus efeitos
+são desencadeados.
+---
+--Silenciar--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: Determinação do alvo
+*Descrição: Desenhando uma Runa
+Arcana ou um Selo Místico sobre uma criatura viva, você faz com que ela perca a capacidade de falar ou produzir qualquer som
+utilizando suas cordas vocais.
+Esta Runa Arcana ou Selo Místico dura
+uma quantidade de turnos igual à sua Vontade.
+---
+--Pirografia--
+Habilidade (Magia) – Ação
+Mana: 5
+Dificuldade da Magia: 8
+*Descrição: Desenhando uma Runa Arcana sobre um objeto, criatura ou superfície,
+você é capaz de gravar um traçado sobre o alvo
+através de uma concentração considerável de
+calor. Esta magia pode ser usada para criar gravações permanentes em madeira ou couro, mas
+pode deixar marcas temporárias em praticamente qualquer superfície. Materiais em condições ideais (gravetos, papiro, palha ou algodão
+secos, por exemplo) podem entrar em combustão se o conjurador concentrar esse efeito
+em um único ponto sobre eles. Se usado sobre
+criaturas vivas, esta magia causa dano igual à 1/
+Fogo por turno, e deixa o alvo com escarificações permanentes (que, para todos os propósitos, pode ser considerada uma tatuagem).
+Esta Runa Arcana dura por tanto
+tempo quanto o conjurador se mantiver em
+contato com o alvo, mas qualquer efeito da
+magia é permanente.
+---
+--Reparos--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+*Descrição: Desenhando uma Runa
+Arcana ou Selo Místico sobre um objeto você
+faz com que pequenos danos sobre ele sejam
+reparados. Essa magia recupera uma quantidade de Pontos de Vida de um objeto iguais
+à Vontade do Conjurador. Um objeto partido em vários pedaços pode ser reestruturado
+dessa forma, desde que seus cacos estejam
+encaixados juntos. Se nem todos os pedaços
+do objeto estiverem reunidos, a magia ainda
+funciona, mas o objeto permanece com uma
+falha onde há pedaços faltando, e provavelmente volte a quebrar com o uso.
+Esta Runa ou Selo se dissipam imediatamente, mas seus efeitos são permanentes.
+---
+--Resfriar--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 8
+*Descrição: Desenhando uma Runa
+Arcana sobre um objeto ou criatura, você o
+resfria rapidamente. Uma quantidade máxima
+de quilos (ou litros) de material igual à Vontade do conjurador podem ser afetados por essa
+magia, e criaturas de tamanho Grande ou menores que sejam afetadas ficam Enregeladas.
+Esta Runa Arcana se dissipa assim que
+seus efeitos forem desencadeados. 
+---
+--Runa do Gatuno--
+Habilidade (Magia) – Ação
+Mana: 5
+Dificuldade da Magia: Varia
+*Descrição: Desenhando uma Runa
+Arcana no ar entre você e um objeto a até
+uma quantidade de metros igual à sua Inteligência, você faz com que ele se abra ou feche (Dificuldade 8). Se o objeto possuir uma
+tranca ou fechadura e estiver com a chave,
+ele pode ser trancado ou destrancado antes
+ou depois de ser aberto ou fechado (mas a
+dificuldade aumenta para 10) – se estiver sem
+a chave, a Dificuldade da magia dependerá da
+qualidade do item (Veja “abrir fechaduras”
+no Guia Básico pág. 24).
+O objeto pode ser aberto ou fechado
+com tanta violência ou sutileza quanto o conjurador desejar, desde que não cause danos
+ao objeto. Objetos com o tamanho máximo
+de uma porta ou baú podem ser afetados por
+esta magia.
+A Runa Arcana se dissipa imediatamente assim que seus efeitos forem desencadeados.
+---
+--Sanguessuga--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+*Descrição: Desenhando uma Runa
+Arcana ou Selo Místico sobre uma criatura,
+você remove todas as doenças naturais e venenos básicos que estiverem afetando o alvo.
+Para cada efeito removido dessa forma, o
+alvo perde 6 Pontos de Vida.
+Os efeitos dessa Runa Arcana ou Selo
+se dissipam assim que seus efeitos forem desencadeados.
+---
+--Suspender--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+*Descrição: Você é capaz de levitar
+pequenos objetos com os quais tenha uma ligação arcana. Desenhando uma Runa Arcana
+sobre um item com FN 1 ou peso insignificante (menos de meio quilo), você pode fazer
+com que o objeto levite no ar. O movimento
+do objeto pode ser controlado livremente pelo
+conjurador, mas é bastante lento (1 metro por
+turno) a menos que você comande o objeto
+para seguir você – nesse caso ele o acompanha na velocidade em que você se move. Você
+pode suspender, simultaneamente, uma quantidade máxima de itens igual à sua Vontade.
+Esta Runa Arcana dura por 1 hora,
+mas pode ser dissipada a qualquer momento
+pelo conjurador.
+---
+--Toque do Artesão--
+Habilidade (Magia) – Ação
+Mana: 5
+Dificuldade da Magia: 8
+*Descrição: Desenhando uma Runa
+Arcana sobre um objeto inanimado que você
+possa segurar, você altera levemente suas
+propriedades. O objeto pode ter sua coloração totalmente alterada, incluindo a inclusão
+ou remoção de padrões de cores. O objeto
+pode exalar um leve odor – que não será forte o suficiente para causar náuseas ou quaisquer outros efeitos em quem senti-lo, nem
+se transfere para objetos tocados pelo item
+afetado, mas é forte o suficiente para mascarar outros cheiros que o objeto possa ter.
+Finalmente o objeto pode ser lustrado, limpo, sujo ou desgastado, dependendo de suas
+características específicas.
+A Runa Arcana se dissipa imediatamente assim que seus efeitos forem desencadeados, mas os efeitos são permanentes –
+embora possam ser removidos por outro uso
+da magia ou por meios mundanos (como pintar um tecido usando tinturas, ou desgastar
+um item lustrado com o uso, por exemplo). 
+---
+--Vitrificar--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 10
+*Descrição: Desenhando uma Runa
+Arcana sobre um objeto cujo peso seja menor ou igual a sua Vontade em quilos, você
+faz com que ele fique transparente, como se
+fosse feito de vidro. O material mantém todas as suas propriedades normais, e apenas
+sua cor é alterada. Objetos mágicos não podem ser afetados por essa magia.
+Esta Runa Arcana é perene, mas se dissipa imediatamente se o objeto sofrer qualquer dano.
+---

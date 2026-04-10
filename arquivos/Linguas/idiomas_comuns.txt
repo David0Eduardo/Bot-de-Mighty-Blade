@@ -1,0 +1,463 @@
+Idiomas Comuns
+
+Estes são os idiomas mais falados
+em Cassiopéia, e todos eles podem ser selecionados como um
+dos Idiomas Iniciais do personagem
+(aqueles escolhidos durante a criação
+do personagem), desde que faça sentido dentro de seu histórico. Eles também podem ser selecionados livremente entre os Idiomas Extras (veja sobre
+aprendizado de novos idiomas no capítulo de regras).
+
+---
+**Asá-avája**
+De Ofídien, as Naga trouxeram
+para Cassiopéia seu sibilante idioma,
+compartilhado por alguns Draganos
+que se espalharam pelo continente
+depois das primeiras incursões das
+serpentes. Em seu continente de origem a maioria dos humanoides é capaz de ao menos entender o idioma
+das Naga. As serpentes e seus aliados
+obviamente conhecem bem o idioma,
+e a maioria das outras raças aprendem
+ao menos a entender a língua - que é
+extremamente complexa e difícil de
+falar corretamente - para ter qualquer
+tipo de vantagem sobre os tiranos de
+Ofídien.
+Em Cassiopéia, o Asá-avája é muito pouco conhecido. A maioria dos sábios não será capaz sequer de reconhecer
+o idioma, seja escrito ou falado, exceto
+em Parband, e mesmo assim, encontrar
+alguém que domine o idioma é praticamente impossível. Em geral é possível encontrar tradutores em Parband
+- particularmente entre os Firas e Orcs
+- mas estes sábios precisarão de tempo
+para traduzir mesmo um texto simples.
+As poucas Naga de Cassiopéia são difíceis de encontrar, principalmente em
+situações que permitam conversas, obviamente dominam idioma, mas o dialeto usado por elas é um tanto diferente, ainda que entendível, daquele usado
+em Ofídien. Aqueles Draganos que lidam com frequência com as Naga (ainda mais raros de serem encontrados)
+também possuem um conhecimento
+razoável do idioma, mas dificilmente
+será possível encontrar um disposto a
+admitir ou falar o idioma.
+A escrita do idioma é um alfa silábico escrito da direita para a esquerda,
+com uma grande quantidade de fonemas e sinais especiais, o que o torna
+bastante difícil de dominar.
+O idioma comparativo do Asá-Avája é a Língua Marata e sua escrita
+comparativa é o Devanágari.
+---
+**Caint**
+Desenvolvido pelos Elfos e falados por praticamente todos os membros da Raça, o Caint é uma língua
+melodiosa e extremamente complexa,
+com várias palavras com significados
+semelhantes além de palavras que não
+são usadas em outros idiomas (eles
+possuem palavras para cada formato
+diferente de folhas e flores, por exemplo). Devido ao seu grau de complexidade, o Caint é um idioma bastante difícil de aprender, particularmente por
+possuir um vocabulário extremamente longo. Graças a essas qualidades, a
+grande maioria dos Bardos, menestréis
+e poetas de Cassiopéia aprende ao menos os rudimentos do Caint. Mesmo
+aqueles que não compõem no idioma aprendem o Caint para poder ler
+músicas e poemas de outros autores,
+e muitos deles dizem que o simples
+ato de declamar ou cantar em Caint é
+suficiente para inspirar o coração de
+um artista. Essa tradição faz com que
+exista uma imensa quantidade de poemas, baladas e histórias épicas escritas no idioma élfico, e muitos sábios
+se dedicam a aprender a língua também. Além disso, como praticamente
+todos os textos religiosos referentes à
+Lathellanis são escritos em Caint, muitos Sacerdotes também se dedicam a
+aprender o idioma.
+O Caint é o idioma oficial de Londérien, e não apenas os Elfos, mas qualquer residente daquele reino saberá falar o idioma.
+O alfabeto Caint, diferente da
+sua versão falada, é extremamente
+simples e, muitos dizem, cru. Ele é
+lido da esquerda para a direita, mas
+debaixo para cima. A forma como é
+escrito faz com que as palavras pareçam pequenas árvores estilizadas, e,
+de fato, entre os Bardos de Londérien
+existe um tipo de composição chamado de “Bosque de Sons” que consiste
+em pequenos poemas com cada palavra escrita em uma linha que, ao ser
+visualizado lembra uma linha de árvores e arbustos.
+O idioma comparativo do Caint é
+o Gaélico Irlandês e sua escrita comparativa é o Alfabeto Ogham.
+---
+**Camaka**
+Esta língua é predominantemente utilizada pelos Firas e Orcs tanto
+de Parband quanto Ofídien - onde
+também é o idioma mais falado pelos Humanos. O Camaka é bastante
+difundido entre todos os habitantes
+de Parband, e praticamente qualquer
+habitante do reino saberá falar e ler o
+Camaka com alguma proficiência. De
+fato, todas as transações comerciais
+que exigem um documento escrito são
+tradicionalmente escritos nesse idioma, como parte do tratado que oficializa a fundação do reino. A maioria dos
+textos religiosos produzidos em Parband também é escrita em Camaka, e
+aqueles que são trazidos para o reino
+de outras partes, assim como aqueles
+que são escritos em outros idiomas
+possuem versões nesse idioma. Isso se
+dá principalmente porque a maioria
+dos copistas, sacristãos e Sacerdotes de
+Parband são Firas, reconhecidos por
+sua dedicação à palavra de Hou e uma
+Raça com uma cultura profundamente
+ligada à religiosidade.  
+A forma escrita do Camaka utiliza formas longas e curvas, e diferente
+de outras escritas, ao invés de acentuação para modificar o som de algumas
+letras, cada som diferente possui um
+carácter próprio - o que significa que,
+assim como a língua em si, a escrita do
+Caint requer bastante tempo para ser
+aprendida.
+O idioma comparativo do Camaka é a Língua Canaresa, incluindo
+sua forma escrita.
+---
+**Futhark**
+Falado pelos Anões e pelos Aesires, este idioma costuma ser considerado ríspido e pouco melodioso. No
+entanto, devido à cultura dos Anões
+- que de acordo com os registros da
+raça, foram os primeiros a utilizarem
+a língua - o idioma praticamente não
+mudou desde sua criação, e indivíduos
+fluentes em Futhark são capazes de se
+comunicar com falantes contemporâneos tão bem quanto ler os primeiros
+registros escritos (que datam de mais
+de oito mil anos atrás). Devido a isso,
+muitos estudiosos de todas as Raças,
+mesmo aqueles que não podem estudar
+os registros originais de Dagothar diretamente, estudam o Futhark para terem
+acesso a textos históricos. De fato, muitos estudiosos de toda Cassiopéia preferem escrever seus textos em Futhark,
+e o conhecimento ao menos básico do
+idioma é bastante comum entre conjuradores, sábios, filósofos e escribas de
+todo o continente.
+O dialeto Aesir do Futhark possui uma entonação mais cantada, com
+algumas palavras de Caint - principalmente relacionadas às plantas e animais
+- mas é totalmente compreensível para
+qualquer falante de Futhark, apesar do
+sotaque ser óbvio.
+Sua forma escrita não possui linhas curvas, tendo sido desenvolvida
+originalmente a partir de runas escritas
+em pedras com um cinzel.
+O idioma comparativo do Futhark
+é a língua sueca e sua escrita comparativa são as Runas Nórdicas. 
+---
+**Idioma dos Burgos**
+Desenvolvido pelos habitantes de
+Mankosh e levados para o resto do continente onde foi se modificando ao longo
+dos milênios, o Idioma dos Burgos (ou
+simplesmente Burguês) é um idioma relativamente simples de aprender e com
+a maior representatividade ao longo de
+Cassiopéia. Como ele é o idioma utilizado pela maioria dos Humanos e Metadílios, que dominam boa parte da região
+central de Cassiopéia, este é o idioma
+mais falado do continente.
+O Burguês é o idioma oficial de
+Tebryn, Arkânia e Bryne. Como Tebryn possui as maiores rotas navais do
+continente, os Aesires e Levent, cujos
+reinos possuem rotas comerciais majoritariamente navais e, portanto fazem muito contato com os tebrynianos
+também costumam falar o Burguês ao
+menos de forma rudimentar. Já os Elfos
+de Londérien e os Anões de Dagothar
+comumente aprendem ao menos os
+rudimentos do Burguês devido ao fato
+de serem aliados de Tebryn há séculos
+e manterem um grande contato com o
+reino - além de terem recebido refugiados humanos por muito tempo durante
+a Grande Revoada.
+Por fazerem comércio tanto com
+Bryne quanto, mais recentemente, Tebryn, muitos parbani tem aprendido o
+Burguês também.
+Devido a todos esses fatores, o
+idioma dos burgos é conhecido como a
+“língua do comércio” e a imensa maioria dos contratos comerciais escritos é
+redigido em Burguês.
+O dialeto Tebryniano possui uma
+grande influência do Futhark e também
+assimilou algumas palavras do Caint,
+enquanto o Burguês Brynês é mais arrastado e com menos palavras rebuscadas, com alguma influência do Camaka
+e do L´ányn. O dialeto Arkanita foi fortemente influenciado pelo Track’kar’a,
+o idioma dos dragões, e acabou mais
+tarde sofrendo influência do Reo com a
+chegada das hordas Astérias a Arkânia.
+Devido a essas diferenças regionais,
+embora todos os falantes do idioma dos
+burgos serem capazes de entender os
+outros dialetos da língua é muito difícil suprimir o sotaque de cada um deles
+sem uma boa dose de esforço. Espiões
+e imigrantes geralmente se dedicam a
+adaptar-se (ou estudam ativamente) a
+mais de um dialeto do Idioma dos Burgos para tentar perder ou ao menos disfarçar o sotaque.
+A forma escrita do idioma dos
+burgos foi se desenvolvendo através
+dos séculos, e sofreu alguma influência
+dos caracteres Futhark, tendo se tornado mais simplificado e com menos
+linhas curvas ao longo de sua história.
+A versão atual existe desde a Grande
+Revoada, e não possui diferenças regionais.
+O idioma comparativo do Burguês é o Português e sua escrita comparativa é a Escrita Latina.
+---
+**L’ányn**
+O idioma mais difundido entre os habitantes de Gaian, o L’ányn
+é considerado o idioma tradicional
+daquele continente, bem como a linguagem em que são escritos todos
+os documentos legislativos de Parband, como parte do tratado que oficializou a fundação do reino. Graças
+a isso, quase todos os habitantes de
+Parband são capazes de se comunicar
+em L’ányn. Os Jubans e Tailox consideram este idioma como seu idioma
+primário - apesar dos Tailox terem
+possuído um idioma diferente, perdido durante a Grande Revoada e considerado uma língua morta em Gaian
+e completamente desconhecido em
+todos os outros continentes.
+O L’ányn possui uma característica sintática bastante peculiar com relação aos outros idiomas, já que suas
+sentenças possuem diversas ordens
+corretas de organização. A ordem das
+palavras em uma sentença pode ser
+colocada em qualquer ordem e a frase
+ainda manterá seu mesmo sentido: A
+frase “A ordem foi executada” inclui
+as palavras para Ordem, Foi e Executada. Essas três palavras podem ser
+colocadas em quase qualquer combinação (Executada foi a ordem/A ordem
+executada foi/Foi a ordem executada)
+e a frase estaria perfeitamente correta
+e compreensível. Embora os Jubans e
+muitos Tailox se esforcem ativamente
+para utilizar uma construção que faça
+mais sentido para seus interlocutores,
+essa peculiaridade do L’ányn faz com
+que muitas vezes seus falantes nativos
+- particularmente os Tailox que, muitas
+vezes não se importam tanto com formalidades - construam frases em outros idiomas que podem soar estranhas
+ou engraçadas, em alguns casos, ao utilizar essa estrutura sintática.
+A escrita do L’ányn é concisa e
+possui poucas letras, já que é um consonantário (ou abjad), contando apenas de consoantes e deixando ao leitor
+acrescentar as vogais enquanto lê.
+O idioma comparativo do L’ányn
+é a Língua Iídiche, incluindo sua forma
+escrita.
+---
+**Ravorka**
+O idioma dos Orcs das Terras Secas acabou se espalhando entre muitas
+raças selvagens que mantém contato
+com eles, como Goblins, Trolls e Ogros.
+É um idioma agressivo e difícil de
+aprender, por não ter parentesco com
+nenhuma outra linguagem de Drakon -
+além de poucos falantes dispostos (ou
+capazes) de ensiná-la. É muito pouco
+usada por indivíduos que não são falantes nativos, apesar de alguns Anões
+de Stord e alguns Orcs Parbani terem
+aprendido o idioma para tentarem se
+comunicar ou - no caso dos Anões -
+compreender comunicação inimiga.
+Embora algumas tribos de
+Goblins mais civilizadas utilizem o Ravorka além de algum outro idioma, dependendo do local onde estão fixadas,
+é bastante difícil conseguir aprender o
+idioma com membros dessa Raça, pois
+eles são muito pouco focados ou pacientes para ensinar de maneira eficiente.
+Mas é possível conseguir aprender ao
+menos os rudimentos do idioma através de algum Goblin particularmente
+inspirado - apesar disso exigir bastante
+paciência e uma dose sobre-humana de
+capacidade cognitiva por parte do estudante.
+O Ravorka não tem uma versão
+escrita, e embora tenham sido feitos alguns esforços para se criar um dicionário do idioma, esses projetos geralmente são parciais na melhor das hipóteses.
+O idioma comparativo do Ravorka é a Língua Bielorrussa.
+---
+**Reo**
+A língua ancestral dos Astérios,
+o Reo é uma linguagem simples, com
+poucos sons - já que os Astérios não
+são capazes de pronunciar alguns fonemas - e regras sem exceção. Graças a
+isso, é o idioma mais fácil de aprender
+em Drakon, e os Astérios se orgulham
+bastante de sua simplicidade e eficiência. De fato, eles se orgulham tanto que
+a maioria deles não aprende mais do
+que o necessário dos outros idiomas da
+cultura onde estão integrados, apenas
+para permitir uma comunicação rudimentar. “Nosso idioma é simples e os
+outros povos deveriam aprendê-lo, ao
+invés de nos obrigarem a aprender seus
+idiomas complicados” é o tipo de argumento comum que um Astério utiliza
+quando discute o assunto.
+O Reo não possui os sons de “G” e
+“J”, já que o sistema vocal dos Astérios
+é incapaz de produzir esses sons. As
+vogais também não possuem variações
+de som, sendo mais longas se forem as
+sílabas tônicas da palavra.
+O Reo também não possui uma escrita tradicional, mas sua simplicidade
+permite que ele seja facilmente transcrito para quase qualquer alfabeto, exceto
+o L’ányn, já que sendo um consonantário não possui sons que são essenciais
+para o Reo com seus poucos sons. Em
+Parband, o Reo tradicionalmente é escrito usando o alfabeto Futhark, graças
+ao contato dos Astérios com os Mahoks
+- e também porque os Astérios consideram o Camaka muito rebuscado. A simplicidade de escrita do Futhark e a proximidade dos Astérios com os Mahoks
+fizeram dessa combinação a mais utilizada. Já em Arkânia, o Reo costuma ser
+escrito em Burguês, e os Astérios Tebrynianos também costumam utilizar
+essa escrita quando escrevem.
+O idioma comparativo para o Reo
+é o Havaiano.
+---
+**Samyia**
+Trinado e arrulhado pelos Levent
+no alto de suas montanhas, o Samyia é
+melodioso como nenhum outro idioma
+de Drakon. Quando falado entre os Levent, que possuem características vocais
+diferentes de todas as outras Raças de
+Drakon, o Samyia possui uma qualidade
+única, combinando palavras entoadas ao
+longo de sons semelhantes ao canto de
+pássaros canoros. As outras Raças não
+são capazes de falar perfeitamente o idioma, mas variações dos sons necessários
+são suficientes para que qualquer pessoa
+dedicada seja capaz de falar de forma eficiente o Samyia - embora a qualidade sonora da linguagem se perca no processo.
+O Samyia é pouco falado fora do
+Arquipélago das Três Irmãs, mas muitos navegadores que lidam com as rotas marítimas para a região se esforçam
+para aprender o idioma.
+A versão escrita do Samyia usa letras com linhas curvas e possui muitos
+caracteres com sinais separados, o que
+faz com que a escrita possa parecer um
+tanto caótica para quem não conhece
+bem o idioma - ou quando executado
+por alguém sem muito domínio de sua
+escrita. No entanto, mesmo para aqueles que não entendem bem o idioma,
+a complexidade e fluidez da escrita
+Samyia, assim como sua versão falada,
+possui uma intrínseca qualidade melodiosa.
+O idioma comparativo do Samyia
+é o Guzerate, incluindo sua forma escrita.
+---
+**Silvestre**
+Falado por muitas Raças que dividem os ambientes florestais, majoritariamente Centauros, Faens e Faunos
+(que chamam o idioma de Nheengatu),
+o Silvestre é uma língua difícil de dominar por possuir uma estrutura bastante caótica. Os sábios acreditam que ela
+provavelmente se desenvolveu ao longo
+dos milênios à medida que as culturas
+silvestres se encontravam e que partes
+delas foram sendo aglutinadas e removidas até formarem o idioma atual. E, na
+verdade, o próprio idioma atual pode
+ter uma enorme variação regional, e alguém que estudou a linguagem em uma
+área pode ter bastante dificuldade para
+entendê-la em outra. Para aqueles que
+crescem lidando com o Silvestre, no entanto, todas as variações são igualmente fáceis de compreender (o que inclui
+qualquer personagem com Silvestre entre seu Idioma Automático ou dentre os
+Iniciais). O fato é que o idioma tem vários modos diferentes de ser flexionado, 
+e em uma ou outra região pode-se preferir um ou outro tipo de flexão específica,
+o que significa que para alguém que não
+cresceu tendo contato com o Silvestre algumas sentenças podem simplesmente
+não fazer sentido - embora seja possível
+entender palavras individuais - dependendo de como os falantes de um ou
+outro local preferem usar o idioma. Embora para um falante nativo essas variações não façam a menor diferença para
+compreender o idioma em qualquer região, para alguém que não domina totalmente o Silvestre podem ser necessários
+alguns minutos - ou por vezes horas - de
+conversação para ser possível uma comunicação eficiente.
+O Silvestre se desenvolveu como
+uma linguagem falada e não possui
+uma versão escrita própria, mas a forma escrita do Caint é geralmente utilizada para escrever em Silvestre.
+O idioma comparativo do Silvestre são as Línguas Tupis-guaranis.
+---
+**Triet**
+Falado pelos Mahoks, também se
+tornou uma linguagem comum para
+muitas raças selvagens que habitam
+montanhas, principalmente Gárgulas
+e algumas espécies de Gigantes. É uma
+linguagem chiada e com muitas sílabas que são pronunciáveis apenas por
+Mahoks (e alguns Gárgulas) por exigirem estalos feitos com os lábios batendo
+entre si. Embora alguns Gigantes simulem esse som com um estalar de língua,
+a maioria dos falantes de outras Raças
+simula o ruído com um som de “K”
+mudo seguido por uma pausa curta.
+O Triet é pouco falado entre outras Raças além dos Mahoks, mas como
+eles constituem uma população considerável em Dagothar e principalmente
+em Parband, há alguns nativos desses
+reinos que aprendem ao menos os rudimentos do idioma.
+O sistema de escrita do Triet é bastante semelhante ao Futhark, e alguns
+estudiosos Anões acreditam que certos
+caracteres da forma escrita de seu idioma foram influenciados pelos Mahoks.
+Mesmo as tribos mais isoladas dos Picos
+Orientais de Parband, que na melhor das
+hipóteses não tiveram contato com os
+Anões desde a Grande Revoada utilizam
+o mesmo sistema de escrita do Futhark.
+O idioma comparativo do Triet é
+o Esloveno.
+---
+**Vodeni**
+Dialetos deste idioma são falados
+entre os Grotons, Tritões e Dagonires e,
+embora estes últimos utilizem também
+um idioma próprio - uma corruptela do
+dialeto Ctónico pouco conhecido fora da
+Raça - a grande maioria deles é capaz de
+se comunicar em Vodeni. Os Tritões são
+capazes de uma comunicação bastante
+complexa utilizando leves mudanças
+de cor em conjunto com linguagem de
+sinais, e essa comunicação é impossível
+de ser usada por outras Raças de forma
+eficiente - embora seja possível aprender
+a ler a linguagem dos Tritões - e, graças
+a isso, eles acabaram absorvendo o Vodeni dos Grotons, com quem mantém
+bastante contato, e por permitir que esse
+idioma também lhes oferecesse uma forma de comunicação com habitantes da
+superfície, acabou se tornando extremamente difundida entre a Raça.
+Fora das Raças submarinas, alguns navegadores aprendem o Vodeni
+para manter uma linha de comunicação
+com os habitantes dos mares.
+Os sacerdotes de Ran da superfície geralmente se dedicam a aprender
+o Vodeni porque consideram que isto
+agrada a divindade das marés - e a
+maioria dos (poucos) textos religiosos
+dessa divindade é escrita em Vodeni.
+Como lidam bastante com os habitantes subaquáticos que vivem ao redor de seu reino insular, muitos Levent
+também aprendem o Vodeni, e, de fato,
+esta é a segunda língua mais comum
+entre os membros da Raça.
+O Vodeni não possui uma versão
+escrita tradicional. Embora todos os povos subaquáticos possuam alguns sinais
+gráficos que servem para comunicação
+(como sinais de “área perigosa”, “região
+de pesca abundante” e “sorvedouro”)
+estes sinais nunca evoluíram para uma
+linguagem escrita. A maioria daqueles
+falantes do Vodeni que se dedicam à
+escrita acaba adotando as letras do Futhark, já que as formas retas são mais
+simples de escrever sob a água e porque
+os Aesires são uma das Raças com quem
+os subaquáticos mais têm contato.
+O idioma comparativo do Vodeni
+é o Croata.
+---
+**Zihassás**
+O idioma chiado dos Hamelins,
+conhecido como Zihassás, que é compartilhado pelos Gnolls, pode ser ouvido
+sendo sussurrado em praticamente toda
+Cassiopéia, dada a capacidade de adaptação dos seus falantes. Há grupos de Hamelins em praticamente todas as grandes
+cidades de Cassiopéia, geralmente vivendo à margem da sociedade, e muitos
+indivíduos marginais aprenderam a linguagem para lidar com mais eficiência
+com os Hamelins, que podem ser uma
+fonte de informações ou itens dependendo das condições. De fato, em muitas cidades, alguns grupos utilizam o Zihassás
+como uma “linguagem oficial” do crime,
+particularmente comum entre contrabandistas e gatunos. O Zihassás também é a
+linguagem primária dos Gnolls, e muitos
+Patrulheiros e Druidas que lidam com
+essas criaturas costumam aprender essa
+linguagem para se comunicarem - ou
+compreenderem - seus oponentes.
+O Zihassás não possui uma forma escrita. A maioria dos Hamelins e
+Gnolls é iletrada, e se o idioma alguma
+vez possuiu uma forma escrita - e não
+existe qualquer registro disso - ela foi
+perdida há muito tempo. Em geral, os
+falantes da língua utilizam qualquer
+outro sistema de escrita que conheçam
+- se conhecerem algum - para grafar a
+linguagem - o que é incomum. Graças
+a essa prática, mesmo alguém que seja
+capaz de compreender a língua não
+será capaz de ler alguma coisa escrita
+em Zihassás usando um idioma diferente - na prática, para ler algo escrito
+em Zihassás, o leitor precisa conhecer
+este idioma e o idioma cuja forma escrita foi usada para transcrevê-lo.
+O idioma comparativo do Zihassás é o Árabe, mas todos os “L” do árabe devem ser substituídos por “SS” ou
+“X” - o que ficar mais interessante.
+---

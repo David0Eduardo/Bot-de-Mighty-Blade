@@ -1,0 +1,582 @@
+Caminhos
+
+---
+
+**Aegis**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+precisa preencher os seguintes Requisitos:
+• Força 3
+• Vontade 3
+• Defletor (Habilidade, Guia Básico, pág. 104)
+Habilidade Automática
+--Bater com Escudo--
+Habilidade (Técnica) – Suporte
+Descrição: você pode usar um escudo
+como arma em seu turno sem que ele perca sua
+capacidade defensiva. Você não perde o bônus
+de Esquiva do escudo nos turnos em que o utilizar para realizar escudadas, e seus ataques com
+o escudo são feitos com um bônus de +1.
+Além disso, quando realizar ataques
+corporais com um escudo, você pode sempre empurrar o alvo 1 metro – se o ataque
+for um Sucesso Decisivo, o alvo empurrado
+precisa passar em um teste de Força (Dificuldade igual à sua Determinação + FN do
+escudo que estiver usando) ou ficará Caído,
+além de quaisquer outros efeitos do Sucesso
+Decisivo.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Arremessar Escudo--
+Habilidade (Técnica) – Suporte
+Descrição: você pode arremessar seu
+escudo de forma eficiente em combate. Todos os escudos tem a Propriedade Arremessável para você, e seus ataques de arremesso de escudo são feitos com um bônus de
++1. Além disso, sempre que atingir um alvo
+com um escudo arremessado, você pode
+fazer ele ricochetear na sua direção e você
+pode pegá-lo como uma Ação Livre. 
+---
+--Aspis--
+Habilidade (Técnica) – Suporte
+Descrição: você aplica o bônus de Defletor (Habilidade, Guia Básico, pág. 104)
+contra ataques corporais além de ataques à
+distância, e enquanto estiver utilizando um escudo, você adiciona o bônus de Esquiva (mas
+não cobertura) do escudo à sua RD.
+---
+--Formação--
+Habilidade (Técnica) – Suporte
+Descrição: você foi treinado para lutar em formação. Você recebe um
+bônus de +1 em seus ataques
+para cada aliado adjacente
+à você, até um máximo
+igual à sua Inteligência.
+---
+--Lutar com Escudo--
+Habilidade (Técnica) – Suporte
+Requisito: Arremessar escudo
+Descrição: Você está bastante familiarizado no uso
+de escudos em combate.
+Você recebe +1 nos seus
+ataques (Corporais e de Arremessos) com escudos e +2 no
+dano usando um escudo.
+Além disso, sacar, equipar ou
+colocar um escudo a tiracolo
+são Ações Livres para você. 
+---
+
+Habilidades Avaçadas
+
+---
+--Hoplon--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Áspis
+Descrição: enquanto usar um escudo, todos os aliados adjacentes à você também recebem a RD fornecida pela Habilidade Áspis.
+---
+--Bater e Quicar--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5, Arremessar Escudo
+Mana: 10
+Descrição: após realizar um ataque
+corporal usando seu escudo, você pode, imediatamente, arremessar seu escudo em qualquer criatura que não esteja adjacente à você.
+---
+--Ricochetear Escudo--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Arremessar Escudo
+Mana: 20
+Descrição: você consegue atingir
+múltiplos alvos com um mesmo arremesso
+do seu escudo. Faça um ataque de arremesso usando um escudo. Você atinge todas as
+criaturas dentro do seu alcance de arremesso
+e que tenham uma Defesa igual ou
+menor do que seu teste de ataque (até um máximo de criaturas
+igual à sua Força). Uma criatura não pode ser alvo deste
+ataque mais de uma vez por
+turno. 
+---
+
+Habilidade Final
+
+---
+--Salva de Escudos--
+Habilidade (Técnica) – Reação
+Requisitos: Nível 10, Arremessar Escudo
+Descrição: você é capaz de desferir
+uma saraivada de ataques utilizando seu escudo! Quando acertar um arremesso utilizando um escudo contra um alvo dentro do seu
+Deslocamento, você pode saltar até o alvo
+como parte do ataque, pegando o escudo
+automaticamente e realizar um ataque (incluindo um Encontrão) usando esse mesmo
+escudo – este ataque pode utilizar Manobras
+e Habilidades de Ação.
+---
+
+**Balesteiro**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+precisa preencher os seguintes Requisitos:
+• Agilidade 4
+• Retesar Eficiente (Habilidade,
+Guia Básico, pág. 121)
+Habilidade Automática
+--Arcobalista--
+Habilidade (Técnica) – Suporte
+Descrição: você é particularmente
+eficaz no uso de armas mecânicas. Sempre que realizar um ataque utilizando
+uma arma com a Propriedade Carregar,
+adicione 3 ao dano da arma.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Apontar!--
+Habilidade (Técnica) – Ação
+Requisito: Preparar!
+Mana: 15
+Descrição: Como uma Ação Completa você mira em um alvo, disparando um
+projétil certeiro no momento preciso. Faça
+um ataque à distância com um bônus de +2.
+Este ataque ignora bônus de Defesa por Cobertura e Escudos e, se atingir o alvo, causa
+uma quantidade extra de dano igual à sua Inteligência.
+---
+--Coronhada Oportuna--
+Habilidade (Técnica) – Reação
+Descrição: você sabe usar o cabo
+das armas como uma arma eficiente quando necessário. Sempre que uma criatura
+ficar adjacente enquanto você estiver
+segurando uma arma com a Propriedade Carregar, você pode
+imediatamente realizar uma
+coronhada contra aquela criatura.
+Esta Habilidade só pode
+ser utilizada uma vez por
+rodada.
+Especial: se a sua arma
+tiver uma baioneta,
+você pode realizar um
+ataque de baioneta em
+vez de uma coronhada.
+---
+--Formação Tática--
+Habilidade (Técnica) – Suporte
+Descrição: você foi treinado
+para lutar em formação. Você
+recebe um bônus de +1 em seus
+ataques para cada aliado adjacente
+à você, até um máximo igual à sua
+Inteligência.
+---
+--Preparar!--
+Habilidade (Técnica) – Suporte
+Descrição: você sempre está preparado para o combate, independente de onde esteja. Você utiliza o mais alto entre Agilidade e
+Inteligência para calcular sua Iniciativa – e se
+ambos tiverem o mesmo valor, você recebe
++2 nos seus testes de Iniciativa. Além disso,
+você nunca é considerado Surpreso contra
+ataques à distância.
+---
+
+Habilidades Avaçadas
+
+---
+--Fogo!--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Apontar!
+Mana: 15
+Descrição: você sabe como aplicar
+efeitos incendiários mesmo em munições ordinárias. Faça um disparo com uma Besta ou
+Prodd como uma Ação Completa. Você adiciona um efeito incendiário ao projétil, que
+causa um dano adicional igual à sua Inteligência/Fogo. Além disso, se o projétil causar
+dano por Fogo no alvo, ele entra em combustão por uma quantidade de turnos igual à sua
+Inteligência, sofrendo dano igual a 4/Fogo no
+começo de cada um dos turnos dele.
+Este efeito se acumula com quaisquer
+propriedades especiais que o projétil possuir.
+Especial: como uma Ação Completa,
+uma criatura pode rolar no chão para apagar
+a chamas, cessando o efeito de combustão.
+---
+--Incendiário--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: utilizar uma pederneira e
+isqueiro – ou qualquer outra forma mundana
+de iniciar uma chama – é sempre uma Ação
+Livre para você, e quando iniciar um incêndio, você pode controlar a taxa e o padrão
+em que o fogo se espalha por um número de
+turnos igual à sua Inteligência.
+Além disso, enquanto estiver utilizando uma armadura com a Característica Pesada, você é considerado Resistente à Fogo (Ver
+Condições Revisadas, pág. 70).
+Especial: caso possua a Habilidade
+Fogo!, ela passa a utilizar uma Ação Padrão
+em vez de uma Ação Completa.
+---
+--Operador de Cerco--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: você está acostumado
+com cercos e sabe manejar máquinas utilizadas nesse tipo de operação. Você recebe um
+bônus de +2 em todos os seus testes para
+controlar veículos ou operar uma peça de artilharia ou equipamento de cerco – incluindo
+testes de ataque, verificar o funcionamento
+das mesmas e consertá-las.
+---
+--Mestre Balístico--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: você possui um profundo
+conhecimento do funcionamento de armas mecânicas e é um mestre em considerar o clima e
+a trajetória em arco dos seus projéteis. Quando
+você realiza disparos com uma Besta ou Prodd,
+o alcance dessas armas é considerado Longo,
+e você recebe +2 em todos os seus testes para
+fabricar, consertar e disparar Bestas, Prodds,
+peças de artilharia e munições. 
+---
+
+Habilidade Final
+
+---
+--Artilheiro--
+Habilidade (Característica) – Suporte
+Requisito: Nível 10, Mestre Balístico
+Descrição: você é mortalmente experiente no uso de Bestas e Prodds. Sempre
+que realizar um ataque à distância utilizando
+uma Besta, Prodd ou peça de artilharia, você
+adiciona um bônus de dano igual à sua Determinação.
+---
+
+**Capoeirista**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+deve preencher os seguintes Requisitos:
+• Agilidade 4
+• Atletismo (Habilidade, Guia Básico, pág. 16)
+Habilidade Automática
+--Ginga--
+Habilidade (Técnica) – Ação
+Mana: 5
+Descrição: como uma Ação de Movimento, você inicia um movimento rítmico
+que serve de base para os movimentos da capoeiragem. Enquanto estiver gingando, aplique os bônus de Atletismo a todos os seus
+testes para dançar, em seus ataques desarmados e à sua Esquiva.
+Este efeito pode ser mantido por uma
+quantidade de minutos igual à sua Vontade, mas
+pode ser cancelado a qualquer momento como
+uma Ação Livre e é cancelado imediatamente
+se você for alvo de um efeito que o impeça de
+se mover livremente (Agarrado, Agarrando, Caído, Dormindo, Enregelado, Exausto, Imobilizado, Imobilizando, Inconsciente ou Indefeso).
+Não é possível ativar Ginga se você estiver usando armaduras ou sofrer penalidades
+devido à Carga.
+Especial: enquanto estiver gingando,
+você pode escolher se será ou não afetado
+por efeitos de Músicas do tipo Melodia.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Acrobata--
+Habilidade (Característica) – Suporte
+Descrição: você sempre rola +1d6
+em seus testes de equilíbrio, salto, piruetas
+e qualquer outra tentativa de se deslocar que
+exija coordenação, flexibilidade e precisão.
+Além disso, você sofre apenas metade dos
+danos por queda.
+---
+--Aú--
+Habilidade (Técnica) – Reação
+Requisito: Acrobata
+Mana: 5
+Descrição: você apoia o corpo com as
+mãos e gira os pés no ar, escapando de ataques e se deslocando rapidamente. Quando
+um ataque ou efeito fosse deixar você Agarrado ou Caído (ver pág. 66), você pode usar Aú
+para evitar o efeito.
+Além disso, você pode utilizar o Aú
+depois de uma Ação de Movimento ou depois de um ataque desarmado.
+Sempre que utiliza o Aú, você se desloca 1 metro (mesmo entre ataques ou depois
+de ter se movido todo seu Deslocamento),
+e você não pode usar o Aú se não puder se
+deslocar.
+---
+--Evasão--
+Habilidade – Técnica (Reação)
+Mana: 20
+Descrição: se o seu inimigo fizer um
+ataque corporal e acertar, você pode declarar
+evasão, e obrigar o inimigo a rolar novamente
+o teste de ataque. Você pode escolher com
+qual dos resultados o oponente vai ficar.
+Você só pode usar esta Habilidade 1
+vez por turno.
+---
+--Negativa--
+Habilidade (Técnica) – Reação
+Mana: 10
+Descrição: você se abaixa até ficar
+rente ao solo, com uma perna estendida e
+a outra flexionada para mudar a direção da
+ginga e confundir o oponente. Quando for
+atingido por um ataque corporal que seja parte de uma Manobra ou de uma Habilidade do
+tipo Técnica, você reduz o dano desse ataque
+à metade.
+Além disso, Negativa pode ser usada
+para realizar uma Manobra de Fintar como
+Reação à uma Ação de Movimento em vez
+de um ataque.
+---
+--Patana--
+Habilidade (Técnica) – Ação
+Mana: 5
+Descrição: colocando ambas as mãos
+no chão, você usa os pés para dar um coice
+no alvo. Faça um ataque desarmado contra o alvo. Se acertar, este golpe causa +4 de dano
+e empurra o alvo 1 metro.
+Especial: criaturas com Tamanho
+maior do que o seu são imunes ao efeito de
+empurrão desta Habilidade.
+---
+--Rasteira--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: você atinge o alvo em sua
+perna de apoio, tirando-o do chão. Faça um
+ataque desarmado contra o alvo. Se acertar,
+além do dano normal, o alvo deve fazer um
+teste de Agilidade ou ficará Caído (ver pág.
+66). 
+---
+
+Habilidades Avaçadas
+
+---
+--Cadência--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: sempre que você estiver
+sob o efeito de Ginga e houver algum tipo
+de Música no ambiente, seu bônus de Ginga
+será igual à Vontade do músico (ou à Vontade mais alta entre os músicos, se houver mais
+de um) em vez do bônus de Atletismo.
+Especial: este efeito se aplica sempre
+que um uma Música estiver sendo tocada na
+área, mesmo que não estiver afetando você.
+Além disso, se um efeito de uma Música que
+fosse afetar você fosse aplicar um efeito que
+o impeça de se mover (Agarrado, Agarrando, Caído, Dormindo, Enregelado, Exausto,
+Imobilizado, Imobilizando, Inconsciente ou
+Indefeso), você ignora esse efeito (mas não
+os outros efeitos da Música).
+---
+--Chute Mola--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5
+Mana: 5
+Descrição: você joga o corpo para trás
+e os pés para cima e em seguida utiliza os braços e costas para impulsionar o corpo para
+cima e ficar novamente de pé. Quando um
+efeito fizer você ficar Caído, você pode escolher ficar de pé e ativar Ginga de imediato.
+Além disso, se houver um alvo adjacente, você pode realizar um ataque desarmado normal (sem Manobras ou Habilidade
+de Ação) contra ele juntamente com essa
+Reação.
+Você só pode usar esta Habilidade 1
+vez por turno.
+---
+--Maculelê--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: você aprendeu a utilizar
+armas leves em conjunto com os movimentos e o ritmo da capoeira. Quando uma Habilidade de Ação ou Reação indicar que você
+pode realizar um ataque desarmado, você
+pode utilizar um ataque com uma arma de
+FN 2 ou menos.
+Além disso, quaisquer bônus que você
+receba que se apliquem a ataques desarmados
+também se aplicam aos seus ataques com armas com FN 2 ou menos.
+---
+--Rabo de Arraia--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5
+Mana: 20
+Descrição: você dá um giro completo
+com corpo, atingindo o alvo com um poderoso chute usando o calcanhar. Faça um ataque
+desarmado contra o alvo usando os pés. Se
+acertar, este golpe causa o dobro do dano e o
+alvo fica Atordoado (ver pág. 66) por 1 turno.
+---
+--Tesoura--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5, Rasteira
+Mana: 5
+Descrição: envolvendo o adversário
+com as pernas, você se move de forma a o
+derrubar e o imobilizar. Quando realizar um
+ataque que deixe o alvo Caído (ver pág. 66),
+você pode, imediatamente, realizar uma Manobra de Agarrar contra ele. 
+---
+
+Habilidade Final
+
+---
+--Mestre de Roda--
+Habilidade (Técnica) – Suporte
+Requisitos: Nivel 10, Cadência
+Descrição: seus bônus de Atletismo – e portanto de Ginga – são aumentados para +4, em vez de +2, e você
+pode ativar Ginga como uma Reação a
+um ataque, Música ou Magia que tiverem você como alvo.
+Além disso, sempre que utilizar
+uma Reação desencadeada por um
+ataque corporal realizado contra você,
+você pode imediatamente realizar um
+ataque desarmado contra um alvo adjacente. 
+---
+
+**Pugilista**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+deve preencher os seguintes Requisitos:
+•Força 4
+•Brigão (Habilidade, Guia Básico,
+pág. 103)
+Habilidade Automática:
+--Jogo de Pernas--
+Habilidade (Técnica) – Suporte
+Descrição: você desenvolveu um excelente equilíbrio, impulsionando seu corpo
+com eficiência quando avança e tendo uma
+base firme quando se defende.
+Você pode dividir seu Deslocamento
+entre um ataque e outro dentro de um turno,
+e todos os seus ataques desarmados causam
+uma quantidade extra de dano igual ao número de metros que você tiver se deslocado
+antes de desferir o golpe.
+Até o final do seu turno, você recebe um bônus de Esquiva igual à metade da
+quantidade de metros que tiver se deslocado
+no turno anterior. 
+*\
+---
+
+Habilidades Básicas
+
+---
+--Cruzado--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: você desfere um golpe lateral, girando a cintura para aumentar a potência do golpe. Faça um ataque desarmado
+contra o alvo. Se acertar, este golpe causa o
+dobro do dano.
+---
+--Direto--
+Habilidade (Técnica) – Ação
+Mana: 5
+Descrição: você desfere um golpe
+reto diretamente contra o centro de gravidade do alvo. Faça um ataque desarmado contra o alvo. Se acertar, este golpe causa +2 de
+dano e empurra o alvo 1 metro.
+---
+--Jab--
+Habilidade (Técnica) – Ação
+Mana: 5
+Descrição: você desfere um golpe
+veloz com a mão que está à frente da guarda. Faça um ataque desarmado contra o alvo
+com um bônus de +2.
+---
+--Mata-Leão--
+Habilidade (Técnica) – Suporte
+Mana: 10
+Descrição: você se especializou em
+agarrar e imobilizar seus oponentes. Sempre que fizer um ataque de soco contra um
+alvo, você pode tentar uma manobra de
+Agarrar contra o alvo como parte do ataque.
+Sempre que fizer um ataque de soco
+contra um alvo que você estiver Agarrando
+(ver pág. 66), você pode tentar uma manobra
+de Imobilizar contra o alvo como parte do
+ataque.
+---
+--Nocautear--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: faça um ataque corporal
+que cause dano por Contusão. Se acertar,
+além de sofrer o dano normal do ataque,
+o alvo deve fazer um teste de Força (Dificuldade igual ao dano do ataque) ou ficará
+Caído. 
+---
+
+Habilidades Avaçadas
+
+---
+--Contra-Ataque--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5, Jab
+Mana: 10
+Descrição: você aprendeu a aproveitar as aberturas na defesa do alvo para contra-
+-golpear. Quando um ataque corporal feito
+contra você errar, você pode imediatamente
+realizar um Jab contra o oponente.
+Esta Habilidade só pode ser utilizada
+uma vez por turno.
+---
+--Gancho--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5
+Mana: 15
+Descrição: você desfere um ataque de
+baixo para cima, utilizando a força das pernas para impulsionar o golpe. Faça um ataque
+desarmado. Se acertar, esse golpe causa dano
++4 e deixa o alvo Atordoado (ver pág. 66) por
+1 turno.
+---
+--Mata-Cobra--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5
+Mana: 25
+Descrição: você gira o corpo e desfere
+um golpe de cima para baixo, na tentativa de
+transpor a guarda do alvo. Faça um ataque
+desarmado que ignora metade do Bloqueio
+do alvo (arredondado para cima). Se este golpe atingir o alvo, ele causa dano +4 e deixa o
+alvo Distraído (ver pág. 67) por 1 turno.
+---
+--Sequência--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5, Jab
+Descrição: você treinou para combinar golpes em sequência. Escolha uma Habilidade de Ação que exija que você faça um
+ataque desarmado contra o alvo. Sempre que
+realizar um Jab contra o alvo, você pode, imediatamente, utilizar a Habilidade selecionada.
+Especial: Esta Habilidade pode ser
+adquirida múltiplas vezes, selecionando uma
+Habilidade diferente para ser usada depois
+do Jab. 
+
+---
+
+Habilidade Final
+
+---
+--Derrubar e Moer--
+Habilidade (Técnica) – Suporte
+Requisitos: Nivel 10, Mata-Leão
+Mana: 10
+Descrição: você leva o alvo para o
+chão e em seguida tritura ele com uma sequência de socos. Sempre que um alvo adjacente à você ficar Caído (ver pág. 66), você
+pode imediatamente utilizar uma Habilidade
+de Ação que exija que você faça um ataque
+desarmado contra o alvo.
+Além disso, seus ataques contra alvos
+caídos ignoram os bônus de Defesa por Ataques Localizados. 
+---

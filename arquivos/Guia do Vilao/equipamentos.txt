@@ -1,0 +1,307 @@
+Capítulo 6 – Equipamentos
+Este capítulo se dedica a apresentar regras e opções de equipamentos, incluindo novos materiais, itens mágicos, armas e poções, além de ferramentas – próprias para armar personagens desclassificados de nível 0 ou usadas por aventureiros que precisem improvisar ao longo de suas aventuras.
+
+---
+**Ferramentas e armas corporais**
+Ferramentas: Os itens da lista a seguir são considerados de qualidade baixa
+e seguem todas as regras correspondentes
+(veja qualidade dos itens, no Guia do Herói
+página 53). Versões de qualidade normal
+desses itens podem ser encontrados pelo
+dobro do preço listado, e itens de qualidade alta podem ser encontrados por quatro
+vezes o preço listado. Ferramentas não podem ter qualidade obra-prima.
+Armas: Itens marcados com um asterisco (*) são considerados de qualidade 
+normal e seguem as regras normais de outras Armas Corporais (Guia Básico, página
+156) e Itens de Conjuração (Guia Básico,
+página 164), com a adição da seguinte Característica para armas corporais (exclusiva
+do Chicote):
+Segurar: pode ser utilizada para segurar e puxar objetos dentro do alcance da
+arma. Oferece um bônus de +1 para escalar
+e desarmar oponentes.
+/*equipamentos.xlsx*\
+---
+**Novos materiais**
+A seguir estão as descrições de novos
+materiais para a produção de itens – principalmente armas e armaduras. Elas seguem
+as mesmas regras apresentadas no Guia do
+Herói, mas são mais adequados para o uso
+de personagens descritos neste livro.
+*Osso:
+Apesar de não ser uma matéria-
+-prima ideal para armas e armaduras,
+ossos são usados para fabricação de armas por necessidade em várias culturas.
+Nas Terras Secas, ossos são um material
+abundante, já que o clima da região faz
+com que qualquer animal de tamanho
+considerável que morra ali se torne rapidamente uma fonte de material pronto
+para o uso. Isso faz do osso um material
+bastante popular entre os Orcs e também
+pelos Parbani. Entre os Grotons e Tritões,
+sem acesso a metais e madeiras, ossos
+também são uma matéria-prima extremamente comum.
+Armas de osso tendem a ser de perfuração – geralmente adagas, lanças e bicos-de-corvo – já que os ossos costumam
+ser muito frágeis para produzir bons instrumento de corte sem quebrar (embora
+facas de osso, utilizadas como ferramenta
+ou utensílio sejam bastante comuns). Ossos de tamanho adequado podem servir
+como clavas sem ser necessário qualquer
+trabalho, e é comum que sejam utilizados
+como cabos para armas e utensílios, ou armas simples.
+Pequenas placas de osso também podem ser usadas para reforçar armaduras
+de couro ou tecido, adicionando um pouco
+mais de proteção.
+Armas e armaduras de osso nunca
+podem ser de qualidade obra-prima
+/*
+Arma Corporal de Osso
+Custo: Um terço
+Dano: -1
+FN: -1
+Peso: metade
+Tempo de Produção: Metade da FN
+em dias
+Especial: Armas de osso sempre seguem as regras de itens de qualidade baixa
+para verificar se não quebram, independente da qualidade.
+Armaduras de Osso
+Custo: Normal
+Defesa: +1
+FN: +1
+Peso: um terço maior
+Tempo de Produção: FN x2 dias.
+Especial: Pode ser aplicado a túnicas
+pesadas e armaduras de couro. 
+*\
+*Pedra:
+Entre raças e culturas
+primitivas, pedra é um material bastante utilizado para a manufatura de armas, ao lado da madeira.
+Apesar de armas totalmente feitas de pedra serem raras, clavas e adagas produzidas de uma única peça de rocha podem
+ser encontradas eventualmente. As armas
+de pedra mais comuns são cabeças de machados, lanças e flechas. Armas cortantes
+feitas de obsidiana podem ser tão afiadas
+quanto armas de aço, mas são propensas
+a quebrar e lascar, ficando cegas muito
+rapidamente, geralmente sendo utilizadas como utensílios ou como itens rituais.
+Armas de pedra nunca podem ser de
+qualidade obra-prima.
+/*
+Arma Corporal de Pedra
+Custo: Um terço
+Dano: Normal
+FN: +1
+Peso: uma vez e meia o peso normal
+Tempo de Produção: Normal
+Especial: Armas de pedra racham e
+lascam à medida que forem sendo usadas.
+No final de cada combate em que elas forem usadas para bloquear ou em que tenham atingido armaduras de metal, elas
+recebem permanentemente dano -1. Além
+disso, armas de pedra sempre quebram
+como resultado de uma falha crítica no teste de ataque, além de quaisquer outros efeitos resultantes da falha crítica.
+*\
+*Vidro Etéreo:
+Vidro Etéreo pode ser produzido misturando-se ectoplasma ou cinzas de criaturas mortas-vivas, como aquelas de vampiros
+destruídos por fogo ou exposição à luz solar
+– mas qualquer morto-vivo espontâneo carbonizado até se tornar cinzas pode fornecer
+esse material. Essas cinzas são fundidas junto ao feldspato e calcário durante a produção do vidro, e então o item é moldado da
+forma normal. Vidro Etéreo geralmente tem
+uma aparência branca fosca, às vezes com
+matizes azuis ou verdes, e depois de resfriado ficam bastante resistentes. Embora sejam
+resistentes, placas grandes de vidro etéreo
+tendem a ser quebradiças, e armaduras ou
+armas particularmente grandes tendem a se
+estilhaçar. Devido a isso, em geral, os ceramistas preferem produzir armas pequenas
+– adagas, cabeças de machado, maças martelos ou bicos-de-corvo – e pontas de flechas
+ou virotes. Espadas curtas e cabeças de alabarda feitas do material também podem ser
+encontradas, mas armas maiores do que essas tendem a se despedaçar muito facilmente e não costumam ser produzidas.
+Apesar de poderem ser usadas para
+produzir armas eficientes, armas de vidro
+etéreo são apreciadas por suas características sobrenaturais únicas. Além de ser capaz
+de atingir criaturas imateriais como se elas
+fossem totalmente tangíveis, e também causam danos que parecem enfraquecer a capacidade de concentração de criaturas vivas,
+causando uma sensação de entorpecimento.
+Um morto-vivo médio fornece cinzas
+suficientes para produzir uma arma ou 10
+pontas de flechas ou virotes. 
+/*
+Arma Corporal de Vidro Etéreo
+Custo: Duas vezes o custo normal.
+Dano: -2
+FN: Normal.
+Peso: Normal.
+Tempo de Produção: Normal
+Especial: Armas de vidro etéreo sempre quebram como resultado de uma falha
+crítica no teste de ataque, além de quaisquer outros efeitos. Armas de vidro etéreo
+ignoram os benefícios da habilidade Corpo Intangível, e quando atingem criaturas
+vivas, além do dano normal, elas causam
+uma perda de Pontos de Mana igual à metade do dano total causado pelo golpe (arredondado para baixo). 
+*\
+---
+**Novas poções**
+A seguir estão as descrições de novas poções. Elas seguem as mesmas regras
+referentes às poções descritas no Guia do
+Herói, mas apresentam efeitos ou usos comuns adequados a personagens que utilizem as regras apresentadas neste livro.
+*Poções Básicas:
+Elixir da Praga
+Raridade: Ilegal (800 moedas)
+Ingredientes: Enxofre, pele de camaleão, veneno de planta assassina (tisana 11),
+folha de garraka (Tintura 14).
+Descrição: Essa poção de cor verde
+fosca e cheiro de amônia infecta quem a
+beber com uma doença natural (à escolha
+do alquimista) por 12 horas. No entanto,
+a criatura infectada não é afetada pela doença, se tornando, no entanto, um vetor
+da mesma. Ao invés da forma de infecção
+normal, Os fluidos corporais da criatura
+(saliva, suor, lágrimas, etc.) são capazes de
+infectar outras criaturas, e qualquer ataque desarmado desferido pela ou contra
+o infectado exige um teste para verificar
+se o alvo contrai a doença. Além disso, o
+infectado pode untar uma arma branca
+com seus fluidos – geralmente lambendo a arma ou se ferindo com a mesma –
+com uma ação padrão, permitindo que a
+arma possa transferir a doença. Qualquer
+criatura ferida pelo primeiro ataque bem
+sucedido com uma arma infectada dessa
+forma precisa testar imediatamente para
+verificar se fica infectado pela doença. Em
+qualquer dos caso, o teste para resistir aos
+efeitos da poção é um teste de Força com
+a dificuldade normal para a infecção, mas
+se falhar, o alvo é imediatamente afetado
+como se tivesse tido uma falha para resistir aos sintomas da doença, e passa a ser
+considerado infectado pela doença em
+questão.
+Extrato da Praga
+Raridade: Ilegal (800 moedas)
+Ingredientes: Enxofre, tarântula (Maceração 10), veneno de planta assassina, folha de garraka (fermentação 15).
+Descrição: Essa poção volátil tem
+uma cor verde fosca e com cheiro pútrido
+e geralmente é colocada em frascos de cerâmica lacrados com cera, tanto para ocultar
+a aparência doentia da poção quanto para
+tornar o manuseio mais seguro. Quando o
+frasco se rompe, a poção se espalha na forma de uma nuvem de gás que se estende
+por uma área de 3m, infectando todas as
+criaturas na área com uma doença Natural
+(Corpo de Ferro, Febre do Pântano ou Olho
+de Goblin, via de regra; receitas para outras
+doenças não são conhecidas). A nuvem de
+praga se dispersa depois de uma rodada,
+e todas as criaturas vivas na área devem
+fazer um teste de Força com a dificuldade
+normal para a infecção, mas se falharem são
+imediatamente afetados como se tivessem
+tido uma falha para resistir aos sintomas da
+doença, e passam a ser considerados infectados pela doença em questão.
+Extrato do Espião
+Raridade: Ilegal (600 moedas)
+Ingredientes: Pele de Camaleão, folha de oliveira, flor de isura (Maceração 14).
+Descrição: Essa poção é completamente transparente e mais leve do que o
+normal. Seu cheiro é adocicado e suave.
+Derramando o conteúdo do líquido sobre
+si mesmo e seus itens, o personagem ficará invisível por 1 hora. O líquido evapora 
+quase imediatamente, à medida que deixa
+a criatura e os objetos que cobriu invisíveis.
+O efeito do extrato é cancelado imediatamente se o personagem se aproximar de alguma fonte de calor considerável – segurar
+uma tocha ou se aproximar a menos de um
+metro de uma fogueira de acampamento,
+por exemplo. Além disso, em regiões muito
+quentes – como ao meio dia no verão ou em
+uma região de savana ou deserto – o efeito
+do extrato dura apenas meia hora.
+Como essa invisibilidade não é um
+efeito ilusório nem sequer mágico, poucos
+efeitos conseguem perceber a criatura invisível.
+*Poções Avançadas:
+Extrato da Petrificação
+Raridade: Muito Raro
+Ingredientes: pó de âmbar, olho de
+basilisco (Tintura 16), raiz de carvalho, enxofre (Destilação 16).
+Descrição: Essa poção normalmente é
+colocada em frascos redondos para facilitar
+o seu arremesso. Quando o frasco se rompe,
+o líquido negro e viscoso se espalha sobre o
+alvo tornando tudo que tocar dentro de uma
+área de 1 metro em pedra. Criaturas atingidas pelo extrato têm direito a um teste de
+Vontade (Dificuldade 12) para não serem
+afetadas. Criaturas com Mente Vazia não
+têm direito a este teste, e são afetadas automaticamente. Se uma criatura não for afetada pelo extrato, os itens que estiver segurando também não serão afetados. Como essa
+poção afeta todos os objetos que cubra, bloquear o frasco não evita seus efeitos – ignore
+o bônus de bloqueio E armadura do alvo.
+O efeito dessa poção é permanente, e
+é considerado uma Maldição.
+Esse extrato não tem efeito sobre
+Mahoks, Gárgulas ou Autômatos.
+Extrato Fantasma
+Raridade: Raro (650 moedas)
+Ingredientes: Olho de basilisco, flor
+de isura, folha de eucalipto (Destilação 15).
+Descrição: Esta poção transparente e
+sem cheiro parece estranhamente mais leve
+do que deveria. Quando o frasco é aberto,
+o líquido se expande em um vapor azulado que envolve a criatura viva mais próxima tornando-a e aos seus itens mais leves
+e sem coesão. O alvo recebe a Habilidade
+Corpo Intangível por 5 minutos.
+Veneno da Podridão
+Raridade: Muito Raro
+Ingredientes: Raiz de Mandrágora,
+folha de garraka (Tintura 16), veneno de
+escorpião, veneno de planta assassina (Fermentação 18), veneno de cobra, pele de camaleão (Tisana 16).
+Descrição: Um veneno de origem
+desconhecida, cuja fórmula é conhecida
+por pouquíssimos Alquimistas – e guardada com muito zelo. Este veneno consiste
+em uma pasta negra com cheiro de carne
+em decomposição e cujo gosto terrível é impossível de descrever, fazendo da ingestão
+praticamente impossível (é necessário um
+teste de Vontade com Dificuldade 20 ou o
+personagem vomitará).
+Uma vez infectado pelo veneno da
+podridão, a vítima precisa fazer um teste
+de Força (dificuldade 12) a cada 12 horas.
+Falha no teste significa que o corpo do alvo
+se decompõe, e o total de Pontos de Vida do
+personagem é diminuído em 10 e sua Força
+e Agilidade são reduzidas em 1. O alvo perde suas extremidades ao longo do processo
+(orelhas, nariz, dentes e dedos) e sua pele
+fica enegrecida e cheia de pústulas. Se o veneno for removido do sistema da criatura, o
+personagem aumenta seus Pontos de Vida
+totais em +10, recebe +1 de Força e +1 de Agilidade a cada semana, até que todos os
+efeitos tenham sido revertidos. O alvo não
+recupera partes perdidas, e sua pele ficará
+com manchas e cicatrizes permanentes, no
+entanto, a menos que um Extrato Regenerativo seja aplicado antes dos efeitos do veneno terem sido totalmente revertidos, ou
+que um antídoto Cola-Carne seja aplicado
+uma vez por semana enquanto a criatura se
+recupera.
+Esse veneno é considerado uma doença mágica.
+Veneno de Glycon
+Raridade: Raro (6.000 moedas)
+Ingredientes: Raiz de mandrágora,
+flor de isura (Maceração 14), veneno de
+planta assassina, veneno de cobra (Fermentação 17).
+Descrição: Este veneno, atribuído às
+Naga, consiste em uma pasta marrom com
+cheiro de álcool e gosto apimentado. O alvo
+deve realizar um teste de Força (dificuldade 12). Se falhar, o alvo perde 10 Pontos de
+Vida a cada minuto, por 10 minutos. Se passar, o alvo perde 10 Pontos de Vida imediatamente. Passando ou rodando, o alvo precisa fazer outro teste de Força (Dificuldade
+13) depois de 10 minutos. Se falhar, o alvo
+perde mais 10 Pontos de Vida a cada 10 minutos, por 1 hora. Se passar, o alvo perde
+mais 10 Pontos de Vida, imediatamente, e o
+veneno não surte mais efeitos.
+Esse veneno é considerado mágico.
+Veneno de Koth
+Raridade: Muito Raro
+Ingredientes: Raiz de mandrágora
+(Tintura 14), veneno de escorpião, Asa de
+Morcego (Destilação 15), erva da lua (Infusão 16).
+Descrição: Este veneno, usado por
+uma civilização de Cassiopéia antes da
+Revoada dos Dragões como forma de punição, faz com que o alvo envelheça rapidamente. Uma vez inoculado pelo veneno,
+o alvo precisa fazer um teste de Força (dificuldade 12) a cada dia por 10 dias. Toda
+vez que falhar no teste, o alvo envelhece o
+equivalente a 10 anos. Um sucesso crítico
+em um dos testes elimina os efeitos do veneno, enquanto uma falha crítica faz com
+que a vítima perca todos os Pontos de Vida
+e fique Por um Fio, além de sofrer o efeito
+de envelhecimento. Se sobreviver, a vítima
+continuará sofrendo os efeitos do veneno
+normalmente.
+Esse veneno é considerado mágico.
+---

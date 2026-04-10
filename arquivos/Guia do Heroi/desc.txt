@@ -1,0 +1,135 @@
+Capítulo 1 - Regras
+
+Este capítulo se dedica a ampliar as regras apresentadas no Guia Básico do
+Mighty Blade e também apresentar algumas opções que podem ser adicionadas à
+qualquer aventura ou campanha.
+
+---
+**QUEBRANDO VOTOS**
+Paladinos com seus Códigos e Sacerdotes com seus Dogmas podem, por vezes, se encontrar diante de situações onde
+quebrar seus votos é a melhor ou mesmo
+a única opção diante de um desafio. Essas
+situações podem parecer raras, já que, em
+geral, um Paladino adota seus Códigos baseado em suas crenças e objetivos, e dificilmente irá contra eles, enquanto Sacerdotes
+seguem os Dogmas de uma divindade que,
+via de regra, apresenta uma percepção de
+mundo semelhante à sua própria ou, às vezes, um ponto-de-vista que se impregnou
+em seu modo de pensar. Em ambos os casos, é a crença fundamentalista nesses paradigmas que fazem com que os personagens
+que possuem um Código ou Dogma sejam
+capazes de utilizar seus benefícios. Em termos de jogo, Códigos de Honra e Dogmas
+devem ser escolhidos de acordo com o que
+o jogador pretende interpretar com seu personagem, e não algum tipo de imposição
+ou fardo que ele carrega ou como um tipo
+de imposição, já que Paladinos e Sacerdotes escolhem seus votos, e as restrições advindas deles, de modo consciente. Os votos
+de um personagem não devem ser escolhidos apenas pelos seus benefícios, mas sim
+como uma ferramenta para complementar
+a construção da sua personalidade. Assim,
+em geral, Paladinos não ignoram seus Códigos de Honra e Sacerdotes não violam
+seus Dogmas.
+No entanto, algumas vezes, um personagem enfrenta situações em que quebrar
+seus votos é inevitável. Por exemplo, um
+Paladino com o Código da Coragem está
+enfrentando um adversário em um combate justo dentro de um templo em ruínas,
+quando uma das colunas cede e atinge o seu
+guia, um jovem rapaz de uma vila próxima.
+Se ele continuar o combate, estará deixando
+de proteger uma criatura mais fraca, e se decidir salvar o jovem guia, estará abandonando um combate justo. Em ambos os casos
+ele estará quebrando seu Código (note que,
+se houvesse mais alguém com o Paladino
+que pudesse prestar auxílio ao guia ferido,
+ele não estaria quebrando seu Código; ele
+sabe que alguém está protegendo a vida do
+jovem. Paladinos sabem, apesar de seus Códigos, que não podem fazer tudo sozinhos
+e devem contar com os outros quando necessário).
+Quando um voto é quebrado, o Paladino perde o acesso ao seu Código (e
+quaisquer outras Habilidades que tenham
+aquele Código de Honra como Requisito)
+ou o Sacerdote perde acesso ao seu Dogma (e quaisquer outras Habilidades que
+tenham aquele Dogma como Requisito)
+e tem sua Vontade reduzida em 1. Estas
+perdas não são irremediáveis, no entanto,
+mas são complexas de resolver. Em geral,
+a Ordem de Paladinos ou a igreja que o Sacedote serve lhe enviará em uma missão
+específica para recuperar sua honra ou
+graça perdidos. Essas missões geralmente
+serão reflexos da situação que o fez quebrar seus votos (usando o exemplo acima,
+se o Paladino deixou o guia sem a devida
+proteção poderia ser mandado para um
+orfanato para cuidar as crianças do lugar e
+lhes ensinar a respeito de honra, caridade
+e proteção dos mais fracos, ou talvez lhe
+seja exigido tomar um jovem escudeiro
+como aprendiz). Uma vez que a missão tenha sido cumprida (uma decisão que pode
+caber ao Mestre e ao jogador discutirem) o
+personagem recupera os benefícios de seu
+Código de Honra ou Dogma e sua Vontade volta ao nível normal. 
+---
+**ANTECEDENTES**
+Antecedentes são características que
+provém do desenvolvimento do personagem antes de se tornar um herói. Antecedentes podem ser vistos como “Habilidades de Histórico”, geralmente fazendo
+parte da descrição da história do personagem, às vezes como característica principal do personagem (“meu personagem
+é um Espadachim Nobre vindo de uma
+proeminente família de Tebryn”) e as vezes de forma menos proeminente (“Eu
+sou um Guerreiro treinado pela guarda de
+Tebrynia. além do treinamento com o uso
+de espadas, eu passei algum tempo aprendendo os truques dos caçadores ao redor
+de Tebrynia, e consegui aprender algumas
+coisas com eles”).
+Todo jogador pode escolher um Antecedente para seu personagem. Antecedentes, a princípio, só podem ser selecionados
+durante a criação do personagem (veja caixa de destaque para regras opcionais), e um
+personagem precisa abrir mão de 1 ponto
+de bônus de Atributo que sua Classe lhe
+forneceria. Cada personagem pode ter apenas 1 Antecedente.
+Além disso, o personagem precisa
+preencher os Requisitos necessários do
+Antecedente. O ponto de Atributo derivado da Classe que o jogador decidiu manter
+deve ser considerado para preencher os
+Requisitos.
+**DESCRIÇÕES DOS ANTECEDENTES**
+*Descrição: como o antecedente é representado dentro da história do personagem.
+*Requisitos: Os requisitos que o personagem tem que preencher para poder selecionar o Antecedente. O ponto de Atributo
+derivado da Classe que o jogador decidiu
+manter deve ser considerado para preencher os Requisitos.
+*Benefício: Bônus ou mecânicas específicas fornecidas pelo Antecedente.
+*Equipamento Extra: Itens que o
+personagem com este Antecedente recebe além de suas Moedas Iniciais normais.
+Cada linha (antecedida por uma bolinha
+“•”) apresenta um item que o personagem recebe. Algumas linhas oferecem
+duas opções de equipamento (por exemplo: • Aljava ou bolsa com 20 munições
+OU um escudo pequeno) e, nesses casos,
+o jogador deve selecionar apenas 1 dos
+itens da opção.
+/*
+**Antecedente Tardio**
+Se o Mestre quiser, ele pode permitir, como uma regra opcional, que
+um personagem escolha um Antecedente durante o curso do jogo – mas
+apenas se ele já não tiver um; cada
+personagem pode ter apenas 1 Antecedente.
+Para isso as circunstâncias certas devem se apresentar, ele deve ter
+a oportunidade e o tempo para adquirir o Antecedente, sendo necessário
+que ele passe um tempo considerável
+aprendendo sobre o ofício, cultura ou
+técnica necessários para escolher o
+Antecedente em questão. O Mestre é o
+juiz disso, e cabe à ele determina se o
+personagem tem ou não condições de
+selecionar o Antecedente que almeja.
+Por exemplo: Um personagem
+que fique vivendo muitos meses em
+uma localidade que possua um herbalista competente pode aprender o básico sobre poções e selecionar o Antecedente Apotecário. É claro que isso vai
+depender da disposição do herbalista
+em ensinar, o que provavelmente vai
+exigir uma boa dose de interpretação
+por parte do jogador.
+Se o Mestre considerar que o
+personagem pode selecionar o Antecedente, assim que ele subir de nível
+o jogador pode usar seu ponto de evolução para selecionar o Antecedente.
+No entanto, se fizer isso, da próxima
+vez que for receber pontos de Atributo
+como resultado do seu nível (ou seja,
+quanto atingir o nível 4, 7 ou 10) ele
+receberá +1 em apenas 1 Atributo, ao
+invés de 2. Além disso, o personagem
+não recebe os equipamentos extras listados no Antecedente. 
+*\
+---

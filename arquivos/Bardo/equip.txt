@@ -1,0 +1,13 @@
+Equipamentos
+A seguir, você encontrará uma lista de itens especificamente úteis para as Classes
+e Caminhos apresentados neste livro. Listamos novamente os instrumentos musicais,
+mas fizemos alguns ajustes e acrescentamos alguns instrumentos novos.
+
+Instrumentos musicais de qualidade alta e obra-prima
+Instrumentos musicais de qualidade alta oferecem um bônus de +1 nos
+testes de Música quando forem usados – portanto, só oferecem bônus em Melodias e Ritmos, mas nunca em Canções.
+Além do bônus de +1 mencionado acima, os instrumentos musicais de
+qualidade obra-prima diminuem, diminuem em 5 o custo de Mana das Melodias e Ritmos que o personagem estiver tocando. Instrumentos de sopro também conferem essa redução de Mana para Gritos que forem utilizados através
+deles.
+
+Referencia dos itens e descrição na planilha: tabela_de_instrumentos_musicais.xlsx

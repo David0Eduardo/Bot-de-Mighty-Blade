@@ -1,0 +1,132 @@
+Classes Musicais
+Em vistas das novas regras, a classe Bardo foi revisada para melhor se enquadrar nas
+mecânicas das músicas. Nesse trabalho de revisão, acabou por surgir uma nova Classe, o
+Menestrel, menos focado nas músicas em detrimento de uma gama mais ampla de formas
+de entreterimento, como malabarismo, acrobacias e ventriloquismo. Ambas são apresentadas neste capítulo.
+
+---
+**Bardo**
+Singular masculino: Bardo; Singular feminino: Barda;
+Plural masculino: Bardos; Plural feminino: Bardas;
+
+*Descrição:
+Apesar dos Bardos serem geralmente conhecidos como contadores de
+histórias, músicos itinerantes, cantores
+líricos e poetas da corte, eles são bem
+mais do que apenas isso. Diferente do
+trovador comum, que não passa, realmente, de um músico e contador de histórias, os Bardos são mestres em uma
+forma de arte complexa, capaz não só
+de encantar plateias como também
+produzir efeitos tão (e às vezes mais!)
+extraordinários que os das magias dos
+conjuradores.
+Alguns Bardos aprendem sua arte
+na estrada, em companhias de Menestréis itinerantes, poetas ambulantes ou
+mesmo como uma tradição passada de
+pai para filho, mas a maioria destes músicos aprende – ou refina – seus conhecimentos nos vários Liceus de Bardos
+em Cassiopéia, que formam um grande
+número de Bardos – que em geral trabalham para as cortes desses reinos quando
+terminam seus estudos. Os mais famosos
+são o Liceu de Tebrynia, em Tebryn, e o
+Salão dos Bardos, em Bryne.
+Além disso, graças ao amplo conhecimento de diversas músicas, histórias e poemas, Bardos são depositários
+de uma enorme quantidade de conhecimento teórico, às vezes superiores aos
+de estudiosos formais e suas imensas
+bibliotecas, já que Bardos estudam em
+seus livros de poesias e épicos, mas
+também trocam histórias entre si ou
+com seu público – e um bom Bardo sabe
+diferenciar os fatos reais da fantasia, filtrando as histórias que lhes são contadas e destilando a verdade na forma de
+novas composições cujo conteúdo, além
+de entreter plateias, serve para carregar
+conhecimento. Essas histórias, tocadas
+ao redor de fogueiras entre Bardos que
+se encontram nas estradas ou cantadas
+nos grandes salões reais, fornecem aos
+Bardos um vasto conhecimento sobre
+história, lendas e até mesmo geografia
+e política.
+Graças a isso, muitos Bardos são
+empregados em cortes como conselheiros e não apenas como poetas ou cantores. A maioria dos nobres sabe perfeitamente que ter um Bardo em que possam
+confiar significa estar mais próximo da
+realidade e nas crenças e esperanças de
+seu povo e dos acontecimentos fora do
+palácio como um todo.
+
+*Raças:
+Faunos possuem uma cultura intrinsecamente ligada à música, e Bardos são extremamente comuns entre
+eles. Todas as comunidades de Faunos
+terão, ao menos, um Bardo, e a maioria
+delas inclui vários deles. Faunos dão
+preferência a Melodias (geralmente
+usando instrumentos de sopro) e Canções, e geralmente não usam Gritos.
+Metadilios e Humanos produzem
+muitos Bardos, geralmente vindos de
+Liceus formais, famosos por sua proeza
+no uso de instrumentos musicais. Eles
+dão preferência às Canções, e preferem
+instrumentos de corda (alaúdes, banjos,
+harpas, liras e violinos).
+Entre os Tailox, uma raça de andarilhos por natureza, Bardos formados na
+estrada, junto a companhias itinerantes
+são extremamente comuns. Tailox são
+particularmente afeiçoados a Melodias e
+Gritos (geralmente uivados) e demonstram uma preferência a instrumentos
+de percussão. Entre os Aesires, a tradição de contar histórias e recitar poemas
+épicos contando a trajetória de heróis
+legendários, é reconhecida em toda Cassiopéia. A maioria dos Bardos (ou poetas guerreiros, como os Bardos são chamados entre eles), geralmente usando
+berrantes e chifres tanto ao usar Gritos 
+quanto no uso de Melodias – geralmente
+agressivas ou intimidadoras.
+---
+
+Menestrel
+Singular masculino: Menestrel; Singular feminino: Menestrina;
+Plural masculino: Menestréis; Plural feminino: Menestrinas;
+
+*Descrição:
+Menestréis são atores mambembes que viajam pelos reinos espalhando
+suas histórias de aventuras assim como
+realizando malabarismos e acrobacias
+para entreter o público. Diferente dos
+Bardos, os Menestréis geralmente não
+participam de eventos para nobres,
+realizando seus espetáculos para os
+plebeus – interagindo, fazendo piadas
+e pregando peças no público. Muitos
+Menestréis viajam sozinhos, alguns em
+bolantas modificadas para incluir um
+pequeno palco, outros trocando hospedagem em pousadas e tavernas por seu
+trabalho. No entanto, grupos de Menestréis itinerantes que se apresentam em
+conjunto, às vezes como uma espécie de
+pequena orquestra, outras vezes como
+saltimbancos – às vezes ambas as coisas – são encontros bastante comuns ao
+longo de Drakon.
+A maioria dos vilarejos, cidades
+e metrópoles vibra com a chegada de
+companhias de menestréis e trovadores
+ambulantes, sabendo que eles trarão,
+além de entretenimento, notícias de outras áreas do reino.
+Grupos de aventureiros, de forma semelhante, apreciam a presença de
+Menestréis não apenas pelos benefícios
+que eles trazem a moral do grupo e pelos efeitos que eles são capazes de produzir em combate, mas também porque
+eles são a melhor fonte de notícias – e
+possíveis novas aventuras! – que um
+grupo pode esperar.
+*Raças:
+Faunos possuem uma cultura intrinsecamente ligada à música, e Menestréis são extremamente comuns entre
+eles. Todas as comunidades de Faunos terão, ao menos, um Menestrel, e a
+maioria delas inclui vários deles. Faunos
+dão preferência a Melodias (geralmente
+usando instrumentos de sopro) e Canções, e geralmente não usam Gritos.
+Entre os Tailox, uma raça de andarilhos por natureza, Menestréis formados na estrada, junto a companhias
+itinerantes são extremamente comuns.
+Tailox são particularmente afeiçoados a
+Melodias e Gritos (geralmente uivados)
+e demonstram uma preferência por instrumentos de percussão.
+Humanos e Elfos Menestréis são
+frequentemente vistos em grandes cidades, divertindo os cidadãos das cidades em tavernas locais. Muitos deles preferem tocar ritmos empolgantes
+para entreter o público cansado depois
+de um longo dia de trabalho, utilizando
+seus instrumentos.
+---

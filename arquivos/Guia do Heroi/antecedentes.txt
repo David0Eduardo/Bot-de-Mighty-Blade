@@ -1,0 +1,170 @@
+ANTECEDENTES
+
+---
+**APOTECÁRIO/APOTECÁRIA**
+Requisito: Inteligência 4.
+Descrição: Você aprendeu a usar
+plantas e minerais para produzir poções,
+antídotos – e venenos! Enquanto alguns
+Apotecários recebem instrução formal em
+laboratórios de grandes cidades, com o
+objetivo de se tornarem Alquimistas, um
+grande número aprende o ofício com outros Apotecários, curandeiros e Druidas,
+produzindo suas poções em pequenas comunidades e vilas. Entre estes, alguns acabam indo para grandes centros à procura
+de aperfeiçoar suas habilidades, as vezes
+para retornar mais bem preparados para
+suas comunidades, as vezes para se tornarem Alquimistas. Há, é claro, aqueles cujos
+conhecimentos são empregados no campo
+de batalha, seja como curandeiros de campo, seja como aventureiros.
+Benefícios: Você recebe a Habilidade
+Herbalismo (veja o Guia Básico pág 86).
+Equipamento Extra:
+• Duas Poções comuns à sua escolha.
+---
+**ARTESÃO/ARTESÃ**
+Requisito: Nenhum.
+Descrição: Você aprendeu a realizar
+um determinado tipo de artesanato ao longo
+de sua vida. Talvez você venha de uma família de artesãos, ou talvez tenha uma fascinação por um tipo de trabalho e teve sorte de
+conseguir se tornar aprendiz de um mestre
+no ofício. Tendo trabalhado profissionalmente ou não nessa área de produção, você recebeu treinamento suficiente para ser capaz de
+desempenhá-la de forma eficiente.
+Benefício: Escolha 1 área de produção (veja página 49, para mais detalhes).
+Você recebe +1d6 sempre que fizer qualquer teste relacionado com aquela área de
+produção.
+Equipamento Extra:
+• Equipamento de artesão adequado
+ao seu ofício.
+---
+**CAÇADOR/CAÇADORA**
+Requisito: Inteligência 3.
+Descrição: Você dedicou uma boa
+parte da sua vida aprendendo a perceber e
+compreender os sinais de passagens de criaturas e a localização mais provável de esconderijos e de plantas úteis. Provavelmente
+você tenha tido contato com Patrulheiros
+ou outros Caçadores, ou talvez tenham sido
+longas horas como vigia e guarda que lhe
+deram um olho para perceber pequenos padrões ignorados pelos outros – o que você
+aprendeu a usar não só para perceber a presença de coisas escondidas, mas também
+para se esconder com eficiência!
+Benefícios: Você recebe um bônus de
++2 em todos os seus testes para Caçar/Rastrear, Encontrar Abrigo/Forragear, Mover-se
+em Silêncio e Ocultar-se/Camuflar-se. Este
+bônus também se aplica à testes para perceber itens e criaturas escondidas ou camufladas ou tentando se mover em silêncio.
+Equipamento Extra: Nenhum.
+---
+**DEVOTO/DEVOTA**
+Requisito: Vontade 3.
+Descrição: Você é um seguidor fiel de
+uma Divindade, acreditando em seus dogmas como a forma ideal de agir e pensar.
+Talvez você tenha sido um Sacerdote que
+se afastou da igreja – mas não de suas crenças – ou talvez simplesmente um seguidor
+fervoroso dos ensinamentos, dogmas e preceitos de uma divindade. Seja como for, sua
+devoção é tal que a divindade lhe concede
+suas bênçãos de forma palpável.
+Benefícios: Você recebe a Habilidade
+Dogma (veja o Guia Básico página 142 para
+mais detalhes).
+Equipamento Extra:
+• Símbolo sagrado da sua divindade.
+---
+**EXPOENTE**
+Requisito: Nenhum.
+Descrição: Você é um exemplar notável da sua raça, seja no aspecto físico, psicológico ou cultural – e talvez até mesmo em
+todos eles!
+Você é particularmente ligado à cultura da sua raça em algum aspecto, ao menos, e provavelmente despendeu uma boa
+quantidade de tempo entre os membros
+do seu próprio povo e provavelmente tem
+pouco interesse na cultura de outras raças.
+Benefícios: Você recebe uma Habilidade Racial extra, à sua escolha.
+Equipamento Extra: Nenhum.
+---
+**FYLGJA**
+Requisito: Nenhum.
+Descrição: Entre os Aesires, cuja cultura é amplamente baseada na crença de
+animais guias, Fylgja significa, literalmente, “acompanhante” e é usado para designar tanto o Espírito Animal de uma pessoa
+como uma pessoa que possui uma forte
+ligação com seu Espírito Animal. Apesar
+de poucas culturas além dos Aesires terem
+uma ligação tão profunda com Espíritos
+Animais, a expressão é amplamente usada
+para designar aquelas pessoas cuja ligação
+com o seu Espírito Animal é mais do que
+simplesmente filosófica.
+Benefícios: Você recebe a Habilidade
+Espírito Animal (veja o Guia Básico página
+144 para mais detalhes).
+Equipamento Extra: Nenhum
+---
+**MINERADOR/MINERADORA**
+Requisito: Força 4.
+Descrição: Você tem experiência em
+encontrar, extrair e processar materiais de
+origem mineral. Você passou muito tempo
+explorando veios de minérios, aprendendo sobre os locais comuns onde eles aparecem e como identificá-los com eficiência.
+Não apenas isso, você também sabe como
+extrair minérios de um veio de forma eficiente.
+Benefícios: Você recebe um bônus
+de +1d6 em suas rolagens para encontrar
+veios de materiais em uma área e nos seus
+testes para calcular quanto de material você
+consegue extrair, independente do método
+escolhido.
+Equipamento Extra:
+• Uma mochila, uma picareta e uma
+peneira.
+---
+**NOBRE**
+Requisito: Nenhum.
+Descrição: Você nasceu em uma família pertencente à nobreza do seu reino. Sua
+família (ou você, se for o único herdeiro da
+sua linhagem) possui terras onde vivem aldeões que trabalham para sua família e todos na região sabem quem você é.
+Benefícios: Você possui status e muitos contatos e é reconhecido na região onde
+suas terras ficam e provavelmente pelas
+famílias nobres das regiões vizinhas à sua. 
+Você pode conseguir uma audiência com
+qualquer figura importante do reino (incluindo o rei/imperador).
+Além disso, você possui terras que incluem uma casa grande (e provavelmente
+luxuosa, mas não fortificada) e recebe dos
+moradores 50 moedas por mês de impostos.
+Você pode mudar os impostos, mas
+isso provavelmente irá acarretar problemas
+para você (outros nobres irão usar seu abuso para convencer o rei a emancipar suas
+terras e os próprios aldeões podem decidir
+abandonar suas terras).
+Equipamento Extra:
+• 200 moedas
+---
+**PRODÍGIO**
+Requisito: Nenhum.
+Descrição: Apesar de ter recebido
+treinamento – ou ter aprendido por si mesmo – os rudimentos de uma determinada
+Classe, você se manteve muito perto dos
+ensinamentos, táticas, conhecimentos e
+práticas de uma outra Classe. Dessa forma,
+você é considerado como um membro de
+ambas as Classes desde o início de sua carreira como Aventureiro.
+Benefícios: Você começa o jogo com
+o benefício Aprendiz de [Classe] (Guia Básico pág 41).
+Equipamento Extra:
+• Um item qualquer que seja comum
+à Classe da qual você é segue, com custo de
+até 100 moedas.
+---
+**SUSSURRADOR/SUSSURRADORA**
+Requisito: Nenhum.
+Descrição: Enquanto para alguns
+você nasceu abençoado pela divindade da
+natureza, outros sugerem que está é uma
+característica decorrente de uma natureza
+benevolente – ou particularmente selvagem, talvez – o fato é que você pode, de alguma forma, influenciar os animais. Talvez
+você use isso para se comunicar pacificamente com as feras ou talvez você domine
+os animais com uma presença imponente.
+Dissuadidas, coagidas ou apaziguadas à
+tanto, as bestas aceitam sua presença entre
+elas, talvez como um igual, talvez como um
+superior.
+Benefícios: Você recebe a Habilidade
+Benção de Ellenis (veja o Guia Básico página 84 para mais detalhes).
+Equipamento Extra: Nenhum.
+---

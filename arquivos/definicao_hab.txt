@@ -1,0 +1,255 @@
+Como são dividas as habilidades e como devem ficar no json;
+
+As habilidaes são de Classes/Caminhos/Raças/Gerais(essa e a unica que qualquer um pode ter);
+Elas podem possuir Nome/Tipo/Requisito/Mana/Descrição/Dificuldade da Magia/Especial/Raças;
+Os .txts são separados da seguinte forma:
+Marcados do que e a habilidade Raça/Gerais/Classe/Caminhos
+Sendo um de Raça vai ser:
+Nome da Raça dentro de **, Exemplo '**Aesires**'
+Informações da Raça separados por '/**\'
+Habilidades Extras que seguem o padrão de habilidade do exmplo no final
+Sendo um de Classe vai ser:
+Nome da classe dentro de '**', Exemplo '**Druida**'
+Informações da Classe separados por '/**\' (aqui ele vai ter tanto informações quanto uma habilidade automatica)
+Habilidades Básicas
+Habilidades Avançadas
+Habilidade Final
+Sendo de Caminhos vai ser:
+Nome do Caminho dentro de **, Exemplo '**Arconte**'
+Informações do Caminho separados por '/**\'
+Habilidades Básicas
+Habilidades Avançadas
+Habilidade Final
+Exemplo de habilidade:
+---
+--Aparar--
+Habilidade (Técnica) - Suporte
+Descrição: Você pode usar qualquer
+coisa que esteja em suas mãos para afastar e
+desviar golpes desferidos contra você. Enquanto estiver com um objeto em pelo menos uma das mãos, você recebe Defesa +1.
+Se estiver segurando uma objeto em ambas as
+mãos ou um objeto em cada mão você recebe
+Defesa +2.
+Este e um bônus de Esquiva.
+---
+
+Exemplo e informações de Classe:
+--
+/*
+Bônus de Atributo:
+Inteligência +1
+Vontade +1
+Habilidade Automática:
+--Conhecimento Místico--
+Habilidade (Técnica) – Suporte
+Descrição: Você está ligado as energias místicas provenientes de forças superiores e consegue comungar com elas. Você
+pode ler e utilizar tomos mágicos e desenhar
+Selos Místicos (veja a página 36 para regras
+sobre magia). Você também pode entrar em
+um estado de transe se concentrando por 1
+minuto. Enquanto continuar meditando dessa forma, você recupera uma quantidade de
+Pontos de Mana igual à sua Vontade a cada
+10 minutos.
+*\
+---
+
+Exemplo de informações de Raça:
+---
+/*
+Atributos Iniciais:
+Força 4
+Agilidade 2
+Inteligência 3
+Vontade 3
+Classes comuns:
+Bardo, Druida, Guerreiro, Patrulheiro e Rúnico.
+Habilidade Automática:
+--Vigor Nórdico--
+Habilidade (Característica) – Suporte
+Descrição: Você nasceu em uma região
+gelada, e os rigores climáticos de Eishelm tornaram você vigoroso e resiliente. Você é Resistente à Frio e não é afetado nem por efeitos de
+climas gelados nem por efeitos provenientes
+de danos por Frio (como Enregelamento). 
+*\
+---
+
+Exemplo de informação de Caminho:
+---
+/*
+*Requisito:
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Inteligência 4
+• Ter sido aceito como Irmão da
+Ordem da Espada de Mirah.
+*Habilidade Automática:
+--Autoridade Legal--
+Habilidade (Característica) – Suporte
+*Descrição: Você foi imbuído pelo Reino
+para executar a lei e punir a transgressores. Ao
+determina sentenças e arbitrar disputas sua palavra só pode ser questionada por outro Arconte
+ou por um Nobre, e se ela foi tomada dentro de
+um tribunal, com a anuência de outros Arcontes
+(ver pág. 19), ela só pode ser questionada por
+um tribunal acima do seu.
+Você recebe um símbolo sagrado especial, que pode ser verificado por qualquer um
+com Detectar Magia, que serve para comprovar
+sua autoridade – além de não poder ser separado de você. Você também não pode ser preso
+ou questionado por ninguém menos que outro
+Arconte ou alguém com um título militar ou de
+nobreza enquanto estiver no seu reino.
+*Especial: Se o personagem cometer algum ato que contradiga o Código da Justiça ou o
+Dogma da Justiça (dependendo de qual dos dois
+o personagem possua), o símbolo sagrado especial imediatamente se rompe e passa a emanar
+um lamúrio constante; você perde a capacidade
+de usar Punições e o símbolo só poderá ser restaurado depois que você for julgado pelo crime
+que tiver cometido
+*\
+---
+
+Como deve ser separados os exemplos acima
+{
+  'Nome da Pasta Raiz': {
+        "Habilidades Gerais"(que esta na pasta chamado hab_geral deve conter todos as habilidades das pastas): [
+                {
+                    "nome": "Aparar",
+                    "tipo": "Tecnica",
+                    "subtipo": "Suporte",
+                    "requisito": "",
+                    "mana": "",
+                    "racas": "",
+                    "dificuldade": "",
+                    "especial": "",
+                    "descricao": "Você pode usar qualquer coisa que esteja em suas mãos para afastar e desviar golpes desferidos contra você. Enquanto estiver com um objeto em pelo menos uma das mãos, você recebe Defesa +1. Se estiver segurando uma objeto em ambas as mãos ou um objeto em cada mão você recebe Defesa +2. Este e um bônus de Esquiva.",
+                    "detalhes_adicionais": []
+                },
+                {
+                    "nome": "Aparar",
+                    "tipo": "Tecnica",
+                    "subtipo": "Suporte",
+                    "requisito": "",
+                    "mana": "",
+                    "racas": "",
+                    "dificuldade": "",
+                    "especial": "",
+                    "descricao": "Você pode usar qualquer coisa que esteja em suas mãos para afastar e desviar golpes desferidos contra você. Enquanto estiver com um objeto em pelo menos uma das mãos, você recebe Defesa +1. Se estiver segurando uma objeto em ambas as mãos ou um objeto em cada mão você recebe Defesa +2. Este e um bônus de Esquiva.",
+                    "detalhes_adicionais": []
+                },
+        ],
+        "Raças"(hab_raca(s)):[
+            {
+                "Nome": "Aesires",
+                "Atributos":[
+                    "Força": "4",
+                    "Agilidade": "2",
+                    "Inteligência": "3",
+                    "Vontade": "3",
+                ],
+                "Classes Comuns": [Bardo, Druida, Guerreiro, Patrulheiro, Rúnico],
+                "Habilidade Automática": [
+                        "nome": "Vigor Nórdico",
+                        "tipo": "Característica",
+                        "subtipo": "Suporte",
+                        "requisito": "",
+                        "mana": "",
+                        "racas": "",
+                        "dificuldade": "",
+                        "especial": "",
+                        "descricao": "Você nasceu em uma região gelada, e os rigores climáticos de Eishelm tornaram você vigoroso e resiliente. Você é Resistente à Frio e não é afetado nem por efeitos de climas gelados nem por efeitos provenientes de danos por Frio (como Enregelamento)",
+                        "detalhes_adicionais": []
+                ],
+                "Habilidades Extras":{todas as habilidades conforme em habiliadades gerais},
+            },
+            {
+                "Nome": "",
+                "Atributos":[
+                    "Força": "",
+                    "Agilidade": "",
+                    "Inteligência": "",
+                    "Vontade": "",
+                ],
+                "Classes Comuns": [],
+                "Habilidade Automática": [
+                        "nome": " ",
+                        "tipo": "",
+                        "subtipo": "",
+                        "requisito": "",
+                        "mana": "",
+                        "racas": "",
+                        "dificuldade": "",
+                        "especial": "",
+                        "descricao": "",
+                        "detalhes_adicionais": []
+                ],
+                "Habilidades Extras":{todas as habilidades conforme em habiliadades gerais},
+            },
+        ],
+        "Classes"(hab_classes): [
+            {
+                "Nome":"Druida",
+                "Bônus de Atributo":{
+                    "Agilidade": "+1",
+                    "Vontade": "+1"
+                },
+                "Habilidade Automática": {
+                    "nome": "Vigor Nórdico",
+                    "tipo": "Característica",
+                    "subtipo": "Suporte",
+                    "requisito": "",
+                    "mana": "",
+                    "racas": "",
+                    "dificuldade": "",
+                    "especial": "",
+                    "descricao": "Você está ligado as energias místicas provenientes de forças superiores e consegue comungar com elas. Você pode ler e utilizar tomos mágicos e desenhar Selos Místicos (veja a página 36 para regras sobre magia). Você também pode entrar em um estado de transe se concentrando por 1 minuto. Enquanto continuar meditando dessa forma, você recupera uma quantidade de Pontos de Mana igual à sua Vontade a cada 10 minutos.",
+                    "detalhes_adicionais": []
+                },
+                "Habilidades Extras":{todas as habilidades conforme em habiliadades gerais},
+            },
+            {
+                "Nome":"Bardo",
+                "Bônus de Atributo":{
+                    "Agilidade": "+1",
+                    "Vontade": "+1"
+                },
+                "Habilidade Automática": {
+                    "nome": "",
+                    "tipo": "",
+                    "subtipo": "",
+                    "requisito": "",
+                    "mana": "",
+                    "racas": "",
+                    "dificuldade": "",
+                    "especial": "",
+                    "descricao": "",
+                    "detalhes_adicionais": []
+                },
+                "Habilidades Extras":{todas as habilidades conforme em habiliadades gerais},
+            },
+        ],
+        "Caminhos": [
+            "Requisitos": {
+                "Inteligência": "4",
+                "Ter sido aceito como Irmão da Ordem da Espada de Mirah"
+            },
+            "Habilidade Automática": {
+                "nome": "Autoridade Legal",
+                "tipo": "Característica",
+                "subtipo": "Suporte",
+                "requisito": "",
+                "mana": "",
+                "racas": "",
+                "dificuldade": "",
+                "especial": "Se o personagem cometer algum ato que contradiga o Código da Justiça ou o Dogma da Justiça (dependendo de qual dos dois o personagem possua), o símbolo sagrado especial imediatamente se rompe e passa a emanar um lamúrio constante; você perde a capacidade de usar Punições e o símbolo só poderá ser restaurado depois que você for julgado pelo crime que tiver cometido",
+                "descricao": "Você foi imbuído pelo Reino para executar a lei e punir a transgressores. Ao determina sentenças e arbitrar disputas sua palavra só pode ser questionada por outro Arconte ou por um Nobre, e se ela foi tomada dentro de um tribunal, com a anuência de outros Arcontes (ver pág. 19), ela só pode ser questionada por um tribunal acima do seu. Você recebe um símbolo sagrado especial, que pode ser verificado por qualquer um com Detectar Magia, que serve para comprovar sua autoridade – além de não poder ser separado de você. Você também não pode ser preso ou questionado por ninguém menos que outro Arconte ou alguém com um título militar ou de nobreza enquanto estiver no seu reino.",
+                "detalhes_adicionais": []
+            },
+            "Habilidades Básicas": {todas as habilidades conforme em habiliadades gerais},
+            "Habilidades Avançadas":{todas as habilidades conforme em habiliadades gerais},
+            "Habilidade Final":{todas as habilidades conforme em habiliadades gerais},
+        ],
+  },
+    "Nome da Pasta Raiz":{
+        Todas as definições acima
+    }
+}
+

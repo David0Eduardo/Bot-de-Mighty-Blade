@@ -1,0 +1,1500 @@
+Habilidades Caminhos
+
+---
+
+**Amoque**
+
+---
+/*
+Requisitos
+Para seguir este Caminho você
+precisa preencher os seguintes Requisitos:
+• Força 6
+• Uma Habilidade de Fúria qualquer.
+Habilidade Automática
+--Irrefreável--
+Habilidade (Técnica) – Suporte
+Descrição: É extremamente difícil
+restringir seus movimentos – ou sua vontade.
+Sempre que você for alvo de uma Habilidade, efeito ou condição que restringiriam ou
+controlem suas ações – Grilhões, tentativas
+de derrubá-lo ou empurrá-lo, efeitos que causem redução do seu Deslocamento ou efeitos
+mentais de todos os tipos – você recebe +2
+para resistir ao efeito, ou +1d6 caso seja possível rolar um teste ou um confronto.
+Além disso, seu Deslocamento passa a
+ser calculado baseado em sua Força ao invés
+de sua Agilidade. 
+*\
+---
+
+Habilidades Basicas
+
+---
+--Ataque Brutal--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Você pode realizar ataques
+brutais se concentrando apenas em derrotar o
+oponente em detrimento da sua defesa. Faça
+um ataque corporal contra o alvo, adicionando uma quantidade extra de dano
+igual ao triplo do seu bônus de Bloqueio. Se o alvo for atingido, além
+do dano extra ele é arremessado para trás uma quantidade
+de metros igual ao valor do
+bônus escolhido e precisa
+fazer um teste de Agilidade
+(Dificuldade igual à sua Determinação) para não cair.
+Até o início do seu próximo turno você não soma o
+bônus de Bloqueio na sua Defesa.
+---
+--Bravura Selvagem 1--
+Habilidade (Característica) – Suporte
+Descrição: Você confia mais nas
+suas habilidades naturais do que em
+armaduras para se defender. Quando
+não estiver usando armadura, você recebe +2 em sua Defesa. Quando escolhe
+essa Habilidade, você deve escolher se este
+será um bônus de Bloqueio ou Esquiva. Essa escolha é permanente e não pode ser mudada mais
+tarde.
+---
+--Fúria Irrefreável--
+Habilidade (Característica) – Suporte
+Descrição: Quando você está em fúria,
+não há como pará-lo! O bônus de Força de
+qualquer Habilidade de Fúria que você utilizar
+aumenta em +2 e enquanto você estiver sob
+um efeito de Fúria você fica imune a efeitos
+Mentais. 
+---
+--Investida Brutal--
+Habilidade (Técnica) – Suporte
+Descrição: Dizem que a melhor defesa é
+o ataque – e você sabe como tornar essa máxima
+em realidade! Sempre que fizer um ataque de encontrão ou utilizar uma Habilidade que exija uma
+manobra de encontrão como parte de sua ativação, adicione o seu bônus de Bloqueio ao dano
+do seu ataque.
+---
+
+Habilidades Avançadas
+
+---
+--Ataque Furioso--
+Habilidade (Técnica) – Suporte
+Requisitos: Nível 5
+Descrição: Sempre que estiver usando
+uma arma que possua dois números de FN, se
+você tiver força para usar a arma com apenas
+uma mão, mas a empunhar com as duas, some
+a sua Força ao dano da arma ao invés do bônus
+normal de +2. Você também aplica esse bônus
+de dano às armas que tenham a Característica
+Duas Mãos, desde que você possua Força suficiente para usá-la.
+---
+--Bravura Selvagem 2--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Bravura Selvagem 1.
+Descrição: Você veste sua bravura em
+batalha melhor do que alguns vestem armaduras. O Bônus Defesa conferido por Bravura
+Selvagem 1 aumenta para +4 e você pode escolher se esse bônus será de Bloqueio ou Esquiva
+no início de cada um de seus turnos, como uma
+ação livre.
+---
+--Fúria Colérica--
+Habilidade (Técnica) – Reação
+Requisitos: Nível 5
+Mana: 5
+Descrição: Quando você entra em fúria,
+você se torna um turbilhão de destruição. Enquanto estiver sob um efeito de Fúria, sempre que
+fizer um ataque corporal que cause dano em um
+alvo, você pode fazer mais um ataque corporal
+normal imediatamente.
+Esta Habilidade só pode ser usada uma vez
+por turno. 
+---
+--Retribuição Furiosa--
+Habilidade (Técnica) – Reação
+Requisitos: Nível 5
+Mana: 5
+Descrição: Quando lhe causam dano, seus
+oponentes costumam se arrepender amargamente! Enquanto estiver sob um efeito de Fúria e
+sofrer dano causado por uma criatura que você
+possa ver, você pode adicionar um bônus de dano
+igual à sua Vontade em seus ataques corporais
+contra ela. 
+---
+
+Habilidade Final
+
+---
+--Fúria Brutal--
+Habilidade (Característica) – Suporte
+Requisitos: Nível 10, Fúria Colérica.
+Descrição: Quando você entra em
+fúria, seus adversários devem escolher entre
+fugir ou morrer! O bônus de Força de qualquer Habilidade de Fúria que você utilizar
+aumenta em +4, você pode utilizar Fúria Colérica até duas vezes por turno e você pode se
+mover antes e depois ou entre ataques, desde que não exceda seu Deslocamento a cada
+turno. 
+---
+
+**Assassino**
+
+---
+/*
+Requisitos
+Para seguir este Caminho você
+precisa preencher os seguintes Requisitos:
+• Ataque Aleijador (Habilidade)
+• Agilidade 4
+Habilidade Automática:
+--Atacar Pelas Costas--
+Habilidade (Técnica) – Suporte
+Descrição: Você é particularmente
+bom em atacar alvos desprevenidos. Quando
+fizer um ataque corporal contra um alvo que
+esteja Desprevenido com relação a você, role
++2d6 em seus ataques corporais ao invés de
++1d6.
+Especial: Este benefício se aplica apenas a ataques corporais. Outras ações contra
+alvos Surpresos/Desprevenidos (como furtar bolsos ou ataques à distância) recebem
+apenas o bônus normal pela condição.
+*\
+---
+
+Habilidades Basicas
+
+---
+--Apunhale primeiro, pergunte depois--
+Habilidade (Técnica) – Suporte
+Descrição: Você está sempre
+pronto pra ação, e essa ação quase
+sempre é agressiva! Você rola +1d6
+em seus testes de iniciativa e todos
+os outros personagens são considerados Desprevenidos com relação a você
+até que tenham feito uma Ação durante um
+combate.
+---
+--Corte Arterial--
+Habilidade (Técnica) – Ação
+Requisito: Ataque Aleijador
+Mana: 30
+Descrição: Faça um ataque corporal
+com uma arma de corte ou perfuração. Se acertar, a vítima começará a sangrar, perdendo 10
+Pontos de Vida no início de cada um de seus
+turnos.
+Este é um efeito de sangramento.
+---
+--Faça-os Sangrar--
+Habilidade (Técnica) – Reação
+Mana: 10
+Descrição: Você gosta de ver seus alvos
+sangrando. Sempre que fizer um ataque corporal
+contra um alvo, se o seu ataque incluir um efeito
+de sangramento ou se o alvo estiver sob um efeito de sangramento, você pode rolar +1d6 – estes
+efeitos não são cumulativos.
+---
+--Flanquear--
+Habilidade (Técnica) – Suporte
+Descrição: Você prefere atacar seus alvos
+quando eles estão desatentos – e é muito eficiente
+fazendo isso! Sempre que você e pelo menos mais
+um aliado estiverem em alcance corporal de um
+oponente, você considera aquele oponente Desprevenido em relação a você.
+Você só pode flanquear um alvo por turno.
+Se 2 ou mais adversários estiverem adjacentes a
+você e a um aliado ao mesmo tempo no início do
+seu turno você deve definir qual deles vai flanquear.
+---
+--Reflexos Assassinos--
+Habilidade (Técnica) – Reação
+Mana: 5
+Descrição: Qualquer demonstração de
+fraqueza de um oponente é uma oportunidade a
+ser explorada! Sempre que um oponente estiver
+Desprevenido com relação a você e perder Pontos de Vida por um efeito de Sangramento, sofrer
+alguma Condição ou ficar sob um efeito de Medo
+ou um efeito Mental, você pode imediatamente
+fazer um ataque corporal normal contra ele.
+---
+
+Habilidades Avançadas
+
+---
+--En Passant--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5 Flanquear
+Descrição: Se um alvo que está adjacente
+a você tentar se afastar ou se levantar, você pode
+imediatamente fazer uma ação normal contra ele.
+O alvo é considerado Desprevenido contra essa
+ação.
+---
+--Esquartejar--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: Sempre que fizer um ataque
+contra um Alvo Específico, a Defesa do alvo é aumentada em +2 ao invés de +4. Além disso, sempre
+que você rolar um sucesso decisivo em um ataque
+corporal usando uma arma que cause dano por Corte ou Perfuração, o multiplicador de dano do seu
+ataque será igual ao número de dados que tiverem
+um resultado 6, ao invés do multiplicador normal.
+---
+--Explorar Surpresa--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5 Flanquear
+Mana: 20
+Descrição: Quando um oponente está de
+guarda baixa você sempre consegue aproveitar a
+abertura! Faça um ataque contra um alvo que esteja Desprevenido em relação a você. Esse ataque
+causa o dobro do dano normal.
+Este é um efeito de Sangramento.
+---
+--Olho da Serpente--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5
+Mana: 10
+Descrição: Sempre que você fizer um ataque
+contra um alvo que esteja Desprevenido em relação
+a você, você pode rolar novamente 1 dos dados.
+Você pode escolher com qual dos resultados vai ficar.
+Você só pode usar esta Habilidade 1 vez
+por turno.
+---
+
+Habilidade Final
+
+---
+--Mestre Assassino--
+Habilidade (Técnica) – Reação
+Requisitos: Nível 10, Olho da Serpente.
+Mana: 30
+Descrição: Você é extremamente mortal
+ao atacar alvos surpresos. Sempre que você fizer
+um ataque corporal contra um alvo que esteja
+Desprevenido em relação a você, você pode trocar o resultado de um dos dados por um 6.
+Você só pode usar esta Habilidade 1
+vez por turno.
+---
+
+**Avantesma**
+
+---
+/*
+Requisitos
+Para seguir este Caminho você
+precisa preencher os seguintes Requisitos:
+• Vontade 5
+• Ter sido afetado por pelo menos
+um efeito de Dreno de Energia.
+Habilidade Automática
+--Frio Cadavérico--
+Habilidade (Característica) – Suporte
+Descrição: Seu organismo foi profundamente afetado por energias necromânticas
+e não funciona de forma similar ao de outras criaturas vivas. Seu corpo não produz
+qualquer tipo de calor, e você é Resistente
+ao Frio e imune a efeitos de Enregelar, além
+de não ser afetado por efeitos nocivos de climas frios. Você também é imune a doenças
+(naturais e mágicas), venenos (naturais ou
+mágicos) e efeitos de dreno de energia. Além
+disso, qualquer efeito de sangramento causa
+apenas metade da perda de vida normal em
+você e você pode passar três vezes mais tempo sem alimento e água do que um membro
+da sua raça normalmente poderia.
+Finalmente, sempre que for afetado
+por uma Habilidade, Magia, Música ou qualquer tipo de efeito, você pode escolher ser
+considerado como um morto-vivo.
+*\
+---
+
+Habilidades Basicas
+
+---
+--Aura Gélida--
+Habilidade (Característica) – Ação
+Mana: 10
+Descrição: Você possui uma aura de frio
+intenso ao seu redor. Essa aura é suficientemente
+fria para cobrir itens com uma fina camada de gelo
+se você permanecer muito tempo em um mesmo
+local, mas não suficiente para causar dano. Você
+pode, no entanto, tornar sua aura muito mais gelada, fazendo com que tudo e todos à sua volta a
+até uma distância em metros igual à sua Vontade sofram uma quantidade de dano por
+Frio igual à sua Vontade quando você
+ativa esta Habilidade, quando uma
+criatura termina seu deslocamento
+ou quando ela iniciar seu turno
+dentro dessa área.
+Este efeito dura por 1 minuto.
+---
+--Bloqueio Necromântico--
+Habilidade (Característica) – Suporte
+Descrição: Você é imune a efeitos mentais e efeitos
+de medo e não precisa dormir
+(e é imune a efeitos que o façam
+dormir). Você ainda precisa ficar
+sem realizar tarefas extenuantes
+para recuperar Pontos de Vida e
+Pontos de Mana por descanso.
+---
+--Canalização Necromântica--
+Habilidade (Técnica) – Ação
+Descrição: Escolha uma Habilidade do tipo Magia que produza
+um efeito de Dreno de Energia e que não
+tenha nenhum requisito de nível. Você é capaz de
+conjurar aquela Magia como se fosse uma Habilidade do tipo Característica. Esta escolha é permanente e não pode ser mudada mais tarde.
+A magia sempre funciona automaticamente (ignore a Dificuldade da Magia), mas você precisa tocar no alvo ao invés de desenhar uma Runa
+Arcana ou Selo Místico para ativá-la. Todas as outras características da Magia são mantidas iguais.
+---
+--Contato com Espíritos--
+Habilidade (Característica) – Ação
+Mana: 5
+Descrição: Você pode se comunicar com
+os espíritos que estejam próximos. Você é capaz
+de ouvir e ver qualquer espírito num raio de 20
+metros. Esse efeito dura 10 minutos. Você pode
+gastar 10 Pontos de Mana enquanto estiver sob
+o efeito dessa Habilidade para ser capaz de tocar
+espíritos por 1 minuto.
+---
+--Toque da Morte--
+Habilidade (Característica) – Reação
+Mana: 20
+Descrição: Com seu toque você
+pode absorver parte da energia espiritual de uma criatura viva. Quando tocar ou acertar um ataque
+desarmado contra uma criatura,
+você pode fazer alvo perder
+uma quantidade de Pontos de
+Vida iguais à sua Determinação.
+Você recupera uma quantidade
+de Pontos de Vida igual à quantidade de Pontos de Vida que o
+alvo perder.
+Esse é um efeito de dreno de energia.
+---
+
+Habilidades Avançadas
+
+---
+--Canalização Necromântica Maior--
+Habilidade (Técnica) – Ação
+Requisitos: Nível 5
+Descrição: Escolha uma Habilidade
+do tipo Magia que produza um efeito de Dreno de
+Energia e que tenha como Requisitos Nível 5. Você
+é capaz de conjurar aquela Magia como se fosse
+uma Habilidade do tipo Característica. Esta escolha
+é permanente e não pode ser mudada mais tarde.
+A magia sempre funciona automaticamente (ignore a Dificuldade da Magia), mas você precisa tocar no alvo ao invés de desenhar uma Runa
+Arcana ou Selo Místico para ativá-la. Todas as outras características da Magia são mantidas iguais. 
+---
+--Devorador dos Mortos--
+Habilidade (Característica) – Ação
+Requisitos: Nível 5, Contato com Espíritos.
+Descrição: Você é capaz de drenar a
+energia necromântica de espíritos ao seu redor,
+restaurando suas próprias energias no processo.
+Quando toca em uma sombra, você pode absorver todos os seus Pontos de Mana (a Sombra é
+imediatamente enviada para o plano espiritual), e
+você recupera uma quantidade de Pontos de Vida
+iguais à quantidade de Pontos de Mana retirada
+da Sombra.
+Além disso, quando tocar ou acertar um
+ataque desarmado contra uma criatura do tipo Espírito, você pode fazer alvo perder uma quantidade de Pontos de Mana iguais à sua Determinação.
+Você recupera uma quantidade de Pontos de Vida
+igual à quantidade de Pontos de Vida que o alvo
+perder. Se o alvo perder todos os Pontos de Mana
+dessa forma, ela é imediatamente enviada para o
+plano espiritual.
+---
+--Fúria Fria--
+Habilidade (Característica) – Suporte
+Requisitos: Nível 5, Aura Gélida.
+Descrição: Todas as criaturas ao seu redor são capazes de sentir a frieza da sua convicção. Qualquer criatura que sofra dano por sua
+Aura Gélida ou que seja afetada por um efeito
+de Dreno de Energia que você use fica Enregelada.
+---
+--Vigor Necromântico--
+Habilidade (Característica) – Suporte
+Requisitos: Nível 5, Bloqueio Necromântico.
+Descrição: Você não possui órgãos internos funcionais, e é imune a efeitos de envelhecimento, efeitos de sangramento, morte
+instantânea, dano extra por acertos críticos ou
+golpes contra áreas vitais ou quaisquer efeito
+que envolvam afetar órgãos ou áreas vitais do
+corpo.
+Além disso, você se torna imune a efeitos
+de desidratação e desnutrição, mas não se beneficia de efeitos de Elixires.
+Especial: Você passa a ser considerado
+um morto-vivo para todos os efeitos.
+---
+
+Habilidade Final
+
+---
+--Cavaleiro da Morte--
+Habilidade (Característica) – Suporte
+Requisitos: Nível 10, Vigor Necromântico, Devorador dos Mortos.
+Descrição: A frieza da sua alma é tão
+extrema que se torna um farol para espíritos
+perdidos. Você é Imune ao Frio e é constantemente acompanhado por uma quantidade
+de Sombras igual à sua Vontade (que, caso
+sejam destruídas de alguma forma, serão
+substituídas assim que você estiver em um
+local onde existam Sombras). Além disso,
+Devorador dos Mortos passa a ser considerada uma ação livre para você. 
+---
+
+**Aziago**
+
+---
+/*
+Requisitos
+Para seguir este Caminho você precisa preencher os seguintes Requisitos:
+• Conhecimento Arcano
+ (Habilidade)
+• Vontade 5
+Habilidade Automática
+--Conhecimento Nefasto--
+Habilidade (Técnica) – Suporte
+Descrição: Você possui um conhecimento considerável sobre os fluxos das energias infernais e como elas funcionam no plano material. Você não perde Pontos de Vida
+quando realiza uma magia que exija um Símbolo Profano – mas ainda sofre perda de PVs
+para realizar magias que envolvam Círculo de
+Invocação (veja Contactando o Inferno na
+página 9 para mais detalhes).
+Além disso, você é imune a Maldições,
+recebe +2 em todos os seus testes envolvendo criaturas infernais e a dificuldade de todos
+os testes de uma criatura infernal envolvendo
+você é aumentada em 1.
+Especial: Como parte dos seus estudos, o personagem também aprende o idioma Ctónico como um idioma extra. 
+*\
+---
+
+Habilidades Basicas
+
+---
+--Causar Horror--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando uma
+Runa Arcana sobre si mesmo, você se imbui de energias dos planos infernais que causam
+uma onda de repulsa à sua presença. Todos os
+oponentes que estiverem a até 10 metros de você
+recebem -1 em todas as rolagens. Além disso,
+qualquer criatura viva que tentar uma ação agressiva contra você precisa passar em um teste de
+Vontade (Dificuldade igual à sua Determinação)
+ou ficará Amedrontado em relação a você até o
+final do seu próximo turno. Qualquer criatura que
+passe neste teste fica imune a este efeito – mas
+não ao redutor – pelo próximo dia.
+Esta Runa Arcana dura por 1 minuto.
+---
+--Maldição da Assombração--
+Habilidade (Magia) – Ação
+Mana: 35
+Dificuldade da Magia: Determinação do
+alvo
+Descrição: Desenhando um Símbolo Profano sobre uma criatura viva, você faz com ela
+tenha alucinações visuais e auditivas – geralmente
+de figuras infernais ou fantasmagóricas. Enquanto estiver sob efeito dessa maldição, o alvo é considerado Distraído.
+Esse Símbolo Profano dura uma quantidade
+de minutos igual à sua Vontade.
+Este é um efeito mental.
+---
+--Maldição da Debilidade--
+Habilidade (Magia) – Ação
+Mana: 30
+Dificuldade da Magia: Determinação do alvo
+Descrição: Desenhando um
+Símbolo Profano sobre uma
+criatura viva, você faz com que
+o alvo se sinta fraco e doente,
+ficando Vulnerável a um tipo de
+dano físico à sua escolha (Contusão, Corte ou Perfuração).
+Esse Símbolo Profano dura
+uma quantidade de minutos
+igual à sua Vontade.
+Este é um efeito de dreno de
+energia.
+---
+--Maldição da Dor--
+Habilidade (Magia) – Ação
+Mana: 40
+Dificuldade da Magia: Determinação
+do alvo
+Descrição: Desenhando um Símbolo Profano sobre uma criatura viva, você faz o alvo sentir dores musculares terríveis. O alvo precisa fazer
+um teste de Força (Dificuldade igual à Determinação do conjurador) no começo de cada um dos
+seus turnos para poder agir. Em cada turno que
+falhar, ele fica Paralisado, incapaz de agir, retorcendo-se de dor.
+Esse Símbolo Profano dura uma quantidade de turnos igual à sua Vontade.
+---
+--Maldição do Medo--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: Determinação do
+alvo
+Descrição: Desenhando um Símbolo Profano sobre uma criatura viva você faz com que
+ela desenvolva um medo sobrenatural por alguma
+coisa à sua escolha – geralmente o próprio conjurador ou sua Raça, mas qualquer coisa (cavernas,
+a cor negra, cavalos, água, etc.) podem ser nomeados. O alvo ficará Amedrontado com relação à
+coisa nomeada.
+Esse Símbolo Profano dura uma quantidade de minutos igual à sua Determinação.
+Este é um efeito de medo.
+---
+--Remover Maldições--
+Habilidade (Magia) – Ação
+Mana: Varia
+Dificuldade da Magia: Especial
+Descrição: Desenhando um Símbolo Profano sobre uma criatura, você faz com que todos
+os um Símbolo Profano da categoria Maldição e
+Doenças Mágicas que estejam afetando a criatura
+sejam removidas imediatamente.
+Este Símbolo funciona sobre efeitos perenes que sejam considerados Maldições (como
+licantropia, Doença Carniçal ou criaturas afetadas por Eternizar Maldição), mas não alteram
+o Tipo da criatura afetada – Vampiros, Lobisomens e outros mortos-vivos ou amaldiçoados
+não são revertidos ao seu estado natural, mas
+essas criaturas ficam Amedrontadas com relação a você por um número de turnos igual à
+sua Vontade.
+O custo em Mana desta Magia será igual ao
+custo mais alto entre todas as Maldições afetando
+o alvo, ou, no caso de um efeito sem custo em
+Mana, 30. A dificuldade desta magia será igual à
+Determinação do conjurador da Maldição, ou, no
+caso de Doenças Mágicas, a dificuldade de contaminação da doença.
+Este Símbolo Profano se dissipa assim que
+seus efeitos forem desencadeados.
+---
+
+Habilidades Avançadas
+
+---
+--Maldição da Cegueira--
+Habilidade (Magia) – Ação
+Mana: 45
+Dificuldade da Magia: Determinação do
+alvo
+Descrição: Desenhando um Símbolo Profano sobre uma criatura viva, você faz com ela se
+torne incapaz de ver. Seus olhos ficam leitosos e
+sem cor, e a vítima fica cega.
+Esse Símbolo Profano dura um número de
+horas igual à sua Determinação.
+Este é considerado um efeito de dreno de
+energia.
+---
+--Maldição do Canibalismo--
+Habilidade (Magia) – Ação
+Requisito: Nível 5
+Mana: 40
+Dificuldade da Magia: Determinação do
+alvo.
+Descrição: Desenhando um Símbolo Profano sobre uma criatura viva, você faz com que
+ela desenvolva um desejo insaciável por carne e
+sangue de sua própria Raça, precisando se alimentar dela uma vez ao dia. A cada meia-noite em que
+o alvo não for capaz de consumir um quilo de
+carne ou beber um litro de sangue de sua própria
+Raça, ele precisa passar em um teste de Vontade
+(Dificuldade igual à Determinação do conjurador)
+ou entrará em frenesi e atacará qualquer criatura
+inteligente nas proximidades, que tentará matar e
+devorar – o frenesi só cessa quando ele conseguir
+devorar um quilo de carne de uma criatura Humanoide ou Esfinge.
+Esse Símbolo Profano dura uma quantidade de dias igual à Vontade do conjurador.
+Este é um efeito mental.
+---
+--Maldição da Dominação--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Maldição: Fobia.
+Mana: 60
+Dificuldade da Magia: Determinação do
+alvo
+Descrição: Desenhando um Símbolo Profano sobre uma criatura viva, você domina sua vontade e ela realizará toda e qualquer ação que
+você ordenar em voz alta. A criatura ainda mantém seu raciocínio e age de maneira espontânea
+quando não está realizando uma ação ordenada
+por você, mas não é capaz de atacar o conjurador
+a menos que seja ordenada.
+Se alguma ação que você ordenar violar
+algum dos Dogmas, Códigos ou Pactos do personagem, ele pode imediatamente realizar um
+teste de Vontade (dificuldade igual à Determinação do conjurador) para resistir à ordem, o que
+dissipa a Runa imediatamente – mas falha neste
+teste significa que ele realiza a ação, e viola seu
+voto (veja Quebrando Votos no Guia do Herói,
+página 7).
+Esse Símbolo Profano dura tanto tempo
+quanto você estiver concentrado nela e o alvo
+estiver dentro de seu campo de visão, ou até que
+o alvo seja capaz de resistir a uma de suas ordens.
+Este é um efeito mental.
+---
+
+Habilidade Final
+
+---
+--Eternizar Maldição--
+Habilidade (Magia) – Ação
+Requisito: Nível 10, ao menos uma
+Habilidade de Maldição.
+Mana: 50
+Dificuldade da Magia: Determinação do alvo
+Descrição: Desenhando um Símbolo
+Profano sobre uma criatura afetada por uma
+Maldição, você faz com que a Runa Arcana
+da Maldição se dissipe e seus efeitos passem
+a ser permanentes. A Maldição pode ser revertida se você morrer ou sob uma condição
+específica – que sempre deve ser estipulada
+por você no momento que esta magia é conjurada.
+Esse Símbolo Profano se dissipa assim
+que seus efeitos forem desencadeados. 
+---
+
+**Cultista**
+
+---
+/*
+Requisitos
+Para seguir este Caminho você
+precisa preencher os seguintes Requisitos:
+• Possuir um Pacto (pág. 13)
+Habilidade Automática
+--Círculo de Invocação Infernal--
+Habilidade (Técnica) – Suporte
+Descrição: Você é capaz de ler magias em itens com a característica Registro
+e pode conjurar Magias que exijam um Círculo de Invocação como se você possuísse
+Conhecimento Arcano – mas realiza magias
+Arcanas como se fosse Inapto e não pode realizar Magias Místicas. Além disso, você não
+perde Pontos de Vida devido à conjuração de
+Círculos de Invocação (veja Contactando o
+Inferno na página 9 para mais detalhes).
+Além disso, quando invocar um Infernal utilizando um Círculo de Invocação, além
+das restrições normais, a criatura invocada
+não pode mentir para você (mas pode omitir informações) enquanto estiver dentro de
+um Círculo de Invocação que você traçou ou
+enquanto estiver realizando uma tarefa para
+você. 
+*\
+---
+
+Habilidades Basicas
+
+---
+--Cauda Farpada--
+Habilidade (Característica) – Suporte
+Descrição: Você desenvolve uma cauda
+dotada de espigões pontiagudos que pode ser
+usada como arma. Sua cauda não é hábil suficiente para manipular itens com destreza, mas pode
+ser usada para segurar e arrastar objetos e é capaz
+de realizar ataques desarmados (dano igual à Força +2/Perfuração). A cauda também oferece um
+bônus de +2 em testes para agarrar e se equilibrar
+(incluindo testes para evitar ser derrubado).
+---
+--Chifres Pequenos--
+Habilidade (Característica) – Suporte
+Descrição: Você desenvolveu um pequeno
+par de chifres que, além de permitirem que você
+realize ataques desarmados com eficiência – causando dano igual à Força +2/Perfuração – lhe
+conferem uma capacidade intrínseca de
+perceber e esconder emoções, e você
+recebe +2 em todos os seus testes sociais e em sua Determinação.
+---
+--Couro Infernal--
+Habilidade (Característica) – Suporte
+Descrição: Sua pele se torna
+mais rija e grossa e adquire uma
+aparência não natural (escamas
+disformes, manchas de hematomas, crostas ósseas…). Você
+tem um bônus de Defesa +2
+(este bônus conta como Armadura), se torna Resistente a [Corte, Contusão ou Perfuração]. Esta
+escolha é permanente e não pode
+ser mudada mais tarde.
+Especial: Se você já for resistente
+a algum tipo de dano físico, você não
+pode selecionar aquele tipo de dano
+para se tornar Imune a ele. Ao invés disso, escolha um tipo de dano diferente para
+se tornar Resistente.
+---
+--Invocar Lemure--
+Habilidade (Magia) – Ação
+Mana: 30
+Dificuldade da Magia: 14
+Descrição: Traçando um Círculo de Invocação você invoca um Lemure (um Sabujo Infernal ou
+Diabrete se seu nível for menor do que 5 ou Mastim
+Infernal ou uma Malora se seu nível for 5 ou maior).
+O Lemure permanece no plano material por
+um número de horas igual à sua Determinação mais um número de horas igual à Vontade da criatura sacrificada para invoca-lo, mas você pode acender um
+braseiro quando invocá-lo, derramando o sangue da
+criatura sacrificada nele. Sacrificando outra criatura
+(não é preciso um novo ritual, mas a criatura ainda
+precisa estar Indefesa) e derramando seu sangue no
+braseiro, você renova a duração da invocação por
+uma quantidade de Horas igual à Determinação da
+criatura sacrificada. Essa operação pode ser realizada
+indefinidamente, e muitos Cultistas mantêm o mesmo Lemure por anos a frio sob seus serviços dessa forma. Se o braseiro for apagado ou você falhar
+em derramar mais sangue nas brasas dele quando o
+tempo de invocação acabar, o Lemure será imediatamente banido para o Inferno.
+---
+--Olhos Infernais--
+Habilidade (Característica) – Suporte
+Descrição: Seus olhos adquirem um distinto brilho vermelho, e você se torna capaz de
+enxergar perfeitamente na mais completa escuridão. No entanto, você se torna incapaz de distinguir cores, e percebe tudo em tons de vermelho.
+Além disso, você consegue perceber Sombras e
+outros espíritos invisíveis como leves contornos
+bruxuleantes e é capaz de conversar com eles –
+mas não interagir fisicamente, a menos que eles
+possuam Corpo Intangível.
+---
+--Patas Infernais--
+Habilidade (Característica) – Suporte
+Descrição: Suas pernas se tornam mais longas e musculares, com a pele adquirindo uma tonalidade não natural (azulada, com veios vermelhos,
+mortalmente pálida, com manchas de hematomas…) terminadas em pés digitígrados protegidos
+por cascos fendidos. Você pode rolar +1d6 quando fizer testes de correr e saltar, seu deslocamento
+e de seus saltos é aumentado em 1 e o dano por
+queda que você sofre é diminuído à metade. Além
+disso, se fizer ataques desarmados com seus cascos, seu dano será Força +2/Contusão.
+---
+--Resistência Infernal--
+Habilidade (Característica) – Suporte
+Requisitos: Nível 5, Couro Infernal.
+Descrição: Sua pele adquire um tom avermelhado e se torna quente ao toque, como se você
+estivesse sempre febril. Você recebe Redução de
+Dano 3 e recebe +1d6 para resistir a efeitos de
+doenças e venenos naturais e mágicos.
+---
+
+Habilidades Avançadas
+
+---
+--Asas Infernais--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5
+Descrição: Você desenvolveu grandes
+asas de couro em suas costas, cuja envergadura
+total é duas vezes a sua altura. Você pode voar,
+precisando de um espaço igual à sua envergadura
+para pegar impulso antes de alçar voo. Quando
+estiver voando, você não pode parar no ar (mas
+pode planar) e seu deslocamento em voo é o dobro de seu deslocamento normal. Suas asas podem se dobrar para ficarem confortavelmente
+escondidas sob um manto, capa ou túnica grande.
+Especial: O dano de qualquer manobra
+de Encontrão usada em voo é duplicado (mas o
+dano da arma que você usar no Encontrão não é
+alterado, nem quaisquer outros possíveis efeitos
+do Encontrão).
+---
+--Coroa Infernal--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Conhecimento Arcano.
+Descrição: Os pelos, penas, rochas ou
+pele do alto da sua cabeça se transformam em
+uma profusão de pequenos chifres que lembram,
+vagamente, uma coroa. Você passa a ser capaz de
+realizar Círculos de Invocação como uma Ação
+Padrão ao invés de uma Ação de Turno Completo, desenhando o Círculo como traçaria uma
+Runa Arcana – geralmente no ar à sua frente, ao
+invés de sobre uma superfície. Além disso, você
+recebe +2 para realizar Magias que exijam um Círculo de Invocação, e estas magias custam 5 Pontos de Mana a menos.
+---
+--Chifres Grandes--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Chifres Pequenos.
+Descrição: Seus chifres se tornaram grandes e ameaçadores. Se forem utilizados para realizar ataques desarmados, ele causam dano igual à
+Força +4/Perfuração. Eles também lhe conferem um discernimento intrínseco sobre demônios e
+sobre o plano infernal, e você recebe +2 em todas
+as suas rolagens referentes a Infernais (este bônus
+se acumula com o bônus de Chifres Pequenos) e
+a conhecimento sobre o Inferno, incluindo conjuração de magias através de Círculos de Invocação.
+---
+--Invocar Shedin--
+Habilidade (Magia) – Ação
+Requisito: Nível 5
+Mana: 60
+Dificuldade da Magia: 16
+Descrição: Traçando um Círculo de Invocação você invoca um Shedin (um Cenodoxus,
+Incubus ou Labatut são os mais comuns).
+O Shedin permanece no plano material
+por um número de minutos igual à sua Determinação – se tiver sido invocado através de um
+ritual que tenha envolvido o sacrifício de um ou
+múltiplos Humanoides ou Esfinges, Você pode,
+como parte do ritual de invocação, acender um
+braseiro e colocando o coração das criaturas nas
+brasas depois do sacrifício. O Shedin permanecerá por mais 1 hora para cada coração que for
+consumido pelas brasas dessa forma. Sacrificando outra criatura (não é preciso um novo ritual, mas a criatura ainda precisa estar Indefesa)
+e jogando seu coração no braseiro, você renova
+a duração da invocação por uma quantidade de
+Horas igual à Vontade da criatura sacrificada.
+Essa operação pode ser realizada indefinidamente. Se o braseiro for apagado ou você falhar em
+jogar o coração de um Humanoide ou Esfinge
+nas brasas dele quando o tempo de invocação
+acabar, o Shedin será imediatamente banido para
+o Inferno.
+Você só pode manter 1 Shedin sob seus
+serviços de cada vez, ou 2 Shedins se você for de
+nível 10 ou mais.
+---
+--Invocar Asura--
+Habilidade (Magia) – Ação
+Requisito: Nível 5
+Mana: 200
+Dificuldade da Magia: 18
+Descrição: Traçando um Círculo de Invocação (cujo sacrifício precisa ser, necessariamente, um Humanoide ou Esfinge) você invoca um
+Asura (Eligos sendo os mais comuns). Asuras
+não realizam qualquer ordem que não seja a de
+compartilhar conhecimento já que, se o Círculo
+de Invocação for rompido antes de ele ter atendido sua ordem, você perderá o controle sobre
+o Asura imediatamente – o que geralmente tem
+consequências bastante sérias! Você poderá fazer
+uma pergunta ou pedir um conhecimento específico ao Asura, que responderá o mais diretamente
+que puder, dentro de seu conhecimento. Assim
+que responder sua pergunta, ele retorna ao Inferno imediatamente se o Círculo de Invocação for
+rompido. 
+---
+
+Habilidade Final
+
+---
+--Portal Infernal--
+Habilidade (Magia) – Ação
+Requisitos: Nível 10
+Mana: 70
+Dificuldade da Magia: 20
+Descrição: Traçando um Círculo de
+Invocação, você abre um portal para o Inferno.
+O portal permite ver e ouvir o que
+acontece do outro lado sem impedimentos,
+mas criaturas, itens ou magias só podem atravessá-lo a partir do plano do qual ele foi aberto. Se este círculo de conjuração for utilizado
+no inferno, ele abre um portal para o plano
+de origem de seu conjurador, mas nesse caso
+apenas o próprio conjurador pode atravessá-
+-lo – embora itens e magias conjuradas a partir do Inferno possam atravessar para o plano
+para onde o portal foi aberto.
+Se você souber o nome de uma criatura dentro do plano para o qual está abrindo o
+portal, ou se você for suficientemente familiar
+com um local dentro do plano para o qual está
+abrindo o portal, ele se abrirá diante dessa criatura ou no meio do local. Caso contrário, o
+portal se abrirá em um ponto aleatório dentro
+do plano.
+Este portal dura enquanto você se
+mantiver concentrado nele, mas se você atravessar o portal, ele imediatamente se fecha.
+---
+/*
+**Pactos Infernais**
+A seguir estão descrito os Pactos Infernais que podem ser realizados com os Primordiais – Pactos com Barões Infernais não estão
+incluídos aqui, embora um Barão Infernal servo de um Primordial específico possa realizar o
+Pacto de seu senhor. Um personagem com um
+Pacto recebe suas vantagens – e desvantagens
+– como descrito, mas não podem selecionar as
+Habilidades que tenham seu Pacto como Requisito a menos que sigam o Caminho Cultista.
+Além disso, o Cultista, além das Habilidades
+do Caminho, só podem selecionar as Habilidades de Pacto que tenham o Pacto que possuam
+como Requisito.
+As Habilidades desta sessão não estão
+listadas em ordem alfabética. Ao invés disso,
+cada Pacto específico terá as Habilidades que o
+tenham como Requisito logo em seguida dele.
+*Pacto da Ambição:
+Descrição: Glycon, A Serpente da Visão,
+responsável por providenciar os meios, independente das consequências, que provê uma vida material plena em detrimento da espiritualidade. Glycon é um dos Primordiais mais cultuados
+no plano material, já que, além de toda
+a cultura Naga ter se desenvolvido ao
+redor dele, a ambição é, certamente,
+um dos maiores motivadores dos
+mortais.
+Sempre que usar uma Habilidade do tipo Magia, você pode
+gastar Pontos de Vida ao invés
+de Pontos de Mana para pagar seu
+custo. Nesse caso, cada Pontos de
+Vida equivale a 1 Ponto de Mana.
+Sempre que conjurar uma Magia, você
+precisa gastar pelo menos metade do seu
+Custo em Mana (arredondado para baixo) com
+Pontos de Vida. Se a Magia tiver um custo de
+Mana igual à Zero, você precisa gastar 1 Ponto
+de Vida para conjurá-la. Para cada 5 Pontos de
+Mana gastos dessa forma, a dificuldade da magia
+é reduzida em 1.
+--Sacrifício das Trevas--
+Habilidade (Técnica) – Suporte
+Requisitos: Pacto da Ambição
+Descrição: Você pode usar Círculo de
+Invocação de maneira muito mais eficiente que
+outros Cultistas. Sempre que realizar um Sacrifício de Sangue como parte da conjuração de um
+Círculo de Invocação você recebe +1d6 no teste
+para conjurar aquela magia.
+--Olhar da Serpente--
+Habilidade (Característica) – Suporte
+Requisitos: Pacto da Ambição
+Descrição: Você é capaz de ler qualquer
+coisa escrita como se elas estivessem em um idioma que você conheça. Embora sempre saiba dizer
+quando estiver lendo em um idioma que você não
+possua, você não saberá que idioma é aquele especificamente. Além disso, esta Habilidade não lhe dá
+qualquer capacidade de falar, escrever ou entender
+idiomas de qualquer forma que não seja a escrita.
+--Toque de Glycon--
+Habilidade (Característica) – Ação
+Requisito: Nível 5, Pacto da Ambição.
+Mana: 30
+Descrição: Com o seu toque, você transforma qualquer material com um peso em gramas igual
+a 100 vezes sua Vontade em outro material qualquer.
+O objeto permanecerá transformado por um
+número de dias igual à sua Vontade, quando, então, se tornará uma massa de lama
+fétida. Você só pode afetar um objeto
+com essa Habilidade uma vez, e Artefatos, itens mágicos ou marcados
+com uma Runa Arcana ou Selo Místico não podem ser afetados.
+--Garantir o Planejamento--
+Habilidade (Característica) – Ação
+Requisitos: Nível 10, Pacto da
+Ambição.
+Mana: 50
+Descrição: Você pode canalizar a
+ambição de Glycon para garantir que ninguém
+interfira nos seus planos. Durante um número de
+rodadas igual à sua Vontade, qualquer teste feito
+por uma criatura com relação a você é feito como
+se aquela criatura fosse Inapta. Se aquela criatura,
+por qualquer outro motivo, já fosse ser considerada Inapta contra você, ela falha automaticamente
+no teste. Falhas nesses testes serão sempre consideradas como Falhas Críticas.
+Esse efeito não se aplica a testes para resistir efeitos que você desencadear e nem em Confrontos que você inicie.
+---
+*Pacto da Destruição:
+Descrição: Shyama, a Destruidora, Aquela que Provê a Morte, A que Quebra em Pedaços,
+cuja força não pode ser restrita. Aqueles que buscam
+este pacto geralmente são inclinados à violência
+de forma obsessiva ou possuem um desejo
+maníaco de destruir algo ou alguém.
+Seu simples toque causa uma
+quantidade de dano igual à sua
+Vontade em qualquer criatura ou
+objeto. Esse dano extra se aplica
+sempre que você tocar ou fizer um
+ataque corporal – armado ou desarmado – contra uma criatura ou objeto.
+Você pode suprimir este efeito com relação a objetos ou Construtos (mas não às criaturas),
+mas precisa se concentrar na tarefa, e, portanto
+não pode usar nenhuma Habilidade de Ação ou
+Reação enquanto fizer isso. Artefatos, itens mágicos ou marcados com uma Runa Arcana ou Selo
+Místico não são afetados por este efeito.
+--Explosão Profana--
+Habilidade (Característica) – Ação
+Requisito: Pacto da Destruição
+Descrição: Você é capaz de causar uma
+explosão de destruição profana. Você e todas as
+criaturas a uma distância em metros igual à sua
+Vontade sofrem uma quantidade de dano igual à
+sua Determinação/Contusão. Criaturas que possuam um Dogma, Código ou Conhecimento Místico sofrem o dobro do dano.
+--Flagelo de Shyama--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Pacto da
+Destruição.
+Descrição: Você possui uma
+aura de violência ao seu redor que faz
+com que você e todas as criaturas vivas
+numa área em metros igual à sua Determinação
+ao seu redor recebam +2 nas suas rolagens e
+danos em ataques corporais.
+--Execrar--
+Habilidade (Técnica) – Ação
+Requisito: Nível 10, Pacto da Destruição.
+Mana: 30
+Descrição: Você concentra o ódio de Shyama em um ataque capaz de romper a barreira entre
+os planos! Faça um ataque corporal contra uma
+criatura. Esse ataque causa uma quantidade de
+dano extra igual à sua Determinação. Se
+o ataque reduzir uma criatura dos tipos
+Infernal, Deva, Morto-vivo, Espírito
+ou Elemental à metade ou menos
+de seus Pontos de Vida, o alvo precisa imediatamente fazer um teste
+de Vontade (Dificuldade igual à sua
+Determinação). Se passar no teste,
+sua consciência é enviada para o plano
+de origem por um breve momento, e o alvo
+fica Paralisado por 1 turno. Se rodar no teste, o
+alvo é imediatamente destruído e enviado para seu
+plano de origem.
+Se o alvo tiver um Dogma ou Pacto, sua
+consciência é enviada para o plano de seu patrono
+por um breve momento, e o alvo fica Paralisado
+por 1 turno.
+Qualquer criatura que não seja destruída
+por esse ataque fica Atordoada por um número
+de turnos igual à sua Vontade.
+---
+*Pacto da Escuridão:
+Descrição: Nehemoth, Aquela Que Sussurra na Escuridão, senhora dos segredos, da cegueira e do conhecimento perdido. Muitas vezes
+procurada por aqueles que perderam a
+visão, muitos Cultistas de Nehemoth
+são aqueles que se favorecem da escuridão – como ladrões, assassinos,
+Vampiros e Necromantes.
+Você não precisa mais de seus olhos
+para enxergar, e pode ver, normalmente, mesmo com os olhos fechados ou vendados – ou mesmo se eles
+forem removidos. Além disso, você consegue ver através de ilusões e distingue criaturas invisíveis sem dificuldades. No entanto, sempre que
+estiver sob luz direta do sol, todos os seus testes são
+realizados como se você fosse Inapto.
+--Abraço da Escuridão--
+Habilidade (Característica) – Suporte
+Requisitos: Pacto da Escuridão
+Descrição: Você passou muito tempo comungando com a escuridão, e nega a proteção que
+aqueles que a utilizam tentam conseguir. Sempre
+que uma criatura dos tipos Amaldiçoado, Espírito
+ou Morto-Vivo lhe causar dano ou perda de vida
+ou de mana por qualquer meio, você reduz aquele
+dano, perda de Vida ou Mana à metade. Além disso, você recebe +2 para se esconder, se mover em
+silêncio e mentir e em seus testes para perceber
+criaturas escondidas e detectar mentiras.
+--Servo de Nehemoth--
+Habilidade (Característica) – Suporte
+Requisito: Pacto da Escuridão
+Descrição: Um Mahr o segue lealmente.
+Esse Infernal é completamente leal a você e fará
+tudo o que lhe for pedido. Ele se comunica através de telepatia com você, e você é capaz de enxergar pelos olhos dele sempre que desejar – mas
+sua visão dividida faz com que você realize todos
+os seus testes como se fosse Inapto enquanto faz
+isso.
+Se for destruído de alguma forma, ele aparecerá junto a você na próxima vez que você acordar de um período de sono de pelo menos 4 horas
+– que será acompanhado de pesadelos à medida
+que a entidade infernal se liga a você.
+--Travessia das Sombras--
+Habilidade (Característica) – Suporte
+Requisitos: Nível 5, Pacto da Escuridão.
+Mana: 10
+Dificuldade da Magia: 12
+Descrição: Entrando em uma área de
+sombras grande os suficiente para cobrir você
+por completo e desenhando um Símbolo Profano
+no ar, você cria uma ligação entre aquela sombra
+e quaisquer outras sombras grandes o suficientes
+para conterem você a uma distância em quilômetros igual à sua Vontade. Você sabe o que há no
+interior dessas sombras e pode se transportar imediatamente para dentro de qualquer uma delas.
+Esse Símbolo Profano se dissipa imediatamente depois que seus efeitos são desencadeados.
+--Visão de Nehemoth--
+Habilidade (Característica) – Ação
+Requisitos: Nível 10, Pacto da Escuridão.
+Mana: 40
+Dificuldade da Magia: Determinação do alvo
+Descrição: Desenhando um Símbolo Profano sobre uma criatura, você envia a percepção
+dela para o Grande Abismo em sua completa escuridão. O alvo deve fazer um teste de Vontade
+(dificuldade igual à sua Determinação). Se tiver
+sucesso, ele será considerado Cego até que possa
+olhar diretamente para o sol. Se falhar, será considerado Cego permanentemente.
+Esse Símbolo Profano se dissipa imediatamente depois que seus efeitos são desencadeados.
+Este efeito é considerado uma Maldição.
+---
+*Pacto da Loucura:
+Descrição: O Inominável, Aquele Cujo
+Nome Não Deve Ser Pronunciado, senhor da
+loucura, aquele que traz o horror. A maioria dos
+que cultuam o Inominável possuem algum desequilíbrio mental ou uma visão particularmente
+distorcida sobre o mundo ao seu redor.
+Sua mente possui uma compreensão estranha da realidade. Graças a isso, você tem Determinação +2 e é imune a efeitos mentais e efeitos
+de Medo, mas você tem Inteligência -1 (você não
+perde idiomas nesse processo).
+Especial: Se sua Inteligência for reduzida
+a 1 devido a este Pacto, você estará reduzido aos
+seus instintos mais básicos. Você ainda é capaz de
+raciocinar, mas sempre procurará a resposta mais
+simples para qualquer problema. Você não é capaz de se concentrar para ler textos (embora ainda
+possa ler avisos e compreender sinais gráficos) e
+nem usar Habilidades dos tipos Magia ou Música. 
+--Loucura Revelada--
+Habilidade (Característica) – Suporte
+Requisitos: Pacto da Loucura
+Descrição: Qualquer criatura que tente afetar
+você com um efeito mental ou um efeito de medo
+perde, imediatamente, uma quantidade de Pontos de
+Vida iguais à sua Vontade e uma quantidade de Pontos de Mana iguais à sua Determinação enquanto a
+sua própria loucura toca a mente do alvo.
+Além disso, graças à sua natureza instável,
+é muito difícil perceber os padrões em seu comportamento, e você recebe +1d6 quando tentar
+mentir ou esconder a verdade.
+--Espelhar Loucura--
+Habilidade (Característica) – Suporte
+Requisitos: Pacto da Loucura
+Descrição: Você tem Determinação +2, e
+qualquer criatura que tente afetar você com um
+efeito mental ou um efeito de medo deve fazer
+um teste de Vontade (Dificuldade igual à sua Determinação) ou será ele próprio afetado pelo efeito que estava tentando usar sobre você – o alvo
+é afetado automaticamente, e se resistir ao efeito
+for possível, ele será afetado com se tivesse tido
+uma falha crítica no teste. Se a criatura for imune
+ao efeito, ela perde uma quantidade de Pontos de
+Mana igual à sua Vontade.
+--Corrente de Loucura--
+Habilidade (Característica) – Suporte
+Requisitos: Nível 5, Espelhar Loucura.
+Descrição: Você tem Determinação +2, e
+sempre que um efeito mental ou um efeito de medo
+for usado em você ou por você, ele afetará todas as
+criaturas a uma distância em metros do alvo e de
+você igual à sua Vontade. Se uma criatura afetada
+por esse efeito for imune ao efeito, ela perde uma
+quantidade de Pontos de Mana igual à sua Vontade.
+Além disso, qualquer criatura capaz de perceber mentiras automaticamente precisará fazer
+testes para perceber qualquer mentira que você
+disser. Criaturas que não forem capazes de perceber mentiras automaticamente não perceberão
+suas mentiras de forma alguma.
+--Visão do Vazio--
+Habilidade (Característica) – Ação
+Requisito: Nível 10; Pacto da Loucura.
+Mana: 60
+Descrição: Tocando um alvo, você faz
+com que ele seja capaz de perceber o Vazio regido pelo Inominável por um breve momento. O
+alvo deve fazer um teste de Vontade (Dificuldade igual à sua Determinação). Se o alvo tiver
+sucesso, ele será considerado Amedrontado com
+relação a você por um número de turnos igual
+à sua Vontade. Se falhar no teste, o alvo ficará
+catatônico durante um número de turnos igual a
+sua Vontade, enquanto seus sentidos são enviados para o Vazio Inominável. O alvo é considerado Indefeso durante esse período, e quando o
+efeito terminar, ele estará horrorizado, incapaz
+de compreender as coisas que viu, com um redutor de -1 em sua Inteligência e Vontade por um
+número de dias igual à sua Vontade – e durante esse período, sempre que tentar dormir, terá
+pesadelos terríveis, devendo fazer um teste de
+Vontade (dificuldade igual à sua Determinação)
+para não acordar em pânico a cada hora de descanso – e sem recuperar PVs e PMs referentes
+ao descanso daquela hora.
+---
+*Pacto da Pestilência:
+Descrição: Ereshkigal, A Impura, Aquela que Polui, é responsável por trazer doença e
+sofrimento. Aqueles que procuram pactos com
+ela tanto podem desejar infligir violentas moléstias sobre outros quanto ficarem intocados pela
+carícia de Ereshkigal. Muitos doentes terminais
+também procuram A Impura na tentativa de sobreviver às suas enfermidades.
+Sempre que for exposto a uma doença
+(natural ou mágica), você falha automaticamente no teste de infecção e nos testes para resistir
+aos sintomas da doença (mesmo que seja imune
+a doenças). No entanto, você não é afetado pelos sintomas da doença (embora possa apresentar
+manifestações estéticas dela) e pode transmiti-
+-la normalmente. Além disso, você sempre sabe
+quais doenças o estão infectando, assim como
+é capaz de detectar doenças em outras criaturas
+apenas com um toque.
+Se você for alvo da magia Purgar ou beber um Antídoto Universal, você perde uma das
+doenças que carrega no momento, aleatoriamente, mas passa a sentir os sintomas daquela doença por 1 dia como se tivesse
+falhado no teste para resistir aos seus
+efeitos.
+--Presença de Ereshkigal--
+Habilidade – Ação
+Requisito: Pacto da Pestilência
+Mana: 30
+Descrição: Você emana um
+característico odor sulfúrico que
+não chega a ser incômodo, apesar
+de facilmente notável – e qualquer
+criatura que receba bônus para farejar pode escolher 6 como resultado de
+1 de seus dados extras com relação a
+você.
+Você pode, no entanto, intensificar este odor ao ponto dele se tornar praticamente insuportável, fazendo com que todas
+as criaturas vivas a uma quantidade de metros
+de você iguais à sua Vontade precisem fazer
+um teste de Força (Dificuldade igual à sua Determinação) ou ficarão Distraídos por 1 turno.
+Criaturas que tiverem uma Falha Crítica neste
+teste ficam Paralisadas por 1 turno, incapazes
+de realizar qualquer ação exceto esvaziarem o
+conteúdo de seus estômagos sobre os próprios
+pés.
+Passando ou falhando no teste, todas as
+criaturas vivas na área ficam Atordoadas por 2
+turnos.
+Este efeito é considerado uma doença mágica.
+--Virulência--
+Habilidade – Suporte
+Requisito: Pacto da Pestilência
+Descrição: Sua presença diminui a imunidade das criaturas vivas ao redor. Todas as criaturas vivas a uma quantidade de metros igual à
+sua Determinação ao seu redor fazem seus testes
+para resistir a infecções e aos efeitos de doenças e
+venenos como se fossem Inaptas.
+--Carícia de Ereshkigal--
+Habilidade – Ação
+Requisitos: Nível 5, Pacto da Pestilência.
+Mana: 30
+Descrição: Tocando em um alvo, você
+transmite uma doença que você possua, em sua potência máxima. O alvo
+deve passar em um teste de Força
+(Dificuldade igual à sua Determinação) ou será afetado imediatamente por uma das doenças que você
+estiver carregando (à sua escolha)
+como se tivesse falhado no primeiro teste para verificar os efeitos dos
+sintomas.
+--Manto de Ereshkigal--
+Habilidade – Ação
+Requisitos: Nível 10, Pacto da Pestilência.
+Mana: 60
+Descrição: Você pode escolher uma
+das doenças que carrega e disparar um surto dela
+em uma área igual a sua Vontade em quilômetros.
+Todos dentro dessa área devem fazer um teste de
+Força (Dificuldade normal de acordo com a doença escolhida) para não contrair a doença. Todos os
+que permanecerem dentro da área devem fazer um
+novo teste a cada dia para resistir à infecção. A área
+permanece uma zona de virulência enquanto você
+permanecer dentro da área.
+Você só pode manter 1 Manto de Ereshkigal estendido de cada vez.
+---
+*Pacto da Tirania:
+Habilidade (Característica) – Suporte
+Descrição: Virzú, Aquele que Rege, A
+Palavra que Não Pode ser Desafiada, O Trono
+Acima, é o Primordial da tirania e da regência pela
+força. Cultistas que procuram Virzú quase sempre
+são aqueles que se sentem inferiorizados quando
+acreditam que deveriam ser reconhecidos.
+Sempre que uma criatura viva for atacar
+você (ou utilizar algum efeito que cause dano,
+como Magias, algumas Músicas e Gritos), ela
+precisa realizar um teste de Vontade (Dificuldade
+igual à sua Determinação). Se for bem sucedida,
+ela o ataca com um redutor igual à sua Vontade
+no seu teste. Se falhar, ela não pode atacar. Depois que passar no teste, uma criatura não é mais
+afetada até o próximo nascer ou por do sol.
+Este é um efeito mental.
+--Olhar de Virzú--
+Habilidade (Característica) – Reação
+Requisitos: Pacto da Tirania
+Mana: Determinação do alvo
+Descrição: Sempre que uma criatura viva
+fitar você nos olhos, você pode invocar a majestade de Virzú para subjugar a vontade do alvo.
+Enquanto fitar o alvo nos olhos, ele não pode
+se mover, ficando paralisado. Você pode manter
+esse efeito por tanto tempo quanto quiser, desde
+que se mantenha fitando o alvo e não realize qualquer ação padrão – você ainda pode usar ações
+livres e ações de movimento, desde que continue
+sempre fitando o alvo.
+Este efeito também é dissipado imediatamente se você ou o alvo sofrerem dano.
+Especial: Lutar contra uma criatura sem
+fitá-la faz com que a Defesa base do alvo tenha
+um acréscimo de +4 contra seus ataques, e a dificuldade de conjurar magias contra ele tem sua
+Dificuldade aumentada em 2.
+Este é um efeito mental.
+--Voz de Virzú--
+Habilidade (Característica) – Ação
+Requisitos: Nível 5, Pacto da Tirania.
+Mana: 40
+Descrição: Você exerce a vontade de
+Virzú através de um comando contra uma criatura. Se a criatura for capaz de compreender o
+que você disse, ela precisa passar em um teste de
+Vontade (Dificuldade igual à sua Determinação)
+ou realiza o comando imediatamente. O comando deve poder ser realizado em apenas um turno
+e não pode ter mais do que uma palavra por ponto de Vontade que você tiver (“ataque o anão”,
+“deite no chão”, “corra para longe de mim”). Se o
+comando disser respeito a ações involuntárias do
+alvo ou se for contra seus Dogmas ou Códigos, o
+alvo é automaticamente bem sucedido no teste,
+mas apenas Sacerdotes de Denalla consideram a
+ordem “cometa suicídio” como uma quebra de
+votos, e qualquer outra criatura ordenada a isso
+fará um ataque corporal contra si mesmo como
+se estivesse Desprevenido.
+Se um alvo falhar no teste, mas não for capaz – ou não compreender – a ordem, ele simplesmente fica confuso, não realizando nenhuma
+ação.
+Este é um efeito mental.
+--Ajoelhem-se!--
+Habilidade (Característica) – Ação
+Requisitos: Nível 10, Pacto da Tirania.
+Mana: 40
+Descrição: Você canaliza a vontade de
+Virzú através de um comando contra seus inimigos. Você diz uma palavra em voz alta. Todas as criaturas vivas ao seu redor a até uma
+distância em metros igual à sua Vontade capazes de ouvir e compreender comando precisam
+realizar um teste de Vontade (Dificuldade igual
+à sua Determinação). Aqueles que falharem no
+teste precisam, imediatamente, realizar a ação
+se forem capazes. Se o comando disser respeito
+a ações involuntárias do alvo ou se for contra
+seus Dogmas ou Códigos, o alvo é automaticamente bem sucedido no teste, mas apenas Sacerdotes de Denalla consideram a ordem “suicide” como uma quebra de votos, e qualquer
+outra criatura ordenada a isso fará um ataque
+corporal contra si mesmo como se estivesse
+Desprevenido.
+Se um alvo falhar no teste, mas não for capaz – ou não compreender – a ordem, ele fica
+paralisado por um turno.
+Este é um efeito mental.
+---
+*\
+---
+
+**Sanguíneo**
+
+---
+/*
+Requisitos
+Para seguir este Caminho você
+precisa preencher os seguintes Requisitos:
+• Conhecimento Arcano
+ (Habilidade)
+• Vontade 5
+• Ter sido afetado por um efeito de
+sangramento que o fez ficar Por um Fio.
+Habilidade Automática
+--Magia Sanguínea--
+Habilidade (Técnica) – Suporte
+Descrição: Sempre que você usar seus
+Pontos de Vida no lugar de seus Pontos de
+Mana para abastecer magias, considere que 1
+Ponto de Vida equivale a 1 Ponto de Mana.
+Além disso, sempre que abastecer uma Magia
+com pelo menos 5 Pontos de Vida dessa forma, a Dificuldade daquela Magia é reduzida
+em 2.
+*\
+---
+
+Habilidades Basicas
+
+---
+--Arma dos Mortos--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 11
+Descrição: Desenhando uma
+Runa Arcana sobre um osso, você
+o imbuí com energia espiritual,
+transformando-o em uma arma
+necromântica. A Arma dos
+Mortos será uma arma corporal
+com FN 1 que causa dano igual
+à Força + Inteligência do conjurador – o tipo de dano deve
+ser escolhido entre contusão,
+corte ou perfuração, no momento em que a magia é conjurada. A arma é considerada como
+tendo a sua Runa pessoal desenhada sobre ela, e, enquanto você
+estiver usando a Arma dos Mortos,
+qualquer ataque que atinja uma criatura viva faz com que o alvo perca uma
+quantidade de Pontos de Vida iguais à sua
+Vontade além do dano normal da arma (este é um
+efeito de sangramento).
+Esta Runa Arcana dura 1 minuto, e quando
+se dissipa, o osso volta à sua forma original.
+---
+--Deflagrar Ossos--
+Habilidade (Magia) – Ação
+Mana: Varia
+Dificuldade da Magia: 13
+Descrição: Desenhando uma Runa Arcana
+entre você e uma pilha de ossos ou um cadáver
+dentro da sua linha de visão, você faz com que os ossos explodam lançando estilhaços em todas as
+direções. Todas as criaturas a uma quantidade de
+metros igual à sua Determinação ao redor da pilha de ossos sofrem dano por Corte dependendo
+da quantidade de ossos afetados – o que também
+afeta o custo em Mana da magia. Um único osso
+grande (Fêmur, caixa torácica ou crânio) de uma
+criatura média terá um custo em Mana de 5 e causa
+10 de dano. Restos de uma criatura pequena ou o
+único osso de uma criatura grande terá um custo
+em Mana de 10 e causa 15 de dano. Restos de uma
+criatura média ou o único osso de uma criatura
+enorme terá um custo de 15 pontos de Mana e causa 20 de dano. Restos de uma criatura grande terá
+um custo de 20 pontos de Mana e causa 25 pontos
+de dano. Restos de uma criatura colossal terá um
+custo de Mana de 25 e causa 30 pontos de dano.
+Mortos-vivos com Mente Vazia podem ser
+afetados por essa magia, e contam como restos de
+uma criatura de seu tamanho. Eles perdem uma
+quantidade de Pontos de Vida igual à quantidade de dano que causam, mais uma quantidade de
+Pontos de Vida iguais à sua Determinação. .
+Essa Runa Arcana se dissipa assim que seus
+efeitos são desencadeados.
+---
+--Ferimentos Abertos--
+Habilidade – Suporte
+Descrição: O sangue parece querer escapar dos ferimentos quando você está por perto.
+Todos os efeitos de Sangramento que causem
+dano ou perda de vida em uma área em metros
+igual à sua Determinação ao seu redor causam o
+dobro do dano ou perda de vida normal.
+---
+--Ligação de Sangue--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: Determinação do
+Alvo
+Descrição: Desenhando uma Runa Arcana
+sobre uma criatura viva, você cria um vínculo vital entre ele e você. Sempre que o alvo sofrer dano ou perder Pontos de Vida, você recupera metade da quantidade de dano sofrido ou Pontos de Vida perdidos.
+Esta Runa Arcana dura 1 minuto.
+Este efeito é considerado como uma Maldição.
+---
+--Percepção Sanguínea--
+Habilidade (Magia) – Ação
+Mana: 15
+Dificuldade da Magia: 11
+Descrição: Desenhando uma Runa Arcana sobre uma criatura viva, você faz com que ela
+ganhe uma percepção sobre o fluxo de sangue e
+batimentos cardíacos ao seu redor. Ele consegue
+perceber se uma criatura está viva, morta, se é um
+morto-vivo, espírito ou se possui Corpo Amórfico dentro de uma área em metros igual à Vontade
+do Conjurador ao seu redor. Além disso, o alvo
+recebe +2 em todos os seus testes de ataque contra criaturas vivas que não possuam Corpo Amórfico dentro dessa área, e não nunca é considerado
+Distraído ou Cego em relação a elas.
+---
+
+Habilidades Avançadas
+
+---
+--Coagular Sangue--
+Habilidade (Magia) – Ação
+Requisitos: Nível 5, Percepção Sanguínea.
+Mana: Varia
+Dificuldade da Magia: 13
+Descrição: Desenhando uma Runa Arcana
+sobre uma criatura viva, você pode engrossar seu
+sangue com efeitos benéficos – ou mortais! Você
+pode coagular apenas sangue exposto, cessando
+assim todos os efeitos de Sangramento que a criatura estiver sofrendo por um custo de 5 Pontos de
+Mana. Você pode engrossar levemente o sangue
+dentro das veias da criatura fazendo com que ela
+fique desorientada, ficando Atordoada por um
+número de turnos igual à Vontade do Conjurador
+por 15 Pontos de Mana. Ou você pode coagular
+o sangue do alvo, fazendo com que o alvo perca
+30 Pontos de Vida e fique Distraído por 1 turno
+devido ao mal estar súbito por um custo de 30
+Pontos de Mana.
+---
+--Ferida Cruel--
+Habilidade – Suporte
+Requisitos: Nível 5, Ferimentos Abertos.
+Descrição: Suas magias ou ataques causam
+ferimentos brutais que vertem sangue. Sempre
+que um de suas Magias ou ataques corporais cause
+dano por Corte/Perfuração em um alvo, aquele
+alvo passa a perder 5 Pontos de Pontos de Vida a cada turno, por uma quantidade de turnos igual
+à sua Vontade.
+Este é um efeito de sangramento.
+---
+--Fonte de Sangue-
+Habilidade (Magia) – Ação
+Requisitos: Nível 5
+Mana: 10
+Dificuldade da Magia: Determinação do
+Alvo
+Descrição: Desenhando uma Runa Arcana entre você e uma criatura dentro da sua linha
+de visão, você faz com que o alvo verta sangue
+através da pele. O alvo perde uma quantidade de
+Pontos de Vida igual à sua Vontade por turno.
+Essa Runa Arcana dura por uma quantidade de turnos igual à sua Vontade.
+Este é um efeito de sangramento.
+Este efeito é considerado como uma Maldição.
+---
+--Sifão de Sangue--
+Habilidade (Magia) – Ação
+Requisitos: Nível 5, Ferimentos Abertos.
+Mana: 30
+Dificuldade da Magia: 15
+Descrição: Desenhando uma Runa Arcana sobre si mesmo, você se torna um nexo de
+energia necromântica, absorvendo a força vital
+das criaturas vivas ao seu redor. Você absorve
+parte da energia vital contida nesse sangue, recuperando metade de todo dano ou perda de vida
+causada por efeitos de sangramento dentro da
+área de efeito da magia.
+Essa Runa Arcana dura por 1 minuto.
+---
+
+Habilidade Final
+
+---
+--Vibrar os Ossos--
+Habilidade (Magia) – Ação
+Requisitos: Nível 10, Deflagrar Ossos.
+Mana: 30
+Dificuldade da Magia: Determinação do Alvo
+Descrição: Desenhando uma Runa
+Arcana entre você e uma criatura dentro de
+sua linha de visão, você faz com que os ossos
+do alvo vibrem violentamente sob seus músculos, fazendo o alvo perder 30 Pontos de
+Vida e fique Atordoado por uma quantidade
+de turnos igual à sua Inteligência. Se o alvo
+for um morto-vivo, ele sofre uma quantidade
+de dano adicional igual à sua Determinação.
+Se o alvo ficar sem Pontos de Vida graças a esse efeito, seus ossos explodem através
+da carne, matando o alvo imediatamente e
+causando dano como descrito em Deflagrar
+Ossos.
+Essa Runa Arcana se dissipa assim que
+seus efeitos forem desencadeados.
+---

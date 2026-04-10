@@ -1,0 +1,271 @@
+Habilidades Revisadas
+
+---
+--Aparar--
+Habilidade (Técnica) – Suporte
+Descrição: você pode usar qualquer
+coisa que esteja em suas mãos para afastar e
+desviar golpes desferidos contra você. Enquanto estiver com um objeto em pelo menos uma
+das mãos, você recebe Esquiva +1. Se estiver
+segurando um objeto em ambas as mãos ou um
+objeto em cada mão, você recebe Esquiva +2.
+---
+--Arma Relampejante--
+Habilidade (Técnica) – Ação
+Mana: 15
+Descrição: faça um ataque corporal
+com uma arma que esteja marcada com sua
+Runa pessoal. Esse ataque causa o dano normal da arma, mais um dano adicional igual a
+10/Eletricidade. Este ataque ignora bônus de
+Bloqueio e RD oferecido por armaduras com
+a propriedade Pesada.
+---
+--Ataque Chocante--
+Habilidade (Técnica) – Ação
+Requisitos: Nível 5, Arma Relampejante
+Mana: 25
+Descrição: faça um ataque corporal
+com uma arma que esteja marcada com sua
+Runa pessoal. Esse ataque causa o dano normal da arma em conjunto com uma potente
+rajada elétrica que causa 10/Eletricidade e
+faz com que o alvo fique Distraído por 2 turnos. Esse ataque ignora bônus de Defesa (incluindo RD) oferecido por Escudos ou por
+qualquer Habilidade que exija o uso de itens
+(como Defesa Agressiva e Aparar) e armaduras com a propriedade Pesada.
+---
+--Ataque do Búfalo--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: faça uma manobra de Encontrão. Se acertar o ataque, além de causar
+o dano normal pelo encontrão, você aplica o
+efeito por tipo de dano específico que estiver
+causando com o ataque (veja Tipo de Dano,
+para detalhes).
+---
+--Bravura Selvagem 1--
+Habilidade (Característica) – Suporte
+Descrição: você confia mais nas suas
+habilidades naturais do que em armaduras
+para se defender. Quando não estiver usando
+armadura, você tem Esquiva +2.
+---
+--Bravura Selvagem 2--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Bravura Selvagem 1
+Descrição: Você veste sua bravura em
+batalha melhor do que alguns vestem armaduras. O Bônus de Esquiva conferido por
+Bravura Selvagem 1 aumenta para +4.
+---
+--Brigão--
+Habilidade (Técnica) – Suporte
+Descrição: você está acostumado a
+combater desarmado. Você rola +1 em seus ataques desarmados e adiciona +2 nos danos
+desses ataques.
+Além disso, quando utilizar a Manobra
+Atacar com Duas Armas utilizando apenas
+ataques desarmados, você não incorre nas regras de Inaptidão e a Manobra consome uma
+Ação Livre em vez de uma Ação de Movimento.
+---
+--Combate com Duas Armas 1--
+Habilidade (Técnica) – Suporte
+Descrição: você treinou para usar
+duas armas em combate de forma eficiente. Quando utilizar a Manobra Atacar com
+Duas Armas e pelo menos uma delas tiver
+uma FN igual à metade (ou menos) do que
+a Força do personagem (incluindo ataques
+desarmados), você não sofre as regras de
+Inaptidão.
+---
+--Combate com Duas Armas 2--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Combater com
+Duas Armas 1.
+Descrição: quando utilizar a Manobra
+Atacar com Duas Armas e nenhuma delas tiver FN maior do que a sua Força, você não
+sofre as regras de Inaptidão e a Manobra consome uma Ação Livre em vez de uma Ação
+de Movimento.
+---
+--Conjurar Broquel Místico--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: você desenha um Selo
+Místico sobre uma criatura que se materializa na forma de um broquel que flutua ao
+redor do alvo defletindo ataques, garantindo
+Esquiva +1. Ele pode ser segurado como
+um broquel normal e, neste caso tem FN 1,
+ocupa uma das mão e seu bônus de Esquiva
+é de +2.
+O Selo Místico que mantém o broquel
+se dissipa depois de 1 minuto.
+---
+--Conjurar Escudo--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: 10
+Descrição: você desenha uma Runa
+Arcana sobre uma criatura que se materializa
+na forma de um escudo que flutua ao redor
+do alvo defletindo ataques, garantindo Esquiva +2. Ele pode ser segurado como um
+escudo normal e, neste caso tem FN 2, ocupa
+uma mão e seu bônus de Esquiva é de +3.
+A Runa Arcana que mantém o escudo
+se dissipa depois de 1 minuto.
+----
+--Defletor--
+Habilidade (Técnica) – Suporte
+Descrição: você está acostumado a se
+defender de projéteis. Enquanto estiver empunhando uma arma corporal de duas mãos,
+duas armas corporais ou um escudo, você
+recebe +2 na sua Esquiva contra ataques à
+distância.
+Espírito Animal: Cobra
+Descrição: seu espírito possui a forma de uma cobra. Você tem um bônus de
+Esquiva +1. Você também é capaz de uma
+comunicação rudimentar – dentro das capacidades do animal – com qualquer criatura do
+tipo Réptil, e rola +1d6 em todas as rolagens
+(atacar, perceber, treinar, etc.) com relação à
+qualquer Besta do tipo Réptil.
+---
+--Estabilidade--
+Habilidade (Característica) – Suporte
+Descrição: você gosta de ter os dois
+pés solidamente plantados no chão – e faz
+isso muito bem! Você sempre rola +1d6 em
+todos os seus testes para evitar quedas e manter o equilíbrio.
+Além disso, sempre que fosse ficar Caído (ver pág. 66) automaticamente por qualquer motivo, você ignora a Condição (mas
+não danos ou quaisquer outros efeitos advindos da situação que o deixaria Caído). 
+Falhas da Armadura
+Habilidade (Técnica) – Suporte
+Descrição: você sabe como acertar
+ataques entre as frestas e nas falhas das armaduras dos inimigos. Seus ataques ignoram o
+bônus de Bloqueio oferecido pela Armadura
+do alvo (mas não sua RD ou Resistências).
+---
+--Golpe Devastador 1--
+Habilidade (Técnica) – Ação
+Requisito: Nocautear
+Mana: 30
+Descrição: faça um ataque corporal
+contra o alvo. Se acertar, este ataque causa
+o dobro do dano e o alvo fica Atordoado (ver
+pág. 66) por 1 turno.
+Golpe Devastador 2
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Golpe Devastador 1
+Mana: 50
+Descrição: Faça um ataque corporal
+contra o alvo. Se acertar, este ataca causa o triplo do dano e o alvo fica Atordoado (ver pág. 66)
+por 1 turno.
+---
+--Guerreiro de Aço 1--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado a
+usar armaduras. Você considera a FN de
+qualquer Armadura como tendo FN-1 para
+propósitos de Carga. Além disso, quando
+estiver utilizando uma Armaduras Médias
+ou Pesadas, considere que ela tem RD+1
+para todos os propósitos.
+---
+--Guerreiro de Aço 2--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Guerreiro de Aço 1
+Descrição: você está extremamente acostumado a usar armaduras pesadas
+e se sente confortável quando traja uma.
+Você considera a FN de qualquer Armadura como tendo FN-1 para propósitos de
+Carga. Além disso, sempre que um ataque
+contra você tenha um resultado maior do
+que seu Bloqueio, você aplica metade da
+RD (arredondada para baixo) de quaisquer
+Armadura que estiver usando.
+A redução de FN se acumula com a
+redução fornecida por Guerreiro de Aço 1.
+---
+--Nocautear--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: faça um ataque corporal
+que causa dano por Contusão. Se acertar,
+além de sofrer o dano normal do ataque,
+o alvo deve fazer um teste de Força (Dificuldade igual ao dano do ataque) ou ficará
+Caído.
+---
+--Onda de Raios--
+Habilidade (Técnica) – Ação
+Requisito: Arma Relampejante
+Mana: 15
+Descrição: faça um ataque corporal
+com uma arma que esteja marcada com sua
+Runa pessoal, contra um alvo dentro da sua
+linha de visão. Esse ataque produz uma descarga elétrica que causa igual a 10/Eletricidade. Esse ataque ignora bônus de Defesa (incluindo RD) oferecido por Escudos ou por
+qualquer Habilidade que exija o uso de itens
+(como Defesa Agressiva e Aparar) e armaduras com a Propriedade Pesada.
+Parede de Escudos
+Habilidade (Técnica) – Suporte
+Descrição: você está acostumado a lutar em grupo e usar seu escudo para proteger
+seus aliados. Enquanto você estiver usando
+um escudo, todos os aliados adjacentes recebem +1 na Esquiva.
+---
+--Pele de Pedra--
+Habilidade (Característica) – Suporte
+Descrição: sua pele é composta por
+uma grossa camada de rocha que o torna extremamente resistente e pesado. Você recebe +1d6 em todos os seus testes para evitar
+ser derrubado, resistir a doenças e venenos,
+empurrar ou segurar peso, mas é considerado Inapto em testes de escalar, saltar, correr
+ou se mover com agilidade. Você precisa de
+um turno inteiro para se levantar, em vez
+de uma Ação de Movimento e, para você, é
+impossível nadar. Você não possui o sentido do tato, mas não sente desconforto por
+ambientes com condições climáticas hostis.
+Seus ataques desarmados causam dano
+igual a Força +2/Contusão e você tem RD 4
+(Esse bônus de Defesa conta como Armadura). Além disso, sua pele tem as características
+de uma armadura Pesada, mas a conformação
+única da sua pele o impede de usar armaduras de qualquer tipo, e qualquer roupa precisa
+ser feita sob medida para você, custando duas
+vezes mais que o normal.
+---
+--Quadrúpede--
+Habilidade (Característica) – Suporte
+Descrição: Você usa quatro membros
+para locomoção por terra. Sua carga é calculada como se você tivesse duas vezes a sua
+Força normal, seu deslocamento é calculado
+como se você tivesse duas vezes sua Agilidade normal e você pode rolar +1d6 quando
+fizer testes de correr, saltar ou evitar ser derrubado e empurrado/puxado.
+Além disso, sempre que fosse ficar Caído automaticamente por qualquer motivo,
+você ignora a Condição (mas não danos ou
+quaisquer outros efeitos advindos da situação
+que o deixaria Caído).
+---
+--Sem Escapatória--
+Habilidade (Técnica) – Reação
+Requisito: Combate Tático
+Descrição: Se um oponente dentro do
+seu alcance corporal se levantar ou se mover
+para longe de você, você pode imediatamente
+fazer um ataque corporal normal contra ele.
+Se o ataque acertar, além de sofrer dano normal pelo ataque, o alvo não poderá se deslocar neste turno – ele estará de pé, no entanto,
+se estiver se levantando.
+---
+--Táticas de Batalha--
+Habilidade (Técnica) – Suporte
+Descrição: discutindo táticas militares básicas com seus aliados ao longo de
+suas jornadas, você permite que eles fiquem
+mais bem preparados para entrarem em combate. Todos os seus aliados, incluindo você,
+recebem um bônus de +2 em seus testes de
+Iniciativa enquanto você estiver dentro do
+seu alcance de visão. Eles também recebem
+Esquiva +2 quando estiverem Surpresos ou
+Desprevenidos, e podem utilizar suas Habilidades de Reação normalmente quando estiverem Distraídos.
+---
+--Transpor--
+Habilidade (Técnica) – Suporte
+Requisito: Defesa Agressiva
+Descrição: você sabe encontrar os
+espaços deixados pelo escudo do adversário.
+Seus ataques ignoram o bônus de Defesa oferecido por Escudos ou por qualquer Habilidade que exija o uso de itens (como Defesa
+Agressiva e Aparar).
+Especial: seus ataques com armas que
+tenham a Propriedade Transpor causam +2
+de dano.
+---

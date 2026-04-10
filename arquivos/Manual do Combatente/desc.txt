@@ -1,0 +1,1032 @@
+Capítulo 1: Regras
+Você vai encontrar a seguir uma nova regra de Defesa – mas ela não é com patível com a regra atual e, se for implementada, deve ser utilizada em seu lugar, não em
+conjunto com as regras de Defesa do Guia Básico (Guia Básico deve estar em itálico).
+Além disso, você também vai encontrar revisões do sistema de Carga e Deslocamento, esclarecimentos sobre o sistema de combate e Manobras, ampliando as opções a
+serem usadas em combate.
+
+---
+**Deslocamento**
+O Deslocamento do personagem
+é calculado dividindo-se sua Agilidade por 2 (arredondando este valor
+para baixo) e somando-se 4 ao resultado. Esse é o número de metros que um
+personagem consegue percorrer normalmente durante seu turno. Assim,
+um personagem com Agilidade 3 teria
+deslocamento 5 (3 dividido por 2 = 1,5,
+arredondado para baixo 1; 1 + 4 = 5) enquanto um personagem com Agilidade
+6 teria deslocamento 7 (6 dividido por 2
+= 3; 3 + 4 = 7).
+Para facilitar, a tabela a seguir
+mostra a movimentação de acordo
+com a Agilidade de cada personagem.
+O valor de corrida de um personagem
+é igual a 4 vezes seu Deslocamento
+normal. Se estiver usando uma armadura com a Propriedade Média, o
+personagem tem seu modificador de
+corrida diminuído para o triplo de
+seu Deslocamento (ao invés do quádruplo). Se estiver usando uma armadura com a Propriedade Pesada, seu
+modificador de corrida será apenas o
+dobro de seu Deslocamento normal.
+Armaduras com a Propriedade Leve
+não afetam o deslocamento do personagem.
+*Utilizando Tabuleiros:
+Para aqueles grupos de jogo que
+utilizam mapas, os mapas hexagonais
+tendem a ser mais simples de usar.
+No entanto, como mapas quadriculados são bem mais fáceis de encontrar
+– ou improvisar – as regras para esses
+tipos de mapa estão incluídas nesta
+seção.
+Em mapas hexagonais, cada hexágono conta como 1m de diâmetro.
+Em mapas quadriculados, cada
+quadrado conta como 1m de lado, e
+1,5m entre cada um dos cantos mais
+distantes.
+Em um tabuleiro hexagonal, o
+personagem simplesmente se desloca 1 hexágono por metro de Deslocamento. Em um tabuleiro quadriculado, um
+personagem se desloca 1 quadrado por
+metro de Deslocamento que possuir
+se estiver se movendo em ângulo reto
+– diretamente na vertical ou na horizontal. Quando estiver se movendo em
+diagonais, um personagem precisa de 3
+metros de Deslocamento para se mover
+2 quadrados – para facilitar essa contagem, considere que o primeiro quadrado na diagonal exige 1 metro de movimento, o segundo, 2 metros, o terceiro,
+1 metro, o quarto, 2 metros e assim por
+diante.
+Alguns exemplos de movimentações para um personagem com Deslocamento 6. A primeira diagonal – e todas as diagonais ímpares – consomem
+1m de Deslocamento, enquanto a segunda – e todas as diagonais pares –
+consomem 2m de Deslocamento.
+Essa regra pode ser utilizada para
+extrapolar o alcance de efeitos descritos em metro. Nos exemplos adiante,
+um efeito de alcance 4 que afeta tudo à
+frente do personagem – no caso de um
+efeito em linhas paralelas e diagonais
+em relação a um mapa quadriculado. 
+*Outras formas de Movimentação:
+Além de andar ou correr, talvez
+você precise realizar outros tipos de
+movimentação.
+Quando estiver escalando, nadando, andando em terreno acidentado ou
+se movendo nas copas das árvores, considere que seu Deslocamento é igual à
+metade do valor normal (e você não
+pode correr). Dependendo das circunstâncias, é preciso realizar testes para
+avançar. No caso de personagens escalando, nadando ou saltando veja as
+regras descritas em Ações e Testes, no
+Guia Básico, pág. 21. No caso de terreno difícil ou andar sobre os galhos de
+árvores, o personagem precisa de um
+teste de Agilidade (dificuldade 12 para
+terreno acidentado e 15 para copas de
+árvores) em cada turno que estiver se
+deslocando pelo terreno, ou ele cai –
+veja os efeitos de quedas adiante.
+Saltar
+A distância que um personagem
+consegue saltar em metros é igual à sua
+Agilidade dividida por 2 (arredondado
+para baixo). Se um personagem puder
+tomar impulso – correr pelo menos 3
+metros antes de saltar – ele é capaz de
+saltar uma quantidade de metros igual
+à sua Agilidade.
+A altura que um personagem
+pode saltar é igual à metade da distância de salto (arredondado para baixo).
+Caso possa tomar impulso, ele aumenta
+em 1 metro sua altura de salto.
+Se estiver usando uma armadura
+com as características Especiais Média
+ou Pesada, o personagem reduz em 1m
+suas capacidades de salto (tanto em distância quanto em altura). Armaduras
+com a Propriedade Leve não afetam a
+capacidade de salto do personagem.
+Impulsionar
+Um personagem pode impulsionar o salto de um aliado como uma
+Ação Padrão. Nesse caso, some metade
+da Força do personagem impulsionando, em metros, à capacidade de salto do
+personagem saltando (tanto em altura
+quanto em distância). O personagem
+impulsionado segue as regras de queda
+deliberada com relação a dano ou para
+realizar ataques de Encontrão.
+Quedas
+Um personagem pode cair por diversos motivos. Um deles é uma falha
+em uma Ação de Movimento. Às vezes
+pode ser como o resultado de um ataque ou magia. Nesses casos, ele sofre
+dano de acordo com o terreno. Caso
+um personagem tenha uma falha crítica
+em um teste e isso o leve a cair, ele fica
+Atordoado (pág. 66) por um número de
+turnos igual ao número de metros que
+caiu – além de sofrer o dano pela queda.
+O dano por quedas é igual a 4/
+Contusão por metro. Terrenos acidentados podem causar mais dano, geralmente definido na própria descrição do
+terreno. Nesse caso, o dano indicado
+deve substituir o dano padrão. Terrenos rochosos causam dano igual a 8/
+Contusão, enquanto um fosso com estacas causa dano igual a 12/Perfuração,
+por exemplo. Qualquer RD que o personagem possua é aplicada ao dano por
+queda, independente da fonte do dano
+(empurrões, quedas por falha crítica,
+objetos caindo sobre ele…).
+Se uma criatura de tamanho Médio ou menor cai da altura do chão
+(quando está andando, correndo ou
+simplesmente é empurrada) considere que ela sofre uma queda de 1 metro
+de altura, independente da sua altura.
+Criaturas de tamanho Grande ou maior
+que caiam da altura do chão sofrem
+dano de acordo com sua altura – uma
+criatura de 4 metros de altura sofre
+dano como se tivesse caído 4 metros,
+por exemplo. Criaturas de tamanho
+Miúdo não sofrem dano por queda da
+altura do chão.
+Um personagem pode saltar deliberadamente para baixo, estando preparado para amortecer o impacto da
+queda, de uma altura em metros igual
+à metade de sua Força ou Agilidade (o
+que for maior) sem sofrer dano. Se o
+personagem saltar uma distância maior
+do que essa, desconte essa distância do
+total para determinar o dano que ele sofre. Isso não afeta quedas, apenas saltos
+deliberados.
+Se uma criatura salta deliberadamente sobre outra, seja com o intuito de
+atacar ou de suavizar a própria queda,
+ela causa dano por contusão igual à sua
+FN/Contusão (a FN de uma criatura é
+igual à metade do seu peso em quilos;
+detalhes na sessão de Carga e Força Necessária, adiante) por metro que saltou
+sobre o alvo, e sofre a mesma quantidade de dano – este dano substitui o dano
+normal por queda deliberada. Realizar
+um ataque como esse é considerado
+uma manobra de Encontrão, que não
+exige que o personagem se desloque 3
+metros ou mais (mesmo saltar de 1 metro de altura pode ser considerado um
+Encontrão nessas condições) e o dano
+por queda substitui o dano por deslocamento.
+Se estiver saltando sobre outra criatura para suavizar a sua queda –
+seja a criatura um aliado ou não – use
+as regras de salto deliberado, acima,
+mas o dano será dividido igualmente
+(arredondado para baixo) entre a criatura saltando e seu alvo.
+Se um objeto cai sobre uma criatura, ele causa dano por Contusão
+igual à sua FN para cada metro que ele
+cair. Atingir um alvo com um objeto
+dessa forma exige um teste de Inteligência com uma dificuldade igual à
+Defesa do alvo +4. Independente do
+resultado do teste, a RD do alvo sempre se aplica contra dano de objetos
+caindo sobre ele.
+---
+**Carga e Força Necessária**
+A Carga mede quanto peso um personagem pode carregar. Esse valor é definido pela Força do personagem e não é
+uma medida de peso absoluta, mas, sim,
+uma medida da quantidade de peso que
+o personagem consegue carregar sem
+penalidades. Um personagem tem dois
+valores de Carga: Carga Básica, que é sua
+Força multiplicada por 5, e Carga Máxima, que é sua Força multiplicada por 10.
+Cada item tem uma medida de Força Necessária (FN) que é o valor da Força
+que o personagem precisa para utilizar
+aquele item com eficiência.
+Um personagem atacando com
+uma arma cuja FN é maior do que sua
+Força ataca como se fosse Inapto.
+Um personagem usando uma armadura cuja FN é maior do que sua Força realiza todos os testes como se fosse
+Inapto.
+Um personagem conjurando Magias através de um item canalizador cuja
+FN é maior do que sua Força realiza seus
+testes de conjuração como se fosse Inapto.
+Um personagem iniciando uma
+Música utilizando um instrumento musical cuja FN seja maior do que sua Força
+realiza seus testes relacionados àquela
+Música como se fosse Inapto.
+Um personagem segurando um
+escudo cuja FN é maior do que sua Força não recebe seus bônus de defesa.
+A FN de itens gerais – como uma
+pá, panela ou barraca, por exemplo
+– indicam a Força necessária para utilizá-los adequadamente. Se o personagem não tiver a Força necessária para
+utilizar esses itens, ele precisa do dobro
+do tempo normal para utilizá-los (cavar
+um buraco com uma pá, cozinhar com
+uma panela de ferro ou montar uma
+barraca, por exemplo).
+Os itens que o personagem estiver
+carregando (incluindo sua armadura
+e quaisquer armas e/ou escudos que
+estiver portando) ocupam uma quantidade de Carga igual à soma de sua
+FN – assim, um personagem utilizando
+uma Cota de Malha (FN 4) sobre uma
+Gambeson (FN 2), portando um escudo
+(FN 3) e uma espada longa (FN 4) e com
+uma maça estrela na cintura (FN 3) tem
+uma Carga total de 16.
+Para calcular a FN de um item
+que não esteja nas listas de equipamento, considere que cada 2 quilos de peso
+correspondem à FN 1. Para itens que
+não chegam aos 2 quilos, considere que
+cada 100 itens miúdos (como moedas pedras preciosas, componentes de poções) ou 20 itens pequenos (como flechas, virotes, pergaminhos, poções ou
+jóias) equivalem à FN 1.
+Uma criatura tem uma FN igual
+à metade de seu peso em quilos – mas
+se estiver carregando equipamentos,
+como uma armadura, a FN do equipamento se soma à Carga da criatura.
+Se um item for muito pesado para
+ser carregado por um único personagem –
+um baú grande (FN 7) contendo duas mil
+moedas de cobre (FN 20), por exemplo –
+um grupo pode realizar um esforço conjunto para carregá-lo. Nesse caso, some a
+Carga de todos os personagens carregando o peso para verificar se eles conseguem
+levantar o item. Todos os personagens estarão Segurando o item – veja Condições
+Revisadas, na página 66, para detalhes. Se
+o item exceder a Carga do grupo, consulte
+Efeitos da Carga, adiante.
+*Efeitos da Carga:
+Enquanto estiver carregando uma
+quantidade de FN menor do que sua
+Carga Básica, o personagem não sofre
+qualquer efeito.
+Se um personagem ultrapassar
+seu limite de Carga Básica, ele não consegue se locomover muito bem – passa
+a ter Deslocamento 2, independente de
+sua Agilidade, e não pode correr, saltar e nem realizar Encontrões (exceto
+por queda). Além disso, ele considera
+apenas metade de sua Agilidade (arredondada para baixo) para calcular sua
+Esquiva, e todos os seus testes de Agilidade são realizados como se o personagem fosse Inapto.
+Se um personagem estiver carregando ou levantando uma quantidade
+de FN maior do que sua Carga Máxima, ele não consegue se mover, e precisa fazer um teste de Força para Resistir
+a Fadiga no início de cada um de seus
+turnos (dificuldade igual à diferença
+entre sua Carga Máxima e a FN do objeto/criatura). Some 1 à dificuldade a
+cada turno que o personagem mantiver
+a carga depois do primeiro, cumulativamente – assim, um personagem com
+Força 6 (Carga máxima 60) levantando
+uma estátua de 140 quilos (FN 70) faz
+um teste de Força com dificuldade 10
+no primeiro turno, 11 no segundo, 12
+no terceiro e assim sucessivamente, até
+que solte a carga – ou não consiga mais
+suportar seu peso. Se falhar no teste,
+ele soltará a carga (se possível) e estará Exausto (pág. 69) por um número de
+turnos que teve sucesso para Resistir a
+Fadiga (a adrenalina cobra seu preço).
+Se não puder soltar a carga por algum motivo, ele é esmagado, perdendo
+uma quantidade de PVs e PMs igual à
+diferença entre sua Carga Máxima e a
+FN do objeto/criatura a cada turno, até
+que o peso seja tirado de cima dele – no
+exemplo acima, o personagem perderia
+10 PVs e 10 PMs por turno, até que a
+estátua fosse removida de cima dele.
+Essa regra também é utilizada
+para arrastar ou puxar peso, apenas
+removendo o risco de dano por esmagamento.
+Essa regra serve apenas para queda e esmagamento devido à objetos inanimados – para quedas de criaturas (ou
+saltar sobre uma criatura) veja Queda,
+acima.
+---
+**Rodada, Turno e Ações**
+Um combate em pequena escala
+– como uma escaramuça entre aventureiros e um grupo de monstros, por
+exemplo – dura, em média, 1 minuto.
+A maioria dos efeitos dura justamente
+esse tempo, o que seria o mesmo que
+dizer que são efeitos que duram até o
+final do combate.
+Dentro de cada combate, as ações
+dos combatentes são divididas em frações menores de tempo, chamadas rodadas. Uma rodada começa com as ações
+do personagem com a maior Iniciativa,
+e se encerra com as ações daquele com
+Iniciativa mais baixa. Assim que todos
+os personagens tiverem agido, a rodada
+termina e a próxima rodada tem início
+imediatamente. Cada rodada dura uma
+quantidade de tempo abstrata em relação ao combate como um todo, já que
+não importa se um combate tem 2 ou 20
+rodadas – pois ele ainda terá ocorrido,
+em termos de regras, dentro do espaço
+de 1 minuto.
+Dentro de uma rodada, cada personagem têm direito de realizar suas
+ações. Essas ações individuais são chamadas turnos. Apesar de todos os turnos de uma rodada ocorrerem simultaneamente, os personagens com maior
+iniciativa têm uma pequena vantagem
+em termos de velocidade de ação e reação. Assim, caso um personagem de
+alguma forma neutralize um outro que
+ainda não tenha agido naquela rodada,
+o personagem que ainda não agiu não
+terá direito de realizar uma ação no
+seu turno (a menos que seja trazido de
+volta ao combate de alguma forma, entre o momento que foi neutralizado e
+seu turno dentro da rodada).
+Por exemplo: num combate contra
+um grupo de Goblins (Iniciativa 12), o Feiticeiro (Iniciativa 5) perde todos os Pontos
+de Vida e fica Por um Fio. O Sacerdote (Iniciativa 7) vai até o Feiticeiro com sua Ação
+de Movimento e conjura uma magia de cura
+para estabilizá-lo. Em seu turno, o Guerreiro (Iniciativa 6), também vai até o Feiticeiro
+e o acorda (com uma Ação Completa), o que
+permite que o Feiticeiro seja capaz de agir
+no seu turno.
+Dentro de um turno, cada personagem pode realizar quatro tipos de
+Ações: Ações Livres, Ações de Movimento, Ações Padrão e Ação Completa. O personagem sempre pode realizar Ações Livres, mas deve escolher
+entre realizar 1 Ação Completa ou 1
+Ação Padrão e 1 Ação de Movimento
+ou 1 Ação de Movimento e 1 Ação Padrão ou duas Ações de Movimento.
+*Ações Livres:
+Estas são ações muito simples que
+não consomem tempo considerável ou
+que podem ser realizadas enquanto o
+personagem está concentrado em outra tarefa qualquer. Soltar itens que o
+personagem tenha nas mãos, sacar um
+item do cinto ou aljava (poção, flecha,
+uma arma) ou falar. Um personagem
+pode realizar qualquer número de
+Ações Livres por turno, desde que sejam diferentes. 
+*Ação de Movimento:
+São ações que permitem se deslocar de alguma forma durante o combate. Geralmente é utilizada para se
+aproximar ou se afastar de um alvo, ou
+escolher uma posição mais favorável,
+descer de uma montaria ou se levantar
+(caso o personagem esteja caído), por
+exemplo. Ações de Movimento também
+são usadas para sacar armas que estejam nas costas do personagem – como
+arcos dentro da aljava, um escudo ou
+um machado de batalha, por exemplo
+– ou para pegar itens do chão.
+Um personagem pode realizar
+uma Ação de Movimento por turno e
+ainda tem direito a uma Ação Padrão. 
+*Ações Padrão:
+São ações que exigem a maior parte da concentração do personagem ou
+que consomem um tempo considerável, como realizar um ataque, conjurar
+magias, ativar Habilidades de Ação, colocar um item numa mochila ou beber
+uma poção.
+Além disso, um personagem pode
+usar uma Ação Padrão para realizar
+uma Ação de Movimento, realizando
+assim duas Ações de Movimento no
+mesmo turno. Não é possível usar uma
+Ação de Movimento para realizar uma
+segunda Ação Padrão, no entanto.
+Um personagem pode realizar
+uma dessas Ações Padrão por turno e
+ainda tem direito a uma Ação de Movimento.
+*Ações Completas:
+Em vez de realizar uma Ação
+Padrão e uma Ação de Movimento,
+o personagem pode escolher (ou precisar, em alguns casos) realizar uma
+Ação Completa. Estas ações consomem
+todo o tempo e/ou concentração que o
+personagem tem à disposição durante
+o seu turno. Subir em uma montaria,
+procurar um item numa mochila, trocar
+a corda de um arco, realizar um Encontrão, correr ou fazer um teste que não
+diga respeito diretamente ao combate
+(como abrir uma fechadura, escalar,
+nadar ou procurar, por exemplo) são
+todas Ações Completas.
+Veja Outras Formas de Movimentação, na pág. 9, e em Manobras de
+Combate, ná pág. 22, para mais detalhes.
+---
+**Iniciativa**
+Quando um combate está para
+começar, é necessário decidir a ordem
+das ações de cada personagem. Em um
+jogo tradicional, existem três formas
+de iniciativa mais comuns: Individual,
+Grupal ou Alternada. Independente da
+forma de iniciativa utilizada, a rolagem
+será sempre a mesma: role 2d6 e some
+a Agilidade ou Inteligência (o que for
+menor) do personagem, adicionando
+quaisquer bônus de Iniciativa dele. 
+*Iniciativa Individual: todos os
+personagens envolvidos devem fazer
+uma rolagem de iniciativa – o Mestre
+rola para cada criatura que os personagens estiverem enfrentando, enquanto
+cada jogador rola pelo seu personagem.
+Os personagens com resultados mais
+altos agem primeiro, seguidos pelos
+que tiverem resultados mais baixos, em
+ordem decrescente. Em casos de empate, o personagem com a Agilidade mais
+alta age antes. Se ainda houver empate,
+o personagem com a Inteligência mais
+alta age antes. Se o empate persistir, a
+iniciativa de ambas as criaturas deve
+ser rolada novamente , mas apenas entre elas. O Mestre – ou um jogador designado – mantém anotada a ordem de
+iniciativa. Uma rodada começa com o
+personagem com o resultado mais alto,
+e termina quando o personagem de iniciativa mais baixa tiver agido. Não role
+iniciativa a cada rodada de combate!
+Considere que a ordem estabelecida na
+primeira rodada é mantida até o final
+da escaramuça. Essa é a forma mais
+tradicional de iniciativa, mas pode ser considerada bastante estática para alguns grupos. 
+*Iniciativa de Grupo: o Mestre
+rola um teste de iniciativa pelas criaturas que o grupo estiver enfrentando,
+enquanto os jogadores escolhem um
+jogador (geralmente aquele cujo personagem seja o líder do grupo, caso haja
+algum, ou aquele com o maior bônus
+para rolar iniciativa) para rolar. Todas
+as criaturas do grupo que tiver vencido
+agem primeiro, e então as criaturas do
+grupo oponente realizam todas as suas
+ações como preferirem. Essa forma de
+iniciativa é rápida e simples, sem necessitar de uma manutenção de ordem de
+iniciativa, mas é extremamente desbalanceada, já que o grupo que age antes
+pode concentrar todos os seus ataques
+em oponentes específicos, reduzindo o
+número de oponentes que terão chance de agir. Além disso, permite que os
+jogadores abusem de bônus de iniciativa, já que um único personagem com
+bônus elevados beneficia aqueles com
+chances reduzidas de ter bons resultados de iniciativa.
+*Iniciativa Alternada: Cada jogador rola a iniciativa pelo seu personagem, enquanto o Mestre rola pela
+criatura com a iniciativa mais alta que
+o grupo de aventureiros estiver enfrentando. O personagem com a iniciativa
+mais alta age primeiro. Assim que esse
+personagem terminar seu turno, um
+personagem do grupo oposto pode agir,
+e então é a vez do grupo oponente, sucessivamente. Se um dos grupos tiver mais criaturas que o outro, as criaturas
+excedentes agem sucessivamente depois
+que o último oponente tiver agido. No
+começo da rodada seguinte, o grupo que
+tiver vencido a iniciativa pode escolher
+qualquer criatura para agir primeiro.
+Essa forma de iniciativa permite bastante liberdade para os jogadores, que podem decidir quem agirá em que ordem,
+e táticas de linchamento (em que todo
+um grupo foca em um único oponente)
+tem pouco valor de controle de iniciativa mas tem valor de controle de número
+de ações – afinal, o grupo com mais criaturas tem mais ações para desempenhar
+no final da rodada. 
+---
+**Defesa**
+A Defesa de um personagem é dividida em duas partes: Esquiva e Bloqueio. A Esquiva é igual à 5 + Agilidade do personagem, além de quaisquer
+bônus de Esquiva conferidos por itens
+ou Habilidades. O Bloqueio inclui a RD
+da Armadura e quaisquer outros bônus
+de Bloqueio conferido por itens ou Habilidades, e é somado à Esquiva, mas
+anotado separadamente.
+Além disso, o personagem deve
+anotar a RD e quaisquer Resistência oferecidas pela armadura separadamente.
+Assim, um personagem com Agilidade 3, utilizando um uma Armadura
+Segmentada sobre uma Gambeson, tem
+Esquiva 8 (5 da Base, +3 da Agilidade)
+e Bloqueio 14 (8 da esquiva, +1 da RD
+da Gambeson, +5 da RD da Armadura
+Segmentada), RD 6 (RD 5 da Armadura Segmentada, +RD 1 da Gambeson) e
+Resistência a Frio (Gambeson).
+Qualquer ataque contra ess personagem que tenha um resultado igual ou
+menor do que sua Esquiva erra o alvo
+completamente – ele literalmente sai da
+frente do ataque, apara ou deflete com
+eficiência, evitando completamente
+seus efeitos.
+Qualquer ataque que tenha um resultado mais alto do que a Esquiva, mas
+menor ou igual ao Bloqueio do personagem, atinge a sua proteção, causando
+dano no personagem depois dos bônus
+de RD e Resistências serem aplicados.
+Qualquer ataque que tenha um
+resultado acima do Bloqueio do personagem ignora a armadura completamente, atingindo o alvo diretamente
+sem considerar a RD e Resistências da
+armadura.
+Os bônus de Bloqueio não aumentam a RD do personagem, mas a RD
+sempre é somada no Bloqueio. Bônus
+de Bloqueio e RD oferecidos por quaisquer fontes sempre se somam, exceto
+por RD natural (veja caixa ao lado para
+detalhes). 
+*Cobertura:
+Se um alvo estiver dentro da linha
+de visão de um personagem, mas houver
+algum objeto ou estrutura de tamanho
+considerável entre eles (uma coluna, arbustos densos, um canto de parede, um
+barril, um Escudo de Corpo…), o alvo é
+considerado com cobertura.
+Cobertura oferece um bônus de
+Esquiva de +4 contra ataques de distância e +2 contra ataques corporais.
+Em combate corporal, um personagem precisa estar adjacente à cobertura para receber seus bônus, o que
+significa que um personagem com uma
+arma de Haste (Alcance 3) pode se beneficiar de cobertura enquanto seu alvo
+pode não se beneficiar, dependendo
+das condições – um personagem usando um bordão, atrás de um escudo de
+corpo, atacando um lanceiro que está à
+1 metro de distância recebe o bônus de
+cobertura do escudo, enquanto o lanceiro não recebe, por exemplo.
+Se o alvo estiver atrás de um objeto que o deixe fora de sua linha de visão – agachado atrás de um muro, atrás
+de uma parede, sobre uma laje acima
+do agressor… – você não pode atacar o
+alvo, mesmo que saiba onde ele está. No
+entanto, como um personagem atacando a partir de uma cobertura desse tipo
+também não vê o alvo antes de sair de
+trás da cobertura, ele realiza seus ataques como se fosse Inapto no primeiro
+turno em que sai de trás da cobertura.
+Se estiver usando mapas, para
+verificar se um personagem tem cobertura, trace uma linha entre os dois extremos da base de um personagem para
+os dois extremos da base do outro. Se
+alguma dessas linhas atravessar uma
+ou mais barreiras, o alvo tem cobertura.
+Note que o alvo precisa estar
+adjacente à barreira (no caso de um
+mapa quadriculado, estar adjacente
+significa estar com pelo menos um
+lado encostando na barreira; se um
+personagem estiver tocando apenas
+um canto da barreira, isso não conta
+como cobertura).
+/*
+**RD e Resistências Naturais**
+Se um personagem tiver Redução de Dano ou Resistência derivada
+de Habilidades – geralmente Habilidades Raciais – essa RD não é somada no
+Bloqueio, e não é ignorada por ataques
+cujo resultado ultrapassem o Bloqueio
+do personagem. Assim, criaturas do
+tipo Artrópode, ou com a Habilidade
+Couro Grosso, Escamas Grossas, Paquiderme e Placas Quitinosas, assim como
+personagens com a Habilidade Duro
+como Pedra, sempre aplicam a RD contra quaisquer danos que sofram.
+A exceção é a Habilidade Pele de
+Pedra; como a RD dessa Habilidade é
+considerada como proveniente de uma
+Armadura, ela segue todas as regras de
+defesa normais.
+*\
+---
+**Ataque**
+Os ataques são testes nos quais
+você rola 2d6 e soma um Atributo específico, dependendo do ataque – se o
+ataque puder ser feito com mais de um
+Atributo, o jogador sempre pode escolher qual Atributo usar (geralmente o
+mais alto).
+Ataques corporais, tanto aqueles utilizando armas brancas (espadas
+longas, clavas, alabardas ou qualquer
+outra arma com o alcance Adjacente
+ou Haste), quanto ataques desarmados
+(incluindo socos, chutes, mordidas, chifres ou outras armas naturais) são feitos
+com Força ou Agilidade. Se o personagem estiver portando duas armas, ele
+pode utilizar a Manobra Atacar com
+Duas Armas ou pode alternar o uso das
+armas, atacando com cada uma em turnos diferentes. Essas regras se aplicam
+para ataques com armas, ataques desarmados ou uma combinação de ambos.
+Arremesso inclui armas corporais
+com a Propriedade Arremessável (como
+adagas, machadinhas ou azagaias) e
+também armas com alcance Arremesso (como fundas e fustibalos) além de
+poções e até mesmo pedras ou canecas.
+Todos podem ser realizados com Força,
+Agilidade ou Inteligência.
+Ataques à distância (arcos, bestas,
+prodds ou qualquer arma cujo Alcance
+seja Distância) são realizados rolando
+com Agilidade ou Inteligência.
+Todos os personagens são considerados aptos a usarem qualquer arma,
+seja ela qual for – embora algumas situações possam limitar suas opções –
+veja a caixa Inaptidão em Combate, para
+detalhes.
+A dificuldade dos testes de ataque (de qualquer tipo descrito acima) é
+sempre igual à Defesa do alvo – veja a
+seção Defesa, acima, para detalhes.
+/*
+**Inaptidão em combate**
+Existem algumas situações específicas que incorrem em Inaptidão:
+Se o personagem quiser realizar dois ataques num turno, ele realiza ambos os ataques como se fosse Inapto. Perceba que, mesmo que esteja portando
+duas armas, se o personagem atacar apenas com uma delas, ele não é considerado Inapto – isso ocorre apenas se ele quiser usar ambas as armas no mesmo
+turno. Ele pode até mesmo alternar o uso das armas, atacando com cada uma
+em turnos diferentes sem ser considerado Inapto. Essas regras se aplicam para
+ataques com armas, ataques desarmados ou uma combinação de ambos.
+Utilizar uma arma cuja FN seja maior do que a sua Força também faz com
+que você ataque como se fosse Inapto.
+Um ataque contra um alvo adjacente com uma arma de distância (uma
+arma cujo alcance seja Disparo ou Arremesso) é realizado como se o atacante fosse Inapto. Armas corporais com a Propriedade Arremessável não incorrem nessa
+regra se o personagem estiver utilizando a arma para realizar ataques corporais,
+independente do alcance da arma, a menos que você arremesse a arma.
+Finalmente, trajar uma Armadura com FN maior do que a sua Força significa que você realiza TODOS os seus testes de Agilidade e Força como se fosse Inapto, enquanto estiver usando a armadura - essa regra também se aplica
+à conjuração de magias, que embora não sejam testes físicos, ainda exigem o
+desenho de Runas para serem bem-sucedidas.
+Se duas ou mais condições fizerem o personagem realizar um teste como
+se fosse Inapto - por exemplo, utilizar uma arma com FN maior que a sua Força e
+estar Distraído - sua ação não tem chances de resultar em um sucesso e o personagem simplesmente falha automaticamente se insistir em tentar
+*\
+---
+**Dano**
+Quando um ataque atinge o alvo,
+ele causa dano de acordo com a arma
+utilizada. O dano é sempre fixo, geralmente resultado da soma da Força ao
+modificador de dano da arma – veja a
+tabela de armas, adiante, para detalhes.
+Quando o personagem sofre dano devido a um ataque, ele subtrai aquele valor
+de seus Pontos de Vida. Se ele tiver alguma Habilidade ou estiver sob algum
+efeito que o deixe Resistente a um tipo
+de dano, ele reduz o dano daquela fonte à metade (arredondado para baixo)
+antes de o subtrair de seus Pontos de
+Vida. Se ele tiver Vulnerabilidade a um
+tipo de dano, ele dobra o dano daquela
+fonte antes de o subtrair de seus Pontos
+de Vida. Se tiver Imunidade a um tipo
+de dano, ele não sofre nenhum dano daquele tipo – e caso o ataque cause algum
+outro efeito, ele também ignora o efeito
+extra nesse caso.
+Se o personagem tiver Redução
+de Dano (RD), subtraia o valor da RD
+de qualquer fonte de dano antes de
+aplicar qualquer modificador de Vulnerabilidade, Resistência ou Sucessos
+Decisivos. A RD geralmente é fornecida
+por Armaduras, embora algumas Habilidades e Magias possam oferecer RD.
+Alguns efeitos (como sangramentos, venenos e magias) podem causar
+Perda de Vida. Diferente de dano, a
+perda de vida nunca é afetada por Sucessos Decisivos, ataques localizados
+ou qualquer outro efeito que modifique dano. Efeitos que causam Perda de
+Vida não são afetados por RD.
+/*
+**RD e Resistências Naturais, Sucessos Decisivos e Falhas Críticas em combate**
+Um Sucesso Decisivo em uma
+rolagem de ataque multiplica o dano
+do ataque por 2.
+Se alguma Habilidade ou condição aumenta o dano do ataque –
+como um ataque usando Investida
+Mortal – some todos os modificadores antes de multiplicar o dano.
+No caso de ataques com Habilidades que multiplicam o dano –
+como um Golpe Devastador – some
+os multiplicadores ao invés de multiplicar várias vezes.
+No caso de Sucessos Decisivos
+que atinjam áreas vitais – utilizando
+a manobra Ataque Localizado – some
+os multiplicadores ao invés de multiplicar várias vezes.
+Algumas criaturas – como Plantas, Mortos-vivos e Construtos – são
+imunes a acertos decisivos, e não sofrem danos extras por conta disso.
+No caso de uma Falha Crítica
+num teste de ataque, o personagem
+sofre algum efeito colateral além de
+errar o ataque – ele joga sua arma longe, tropeça e cai ou até mesmo acerta
+um aliado próximo ou a si mesmo!
+Esse efeito colateral deve sempre ser
+definido pelo Mestre.
+*\
+*Por um Fio:
+Um personagem nunca pode ficar com menos de 0 PVs. Se um ataque
+causar mais dano do que ele possui
+PVs no momento, ele fica sem PVs, e é
+considerado Por um Fio. A quantidade
+de dano é irrelevante: um personagem
+com 5 PVs que sofra 5 pontos de dano
+ou um personagem com 2 PVs que sofra 30 pontos de dano estão, ambos, Por
+um Fio.
+Um personagem Por um Fio é
+considerado Inconsciente e Indefeso
+(veja Condições Revisadas, na pág. 66),
+não pode utilizar nenhuma Habilidade
+e qualquer quantidade de dano que ele
+sofrer o matará sem chances de recuperação – novamente, a quantidade de
+dano é irrelevante: um ataque que cause 1 ponto de dano ou uma magia que
+faça o personagem perder 20 PVs, irão,
+ambos, matar o personagem imediatamente.
+O personagem é capaz de resistir aos ferimentos que o levaram a ficar Por um Fio por uma quantidade
+de minutos igual à sua Determinação.
+Depois desse tempo, ele precisa fazer
+um teste de Vontade (dificuldade 15)
+para tentar permanecer vivo. Caso falhe neste teste, ele morre irremediavelmente. Se passar, ele fica Estabilizado,
+recuperando 1 PV imediatamente, mas
+permanecendo Inconsciente pelas próximas 6 horas.
+Um personagem Por um Fio pode
+ser auxiliado por um aliado usando um
+Kit de Cura, uma Magia, ou outro meio
+de recuperar Pontos de Vida (note que
+um personagem desacordado não pode
+beber poções). Se esse aliado for bem-sucedido em um teste de primeiros socorros (veja Cuidados Médicos, no Guia
+Básico, pág. 26) o personagem é considerado Estabilizado, como se tivesse sido
+bem-sucedido no teste de Vontade descrito acima – este teste pode ser repetido
+várias vezes, se houver tempo suficiente.
+Se um aliado falhar em suas tentativas de estabilizar o personagem Por
+um Fio, este ainda pode realizar seu teste de Vontade para tentar se estabilizar.
+Por outro lado, se um aliado puder recuperar Pontos de Vida diretamente (utilizando uma Magia de cura
+ou alguma Habilidade que recupere
+PVs), o alvo Por um Fio fica Estabilizado automaticamente, com a quantidade
+de Pontos de Vida que recuperou (ao
+invés de apenas 1) mas ainda ficará Inconsciente por 6 horas – ou até ser acordado por outro personagem.
+Obviamente, certos ferimentos
+podem tornar o restabelecimento impossível – veja Morte Instantânea, abaixo.
+*Morte Instantânea:
+Se um personagem estiver completamente Indefeso – isto é, Inconsciente, totalmente contido ou Por Um
+Fio – um oponente pode matá-lo instantaneamente com um ataque qualquer. O dano do ataque é irrelevante
+(uma faca cega é fatal se o oponente não
+puder se defender e, mesmo desarmado um personagem pode simplesmente estrangular uma vítima indefesa até
+matá-la), embora o ataque ainda precise atingir o alvo. 
+Lembre-se que um personagem
+que esteja dormindo não é considerado
+Indefeso, mas, sim, Surpreso.
+Além disso, certas formas de dano
+podem ser consideradas como morte
+instantânea: qualquer dano que exceda
+os PVs totais do personagem – quedas
+de grandes distâncias, ser esmagado
+por um objeto extremamente pesado ou
+mesmo um ataque ou magia particularmente devastadores – causam traumas além da capacidade de qualquer
+tentativa de estabilização. Imersão em
+magma ou ácido, ser engolido por uma
+criatura ou outras formas de dano que
+deixem um personagem Por um Fio e
+o coloquem em um ambiente nóxio devem ser considerados formas de Morte
+Instantânea.
+---
+**Manobras em combate**
+Um personagem pode, como parte de um ataque – ou de uma Habilidade de Ação que inclua um ataque – ou
+no lugar dele em alguns casos, realizar
+uma Manobra. Manobras são opções
+disponíveis para todos os personagens,
+independente de sua Classe ou Raça.
+Se for utilizar uma Manobra, o jogador
+deve anunciar seu intuito antes de realizar seu ataque naquele turno. 
+*Agarrar:
+Para agarrar um oponente em
+combate é necessário um Ataque Desarmado que ignora o Bloqueio do alvo.
+Um personagem precisa usar pelo menos uma mão para agarrar – se estiver
+utilizando ambas as mãos para tentar
+agarrar o alvo, o personagem recebe
+um bônus de +2 nesse ataque. É impossível Agarrar um alvo cuja FN seja
+maior do que a Carga Máxima do personagem – nesse caso, o personagem
+estará simplesmente se segurando no
+alvo. Se o ataque for bem-sucedido, em
+vez de causar dano, o atacante é considerado Agarrando o alvo, e este é
+considerado Agarrado.
+Enquanto estiver Agarrado ou
+Agarrando, o personagem é considerado Inapto para Conjurar Magias
+e para iniciar Músicas (e nos Confrontos relacionados à Músicas que
+estiver mantendo) e ambos realizam
+seus ataques como se fossem Inaptos
+um contra o outro (mas, não, contra
+outras criaturas), exceto quando estiverem realizando ataques utilizando armas com FN 1 ou 0 (incluindo
+ataques desarmados). Além disso,
+ambos os personagens Agarrando e
+Agarrado consideram o outro como
+Carga para todos os propósitos.
+Um personagem Agarrando
+pode soltar o alvo com uma Ação
+Livre (durante o seu turno) ou como
+uma Reação, caso seja atacado (o que
+permite que ele some sua Agilidade
+na Esquiva).
+Um personagem Agarrado
+pode, no seu turno, tentar se libertar
+realizando um confronto de Força
+ou Agilidade (o que for mais alto para cada personagem) com uma Ação
+de Movimento. 
+*Apertar:
+Um personagem Agarrando pode
+tentar Apertar o alvo Agarrado no intuito de causar dano. Para isso, é preciso usar ambas as mãos.
+Como uma Ação Padrão, o personagem Agarrando faz um Confronto
+de Força contra o personagem Agarrado. Se o atacante tiver um resultado
+mais alto do que o personagem Agarrado, o alvo perde uma quantidade de
+Pontos de Vida iguais à Força somado
+à margem pela qual o Confronto foi
+vencido; quaisquer bônus que o personagem Agarrando tiver nos seus ataques desarmados também é somado a
+esse dano. Em caso de empate ou se o
+resultado do alvo for mais alto, ambos
+continuam Agarrado/Agarrando, mas
+o alvo não sofre dano.
+*Arremessar:
+Se estiver Imobilizando, o personagem pode tentar arremessar o alvo
+Imobilizado. Para isso, é preciso usar
+ambas as mãos, e é impossível Imobilizar um alvo cuja FN seja maior do que
+sua Carga Máxima.
+Como uma Ação Completa, o personagem Imobilizando realiza um teste
+de Força com uma dificuldade igual à
+Defesa do alvo. Se o teste for um sucesso, ele arremessa o alvo uma quantidade de metros igual à sua Força, se o alvo
+tiver uma FN menor do que a Carga Básica do personagem arremessando ou 1
+metro se o alvo tiver uma FN maior do
+que isso. Se o teste for um fracasso, o
+personagem Imobilizando perde o controle e o alvo se solta.
+Uma criatura arremessada dessa
+forma sofre uma quantidade de dano por
+queda de acordo com a quantidade de
+metros que foi arremessado e fica Caída.
+Se for arremessada sobre outra
+criatura, o teste de Força para arremessar o alvo precisa ter um resultado
+mais alto do que a Esquiva do alvo visado pelo arremesso. Se o alvo visado
+pelo arremesso for atingido, ela sofre o
+mesmo dano da criatura arremessada,
+e precisa realizar um teste de Agilidade (dificuldade igual à 11 + número de
+metros que a criatura que o atingiu foi
+arremessada) ou fica Caída.
+*Atacar com Duas Armas:
+Como uma Reação, depois de ter
+utilizado sua Ação Padrão para realizar
+um ataque (incluindo ataques como parte de uma Manobra ou Habilidade) um
+personagem pode realizar um ataque com
+uma outra arma – seja uma arma que esteja segurando com outra mão, seja um
+ataque desarmado – como uma Ação de
+Movimento. O personagem não pode
+usar a mesma arma que utilizou para acionar essa Reação. O ataque é feito como se
+o personagem fosse Inapto e não pode se
+beneficiar de Habilidades de Ação – mas
+pode se beneficiar de Manobras.
+Esta Manobra é considerada uma
+Ação de Movimento e, portanto, se já
+tiver utilizado ou se não puder utilizar
+sua Ação de Movimento neste turno, o
+personagem não pode realizar esta Manobra.
+*Ataque Localizado:
+Como parte de um ataque (incluindo ataques como parte de uma Manobra
+ou Habilidade), você pode visar áreas vitais de um alvo (como o pescoço, a cabeça
+ou o coração) ou um membro do corpo.
+A defesa básica do alvo é considerada +4
+contra este ataque e, se acertar, o efeito
+depende da área visada:
+Se visar áreas vitais – se o ataque
+acertar, causa o dobro do dano.
+Se visar uma perna (ou outro
+membro locomotor) – se o ataque acertar, o alvo sofre dano normal, mas seu
+Deslocamento fica reduzido à metade
+e ele perde 10 PVs sempre que utilizar
+uma Ação de Movimento. Este ataque
+pode afetar um alvo uma quantidade
+de vezes igual ao número de membros
+locomotores que ele tiver (uma vez
+para Nagas e Tritões, duas vezes para
+Humanoides e Trogloditas, quatro vezes para criaturas quadrúpedes, etc.).
+Se visar um braço (ou outro membro manipulador) – se o ataque acertar, o
+alvo sofre dano normal, mas solta todos os
+itens que estiver segurando naquela mão e
+não pode mais utilizar aquele braço.
+Se visar membros especiais (asas,
+cauda, etc.) – o membro afetado não
+pode ser utilizado. Quaisquer itens que
+o membro estiver segurando são soltos.
+Se uma asa for atingida, a criatura ainda pode voar, mas perde 10 PVs e 10
+PMs a cada turno que estiver voando.
+Se ambas as asas forem afetadas, a criatura não pode voar, nem planar.
+Os efeitos de um ataque localizado contra membros são removidos se o
+personagem recuperar qualquer quantidade de PVs (exceto por descanso) ou
+se um teste de Cuidados Médicos for
+realizado com sucesso sobre o ferimento. Recuperação por descanso só remove os efeitos de um ataque localizado
+depois que o personagem tiver recuperado todos os seus PVs. 
+*Defesa Total:
+Como uma Ação Padrão, o personagem assume uma postura defensiva,
+focando em defletir e se esquivar de
+ataques. Quando utiliza essa Manobra,
+o personagem recebe, como uma Reação, +4 de Esquiva contra quaisquer
+ataques que forem feitos contra ele. Ele
+permanece nessa postura defensiva até
+o começo do seu próximo turno.
+Personagens Agarrados, Agarrando, Imobilizados, Imobilizando ou
+Surpresos não podem utilizar esta Manobra.
+*Derrubar:
+Se estiver Agarrando ou Imobilizando um alvo, um personagem pode
+tentar derrubar o alvo Agarrado ou
+Imobilizado como uma Ação Completa. Faça um Confronto de Agilidade ou
+Força (o que for mais alto para ambos).
+Se o personagem tentando derrubar
+o alvo tiver um resultado mais alto, o
+alvo será derrubado e estará Caído. O
+personagem que derrubou o alvo decide se continua segurando o alvo ou
+não como parte desta manobra – se ele
+decidir continuar segurando o alvo,
+ele também ficará Caído, mas continua
+Agarrando ou Imobilizando o alvo. Em
+caso de empate ou se o resultado do alvo for mais alto, o personagem tentando derrubar continua Agarrando ou
+Imobilizando o alvo, mas ele não cai. 
+*Desarmar:
+Como parte de um ataque (incluindo ataques como parte de uma
+Manobra ou Habilidade), o personagem pode visar uma arma, escudo ou
+outro item que o alvo esteja segurando, na tentativa de remover o item em
+questão. Este ataque ignora o Bloqueio
+do alvo, mas é modificado pelo Tamanho do objeto visado: +4 para objetos
+miúdos, como uma adaga, poção ou
+colar; +2 para objetos pequenos, como
+um grimório ou a maioria das armas;
+ou +0 para objetos médios, como armas
+de haste ou escudos.
+Se atingir o objeto, o ataque pode
+ser usado para causar dano no objeto
+(veja o Guia do Herói, pág. 58 para detalhes) ou para tentar separar o item do
+seu portador – nesse caso, em vez de
+dano, realize um Confronto de Força
+ou Agilidade (o que for mais alto para
+ambos), somando a FN da arma do atacante e do item alvo ao teste. Se o personagem tentando desarmar tiver um
+resultado mais alto, ele separa o item
+do alvo, e pode escolher se vai pegar o
+item (se tiver uma mão livre) ou se vai
+jogá-lo para longe (até uma quantidade
+de metros igual à sua Força, em qualquer direção, à sua escolha).
+*Encontrão:
+Como uma Ação Completa, você
+avança contra um alvo, desferindo um
+ataque no final dessa movimentação.
+O personagem deve se deslocar pelo
+menos 3 metros e adiciona a FN de sua
+Arma ou de sua Armadura (o que for
+maior) ao dano de seu golpe, +1 para
+cada 3 metros que tiver se deslocado.
+No entanto, devido à inércia, é mais difícil para o personagem se defender, e
+ele fica com sua Esquiva reduzida em
+2 até o começo do seu próximo turno.
+Se o personagem estiver usando
+esta Manobra em conjunto com uma
+Habilidade que exija que ele faça um
+Encontrão, adicione quaisquer efeitos
+descritos na Habilidade, além do dano
+extra pela FN da arma ou armadura e
+pelo deslocamento e o redutor de Esquiva.
+Se um personagem saltar sobre
+outro de uma posição mais alta, isso
+também conta como um Encontrão
+para todos os efeitos – veja Quedas para
+mais detalhes.
+Se o personagem estiver voando
+(caso possua asas ou esteja sob efeito
+de uma magia, por exemplo) o dano
+devido à FN da arma ou armadura que
+o personagem estiver utilizando é dobrado.
+*Imobilizar:
+Um personagem Agarrando pode
+tentar Imobilizar seu alvo Agarrado.
+Para isso, é preciso usar ambas as mãos
+– é impossível Imobilizar um alvo cuja
+FN seja maior do que sua Carga Máxima.
+Faça um ataque desarmado contra o alvo. Esse ataque ignora o Bloqueio do alvo. Se tiver sucesso, em vez
+de causar dano, o atacante passa a ser considerado Imobilizando e o alvo passa a ser considerado Imobilizado (ou
+Indefeso, se tiver menos da metade da
+Força do personagem Imobilizando).
+No caso de uma falha, o atacante continua Agarrando e o alvo continua Agarrado sem nenhum outro efeito.
+Um personagem Imobilizando é
+considerado Surpreso, exceto com relação ao alvo que estiver mantendo Imobilizado, não pode conjurar Magias ou
+iniciar Músicas (e é considerado Inapto
+nos Confrontos relacionados à
+Músicas que estiver mantendo), e realiza seus
+ataques como se fosse
+Inapto, exceto quando estiver realizando
+ataques desarmados
+(geralmente chutes ou
+ataques com outros apêndices que não seus
+braços). Além disso,
+ele considera o personagem Imobilizado
+como Carga para todos os propósitos.
+Um personagem
+Imobilizado é considerado
+Surpreso, exceto com relação
+ao alvo que o estiver Imobilizando, não pode realizar ações
+de nenhum tipo (e as Músicas que
+estiver mantendo são dissipadas
+imediatamente) e considera o
+personagem Imobilizando
+como Carga para todos os
+propósitos.
+Um personagem
+Imobilizando pode utilizar
+uma Ação de Movimento
+para voltar a ficar Agarrando o alvo
+(que passa a ser considerado Agarrado)
+ou pode soltar o alvo com uma Ação Livre (durante o seu turno).
+Um personagem Imobilizado
+pode, no seu turno, tentar se libertar
+realizando um confronto de Força ou
+Agilidade (o que for mais alto para ambos os personagens) como uma Ação de
+Movimento.
+*Interceptar:
+Como uma Reação, se um adversário se deslocar para passar por você
+para tentar alcançar algo às suas costas,
+como um de seus aliados ou a saída da
+sala, você pode tentar impedir sua passagem. Faça um confronto de Agilidade contra o alvo. Se tiver um resultado
+mais alto, você pode se mover seu Deslocamento normal e se colocar no caminho dele – o alvo não pode avançar,
+mas ainda pode utilizar o que tiver de
+Deslocamento para retroceder.
+Essa Manobra consome a Ação de
+Movimento do personagem – assim, se
+utilizar esta Manobra, o personagem só
+terá sua Ação Padrão em seu próximo
+turno, e ele não pode realizar esta manobra se não puder usar sua Ação de
+Movimento ou se o seu Deslocamento
+estiver restringido de qualquer maneira.
+*Interpor:
+Como uma Reação, o personagem tenta interceptar um ataque ou
+um projétil que esteja visando uma
+outra criatura. Se um ataque puder
+atingir um alvo que esteja dentro do
+alcance do seu Deslocamento normal,
+você pode se deslocar até ficar adjacente ao alvo do ataque – e pode mover o alvo 1 metro em qualquer direção, se quiser – e sofrer o ataque no
+lugar dele. Você sofre o dano e quaisquer efeitos do ataque, independente
+do teste de acerto ter sido menor do
+que a sua Defesa – RD e Resistência/
+Vulnerabilidade/Imunidade a danos
+são calculados normalmente com relação ao ataque.
+Essa Manobra consome a Ação
+de Movimento do personagem – assim, se utilizar esta Manobra, o personagem só terá sua Ação Padrão em seu
+próximo turno, e ele não pode realizar
+esta manobra se não puder usar sua
+Ação de Movimento ou se o seu Deslocamento estiver restringido de qualquer maneira.
+*Fintar:
+Como parte de um ataque (incluindo ataques como parte de uma
+Manobra ou Habilidade), o personagem pode declarar Finta como uma
+Reação. Esse ataque, se acertar, causa
+apenas metade do dano, mas seus outros ataques contra o alvo da Finta nesse turno são realizados com um bônus
+de +1d6 na rolagem de ataque – tendo a
+Finta acertado ou não.
+Esta manobra consome a Ação de
+Movimento do personagem – assim, se
+utilizar esta Manobra, o personagem
+só terá sua Ação Padrão em seu próximo turno, e ele não pode realizar esta
+manobra se não puder usar sua Ação
+de Movimento ou se o seu Deslocamento estiver restringido de qualquer
+maneira.
+---
+**Apêndice**
+**Habilidades Revisadas**
+Se estiver utilizando as regras de
+Armas e Armaduras apresentadas neste suplemento, algumas Habilidades
+precisam ser ajustadas de acordo. Essas
+revisões não devem ser utilizadas com
+as regras normais do Mighty Blade; elas
+são compatíveis apenas com as as regras
+apresentadas neste documento, e devem
+ser consideradas se as regras descritas
+aqui estiverem sendo utilizadas. 
+---

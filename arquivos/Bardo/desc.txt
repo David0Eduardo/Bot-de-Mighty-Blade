@@ -1,0 +1,658 @@
+Capítulo 1 – Regras
+Este capítulo se dedica a ampliar as regras apresentadas no Guia Básico, Guia do
+Herói e Guia do Vilão do Mighty Blade, além de apresentar algumas opções que podem
+ser adicionadas à qualquer aventura ou campanha.
+
+Novos exemplos de TESTE
+No Guia Básico, na pág. 23, você
+encontra os exemplos mais comuns
+de ações em uma aventura de Mighty Blade. A seguir, acrescentamos algumas ações que se tornam bastante
+comuns quando você usa este livro no
+seu jogo.
+
+---
+*Cantar/Declamar (Vontade): Se
+puder cantar ou falar por pelo menos 10
+minutos sem interrupções, você pode
+manter uma plateia entretida – e distraída – realizando um teste de Vontade.
+Todos dentro de uma área igual à sua
+Vontade (à céu aberto) ou Determinação (em um ambiente fechado) em metros sofrerão um redutor de -1 em todos
+os seus testes de percepção. Uma Falha
+Crítica neste teste faz com que a plateia
+tenha uma reação negativa e não será
+afetada por este efeito pelo próximo
+dia – e todas as suas interações sociais
+com membros da plateia sofrerão um
+redutor de -2. Em um sucesso decisivo,
+o redutor de percepção passa a ser de
+-2 e, além disso, você recebe um bônus
+de +2 em qualquer teste enquanto interagem com a plateia (incluindo testes
+subsequentes desta ação) até que eles
+ou você deixem o ambiente.
+Se tiver um resultado 14 ou maior
+no teste, o personagem pode receber
+uma quantidade de moedas igual à metade do resultado do teste (arredondado para baixo). 
+---
+*Dançar (Agilidade/Vontade): Se
+puder dançar por pelo menos 5 minutos sem interrupções, você pode manter uma plateia entretida – e distraída
+– realizando um teste de Agilidade ou
+Vontade (o que for mais alto). Todos
+dentro de uma área igual à sua Vontade (a céu aberto) ou Determinação
+(em um ambiente fechado) em metros
+sofrerão um redutor de -1 em todos os
+seus testes de percepção. Você deve
+realizar este teste novamente a cada 5
+minutos que continuar a dançar. Uma
+Falha Crítica neste teste faz com que
+a plateia tenha uma reação negativa
+e não será afetada por este efeito pelo
+próximo dia – e todas as suas interações sociais com membros da plateia
+sofrerão um redutor de -2. Em um sucesso decisivo, o redutor de percepção
+passa a ser de -2 e, além disso, você
+recebe um bônus de +2 em qualquer
+teste enquanto interagir com a plateia
+(incluindo testes subsequentes desta
+ação) até que eles ou você deixem o
+ambiente.
+Se o personagem se apresentar
+por pelo menos 10 minutos (2 testes)
+sem rolar nenhuma falha crítica, ele
+pode receber uma quantidade de moedas igual ao resultado mais baixo que
+rolou neste período.
+É possível dançar utilizando uma
+armadura, mas armaduras com a Característica Pesada impõem regras de
+Inaptidão aos seus testes de Dança, e
+armaduras com a caraterística Rígida
+restringem consideravelmente seus
+movimentos, impedindo que o teste
+seja realizado. 
+---
+*Disfarçar (Inteligência/Vontade):
+Você é capaz de se disfarçar para parecer uma pessoa diferente. Você pode
+simplesmente improvisar um disfarce
+escondendo algumas partes do seu equipamento e modificando sua roupa (virando um tabardo do avesso, colocando armas dentro da mochila, trocando
+seu elmo por uma bandana, colocando
+um manto ou capa …) como uma Ação
+Padrão (que não exige testes), o que lhe
+concede um bônus de +1 em Ocultar-se/
+Camuflar-se. Se tiver um kit de maquiagem, você pode aplicar tintas e próteses
+para se parecer com uma pessoa diferente ou mesmo um membro de outra Raça
+(dentro das limitações cabíveis; Um
+Metadílio pode conseguir se passar por
+um Anão e talvez um Elfo ou Faen, mas
+não por um Tailox ou Aesir). Isso exige
+10 minutos de preparação e um teste de
+Inteligência (Dificuldade 12). Uma falha
+significa que a maquiagem é óbvia enquanto um sucesso torna o personagem
+virtualmente impossível de reconhecer
+(exceto para alguém familiar) oferecendo um bônus de +1d6 em testes de
+Ocultar-se para propósitos de seguir um
+alvo despercebido OU se tiver sido usada para obscurecer o personagem (tintas
+escuras sobre a pele, cobertura opaca
+sobre lâminas e itens de metal e pó escuro sobre a roupa), oferece um bônus de
++1d6 em testes de Camuflar-se/Ocultar-
+-se e de +2 em Esconder-se.
+Finalmente, você pode usar um kit
+de maquiagem para tentar se passar por
+outra pessoa. Você precisa ter observado
+a pessoa por pelo menos 10 minutos, e
+então passar em um teste de Inteligência – dificuldade 14 para se disfarçar
+de alguém de sua própria Raça, ou 16
+para alguém de outra Raça (novamente,
+dentro das limitações cabíveis). Uma falha significa que a maquiagem é óbvia
+e pode até mesmo levantar suspeitas,
+enquanto um sucesso, além de tornar o
+personagem virtualmente impossível de
+reconhecer (exceto para alguém familiar) permite que ele se passe pelo alvo
+imitado, desde que não seja confrontado
+por alguém familiar a ele. 
+---
+*Tocar Instrumento Musical (Agilidade): Quando puder tocar um instrumento musical por pelo menos 5 minutos
+sem interrupções, você pode manter uma
+plateia entretida – e distraída – realizando um teste de Agilidade. Todos dentro
+de uma área igual à sua Vontade (à céu
+aberto) ou Determinação (em um ambiente fechado) sofrerão um redutor de
+-1 em todos os seus testes de percepção.
+Você deve realizar este teste novamente a
+cada 5 minutos que estiver tocando continuamente. Uma Falha Crítica neste teste
+faz com que a plateia tenha uma reação
+negativa e não será afetada por este efeito
+pelo próximo dia – e todas as suas interações sociais com membros da plateia sofrerão um redutor de -2. Em um sucesso
+decisivo, o redutor de percepção passa a
+ser de -2, e, além disso, você recebe um
+bônus de +2 em qualquer teste enquanto
+interagir com a plateia (incluindo testes
+subsequentes desta ação) até que eles ou
+você deixem o ambiente.
+Se o personagem se apresentar
+por pelo menos 15 minutos (3 testes)
+sem rolar nenhuma falha crítica, ele
+pode receber uma quantidade de moedas igual ao resultado mais alto que
+rolou neste período.
+---
+**Melodias, Ritmos e Canções**
+Esta é uma revisão e ampliação
+das regras para Habilidades do tipo
+Música, apresentadas no Guia básico.
+Se o Mestre utilizar as regras apresentadas neste suplemento, as regras a seguir
+devem ser utilizadas no lugar daquelas
+apresentadas no Guia básico.
+Músicas são características exclusivas das Classes Bardo e Menestrel,
+além de alguns Caminhos. Ao invés
+de serem adquiridas como Habilidades, como na versão atual do sistema,
+elas são adicionadas à lista de Músicas
+conhecidas pelo personagem quando
+determinadas Habilidades são selecionadas por ele – quando uma Habilidade permitir que o Personagem adquira
+uma Música, isso estará indicado explicitamente na descrição da Habilidade.
+Algumas Músicas ainda existem como
+Habilidades, indicando que elas são
+Músicas exclusivas daquela Classe ou
+Caminho e, portanto, não podem ser
+selecionadas dessa forma por personagens que não tenham acesso aquela
+Classe ou Caminho específicos.
+Músicas se dividem em três tipos
+distintos: Canções que utilizam apenas
+a voz, e deixam o Menestrel e o Bardo
+livres para utilizar seu corpo para fazer
+outras ações físicas – como, por exemplo, atacar; Ritmos, que exigem apenas
+instrumentos e deixam o Menestrel
+livre para usar sua voz para se comunicar, dar ordens ou utilizar Gritos e
+Rugidos; e finalmente, as Melodias, que
+usam instrumentos e voz e não deixam
+espaço para outras ações.
+Músicas requerem concentração e exigem ações padrão para serem
+iniciadas (sem a necessidade de qualquer teste, mas com o gasto em Mana
+apropriado) e podem ser mantidas
+com Ações de Movimento. O custo em
+Mana de uma Música só é gasto quando a Música é iniciada, e seu efeito dura
+enquanto o personagem puder se manter tocando. Se o efeito de uma Música
+for cancelado para um ou mais alvos,
+o personagem pode tentar afetar esses
+alvos novamente, reiniciando a Música. Os efeitos da Música que estiverem
+sendo mantidos serão interrompidos
+imediatamente se o Menestrel utilizar
+Ações de Turno Completo, se ele estiver Caído, Atordoado, Enregelado, Distraído ou Paralisado. Além disso, um personagem só pode manter uma Música de
+cada vez. Ele ainda pode utilizar outras
+Habilidades de Ação em seu turno (incluindo Gritos, se estiver mantendo um
+Ritmo, ou ataques se estiver mantendo
+uma Canção) mas se iniciar outra Música, a que estiver em efeito cessa imediatamente. 
+---
+**Músicas e Partituras**
+Diferentes músicos podem conhecer músicas através de partituras as
+tendo aprendido “de ouvido” – ou seja,
+tendo escutado alguém tocar/cantar a
+música e ter aprendido dessa forma.
+No entanto, os personagens com acesso à Habilidades do tipo Música são
+capazes de tornar essas canções muito
+mais poderosas, literalmente lhes conferindo capacidades sobrenaturais. O
+poder de uma canção não está em sua
+letra ou nas suas notas, mas, sim, na interpretação das mesmas. Literalmente,
+o poder das músicas de um Bardo ou
+Menestrel está no próprio Músico. E, de
+fato, uma mesma Música pode ter efeitos semelhantes quando são tocadas de
+forma totalmente diferentes por Bardos de culturas diferentes – Canção do
+Triunfo tocada por um Fira poderia ter
+uma letra falando sobre a derrota das
+Naga durante a fundação de Parband,
+acompanhado de uma melodia de alaúde extremamente complexa, enquanto
+para um Aesir poderia ser a história de
+uma luta contra um monstro marinho
+por uma tripulação de marinheiros e
+acompanhada de um ritmo repetitivo
+de tambor.
+É por isso que, embora haja vários
+livros de partituras ao longo de Drakon,
+com músicas tradicionais em um Reino,
+região ou mesmo de uma cidade particular, conhecer essas músicas não faz
+com que um personagem seja capaz de
+produzir os efeitos sobrenaturais que
+ele pode ter sentido quando ouviu um
+Bardo tocando aquela música em particular.
+Assim, é impossível para um
+Bardo descrever em uma partitura os
+efeitos de uma Música. Ele pode transcrever letras e notas, mas não sua interpretação delas, e portanto, nunca será
+capaz de transmitir para um objeto os
+efeitos de uma Habilidade do tipo Música, para que outro Bardo seja capaz de
+utilizá-la.
+---
+
+Capítulo 2 – Cenário
+A seguir, apresentamos algumas datas festivas comemoradas por toda Tebryn.
+Algumas delas ocorrendo em datas especiais ou até mesmo anualmente.
+
+**Festivais de Tebryn**
+Os festivais apresentados a seguir
+são comemorados nos condados onde
+aparecem, embora, em alguns casos,
+condados vizinhos possam se apropriar
+de um ou mais festivais.
+Festivais reais, por sua vez, são
+comemorados ao longo de toda Tebryn. Alguns desses já foram festivais
+regionais em algum momento, mas se
+espalharam por todo o reino e hoje são
+comemorados praticamente em todos
+os cantos do reino.
+É muito comum que trupes itinerantes se desloquem ao longo de Tebryn
+para se apresentar nos vários festivais ao
+longo do ano. Essas trupes geralmente
+incluem Bardos, Menestréis e Ilusionistas especializados em músicas e danças
+regionais, apresentações teatrais e espetáculos de ilusões específicas para cada
+um dos festivais que visitam.
+
+---
+
+**Festivais da Realeza**
+
+---
+**Caçada Selvagem**
+A Caçada Selvagem é uma celebração realizada todo Solstício de Inverno (22 Toradias), trazendo um espírito de aventura e renovação durante a
+temporada fria. Inspirada em lendas e
+mitos ancestrais, essa festividade é uma
+combinação de caçada, competição e
+celebração.
+Para participar deste festival é necessário se inscrever ao longo do mês
+de Toradias junto aos postos de guarda ao longo do reino. Os participantes
+serão organizados em grupos definidos
+pelos guarda-caças locais, geralmente
+em grupos de 4 ou 5 participantes. O
+festival consiste em caçar criaturas designadas pelos guarda-caças – que obviamente variam de acordo com a cada
+região específica. Em geral, as criaturas
+designadas são pouco perigosas, mas
+os guarda-caças costumam designar
+criaturas que causem problemas na região (geralmente atacando plantações
+ou rebanhos). Cada criatura específica
+tem uma pontuação diferente, que será
+dobrada se ela for trazida viva.
+O festival geralmente se estende
+por uma semana, iniciando com uma
+celebração no dia do solstício, em que
+os grupos designados são apontados
+pelo nobre local, as criaturas designadas – e suas pontuações – são listadas, é
+definido o dia do final da festividade e
+a caçada finalmente se inicia.
+Ao final do festival, os participantes
+retornam com suas presas, exibindo-as
+em um grande palco onde é feita a contagem de pontos ao longo de toda a manhã,
+e o nobre local anuncia o grupo vencedor
+e lhes entrega uma quantidade de moedas dependendo de sua pontuação. Uma
+longa celebração com jogos geralmente
+se estende pelo dia todo, terminando em
+um grande banquete celebrando a Caçada Selvagem, assim como o Solstício de
+Inverno – uma tradição enraizada na
+crença de que enfrentar as adversidades
+do inverno traz consigo crescimento pessoal, coletivo e a promessa de um novo
+ciclo de vida que se inicia.
+---
+**Fogos da abundância**
+Os Fogos da Abundância são uma
+celebração anual que ocorre no Solstício
+de Verão (10 de Ellendias), em que as
+comunidades se reúnem para celebrar
+a fertilidade, colheitas abundantes e a
+energia vibrante da estação.
+Durante o festival, Druidas e Xamãs são convocados para guiar cerimônias e rituais em harmonia com a natureza. Druidas utilizam suas habilidades
+e conhecimentos para invocar bênçãos
+sobre as colheitas, purificar as energias
+do local e canalizar a conexão entre os
+participantes e os espíritos da natureza.
+Em meio ao campo decorado com
+flores, fitas coloridas e lanternas, os Xamãs conduzem cerimônias sagradas,
+evocando a presença dos guias espirituais para acompanhar cada participante.
+Eles entoam cânticos ancestrais, tocam
+instrumentos e realizam danças rituais,
+convidando a comunidade a participar
+junto a eles.
+Durante a noite, é acesa uma grande fogueira ao redor da qual são realizadas danças e são distribuídos pães e
+bebidas temperadas. 
+---
+**Denária**
+Denária é uma celebração anual
+que ocorre no Equinócio de Primavera
+(15 de Randias), celebrando o renascimento da natureza e o retorno dos dias
+longos de sol.
+O festival de Denária é ligado à
+renovação e à fertilidade. As comunidades se reúnem para refazer votos,
+o que inclui casais renovando votos
+de relacionamento, nobres renovando
+suas responsabilidades para a comunidade e Sacerdotes reiterando sua dedicação às suas divindades.
+Durante o festival, as comunidades se reúnem em campos de flores,
+utilizando trajes leves (geralmente com
+cores claras ou estampas florais) coroas
+de flores e trocas de presentes (geralmente ovos decorados, recheados de
+doces) entre si.
+A cerimônia central é conduzida
+por sacerdotes e sacerdotisas, que invocam a energia dos seus Celestiais para
+abençoar os votos renovados, e é bastante comum que casamentos sejam oficializados durante o festival, bem como
+ordenações de noviços e escudeiros.
+---
+**Candelária**
+O festival de colheita de frutas é
+uma festividade anual que ocorre no
+Equinócio de Outono (primeiro dia de
+Miradias), celebrando a abundância e a
+generosidade da terra.
+Durante o festival, as comunidades se reúnem nos pomares para colherem frutas, enquanto Druidas oferecem
+preces e agradecimentos aos espíritos da
+terra pelas colheitas – e realizam magias
+para melhorar a saúde e a produção das
+plantas.
+Ao longo do festival, bolos e doces utilizando as frutas recolhidas são
+preparados constantemente em fogos à
+céu aberto e, no fim da tarde, a comunidade se reúne para realizar um grande
+banquete e pesar as frutas recolhidas
+– aqueles que trouxerem os maiores
+exemplares são presenteados com cestas de frutas secas e frescas.
+No final do evento, os participantes se espalham pela cidade distribuindo
+os bolos e frutas na comunidade. Essas
+procissão é acompanhada por trupes de
+Bardos e Menestréis, que cantam músicas tradicionais, carregando velas, tochas e lanternas – de onde vem o nome
+do festival
+---
+
+**Condado de Strauss**
+
+---
+**A Folia**
+Realizado durante os dias 7 a 14
+de Zenidias no Condado de Strauss,
+durante o qual todas as cidades e metrópoles de dentro do condado são
+preparadas com decorações chamativas, e suas ruas são pintadas para as
+grandes procissões que ocorrem todas
+as noites. Durante A Folia, trupes de
+Bardos e Menestréis se espalham pelas
+ruas cantando músicas tradicionais seguidos por foliões – geralmente vestindo trajes coloridos e máscaras decoradas – que dançam, cantam e bebem até
+o raiar do sol.
+Este evento promove a interação de
+todo o povo do Condado, e mesmo festas em propriedades particulares durante
+essa época devem permitir a entrada de
+qualquer pessoa – e embora a maioria
+dos grandes bailes de máscara que ocorrem ao longo da cidade sejam realizados
+em templos e prédios públicos, muitos
+nobres são conhecidos por realizar bailes
+nessa época, enquanto outros preferem
+se misturar aos foliões nas ruas das cidades. É um dos poucos momentos em que
+a nobreza se mistura com os camponeses
+sem qualquer restrição.
+---
+
+**Condado de Gardóvia**
+
+---
+**Festival Fúnebre**
+Em Gardóvia, no dia primeiro de
+Lathellandias, é comemorado um ritual
+de passagem dos mortos chamado de
+Festival Fúnebre, que consiste em uma
+celebração para homenagear todos aqueles que já morreram, seja em batalha ou
+por causas naturais. Este festival era realizado originalmente por soldados da
+Hoste de Hadorn para homenagear todos os homens e mulheres que tinham
+sido mortos nos conflitos com Arkania,
+mas, com o tempo, acabou virando uma
+tradição de Gardóvia como um todo.
+Durante o Festival Fúnebre, os
+participantes se reúnem nos cemitérios,
+e comem e bebem junto ao túmulo de
+seus entes queridos relembrando suas
+memórias junto a eles. Sacerdotes de
+Hadorn costumam acompanhar as celebrações confortando os participantes
+e renovando bênçãos aos túmulos – evitando que aqueles ali presentes sejam
+afetados por efeitos necromânticos.
+---
+
+**Condado de Albieren**
+
+---
+Festival dos patos
+Em Adieren, ao longo da Enseada
+dos Patos, é comemorado todo dia 16
+de Kothias um festival que consiste na
+caça de aves aquáticas que se reúnem
+em grande quantidade nessa região
+para acasalar nessa época.
+Este evento tem causado uma série de controvérsias com os seguidores
+de Ellenis, que além de realizar protestos nos dias que antecedem o evento – e
+durante – o festival, sempre tentam atrapalhar os caçadores. Nos últimos anos, o
+condado tem inclusive enviado soldados
+para impedir conflitos durante o festival.
+E, de fato, nos últimos anos, apenas nobres têm participado do festival, protegidos por mercenários contratados.
+Os patos abatidos durante o festival são preparados e distribuídos à
+população ao longo dos dias que se seguem à caçada – em parte como um esforço dos nobres para tentar justificar o
+festival e angariar o apoio da população
+com relação ao evento. 
+---
+
+**Condado de Miralda**
+
+---
+**Festival da Colheita**
+No condado de Miralda é comemorado anualmente o festival da colheita, que dura os primeiros 7 dias de
+Ellendias, onde os agricultores se reúnem para celebrar a colheita farta que
+tiveram em todo o ano. Este festival
+geralmente reúne um grande número
+de pessoas – que são empregados pelos
+agricultores durante o festival para auxiliar na colheita – e muitas vezes também inclui familiares e amigos, já que
+todas as noites ao longo do festival são
+realizados jantares para os participantes que normalmente incluem trupes de
+Bardos e Menestréis que tocam e cantam músicas tradicionais. 
+---
+
+**Condado do Vale**
+
+---
+**Baile das Flores**
+No Vale das Orquídeas é comemorado anualmente o Baile das Flores
+no dia 11 de Zenidias, um evento que
+consiste em acompanhar o desabrochar
+das flores tradicionais no Vale das Orquídeas, seguido de bailes e apresentações de danças ao longo dos templos de
+Ellenis.
+Este é um evento muito prestigiado, que recebe a visita de muitos nobres
+de todo o reino. Entretanto, é um festival geralmente restrito à bailes particulares ao longo das diversas estufas da
+cidade – embora as apresentações de
+danças sejam realizadas ou em templos
+de Ellenis, ou em locais públicos, para a
+apreciação dos aldeões.
+---
+
+**Condado de Faendul**
+
+---
+**Festival das Tartarugas**
+O Festival das Tartarugas é uma
+data festiva comemorada no dia primeiro do Mês de Houdias no Porto Tartaruga, onde ocorre uma grande festa
+para celebrar a chegada das tartarugas à praia do porto. Este é um grande
+evento para todos os cidadãos, pois indica uma benção de Ran e geralmente a
+abundância de tartarugas vindo à praia
+é visto como um presságio de boas pescas ao longo do ano.
+Durante o evento, os cidadãos
+se reúnem próximos a praia ao longo
+do dia para cantar, dançar e beber.
+As festividades vão se reduzindo ao
+longo da tarde, à medida que as primeiras tartarugas chegam à praia, e,
+ao longo da noite, os participantes
+se reúnem em silêncio para observar
+a desova das tartarugas e orar pelas
+bênçãos de Ran.
+Embora os aldeões costumem se
+entusiasmar bastante com este festival
+– que geralmente reúne muitos participantes – muitos poucos nobres participam das festividades. 
+---
+**Festival dos Barcos**
+Todo primeiro dia de Tarandias,
+em Kerrck, é realizado um festival em
+homenagem à Ran, que consiste em
+corridas de barcos de vários tipos. Em
+geral, o festival começa com canoas e
+barcos a remo, e culmina com uma regata de navios de uma única vela competindo no final da tarde. 
+---
+
+**Condado dos Segredos**
+
+---
+**Festival das Cordas de Prata**
+O Festival das Cordas de Prata
+ocorre na capital do Condado dos Segredos, reunindo os mais diversos e
+renomados Bardos e Menestréis para
+tocar suas canções mais conhecidas no
+dia 28 de Kothias.
+O Festival das Cordas de Prata
+é reconhecido em todo o reino, e vários nobres vêm à cidade nessa época
+para apreciar o evento, considerado o
+maior festival de música de Tebryn.
+Três eventos separados são sediados nos maiores liceus da cidade, e embora um deles seja exclusivo para a nobreza, os outros dois
+eventos são abertos ao público – um
+deles gratuito e o outro com cobrança de entrada. Qual liceu irá sediar
+qual evento específico muda todos os
+anos. 
+---
+
+**Condado do Dragão**
+
+---
+**Festival do Grifo**
+No Condado do Dragão, no dia
+11 de Hadias, é celebrado anualmente
+pelo exército Tebryniano um desfile de
+grifos por toda a região. Vários pelotões de Grifões se preparam ao longo
+do ano para realizar apresentações de
+manobras aéreas, muitas vezes acompanhadas de disparo de magias e utilização de ilusões simulando combates
+aéreos. 
+---
+
+**Condado das Montanhas**
+
+---
+**Festival da Morte do Dragão**
+Em Stord, no Condado das Montanhas, é celebrado o Festival da Morte do Dragão no dia 22 de Houdias,
+comemorando a vitória de Fingal sobre o dragão e homenageando aqueles que, ao longo dos anos, perderam
+sua vida lutando contra criaturas dracônicas ao longo da Cordilheiras dos
+Cristais.
+Além de músicas tradicionais e
+quantidades abundantes de bebidas,
+muitas guildas e templos montam pinhatas recheadas de itens variados –
+moedas, doces e brinquedos sendo os
+mais tradicionais.
+No final do festival, uma grande
+fogueira em formato de dragão é queimada na grande praça das caravanas de
+Stord, e a guarda da cidade costuma ter
+bastante trabalho com as inúmeras bebedeiras que ocorrem na ocasião.
+---
+
+**Floresta dos Antigos**
+
+---
+**Festival das Fadas**
+Em Ambrook, no dia 15 de Zenidias, é comemorado o Festival das
+Fadas. Nesse evento único, pessoas de
+todos os cantos dos reinos se reúnem
+para honrar e lembrar das fadas que
+habitavam as florestas.
+O Festival das Fadas é uma festividade grandiosa, onde todos os que participam ficam deslumbrados somente de
+olhar. Durante todo o dia, rituais antigos
+são feitos por alguns Faens, trazendo
+um pouco da magia das fadas.
+Durante a tarde, histórias sobre
+as fadas são contadas, cantadas e dançadas ao longo da cidade, geralmente
+acompanhadas de espetáculos de ilusão inigualáveis no reino. Competições
+de esconde-esconde e pega-pega também são tradicionalmente organizadas
+ao longo do dia, assim como banquetes
+com bolos, doces e bebidas temperadas.
+A verdadeira celebração, no entanto, começa somente ao pôr do sol.
+Aqueles que desejam participar são
+vendados, colocados dentro de carroças, e levados até um ponto secreto da
+floresta dos antigos. Chegando no local,
+sem remover as vendas, eles são instruídos a caminhar de volta até o festival –
+obviamente, sendo escoltados por todo
+o caminho. Algumas pessoas que voltam dessa competição ficam transtornadas, enquanto outras passam por experiências exultantes, algumas dizem ter
+escutado vozes vindas de todos lados,
+sons incompreensíveis, e sensações físicas diversas. 
+---
+
+**Ilha da Prata**
+
+---
+**Baile de formatura dos acadêmicos**
+Na Ilha da Prata, no dia 28 de
+Houdias, é realizado o Baile de Formatura dos Acadêmicos, comemorando
+o final do ano letivo da Academia da
+Prata e a formatura dos estudantes.
+Nesta data, todos os alunos que vivem
+na Ilha de Prata são convidados a participar caso queiram e, embora a maioria dos funcionários da Academia não
+compareçam, é comum que os Diretores e alguns professores estejam presentes, para que as coisas não fujam
+muito do controle.
+Além disso, nessa época do ano,
+tendo terminado o ano letivo, é comum
+que nobres de todos os reinos visitem
+a Ilha da Prata para avaliar os conjuradores formados e suas possíveis contratações. 
+---
+
+**Torre de Sarfion**
+
+---
+**Feira de Sarfion**
+A Feira de Sarfion, também chamada de Festival dos Livros, ou (de
+modo jocoso) Feira Sem Data, é um
+evento sem data definida que celebra
+a magia das palavras e a riqueza dos
+conhecimentos literários. Localizada
+na deslumbrante Torre de Sarfion, uma
+torre flutuante que sobrevoa a Cordilheira dos Cristais, este evento encanta
+e inspira amantes da leitura de todos os
+cantos do reino.
+O evento ocorre ao redor da
+torre – já que poucas pessoas têm acesso ao interior da construção propriamente dita – em uma das saídas
+externas de Stord, em direção ao topo
+das montanhas. No dia do evento, a
+torre se aproxima do local definido, e
+elementais, esqueletos e outras criaturas extraplanares (incluindo Infernais
+e Devas, segundo dizem) organizam
+o local para esperar tanto convidados
+quanto expositores. Aqueles que são
+convidados a participar do evento
+como expositores – vendendo seus
+livros, manuscritos e grimórios, recebem um aviso mágico quando a torre
+estaciona no local definido, e um portal se abre para seus ateliers 42 minutos depois, ficando abertos por 56
+minutos para que eles possam organizar seus estandes na feira. Uma hora
+mais tarde, portais são abertos em diversos pontos ao redor da torre, cada
+um deles ligado a um dos templos de
+Sarfion localizadas em cada uma das
+Metrópoles do reino – além da Capital – e em qualquer Templo de Sarfion
+localizado fora do reino de Tebryn –
+notoriamente três deles em Dagothar,
+dois em Londérien, um em Parband e
+outro em Bryne. Além disso, um décimo nono portal é aberto aleatoriamente para um Templo de Sarfion em
+alguma cidade ou vila além dos portais fixos. Um golem com instruções
+escritas em uma placa é enviado através de cada um desses portais, explicando seu propósito e convidando todos a participarem da feira. Depois de
+33 horas, o golem retorna pelo portal,
+que se fecha, e a feira é oficialmente
+finalizada. Portais para os ateliês dos
+expositores são abertos novamente, e
+enquanto eles recolhem seus itens, os
+Conselheiros (aqueles com permissão
+para entrar na torre) se encarregam
+de verificar se algum transeunte ficou
+perdido depois do fechamento dos
+portais e se encarrega de enviá-lo de
+volta para casa – através de um estranho sistema de buracos mágicos e
+alavancas arcanas que defenestram a
+pessoa de volta para a cidade de onde
+ela veio.
+A Feira de Sarfion não é apenas
+uma oportunidade para enriquecer sua
+biblioteca pessoal, mas também um
+momento único para explorar novos
+horizontes literários. Durante o festival,
+Conselheiros especializados garantem
+a importação dos livros mais recentes
+e emocionantes de terras mais distantes
+fazendo com que a tentação de todos os
+sábios de todos os reinos sejam aflorada a vir até a torre para mergulhar em
+mundos que só a literatura pode oferecer.
+Além das transações comerciais, a
+Feira do Livro proporciona um ambiente propício para o diálogo entre culturas. Os Conselheiros e outros participantes da feira têm a oportunidade de
+conversar com visitantes estrangeiros,
+trocando ideias e experiências que enriquecem o conhecimento e a compreensão mútua.
+Durante a feira, qualquer tipo de
+ação hostil – incluindo física e verbal – é
+punida severamente, com o transgressor sendo defenestrado magicamente para uma cela em alguma torre de
+guarda aleatória dentro de Tebryn.
+---

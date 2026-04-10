@@ -1,0 +1,154 @@
+Habilidades Gerais
+
+---
+--Aura da Guerra--
+Habilidade – Suporte
+*Requisito: Dogma – Discípulo da Guerra
+*Descrição: Você foi abençoado por
+Hadorn com uma aura que melhora as capacidades de combate da sua tropa! Quando você
+estiver engajado em combate com pelo menos mais um aliado e estiver lutando com pelo
+menos duas outras criaturas, você e todos os
+seus aliados que estejam a uma quantidade de
+metros iguais à sua Determinação recebem +1
+em todas as suas rolagens de ataque e +1 para
+conjurar magias que causem dano.
+Esse efeito cessa imediatamente se só
+houver um inimigo ativo no combate ou se
+você não tiver nenhum aliado lutando ao seu
+lado.
+---
+--Aura de Paz--
+Habilidade – Suporte
+*Requisito: Dogma – Discípulo da Paz
+*Descrição: Você emana uma poderosa
+aura de paz, fazendo com que todas as criaturas
+vivas ao seu redor resistam em recorrer à violência. Sempre que uma criatura estiver em uma
+distância em metros de você igual à sua Determinação, ela precisa realizar um teste de Vontade (dificuldade igual à sua Determinação) para
+poder realizar qualquer ação que possa causar
+qualquer tipo de dano – tanto a ela mesma ou a
+outras criaturas.
+Esses efeitos não se aplicam a mortos-vivos, demônios ou construtos de forma alguma
+– essas criaturas ignoram os efeitos desta Habilidade, e todas as criaturas ignoram os efeitos
+dessa Habilidade em relação a mortos-vivos,
+demônios e construtos. Além disso, os efeitos
+dessa Habilidade deixam de ter efeito sobre
+criaturas dentro da área de efeito que sofram
+dano.
+---
+--Chamas de Hou--
+Habilidade – Suporte
+*Requisito: Dogma: Discípulo da Forja
+*Descrição: As chamas de Hou queimam fortes dentro de você, e se manifestam
+sempre que você clama pela divindade da forja! Você adiciona uma quantidade de dano por
+Fogo igual à sua Vontade sempre que utilizar
+uma Habilidade que cause dano por Fogo e em
+qualquer Habilidade do tipo Magia que cause
+qualquer tipo de dano ou perda de vida.
+/*
+*Dogma: Discípulo do Destino
+*Descrição: Você segue os ensinamentos
+da caprichosa Ran, a Senhora dos Mares. Você
+não pode procurar ou aceitar previsões sobre o
+futuro – e se você se mostrar muito cauteloso e
+planejar muito suas ações, você pode perder o
+favor de Ran. Sempre que uma rolagem tiver ao
+menos um dado com o resultado 6, você pode
+rolar novamente 1 dado cujo resultado não seja
+um 6 nem um 1. No entanto, sempre que você
+rolar 3 ou mais dados e apenas um deles não
+tiver um resultado 1, o resultado daquele dado
+passa a ser considerado 1.
+*Arma dos Deuses: Arpão das Marés.
+Este arpão, semelhante a uma presa de narval
+serrilhada, permite que seu portador role novamente qualquer dado uma vez por turno
+em qualquer teste que faça, mas deve manter
+o novo resultado. Essa rolagem não pode ser
+utilizada para modificar resultados que sejam
+sucessos decisivos ou falhas críticas.
+*\
+---
+--Elo Natural--
+Habilidade (Característica) – Suporte
+*Requisito: Dogma – Discípulo da Natureza.
+*Descrição: Você desenvolveu um forte
+elo com a natureza através de sua adoração à
+Ellenis. Você recebe +1 em todas as suas rolagens referentes a criaturas naturais – qualquer
+criatura exceto construtos, mortos-vivos, amaldiçoados, espíritos, primordiais e devas. Esse
+bônus se aplica a ataques, interação social, rastrear e realizar Magias sobre essas criaturas.
+Além disso, todas as Habilidades de
+Companheiro Animal são consideradas Habilidades de Classe para você.
+---
+--Marca da Justiça--
+Habilidade (Magia) – Ação
+*Requisito: Dogma – Discípulo da Justiça
+Mana: 20
+Dificuldade da Magia: 12
+*Descrição: Esta Marca é utilizada com
+frequência pelos Sacerdotes de Mirah em conjunto com qualquer outra punição a um criminoso. Ela costuma ser usada de forma cerimonial sobre qualquer Irmão da Ordem da Espada
+de Mirah que inicie uma Cruzada Justa, mas
+nem sempre é o caso. Desenhando um Selo
+Místico sobre um alvo, você faz com que ele se
+torne ciente de qualquer ato injusto que possa
+cometer. Sempre que o alvo quebrar um dos
+Dogmas de Mirah, o símbolo dessa divindade
+brilha em sua testa e ele sentirá dores terríveis,
+precisando vencer um teste de Vontade (Dificuldade igual à Determinação do conjurador)
+para não cair inconsciente. Se passar no teste,
+o alvo ainda pode ir contra o Dogma de Mirah,
+mas sua dor será visível para qualquer um ao
+seu redor e ele será considerado Atordoado enquanto estiver cometendo o crime em questão.
+Esse Selo dura uma quantidade de dias
+igual à Determinação do conjurador, mas você
+pode dissipá-lo a qualquer momento.
+---
+--Marca da Verdade--
+Habilidade (Magia) – Ação
+*Requisito: Dogma – Discípulo da Sabedoria.
+Mana: 10
+Dificuldade da Magia: 12
+*Descrição: Esta Marca é amplamente utilizada pela maioria dos Sacerdotes de Sarfion em
+julgamentos, principalmente entre membros da
+própria igreja. Desenhando um Selo Místico sobre uma criatura, você faz com que o alvo sinta
+dores terríveis sempre que faltar com a verdade.
+Sempre que o alvo quebrar um dos Dogmas de
+Sarfion, o símbolo dessa divindade brilha em sua
+testa e ele sentirá dores terríveis, perdendo uma
+quantidade de Pontos de Vida igual à Determinação do conjurador. Um alvo que perca todos
+os seus Pontos de Vida dessa forma é considerado automaticamente estabilizado, e recupera 1
+Ponto de Vida dentro de 1 minuto.
+Esse Selo dura uma quantidade de horas
+igual à Vontade do conjurador, mas você pode
+dissipá-lo a qualquer momento.
+---
+--Maré de Sorte--
+Habilidade (Característica) – Reação
+*Requisito: Dogma – Discípulo do Destino.
+*Descrição: Ran lhe sorri com frequência. Sempre que você rolar 2 ou mais dados e
+todos eles tiverem o mesmo resultado, você
+pode rolar outro dado. Esse efeito é cumulativo – ou seja, se o novo dado tiver um resultado
+igual aos anteriores, você pode rolar mais um
+dado.
+*Especial: Essa Habilidade não pode ser
+utilizada se todos os dados tiverem um resultado igual a 1.
+---
+--Quebrar os Grilhões--
+Habilidade (Magia) – Ação
+*Requisito: Dogma – Discípulo da Liberdade.
+Mana: 15
+Dificuldade da Magia: 12
+*Descrição: Desenhando um Selo Místico entre você e uma criatura, você imediatamente liberta o alvo de qualquer efeito que o
+esteja restringindo. Esta Magia imediatamente
+dissipa qualquer Runa ou Selo cujos efeitos restrinjam a movimentação do alvo – como Entrelaçar ou Eletricidade Estática, por exemplo.
+Essa Magia também pode ser usada para libertar alvos de amarras mundanas, soltando cordas, abrindo grilhões, afrouxando os braços de
+um captor ou destrancando e abrindo portas. A
+Magia afeta todo e qualquer objeto ou criatura
+que está restringindo o alvo – assim, se o alvo
+estiver em uma cela, a Magia abrirá a porta da
+cela, libertando quaisquer outras pessoas em
+seu interior.
+Finalmente, esta Magia elimina imediatamente as condições Amedrontado, Atordoado,
+Cego, Distraído, Enregelado, Indefeso e Paralisado do alvo, independente da origem dessas
+condições.
+Esse Selo Místico se dissipa assim que
+seus efeitos forem desencadeados. 
+---

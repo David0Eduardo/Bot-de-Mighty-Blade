@@ -1,0 +1,265 @@
+HABILIDADES RAÇAS
+
+---
+
+**ASTÉRIOS PARBANI**
+
+---
+/*
+*ATRIBUTOS INICIAIS:
+*Machos:
+Força 5
+Agilidade 2
+Inteligência 2
+Vontade 3
+*Fêmeas:
+Força  3
+Agilidade 2
+Inteligência  3
+Vontade 2
+*CLASSES COMUNS (MACHO):
+Guerreiro, Paladino, Rúnico, Xamã.
+*CLASSES COMUNS (Fêmea):
+Ladino, Xamã.
+HABILIDADE AUTOMÁTICA
+--Chifres Poderosos--
+Habilidade (Característica) – Suporte
+Descrição: Você pode desferir uma
+marrada poderosa com seus chifres, causando dano igual à Força +4/Contusão. Qualquer alvo atingido por um ataque feito com
+seus chifres precisa vencer um confronto de
+Força contra você ou será derrubado. Se o
+alvo for derrubado, ele ficará Atordoado por
+1 turno.
+Especial: As fêmeas recebem a Habilidade Faro como Habilidade Automática
+ao invés desta.
+*\
+---
+
+HABILIDADES EXTRAS
+
+---
+--Cabeça Dura--
+Habilidade (Característica) – Suporte
+Descrição: Você é extremamente teimoso e é muito difícil dissuadi-lo de uma
+opinião, intimidá-lo, controlar sua
+mente ou manipulá-lo de qualquer
+forma. Você tem Vontade +1 e
+Determinação +2.
+---
+--Competidor--
+Habilidade (Característica) – Suporte
+Descrição: Você gosta de
+competir – e principalmente,
+de ganhar! Sempre que for fazer uma rolagem para decidir
+o resultado de um confronto,
+você recebe um bônus de +2 no
+seu teste.
+---
+--Faro--
+Habilidade (Característica) – Suporte
+Descrição: Você possui um faro extremamente aguçado. Você rola +1d6
+quando puder fazer testes que envolvam
+o faro, e pode perceber, detectar, rastrear e
+identificar pessoas e locais através dele. O Mestre
+pode realizar testes para ver se você consegue farejar mesmo quando você não estiver ativamente
+procurando odores específicos.
+---
+--Fortaleza--
+Habilidade (Característica) – Suporte
+Descrição: Você é particularmente robusto e estoico. Você tem Resistência à Contusão e
+tem +5 Pontos de Vida.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Imparável--
+Habilidade (Característica) – Reação
+Requisitos: Fortaleza, Vontade 5
+Mana: 20
+Descrição: Derrubar você permanentemente é uma tarefa bem difícil! Uma vez por
+combate, quando seus Pontos de vida chegarem
+à zero, você ignora totalmente o dano que o derrubaria.
+---
+--Potência--
+Habilidade (Característica) – Suporte
+Descrição: Você é mais forte e resistente
+do que a maioria dos indivíduos da sua raça. Você
+tem Força +1 e +5 Pontos de Vida.
+---
+--Robustez--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma constituição
+vigorosa para os padrões da sua raça. Você tem
++5 Pontos de vida e rola +1d6 em testes de Força
+para resistir à fadiga, venenos e doenças. 
+---
+
+**CENTAUROS**
+
+---
+/*
+*ATRIBUTOS INICIAIS:
+Força 4
+Agilidade 2
+Inteligência 3
+Vontade 3
+*CLASSES COMUNS:
+Druida, Guerreiro, Patrulheiro, Xamã.
+HABILIDADE AUTOMÁTICA
+--Corpo Equino--
+Habilidade (Característica) – Suporte
+Descrição: Você possui o dorso de
+um cavalo. Sua carga é calculada como se
+você tivesse duas vezes a sua Força normal,
+seu deslocamento é calculado como se você
+tivesse duas vezes sua Agilidade normal e
+você pode rolar +1d6 quando fizer testes de
+correr, saltar ou evitar ser derrubado. Além
+disso, se fizer ataques desarmados com seus
+cascos, seu dano será Força +2/Contusão.
+Devido ao seu comprimento, estatura
+e peso, você tem dificuldades em uma série
+de atividades (como nadar, escalar e se segurar usando apenas os braços), realizando
+estas ações como se fosse Inapto, e o Mestre pode decidir que algumas atividades são
+impossíveis para você – como dar uma cambalhota ou subir uma escada de mão. 
+*\
+---
+
+HABILIDADES EXTRAS
+
+---
+--Bravura Selvagem 1--
+Habilidade (Característica) – Suporte
+Descrição: Você confia mais nas
+suas habilidades naturais do que em
+armaduras para se defender. Escolha
+entre Bloqueio ou Esquiva. Enquanto
+você não estiver usando armadura, você
+tem +2 naquela defesa (essa escolha é feita
+quando você seleciona essa Habilidade e não pode
+ser mudada mais tarde).
+---
+--Bravura Selvagem 2--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Bravura Selvagem 1
+Descrição: Você veste sua bravura em batalha melhor do que alguns vestem armaduras. O
+Bônus Defesa conferido por Bravura Selvagem 1
+aumenta para +4 e você pode escolher se esse
+bônus será de Bloqueio ou Esquiva no início de
+cada um dos seus turnos, como uma ação livre.
+---
+--Cabeça Dura--
+Habilidade (Característica) – Suporte
+Descrição: Você é extremamente teimoso
+e é muito difícil dissuadi-lo de uma opinião, intimidá-lo, controlar sua mente ou manipulá-lo de
+qualquer forma. Você tem Vontade +1 e recebe
++2 para resistir à qualquer tentativa de persuasão,
+efeito mental ou efeito de medo.
+---
+--Patas Fortes--
+Habilidade (Característica) – Suporte
+Descrição: Você possui pernas mais fortes do que a maioria dos membros da sua raça.
+Você pode rolar +1d6 quando fizer testes de
+corrida, salto, evitar quedas, etc. Além disso, o
+dano dos seus ataques com cascos é aumentado
+em +2.
+---
+--Potência--
+Habilidade (Característica) – Suporte
+Descrição: Você é mais forte e resistente
+do que a maioria dos indivíduos da sua raça. Você
+tem Força +1 e +5 Pontos de Vida.
+---
+--Raça Florestal--
+Habilidade (Característica) – Suporte
+Descrição: Você se sente confortável e renovado quando está sob a proteção da vegetação.
+Quando estiver dentro de uma floresta, bosque
+ou selva, você recebe +2 em todos os seus testes.
+---
+--Robustez--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma constituição
+vigorosa para os padrões da sua raça. Você tem
++5 Pontos de vida e rola +1d6 em testes de Força
+para resistir à fadiga, venenos e doenças.
+---
+
+**METADÍLIOS**
+
+---
+/*
+*ATRIBUTOS INICIAIS:
+Força 2
+Agilidade 4
+Inteligência 3
+Vontade 3
+*CLASSES COMUNS:
+Bardo, Druida, Ladino, Feiticeiro.
+HABILIDADE AUTOMÁTICA
+--Tamanho Pequeno--
+Habilidade (Característica) – Suporte
+Descrição: Você tem uma estatura baixa, o que torna difícil lhe atingir ou detectar.
+Você pode rolar +1d6 quando fizer testes de
+Furtividade. Além disso, seu bônus automático
+de Defesa é 6 ao invés de 5. No entanto, para
+você armas corporais que requerem duas mãos
+são grandes demais para serem usadas com eficiência, e você precisa de ambas as mãos para
+usar qualquer arma com FN 5 ou mais.
+*\
+---
+
+HABILIDADES EXTRAS
+
+---
+--Astuto--
+Habilidade (Característica) – Suporte
+Descrição: Você é mais astuto que a maioria dos indivíduos da sua raça. Você tem Inteligência +1 e recebe +2 em todos os testes de Inteligência e Agilidade que envolvam percepção,
+mover-se em silêncio, camuflagem, furtar bolsos
+e teste semelhantes.
+---
+--Balofo--
+Habilidade (Característica) – Suporte
+Descrição: Você é um exímio exemplar
+dos Metadílios: rotundo e macio. Graças à isso,
+quando você cai, tende a rolar e quicar ao invés de
+se espatifar, sofrendo metade do dano por quedas. Além disso, é relativamente fácil para você
+escorregar de dentro de um aperto. Você rola
++1d6 para escapar de amarras, algemas e adversários que o estejam constringindo.
+---
+--Barriga Cheia--
+Habilidade (Característica) – Reação
+Descrição: Você descansa muito melhor
+depois de comer tanto quanto possível. Você recupera o dobro de Pontos de Mana e de Pontos
+de Vida por repouso se descansar logo após uma
+refeição farta.
+---
+--Esconderijo Invisível--
+Habilidade (Característica) – Ação
+Mana: Varia
+Descrição: Você é extremamente hábil em
+se esconder, e consegue fazer isso de modo quase sobrenatural! O custo dessa Habilidade varia de
+acordo com o esconderijo à disposição, entre 10
+(um local escuro ou com boa cobertura, como um
+arbusto de folhagem densa com o dobro do seu tamanho) e 30 (atrás de uma pedra do seu tamanho,
+no meio de um dia ensolarado). Você pode permanecer no esconderijo por até 1 hora, e enquanto
+fizer isso, você é considerado Invisível.
+---
+--Barganha--
+Habilidade (Característica) – Suporte
+Descrição: Você é um praticante das artes
+da negociação, oratória, retórica e sofisma. Você
+pode rolar +1d6 em todos os seus testes que envolvam comércio e outras negociações.
+---
+--Sorte--
+Habilidade (Característica) – Reação
+Mana: 10
+Descrição: Você está acostumado a contar
+com a sorte – e ela costuma lhe sorrir. Você pode
+rolar novamente um dado cujo resultado seja 1. Você
+só pode usar essa Habilidade uma vez por turno.
+---
+--Táticas de Guerrilha--
+Habilidade (Característica) – Suporte
+Descrição: Você recebeu treinamento militar padrão dos Metadílios, e recebe +1 em todos
+os seus testes que envolvam armas de distância,
+rastreamento e armadilhas.
+---

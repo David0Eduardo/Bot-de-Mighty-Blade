@@ -1,0 +1,162 @@
+**Escriba**
+
+---
+/*
+Requisitos
+Inteligência 4
+Habilidade Automática
+--Escrivão--
+Habilidade (Técnica) – Suporte
+*Descrição: Você está acostumado
+a ler e escrever é extremamente eficiente
+nisso. Você leva metade do tempo normal para ler ou escrever qualquer texto
+(incluindo estudar Magias em itens com
+a característica Registro). Além disso,
+quando estudar magias em um item com
+Registro, você recebe +1d6 em seus testes de Inteligência ou Vontade para compreender aquelas magias.
+Finalmente, você é capaz de conjurar Magias tanto Arcanas quanto Místicas
+a partir de um item com Registro e desenhar Runas ou Selos simples – mas realiza seus testes para conjurar estas magias
+como se fosse Inapto.
+*\
+---
+
+Habilidades Basicas
+
+---
+--Erudito--
+Habilidade - Suporte
+*Descrição: Você passou anos estudando livros sobre os mais diversos assuntos. Você rola +1d6 em qualquer teste ligado à história, heráldica, geografia, religião,
+astrologia ou qualquer tipo de conhecimento teórico. Este bônus também se aplica à
+qualquer Selo ou Runa Simples que você
+desenhar. 
+---
+--Escrivão Mágico--
+Habilidade (Técnica) – Suporte
+*Descrição: Você está acostumado a ler
+e escrever é extremamente eficiente nisso. Você
+pode copiar magias de um item com Registro
+para outro. Para isso, você deve estudar aquela
+magia – mesmo que já tenha estudado ela antes
+– e então escrevê-la em um item com Registro
+usando as regras normais para isso.
+---
+--Gnóstico--
+Habilidade (Técnica) – Suporte
+*Descrição: Você é capaz de
+encontrar significados transcendentais mesmo nas mais exatas
+fórmulas mágicas. Sempre que
+tiver sucesso em estudar um
+item com a Característica
+Registro, você será capaz de
+conjurar qualquer Magia Arcana contida no item como
+se possuísse Conhecimento Arcano. Além disso, se
+você puder atender aos
+requisitos daquela Magia,
+você pode aprendê-la como
+se ela estivesse na lista de
+Habilidades da sua Classe.
+---
+--Luminar--
+Habilidade (Técnica) – Suporte
+*Descrição: Você passou
+tanto tempo estudando magias
+em tomos que é capaz de compreender magias que seriam incompreensíveis
+para outros conjuradores. Quando estiver conjurando uma magia através de um
+item com a característica Registro, você
+ignora todos os requisitos de nível das
+magias.
+Se seu nível for inferior a 5, você
+precisa gastar 10 Pontos de Mana a mais
+para conjurar magias que tenham como
+requisito Nível 5, e 20 Pontos de Mana
+a mais para lançar Magias que tenham
+como requisito Nível 10. Se seu nível for
+entre 5 e 9, você precisa gastar 10 Pontos
+de Mana a mais para lançar Magias que
+tenham como requisito Nível 10.
+---
+--Teólogo--
+Habilidade (Técnica) – Suporte
+*Descrição: Você é capaz de interpretar perfeitamente os significados por
+trás de magias místicas contidas em qualquer missal. Sempre que tiver sucesso em
+estudar um item com a
+Característica Registro,
+você será capaz de conjurar qualquer Magia
+Mística contida no
+item como se possuísse Conhecimento
+Místico. Além disso, se você puder
+atender aos requisitos daquela Magia,
+você pode aprendê-la como se ela
+estivesse na lista de
+Habilidades da sua
+Classe. 
+---
+--Prosa e Verso--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Você possui uma paixão
+tão grande pela palavra escrita, que quando
+conjura magias a partir de um tomo você é
+capaz de transmitir seu entusiasmo para a
+magia. Sempre que conjurar uma magia que
+você conheça através de um item com a característica Registro, você recebe +1d6 nos
+seus testes de conjuração se puder falar enquanto conjura. 
+---
+--Pergaminho Mágico--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Escrivão Mágico
+*Descrição: Você pode registrar uma
+magia em um pergaminho, papiro, ou tecido,
+como se o item possuísse a Característica Registro. Qualquer um que seja capaz de ler o
+texto pode utilizar a magia contida no pergaminho sem qualquer teste - mas ele ainda precisa fornecer o Mana necessário - com uma
+ação de rodada completa. Assim que a magia
+é conjurada, ela é imediatamente apagada do
+pergaminho - o item permanece inalterado,
+mas o texto registrado se dissipa.
+Habilidades ou itens que alteram propriedades de uma Magia não têm efeito na
+magia a ser registrada no pergaminho e nem
+têm efeito sobre uma Magia conjurada a partir do pergaminho.
+*Especial: É possível estudar uma magia
+contida em um pergaminho como se ela estivesse em um item de Registro.
+---
+--Mensagem Mágica--
+Habilidade (Técnica) - Ação
+*Requisito: Nível 5, Erudito
+*Descrição: Sempre que escrever em
+um item com a Característica Registro,
+você pode fazer com que o texto que está
+escrevendo apareça em quaisquer outros
+itens com a Característica Registro que
+possuam sua Runa ou Selo pessoais, à
+sua escolha quando escreve a mensagem.
+Se o item não possuir espaço para o texto que você está escrevendo, o texto irá
+aparecer até onde for possível. Além de
+escrita, desenhos podem ser enviados
+dessa forma, mas não é possível transferir
+Magias com uma Mensagem Mágica.
+A escrita é permanente tanto no
+item no qual você está escrevendo quanto nos itens que estão recebendo a mensagem.
+---
+--A Verdade das Palavras--
+Habilidade (Técnica) - Ação
+*Requisito: Nível 10, Mensagem
+Mágica
+*Descrição: Você consegue passar
+uma mensagem tão poderosa com suas
+palavras, que é impossível não ser afetado
+pelo que você escreve. Você é capaz de
+escrever uma afirmação em um pergaminho, papiro, tecido ou item com a característica Registro, e qualquer um que ler a
+frase passa a considerar aquela afirmação
+como verdade absoluta. É possível escrever ordens diretas (como por exemplo
+“mate o rei”), conhecimentos específicos (“Mirah é uma mentira”) ou mesmo
+idéias abstratas (“A verdade está lá fora”).
+Se o personagem for confrontado
+sobre uma ordem ou um conhecimento
+que tenha adquirido através de A Verdade das Palavras, ele pode realizar um teste
+de Vontade (Dificuldade igual à Determinação do Escriba) para que a ordem ou
+conhecimento sejam dispersos. O personagem não saberá dizer a origem da ordem ou do conhecimento, no entanto, e
+irá considerar que foi uma idéia própria,
+mesmo que não seja capaz de fazer sentido nisso.
+*Especial: Não é possível utilizar A
+Verdade das Palavras através de Mensagem Mágica.
+---

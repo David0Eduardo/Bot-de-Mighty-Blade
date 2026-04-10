@@ -1,0 +1,222 @@
+Capítulo 1: Sobre Magia
+Magias são fenômenos que envolvem manipular energias para criar efeitos
+sobrenaturais no plano material. Para entender como as regras se aplicam às magias, começaremos falando sobre questões mais fundamentais do funcionamento das
+magias – tanto em relação ao ambiente como em relação com os jogadores e Mestres.
+
+---
+**Magia e ambiente**
+As magias elementais podem ser
+mais ou menos eficazes dependendo do ambiente em que forem conjuradas. Apesar disso ser mais
+evidente nas descrições das magias de
+frio e gelo, ambientes úmidos ou frios
+podem diminuir a eficiência de magias
+de fogo, enquanto magias de Eletricidade, por outro lado, se beneficiam dos
+ambientes subaquáticos – onde a maioria das magias de fogo se tornam impraticáveis! Existem diversos tipos de
+ambientes específicos cujas características podem influenciar no modo como
+as Magias se comportam, o que pode ser
+interessante se forem adotadas por Mestres que queiram um maior impacto da
+geografia de seus cenários nos jogos. É
+importante que os Mestres se lembrem
+de avisar seus jogadores que as regras
+de ambiente serão utilizadas, para não
+frustrar jogadores ao apresentar, de surpresa, dificuldades elevadas ou impossibilidades de uso de certas Magias.
+A maioria dos ambientes no território de Cassiopéia não afetam a conjuração, exceto os listados adiante. Estes
+ambientes são relativamente frescos e
+com vento fraco ou moderado durante a
+maior parte do ano. Nesses ambientes, as
+magias elementais duram normalmente e não sofrem nenhum modificador.
+Apesar de ter um clima frio e um inverno particularmente rigoroso, as cidades
+dos Anões em Dagothar são subterrâneas e mantidas aquecidas o ano todo por
+fornalhas e veios de magma subterrâneos, e são, portanto, sempre considerados
+ambientes com clima ameno.
+Ambientes gelados incluem
+Eishelm, Dagothar (com exceção das cidades subterrâneas dos Anões), as Cordilheiras dos Cristais, as cadeias Cnocard ao redor de Londérien. Tebryn,
+Londérien, o Grande Pântano do Leste
+e o Mar do Comércio são consideradas
+regiões geladas durante o inverno. Nesses ambientes, gelo criado magicamente dura indefinidamente e as magias
+de fogo têm suas dificuldades para ser
+conjuradas aumentadas em 2.
+Ambientes quentes incluem as
+Terras Secas, as Montanhas do Céu Escarlate e os Picos Orientais. Arkânia e
+Parband durante o verão também são
+consideradas ambientes quentes. Nesses ambientes as magias de Gelo (assim
+como gelo criado magicamente) duram
+metade do tempo normal, e magias de
+Fogo causam 5 pontos de dano a mais.
+Ambientes subaquáticos incluem
+todos os rios, lagos e mares de Drakon,
+abaixo da superfície, é claro. Nesses ambientes, as magias de Fogo não funcionam de modo normal. Incandescer irá
+ferver toda a água ao redor do conjurador num raio igual a 100 metros por
+ponto de Inteligência que ele tiver! A
+maioria das outras Magias que causam
+dano por Fogo serão conjuradas diretamente à frente do conjurador, produzindo uma enorme quantidade de borbulhas quentes que sobem em direção à
+superfície, causando dano normal, mas
+apenas nas criaturas pegas por essa nuvem de bolhas. Algumas magias (como
+Inferno) serão conjuradas no ponto em
+que o conjurador estiver se concentrando, ao invés de diretamente à frente dele,
+mas produzirá o mesmo efeito (borbulhas ferventes que sobem em direção
+da superfície) ao serem conjuradas. Magias de Gelo duram metade do tempo
+em ambientes subaquáticos, exceto em
+áreas polares ou em profundezas oceânicas, onde durarão indefinidamente. É
+importante observar, também, que gelo
+tende a flutuar, então magias que pdoruzam gelo de alguma forma podem ter
+efeitos inusitados. Magias de Eletricidade, por sua vez, passam a afetar todas
+as criaturas dentro de uma área de 10
+metros ao redor do conjurador (mas não
+ele próprio) ou, no caso de magias que
+afetem uma área, tem sua área dobrada,
+quando conjuradas embaixo d’água.
+---
+**Magia Criativa**
+A maioria das Habilidades do
+tipo Magia apresentadas neste livro e
+no Guia Básico descrevem o uso mais
+frequente e direto de um efeito mágico.
+Essas descrições visam, primeiramente, apresentar os usos mais comuns (e
+eficientes, de um modo geral) da Magia
+em questão. Isso não quer dizer, no entanto, que os jogadores (e obviamente o
+Mestre) não possam utilizar Magias de
+forma mais ampla. Jogadores interessados em jogar com personagens conjuradores devem manter a mente aberta e
+procurar usos inusitados para suas Magias, ao invés de usá-las estritamente
+como descrito.
+Os Mestres, de sua parte, devem
+permitir que os jogadores tenham alguma liberdade quando usarem suas
+Magias – particularmente de forma
+criativa ou divertida. Não é porque os
+jogadores descobriram um modo fácil
+de vencer um desafio que você criou
+por conta do uso criativo de suas habilidades que eles devem ser impedidos
+por questões mecânicas. Crie situações
+em que os jogadores vão precisar de
+mais criatividade do que simplesmente
+golpes de espada e bolas-de-fogo para
+vencer desafios e todos se divertirão
+mais! Para citar alguns exemplos, um
+Druida poderia utilizar uma Rajada de
+Água disparada para o alto para irrigar uma pequena área, tanto para auxiliar no crescimento de plantas quanto
+para refrescar um grupo de pessoas em
+uma região árida ou poderia desenhar
+o Selo de Punho de Pedra no chão, sob
+si mesmo, fazendo uma coluna capaz
+de erguê-lo para alcançar um patamar
+alto ou para passar por sobre um muro.
+Eletricidade Estática, dos Feiticeiros,
+poderia ser usado para prender uma
+extremidade de uma corda em uma
+superfície estável, para permitir cruzar
+uma fissura ou descer de uma estrutura, e uma Parede de Gelo poderia ser
+conjurada em um lago ou rio, criando
+uma espécie de jangada de gelo – que
+o Feiticeiro poderia evitar que descongelasse conjurando runas de Congelar
+sobre ela de tempos em tempos.
+Perceba, no entanto, que usos
+criativos não significam abolir completamente as regras ou permitir que os
+jogadores tirem vantagem delas. Usar
+um Entrelaçar em um alvo caído para
+impedir que ele se levante seria uma
+ideia criativa, mas fazer as plantas estrangularem o alvo, não – a Magia serve
+para segurar, não espremer.
+De modo geral, se um jogador
+encontrar um uso inusitado para uma
+Magia, dentro ou fora de combate, que
+não envolva causar dano direto com
+ela, o Mestre deveria permitir.
+---
+**Detectar Magia e Auras Mágicas**
+Quando um personagem utiliza
+Detectar Magia, ele é capaz de perceber a aura de objetos mágicos, que se
+apresenta na forma de um considerável brilho vindo do item. Isto permite
+notar a presença de um objeto mágico
+indiretamente, em alguns casos – como
+um item atrás de um outro objeto, por
+exemplo. Itens dentro de recipientes
+(um bolso, saco ou mochila, por exemplo) não são detectáveis dessa forma,
+já que o brilho projetado pela aura não
+passa através de objetos, a menos que
+eles sejam transparentes ou porosos.
+Além disso, as características gerais da
+aura permitem que um conjurador perceba que o item em questão é um item
+encantado ou um item abençoado apenas com uma rápida olhada – encantamentos arcanos apresentam um brilho
+constante com transições de cores gradativas, enquanto objetos abençoados
+possuem auras pulsantes ou chamejantes com cores persistentes.
+A intensidade do brilho que um
+item mágico emana é proporcional ao
+tamanho físico do item, mas a quantidade e qualidade da magia contida nele
+também tem influência. Objetos abençoados geralmente brilham mais do
+que itens encantados com uma única
+magia, mas multiplos encantamentos
+podem fazer um item brilhar muito
+mais intensamente. Apesar desse brilho
+ser intenso – como o da magia Luz ou
+uma tocha, em geral – ele não irradia
+luz de fato, não podendo ser utilizado
+pelo conjurador para perceber as cercanias do item, nem podendo ser usado
+para, digamos, ler no escuro. De fato, o
+brilho tende a ofuscar itens mundanos
+nas proximidades, tornando sua aparência um tanto difusa.
+O uso de Detectar Magia permite
+perceber Runas Arcanas e Selos Místicos em sua linha de visão – seja sobre
+criaturas, objetos ou superfícies – de
+forma semelhante ao que ocorre com
+itens mágicos. Qualquer Runa Pessoal
+que o conjurador já tenha visto é imediatamente reconhecida, e no caso de
+Selos Simples, ele é capaz de identificar
+à qual divindade ele é dedicado – ou
+qual religião, caso o conjurador não seja
+dedicado à uma divindade específica
+(ou seja, se ele não tiver um Dogma).
+Para obter informações mais detalhadas sobre o item, Runa ou Selo,
+como as propriedades gerais de um
+item – mas não detalhes específicos,
+como formas de ativação especiais, limitações ou propósito – qual magia específica de uma Runa ou Selo ou se ela
+tem uma duração efêmera ou perene
+(mas não a duração exata, se for efêmera), é necessário analisar a aura mágica,
+o que exige observar o encantamento
+por 1 minuto enquanto o conjurador
+“lê” as propriedades da aura. Essa leitura exige certa proximidade (no máximo 1 metro de distância da aura sendo 
+analisada) e requer atenção completa,
+não sendo possível realizar qualquer
+outra ação (exceto falar) enquanto o
+conjurador faz a análise.
+Enquanto estiver utilizando Detectar Magia (seja para perceber auras
+ou analisá-las) o conjurador precisa
+estar ativamente concentrado, o que
+significa que ele só pode realizar ações
+simples (como caminhar, conversar ou
+realizar ações livres) e, se precisar realizar qualquer teste enquanto estiver
+utilizando Detectar Magia, sua concentração em perceber auras mágicas será
+quebrada imediatamente. Ele também
+perde sua concentração na detecção de
+auras mágicas imediatamente se sofrer
+dano ou cair sob o efeito de uma condição.
+Qualquer condição que impeça
+o personagem de se concentrar – incluindo realizar testes como Inapto ou
+restringir os tipos de ação que ele pode
+realizar em um turno – impede que ele
+utilize Detectar Magia para detectar ou
+analisar auras mágicas.
+/*
+**Aura Nula, Fraca e Divina**
+Em edições anteriores do sistema, haviam diversos tipos de Auras
+Mágicas – incluindo itens com propriedades “semi-mágicas”, como
+Poções, que eram considerados
+“itens mágicos com aura nula”. Essa
+variedade de intensidade de auras
+não existe na 3ª edição do Mighty
+Blade, mas em alguns casos (como
+a Habilidade Desativar Item do
+Rúnico) podem haver trechos dessas regras que não foram revisados
+adequadamente ou passaram despercebidos. Se alguma regra diz que
+um objeto possui “aura nula”, isso
+significa que aquele não é um objeto
+mágico, e portanto não possui uma
+aura mágica que será percebido por
+Detectar Magia. Qualquer outra intensidade de Aura que porventura
+possa aparecer em outras passagens
+deve ser considerada simplesmente
+como um item mágico ou um item
+Abençoado, de acordo com a situação específica.
+Essas diretrizes também devem ser aplicadas caso você esteja
+adaptando algum material de versões anteriores do sistema para a 3a
+edição do Mighty Blade.
+*\

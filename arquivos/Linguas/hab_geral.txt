@@ -1,0 +1,69 @@
+Habilidades Gerais
+
+Aqui estão três novas Habilidades
+Gerais ligadas aos idiomas de Drakon.
+Uma delas é uma Magia exclusiva para
+seguidores de Sarfion - tanto personagens da Classe Sacerdote quanto personagens com o Antecedente Devoto.
+
+---
+--Mimetismo Social--
+Habilidade (Técnica) - Suporte
+Raças: Todas exceto Astério e Tritão
+*Descrição: Você possui uma grande facilidade em entender os maneirismos das culturas com as quais tem
+contato. Graças a isso, você absorve o
+sotaque dos idiomas que aprende, além
+de conseguir mimetizar as características de seus falantes. Você consegue
+imitar qualquer sotaque de qualquer
+idioma que conheça, e recebe +2 em
+todos os seus testes sociais envolvendo
+falantes nativos dos idiomas que você
+conhece, se estiver se comunicando no
+idioma deles.
+---
+--O Tomo das Muitas Línguas--
+Habilidade (Magia) – Ação
+*Requisito: Dogma: Discípulo do
+Conhecimento
+Mana: 10
+Dificuldade da Magia: 9
+*Descrição: Desenhando um Selo
+Místico sobre um item ou criatura que
+mostre uma escrita de qualquer origem,
+o Selo se materializa na forma de um livro mostrando o símbolo de Sarfion na
+capa. Ao abrir o livro, todas as páginas
+estarão cobertas em escritas da linguagem sobre a qual o Selo foi desenhado,
+e você é inundado por uma torrente de
+murmúrio naquele idioma.
+Você é capaz de ler o texto sobre o
+qual o Selo foi desenhado, enquanto se
+mantiver concentrado na leitura, independente do tempo que isso pode levar.
+O Selo Místico que conjura a Magia se dissipa imediatamente após seus
+efeitos serem desencadeados.
+*Especial: Se o texto em questão for
+uma Magia de qualquer tipo, você será
+capaz de conjurar aquela Magia como
+se estivesse na sua Lista de Habilidades
+por uma quantidade de Horas igual à
+sua Vontade - ou até que você use esta
+Habilidade sobre outro item que contenha uma Magia contida nele. Se usado
+sobre um item com mais de uma Magia,
+apenas a primeira Magia que você ler
+será afetada dessa forma.
+---
+--Teurgia--
+Habilidade (Técnica) - Suporte
+Raças: Todas
+*Requisito: Saber falar Arkadis, Ctónico, Draen, Quoratus ou Track’kar’a.
+*Descrição: Você utiliza sua voz
+como um foco auxiliar quando conjura
+efeitos mágicos. Sempre que pronunciar palavras num idioma apropriado
+para sua prática de Magia, você recebe
++2 no seu teste para conjurar aquela
+Magia.
+*Especial: Não existe uma exigência para qual é o idioma mais adequado
+para cada prática de Magia mas, comumente Feiticeiros, Rúnicos e Dracomantes utilizam o Arkadis, Sacerdotes utilizam o Quoratus e Druidas utilizam o
+Draen. Necromantes não possuem ligação especial com nenhum idioma, mas
+aqueles que recorrem à Teurgia costumam utilizar o Ctónico. Leia a descrição dos Idiomas Exóticos para decidir
+qual deles seria mais adequado para o
+seu personagem.
+---

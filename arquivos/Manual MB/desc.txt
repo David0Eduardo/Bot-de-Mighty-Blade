@@ -1,0 +1,2193 @@
+Capítulo 1 – Regras
+Para jogar Mighty Blade você precisa de um personagem. As características
+relevantes do personagem são resumidas na sua Ficha de Personagem. O primeiro
+capítulo deste livro tem como principal função apresentar essas características em
+detalhes, bem como seu uso durante uma partida, para assim representar as capacidades do seu personagem em termos de jogo.
+
+---
+**Criação de Personagem**
+Para fazer seu personagem, antes
+o Mestre precisa lhe falar sobre o mundo onde a história que ele vai narrar se
+passa. Mighty Blade é um jogo de fantasia medieval, ou seja, um mundo onde há
+cavaleiros e nobres, como em nossa idade
+média, mas com magia e criaturas fantásticas, como goblins, grifos e dragões! Nos
+capítulos II e III, há pequenas descrições
+de como cada Raça e Classe está ligada à
+Drakon, o cenário oficial de Mighty Blade, para ajudar o Mestre e os jogadores à
+criar personagens nesse cenário. No entanto, o mestre pode usar qualquer outro
+cenário de fantasia medieval que desejar
+para suas aventuras, como a Terra Média
+de O Senhor dos Anéis ou Westeros de
+Guerra dos Tronos, ou ainda criar seu
+próprio mundo fantástico!
+Uma vez que você tenha uma ideia
+de como é o cenário onde seu personagem vai existir, converse com os outros
+jogadores sobre como eles querem jogar
+para terem um grupo bem definido e com
+cada papel claro, evitando grupos com
+pouca diversidade (a menos que isso faça
+parte da proposta do mestre) e também
+para definir se os jogadores estão mais
+predispostos à um jogo de exploração,
+combate ou política, por exemplo. Decidir esses detalhes antes do jogo ajuda
+muito à manter o interesse de todos na
+aventura.
+O Mestre deve ajudar os jogadores
+em suas escolhas, dizendo o que ele acha
+mais interessante para a aventura que ele
+tem em mente, principalmente se for um
+grupo iniciante. Ele também pode vetar
+ou incluir Raças e classes de acordo com
+seu cenário, proposta de jogo ou simplesmente gosto pessoal, portanto conversar
+com o Mestre antes de fazer a ficha é muito importante.
+A seguir está a descrição passo-a-
+-passo de como construir um personagem de Mighty Blade:
+-*Passo 1 – Raça: Escolha uma das
+Raças descritas no capítulo II e anote
+sua Habilidade Automática. Anote também os Atributos inicias de sua raça.
+-*Passo 2 – Classe: Escolha uma das
+Classes descritas no capítulo III e anote
+sua Habilidade Automática. Some os modificadores de Atributo de sua classe aos
+valores iniciais previamente anotados.
+-*Passo 3 – Habilidades: Escolha 3
+Habilidades na lista de Habilidades de
+sua Raça, Classe ou na lista de Habilidades Gerais.
+-*Passo 4 – Equipamento: Escolha
+seu equipamento. Você começa com 500
+moedas e pode comprar qualquer item
+que esteja no Capítulo 5.
+-*Passo 5 – Toques Finais: Preencha
+os detalhes restantes da ficha (Pontos de
+Mana, Pontos de Vida, Deslocamento,
+Defesa e Carga). O diagrama a seguir
+mostra como fazer isso.
+-*Passo 6 – Está Vivo!: Escolha o
+nome do personagem, sua motivação e, se
+quiser, faça um desenho do personagem
+(ou seu símbolo, brasão ou runa pessoal)
+e pense em uma breve história para ele.
+---
+*Raças:
+No Capítulo II você encontra uma
+descrição detalhada de cada uma das
+Raças apresentadas nesse livro. Essas
+Raças estão ambientadas no cenário
+de Drakon, mas podem ser usadas em
+qualquer cenário que o Mestre deseje,
+bastando que ele determine como cada uma delas será no seu cenário de jogo -
+se forem diferentes das descrições apresentadas aqui.
+As raças conferem os valores iniciais dos Atributos do personagem e uma
+Habilidade Automática. Além disso, elas
+apresentam uma série de Habilidades extras que podem ser selecionadas entre as
+Habilidades iniciais do personagem ou (a
+menos que seja explícito que a habilidade só pode ser pega na criação do personagem) entre as que ele pode selecionar
+quando subir de nível.
+---
+*Classes:
+No Capítulo III você encontra uma
+descrição detalhada de cada uma das
+Classes apresentadas nesse livro. Elas
+são as mais comuns encontradas em
+Drakon, e a maioria delas também é comum na maioria dos cenários de fantasia, apesar de serem apresentadas aqui
+da forma mais original possível. Outras
+Classes apresentam conceitos únicos,
+especificamente desenvolvidas para se
+encaixarem no cenário de Drakon. Leia
+com calma as classes que lhe chamarem atenção e escolha a que lhe agradar
+mais.
+As Classes conferem um bônus em
+dois Atributos, que devem ser somados
+aos valores iniciais conferidos pela Raça
+e também uma Habilidade Automática.
+Além disso, cada Classe apresenta uma
+série de Habilidades que podem ser selecionadas entre as Habilidades iniciais
+do personagem ou entre as que ele pode
+selecionar quando subir de nível, desde
+que o personagem preencha os requisitos
+delas.
+---
+*Atributos:
+A parte mais básica das capacidades de um personagem são seus atributos. Eles definem como seu personagem
+é, indicam se ele é forte, ágil, inteligente
+ou determinado. Atributos são, basicamente, as características naturais do personagem. A Raça do personagem dita
+seus Atributos iniciais, que formam as
+características médias de um membro daquela raça, e a Classe adiciona um bônus
+nos dois Atributos mais relevantes para
+as funções que ela desempenha.
+Existem quatro atributos no Mighty Blade: Agilidade, Força, Inteligência e
+Vontade.
+---
+*Força:
+(Físico, Vigor, Saúde)
+Qualquer tarefa que dependa do
+poder físico do personagem é feita com
+esse atributo, ele concentra toda a capacidade muscular e resistência física dele.
+Esse atributo é usado para resistir à fadiga, realizar ataques corporais, escalar, erguer pesos, forjar metais, minerar, e qualquer outra atividade que exija resistência
+e força física.
+---
+*Agilidade:
+(Destreza, Reflexos, Flexibilidade)
+Sempre que o personagem precisar
+de coordenação, controle e precisão, suas
+ações estarão centradas nesse Atributo. A
+Agilidade é usada para fazer acrobacias,
+malabarismo, se equilibrar, mover-se em
+silencio, saltar com precisão, mirar ataques à distância, pular sobre obstáculos,
+esgueirar-se sorrateiramente, etc.
+---
+*Inteligência:
+(Intelecto, Raciocínio, Percepção)
+Sempre que uma tarefa exigir a capacidade mental do personagem, esse
+atributo é posto em prática. A Inteligência é usada em situações que exijam capacidade de aprender e aproveitar conhecimento, memória e raciocínio, além de representar o quão atento o personagem
+está aos seus arredores e o quão rápido
+ele responde à mudanças no ambiente.
+Perceber a presença de itens ou personagens escondidos, entender o conteúdo
+de textos mágicos, produzir poções, reconhecer animais e plantas e suas propriedades são alguns exemplos de usos de
+Inteligência.
+---
+*Vontade:
+(Presença, Perseverança, Espírito)
+Representa a perseverança do personagem, sua capacidade de seguir em
+frente não importa o que aconteça, assim
+como sua presença de espírito e magnetismo natural. Esse atributo é usado para
+testar sua concentração e coragem, e também em interações sociais como mentir,
+intimidar, barganhar preços e entreter
+(ou atrair) alguém com histórias envolventes, músicas empolgantes ou danças
+sensuais, por exemplo.
+---
+*Habilidades:
+As Habilidades possuem característica específicas e únicas e devem ser lidas
+individualmente para sua compreensão.
+Elas são, em essência, capacidades de um
+personagem – o que e quão bem ele faz
+uso de itens, técnicas ou conhecimentos
+que possui. Elas podem vir da Raça, da
+Classe ou da Lista de Habilidades Gerais
+apresentada adiante.
+Em qualquer dos casos elas são divididas em Habilidades Básicas (que podem
+ser adquiridas por personagens de qualquer nível), Habilidades Avançadas (que
+só podem ser adquiridas por personagens
+a partir do nível 5) ou as Habilidade Final que são exclusiva das Classes - e só
+podem ser adquirida no nível 10.
+Além disso, as Habilidades são
+divididas em três tipos (Ação, Reação e
+Sporte) e em cinco categorias (Característica, Magia, Música, Padrão ou Técnica).
+Esses tipos e categorias são explicadas
+adiante.
+Habilidades com o mesmo nome seguido de um número (por exemplo, Grito
+de Guerra 1 e Grito de Guerra 2) nunca
+acumulam seus bônus, a menos que isso
+esteja explicitamente descrito no texto.
+Quando essas Habilidades são utilizadas,
+apenas o bônus mais alto é considerado.
+Assim, se um personagem usar Grito de
+guerra 2 (que oferece +2 em todas as rolagens até o fim do combate) e em seguida
+Grito de Guerra 1 (que oferece +1 em todas as rolagens até o fim do combate), ele
+recebe um bônus de +2 em todas as suas
+rolagens até o final do combate, que é o
+bônus mais alto.
+Perceba que bônus semelhantes de
+Habilidades diferentes se acumulam normalmente. Assim, por exemplo, o bônus
+de Grito de Guerra 1 se acumula com o
+bônus de Abençoar Aliados 1 (que também oferece +1 em todas as rolagens),
+oferecendo um bônus de +2 em todas as
+rolagens. Habilidades são divididas em
+três tipos e em cinco categorias, são elas:
+---
+*Tipos:
+Ação: Requer uma ação padrão
+para acionar. Um personagem pode usar
+essas habilidades a qualquer momento
+em que fosse realizar uma ação padrão
+a menos que ela especifique que o personagem precisa desempenha-la como
+uma ação de turno completo – como
+realizar um Encontrão. (veja combate,
+adiante, para mais detalhes sobre os tipos de ações).
+Reação: Acionada a partir de um
+acontecimento. Sempre que o acontecimento descrito na Habilidade ocorrer, o
+efeito de Reação pode ser acionado – mesmo em turnos em que o personagem tenha usado Habilidades de Ação ou realizado
+ações de turno completo. No entanto, nenhuma Habilidade de Reação ocorre automaticamente. O jogador precisa anunciar
+que seu personagem irá reagir à situação
+que aciona sua Habilidade de Reação para
+que ela tenha efeito. Além disso, cada Reação só pode ser acionada uma vez para
+cada efeito que a desencadeie.
+Suporte: Está sempre acionada.
+Seus efeitos estão sempre ativos, não importa o que o personagem faça. Não se
+pode “desligar” os efeitos de Habilidades
+do tipo Suporte.
+---
+*Categorias:
+Característica: são habilidades natas do personagem e representam elementos físicos e mentais intrínsecos dele.
+De um modo geral essas habilidades não
+são aprendidas, elas nascem com o personagem ou se desenvolvem naturalmente
+com o tempo.
+Magia: são aquelas habilidades que
+necessitam que o personagem seja um
+conjurador para serem executadas. Magias são explicadas em mais detalhes na
+página 36.
+Música: são habilidades especiais
+exclusivas a Classe Bardo. Músicas podem ser de dois tipos: Canções – que
+usam instrumentos e voz – e Melodias –
+que usam apenas instrumentos. Canções
+requerem que o personagem toque um
+instrumento musical e cante, o que significa que, enquanto estiver usando uma
+Canção, o personagem não pode falar
+nem usar as mãos para realizar outras tarefas. Melodias, por outro lado, requerem
+apenas o uso de um instrumento, e o personagem pode falar livremente enquanto
+faz uso delas.
+Músicas exigem concentração e
+exigem ações padrões para serem iniciadas e mantidas. Assim, enquanto usa
+uma Música, o Bardo só tem ações livres
+e de movimento à disposição em seu
+turno, e se realizarem alguma ação que
+exigiria uma ação padrão ou uma ação
+de turno completo, os efeitos da Música
+que ele estiver tocando serão interrompidos imediatamente. Da mesma forma,
+o uso de Músicas é interrompido imediatamente se o Bardo for derrubado, ficar atordoado, enregelado, distraído ou
+paralisado.
+---
+Técnica: são aprendidas com treino
+formal (através de um instrutor), técnico
+(estudo de uma fonte teórica) ou empírico
+(simples tentativa e erro). Esse tipo de Habilidade representa um conjunto de conhecimentos práticos e conceituais que o personagem possui em uma área específica.
+Padrão: Quando uma habilidade
+não entra em nenhuma das outras categorias, ela é deixada sem o descritivo entre parênteses e é considerada uma Habilidade Padrão.
+---
+*Adquirindo Habilidades:
+Um personagem de nível 1 tem 3
+Habilidades selecionadas entre aquelas
+encontradas nas suas listas de Classe e
+Raça e na lista de Habilidades Gerais (ver
+adiante) além de suas Habilidades Automáticas fornecidas por Raça e Classe.
+Sempre que puder adquirir uma
+Habilidade, verifique se o personagem
+atende os Requisitos, caso a Habilidade
+tenha algum. Requisitos normalmente
+são outras Habilidades, mas também podem ser um valor mínimo de Atributo ou
+Nível.
+---
+*Pontos de Vida:
+Os Pontos de Vida (também chamados de PVs) definem quanto castigo
+físico um personagem é capaz de sofrer
+antes de se entregar. Eles não são uma
+medida apenas da saúde do personagem, mas também de uma mistura de
+sua moral, sua vontade de lutar, sua autoconfiança e também sorte. Quando o
+personagem sofre dano por um ataque,
+como um golpe de espada ou uma bola
+de fogo, não significa que ele for cortado ou queimado e que está sangrando e
+em chamas, mas sim que ele bloqueou
+ou esquivou o ataque por um triz ou
+que o ataque atingiu uma parte particularmente resistente da armadura e o
+personagem agora está mais consciente
+de que poderia perfeitamente ter, sim,
+perdido um bocado de carne devido ao
+ataque, o que efetivamente diminui sua
+autoconfiança e moral – além de talvez
+deixar um roxão ou até um pequeno corte superficial.
+Um personagem de nível 1 tem 60 Pontos de Vida iniciais.
+---
+*Por um Fio:
+Um personagem que perdeu todos
+os pontos de vida fica inconsciente, mas
+não está morto. O personagem é capaz
+de resistir aos ferimentos que o levaram
+à inconsciência por 1 minuto por ponto
+de Força ou Vontade (o que for mais alto)
+antes de efetivamente morrer. Depois
+esse tempo, ele pode fazer um teste de
+Vontade (dificuldade 12) para tentar reunir suas forças e permanecer vivo. Caso
+falhe neste teste, ele morre irremediavelmente, mas se passar, ele estabiliza, recuperando 1 Ponto de vida e acordando em
+6 horas. Esse tempo de restabelecimento
+não recupera Pontos de vida ou Mana
+adicionais.
+Um personagem Por um Fio pode
+ser auxiliado por um personagem usando um Kit de Cura. Se esse aliado for bem
+sucedido em um teste de primeiros socorros (veja Cuidados Médicos na página
+25) o personagem é considerado estabilizado como se tivesse sido bem-sucedido
+no teste de Vontade descrito acima.
+Um personagem Por um Fio é considerado Indefeso (veja Condições, na página 172) e qualquer quantidade de dano
+que ele receber o fará morrer sem chances
+de recuperação. Um personagem estabilizado é considerado Desprevinido (veja
+Condições, na página 173), mas caso seja
+ameaçado, pode reagir.
+Obviamente, certos ferimentos podem tornar o restabelecimento impossível. Se o alvo foi decapitado não há meios
+de estabilizá-lo. No caso de Habilidades
+como Absorver e Engolir, o personagem
+tem seu corpo completamente destruído,
+e não há chances de recuperação. Gás
+Petrificante e Olhar Petrificante também
+causam uma morte que não pode ser
+curada por qualquer meio, exceto magias
+e poções muito poderosas.
+---
+*Morte Instantânea:
+Se um personagem estiver completamente indefeso – isto e, inconsciente,
+totalmente contido ou Por Um Fio – um
+oponente pode matá-lo instantaneamente com um ataque qualquer. O dano do
+ataque é totalmente irrelevante (uma faca
+cega é fatal se o opoente não pode se defender, e mesmo desarmado um personagem pode simplesmente estrangular uma
+vítima indefesa até matá-la).
+Lembre-se que um personagem que
+esteja dormindo não é considerado indefeso, mas sim surpreso (veja o capítulo 6
+pág. 173 para mais detalhes).
+---
+*Pontos de Mana:
+Mana é um conceito abstrato que
+mede a capacidade de concentração, o
+foco mental e espiritual do personagem
+e também, parcialmente, sua saúde. Os
+Pontos de Mana (também chamados de
+PMs) servem para abastecer Habilidades
+que tenham custo em Mana. Você só pode
+gastar Pontos de Mana se tiver a quantidade necessária exigida pela Habilidade
+ou tarefa. Habilidades de Ação devem ser
+abastecidas antes do personagem poder
+fazer o teste para realizá-la, e mesmo que
+não sejam bem-sucedidas, a energia necessária para realizá-las foi gasta de qualquer
+forma. Já as Magias são uma exceção a essa
+regra, só gastam pontos de Mana se você
+for bem-sucedido no teste para lança-la –
+portanto, se uma rolagem para lançar uma
+magia falha, ela não ocorre, e os pontos de
+Mana do personagem não são gastos.
+Um personagem de nível 1 tem 60 Pontos de Mana iniciais.
+---
+*Exaustão:
+Um personagem que fique completamente exaurido de seus Pontos de
+Mana realiza todos os seus testes como
+se fosse Inapto até recuperar pelo menos
+1 Ponto de Mana. Essa regra reflete a fadiga e falta de capacidade de concentração que o personagem sente ao chegar ao
+limite de sua resistência física e mental.
+Qualquer perda de Mana posterior será
+descontada dos PVs do personagem.
+---
+*Recuperação:
+Há várias maneiras de recuperar
+Pontos de Vida e Mana sendo a mais comum o simples descanso. Um personagem
+descansando – isto é, sem fazer nenhuma
+atividade que exija testes de qualquer espécie, concentração física ou foco mental,
+como estudar magias, marchar ou ficar de
+vigia – recupera 1 ponto de vida e Mana a
+cada dez minutos. Dormindo, o personagem recupera o dobro dessa quantidade.
+Magias, poções e algumas Habilidades também podem recuperar Pontos de
+Vida e Mana. A recuperação através de poções, itens mágicos e Habilidades é direta, e
+o item ou Habilidade em questão terá uma
+descrição de como é seu funcionamento.
+Sucessos críticos em testes de Cuidados Médicos também podem recuperar Pontos de Vida – Veja Ações e Testes,
+na página 21.
+Perceba que nenhum personagem
+pode recuperar pontos de Vida ou Mana de
+modo à ficarem com mais do que seu máximo. O total dos Pontos de Vida e Mana de
+um personagem limitam sua quantidade
+máxima nessas duas características.
+---
+*Deslocamento:
+O Deslocamento do personagem
+é calculado dividindo-se sua Agilidade
+por 2 (arredondada para baixo) e somando-se 5 ao resultado. Esse é o número de
+metros que um personagem consegue
+percorrer normalmente durante seu turno. Assim, um personagem com Agilidade 3 teria deslocamento 6 (3 dividido
+por 2 = 1,5, arredondado para baixo 1; 1
++ 5 = 6) enquanto um personagem com
+Agilidade 6 teria deslocamento 8 (6 dividido por 2 = 3; 3 +5 = 8).
+O valor de corrida de um personagem e igual à 4 vezes seu Deslocamento
+normal (veja Ações de rodada Completa, na sessão sobre combate, para maiores explicações de como usar corrida em
+combate), mas pode ser afetado pela armadura que ele estiver usando.
+Se estiver usando uma armadura
+com a característica Pesada, o personagem tem seu modificador de corrida
+diminuído para o triplo de seu Deslocamento (ao invés do quádruplo).
+Se estiver usando uma armadura
+com a característica Rígida seu modificador de corrida será apenas o dobro de
+seu Deslocamento normal.
+*Outras formas de Movimentação:
+Além de andar ou correr, o personagem pode precisar realizar outros tipos
+de movimentação durante combate.
+Se o personagem estiver escalando, nadando, andando em terreno acidentado ou nas copas das árvores considere que seu deslocamento é igual á
+metade do seu valor normal (e ele não
+pode correr) e é preciso realizar testes
+para avançar. No caso de personagens
+escalando, nadando ou saltando veja as
+regras descritas em Ações e Testes, na
+página 21. No caso de terreno difícil ou
+andar sobre os galhos de árvores, o personagem precisa de um teste de Destreza (dificuldade 10 para terreno acidentado ou 12 para copas de árvores) em
+cada turno que estiver se deslocando
+pelo terreno, ou ele cai. Veja os efeitos
+de quedas, adiante.
+A distância que um personagem
+consegue saltar é igual à sua Agilidade
+dividida por 2. Se um personagem puder tomar impulso (correr pelo menos
+3 metros antes de saltar), ele pode saltar uma quantidade de metros igual à
+sua Agilidade. Se o personagem tomar
+impulso, considere que isso é uma ação
+de rodada completa (já que ele precisa
+correr).
+A altura que o personagem pode
+saltar é igual à 0,5 metros, mais 0,5 metros se sua Agilidade for pelo menos 5,
+mais 0,5 metros caso sua Força seja pelo
+menos 5. Caso possa correr pelo menos
+três metros antes de saltar, ele aumenta
+em 0,5 metros sua altura de salto.
+---
+*Quedas:
+Se um personagem cai, geralmente
+como parte de uma falha em uma ação de
+movimento, mas as vezes como resultado
+de um ataque ou magia usado contra ele,
+ele sofre dano de acordo com o terreno. Se
+o personagem tem uma falha crítica em um
+teste e isso o leva a cair, além do dano ele
+também fica Atordoado (veja Condições,
+na página 171) por um número de turnos
+igual ao número de metros que caiu.
+O dano por quedas é igual à 6/contusão por metro de queda. Terrenos acidentados podem causar mais dano, geralmente
+definido na própria descrição do terreno.
+Nesse caso o dano indicado deve substituir o dano padrão. Terrenos rochosos geralmente causam dano igual à 10/contusão,
+enquanto um foço com estacas poderia impor um dano de 14/perfuração!
+Se um personagem cai da altura
+do chão (quando está andando, correndo ou simplesmente é empurrado para
+trás) considere que ele sofre uma queda
+de 1 metro de altura. Um personagem
+pode saltar deliberadamente para baixo,
+estando preparado para amortecer o impacto da queda, de uma altura em metros
+igual a metade de sua Força ou Agilidade
+(o que for maior) sem sofrer dano. Se o
+personagem saltar uma distância maior
+do que esta, desconte essa distância do
+total para determinar o dano que ele sofre. Isso não afeta quedas, apenas saltos
+deliberados.
+---
+*Carga:
+Mede quanto peso o personagem
+pode carregar. Esse valor é definido pela
+Força do personagem e é expresso em
+quilos.
+Some todo o peso dos equipamentos que o personagem está carregando
+para saber qual a carga que personagem está carregando e em qual nível
+de carga ela se adéqua.
+Carga Básica
+(igual a Carga apresentada na tabela):
+nenhum contratempo ou modificador
+para o personagem.
+Carga Pesada
+(até 5x a Carga apresentada na tabela):
+O deslocamento do
+personagem cai à metade e qualquer teste para correr, nadar, saltar, escalar e realizar Encontrões é feito como se ele fosse
+Inapto. 
+Carga Máxima (até 10x a Carga
+apresentada na tabela): É o limite máximo do peso que um personagem pode
+carregar. Ao chegar nessa quantidade de
+carga, o personagem simplesmente não
+pode se mover.
+/*desc.xlsx*\
+/*
+**Excedendo os Limites (Regra Opcional)**
+Em certas ocasiões um personagem pode tentar erguer brevemente
+uma grande quantidade de peso, algo
+que ultrapasse sua Carga Máxima.
+Se o peso exceder a Carga Máxima, o personagem precisa fazer um teste de Força todo turno (dificuldade 10).
+Se não puder soltar a carga ele perde 10
+Pontos de Mana e 10 Pontos de Vida e
+é considerado Paralisado até seu próximo turno (ou até que a carga seja tirada
+de cima dele). A cada turno em que o
+personagem mantiver a carga depois
+do primeiro ele realiza o mesmo teste
+com Dificuldade +1, cumulativamente.
+Ele também tem +1 na dificuldade para
+cada 10 kg além da sua Carga Máxima
+que estiver erguendo.
+Assim, um personagem com Força 4 levantando 300 kg (20 kg acima da
+sua Carga Máxima) faz um teste com
+dificuldade 12 no primeiro turno, 13
+no segundo, 14 no terceiro e assim sucessivamente, até que solte a carga, não
+consiga mais suportar seu peso ou seja
+esmagado.
+Quando soltar a carga, o personagem estará Fatigado (Ver Condições,
+página 172) pelo mesmo número de
+turnos que suportou a Carga.
+Essa regra também é utilizada
+para arrastar ou puxar peso, apenas removendo o risco de dano por esmagamento – geralmente.
+*\
+---
+**Ações e Testes**
+Sempre que seu personagem quiser
+fazer algo, você deve anunciar sua intenção ao Mestre, ele então irá ponderar se
+sua ação necessita de um teste ou não.
+Ações comuns e cotidianas, dificilmente
+exigirão testes. O que torna o teste necessário geralmente é um de dois fatores: a
+complexidade do que se quer fazer e o estresse envolvido. Pular uma cerca baixa,
+normalmente não exigiria um teste, mas
+fazer isso quando uma horda de trolls
+está perseguindo o personagem pode fazer com que o Mestre exija um teste!
+Para fazer qualquer teste, você irá
+rolar um número variável de d6 (geralmente 2) e somar o Atributo do seu personagem que for mais relevante para o
+teste. O resultado dessa rolagem será
+comparado com uma dificuldade preestabelecida pelo Mestre. Se o resultado da
+rolagem for igual ou maior que a dificuldade, o teste foi bem sucedido e se o resultado for menor do que a dificuldade, o
+personagem falhou no teste.
+*Dados:
+O Mighty Blade usa dados de seis
+lados para executar seus testes. Ao longo desse livro você verá o termo 1d6,
+2d6, 3d6, etc. Esta é a maneira para dizer
+quantos dados rolar. Rolar 2d6 significa
+que você terá que rolar dois dados de 6
+lados. Os dados de 6 lados são dados
+comuns como os encontrados na maioria
+dos jogos de tabuleiro em general e são os
+únicos dados utilizados no Mighty Blade.
+*Quantos dados rolar:
+Em geral, quando o personagem
+tentar realizar uma tarefa, ele é considerado apto e rolará 2d6. Caso a ação exija
+uma habilidade ou conhecimento que o personagem não possui, ele é considerado inapto para o teste, rolando apenas
+1d6. Circunstâncias adversas também podem deixar o personagem inapto, como
+lutar com alguém invisível ou na escuridão total. Se dois motivos para inaptidão
+se sobreporem, o personagem não será
+capaz de tentar a ação.
+Além disso, algumas Habilidades
+adicionam dados à determinadas tarefas.
+Quando uma Habilidade indicar “some
++1d6 no teste”, o jogador pode rolar 1
+dado a mais para que o personagem realiza a tarefa, mesmo se for considerado
+Inapto. Se 2 ou mais Habilidades conferirem +1d6 pra mesma situação, o personagem soma ambos os bônus.
+Exemplo 1: A Habilidade Automática
+dos Ladinos (Gatuno) permite que ele arrombe fechaduras. Isso significa que ele pode rolar
+2d6 para essa tarefa. Mas ele ainda precisa
+das ferramentas ou será considerado inapto.
+Assim, se tentar abrir uma fechadura sem um
+Kit de Arrombamento ele irá rolar apenas 1d6
+– e somará sua Agilidade.
+Exemplo 2: Essa mesma habilidade confere +1d6 ao Ladino em testes de Mover-se em
+Silêncio, e os Metadílios recebem um bônus
+semelhante da sua Habilidade Automática,
+Tamanho Pequeno. O que implicaria em um
+Metadílio Ladino rolar 4d6 (2d6 normais,
++1d6 pela Habilidade Gatuno +1d6 pela Habilidade Tamanho Pequeno) para se movimentar sem fazer barulho.
+*A Dificuldade dos Testes:
+Quando o personagem estiver fazendo uma ação por si só, como tentar
+dobrar uma barra de ferro com as mãos,
+arremessar uma pedra através de uma
+janela, procurar um trecho específico em
+um livro ou tentar relembrar corretamente os passos para uma determinada
+cerimônia religiosa, o personagem realiza um teste contra uma dificuldade estabelecida pelo Mestre. Essa dificuldade
+vai depender de quão simples ou complexa é a tarefa. A tabela à seguir apresenta os níveis de dificuldades e alguns
+exemplos.
+Qualquer tarefa com Dificuldade 7
+ou menos deve ser considerado um sucesso automático, para tornar o jogo mais
+fluido. Não faça teste para cada atividade que o personagem for fazer. Se ele diz
+que vai tirar água do poço para trazer
+para dentro de casa, por exemplo, não
+faça um teste de Força para ver quanta
+água ele consegue puxar de uma vez no
+balde. Isso não é importante, apenas diga
+que ele fez, e narre – ou permita que o
+próprio jogador narre – a situação e pronto, passe pra próxima cena. Além disso,
+se o personagem tiver tempo de sobra,
+e não corre um risco considerável – por
+exemplo, o personagem está em uma
+biblioteca que não conhece, procurando
+por um texto específico, mas ele tem o dia
+todo disponível para isso – o Mestre deve
+considerar que a tarefa é automaticamente bem-sucedida (caso o texto exista naquela biblioteca, é claro), estipulando o
+tempo que considera razoável para que
+o personagem tenha encontrado o texto.
+Ações que merecem testes são aqueles
+em que o fracasso ou sucesso irão mudar
+os acontecimentos do jogo. Se o jogador
+quiser, por exemplo, que o personagem
+encontre o texto o mais rápido possível,
+o Mestre poderia permitir um teste para
+encurtar o tempo gasto, baseado no sucesso da rolagem.
+/*desc.xlsx*\
+*Confrontos:
+Se dois ou mais personagens estiverem competindo entre si, ambos rolam a
+quantidade de dados apropriados e somam seus respectivos Atributos.
+O personagem com resultado mais
+alto vence. Geralmente, em um confronto
+ambos os competidores usam o mesmo
+Atributo para resolver a disputa – Força
+para resolver uma queda de braço, Agilidade para definir quem saca sua arma
+primeiro, Inteligência para decidir quem
+ganha em um jogo de xadrez e Vontade
+para saber quem vence um repente, por
+exemplo. Em algumas situações, porém,
+os personagens podem realizar Confrontos
+com Atributos diferentes. Um personagem
+tentado derrubar outro de um cavalo, por
+exemplo, faria um teste de Força, enquanto seu adversário poderia testar Força ou
+Agilidade; um personagem realizando um
+truque de mãos para esconder um objeto
+jogaria sua Agilidade contra um teste de
+Inteligência do personagem tentando perceber a enganação. Sempre que houver um
+confronto, cabe ao Mestre escolher quais
+Atributos são mais indicados
+para serem testados na disputa, mas os jogadores são livres para
+sugerir o que
+eles consideram
+apropriado.
+Em caso de
+empate no resultado de um confronto,
+vence quem tiver
+o Atributo mais
+alto. Se mesmo assim ainda houver
+empate, simplesmente role 1d6
+para cada personagem para
+decidir quem
+vence.
+Quando um confronto envolve
+mais de dois personagens – por exemplo,
+um Bardo tentando afetar dois assaltantes com uma Canção – o personagem
+tentando afetar os outros alvos rola seu
+teste, e seu resultado é considerado como
+sendo a dificuldade para resistir ao efeito, e os alvos afetados rolam seus testes
+para superar aquele resultado. Não role
+um confronto isolado contra cada envolvido (usando o exemplo, um confronto
+do Bardo contra um dos assaltantes e
+depois outro confronto entre o Bardo e o
+outro atacante), já que isso tomaria muito
+tempo de jogo. Quando um personagem
+tenta afetar vários alvos e rola uma falha
+crítica, considere que ele falhou miseravelmente em sua tentativa – não se preocupe em verificar se algum dos alvos
+também rola uma falha crítica e acaba
+sendo afetado. Quanto menos rolagens
+forem feitas, mais ágil será o jogo.
+-*Exemplos de Testes:
+Para ajudar os mestres iniciantes a
+seguir listaremos algumas Ações típicas
+de uma aventura de
+fantasia.
+Agarrar (Agilidade/Força): Para
+tentar agarrar
+um oponente em
+combate é necessário um Confronto de Agilidade ou Força
+(o que for mais
+alto). Se o atacante tiver um
+resultado igual
+ou maior do que
+o do alvo, ele
+consegue segura-lo. Uma vez seguro, o alvo pode, no seu turno, tentar
+se libertar (realizando o teste novamente), e o atacante pode, no seu turno, soltar o alvo (com uma ação livre) ou tentar
+apertar ou derrubar o alvo. Para isso, veja
+as ações Apertar e Derrubar, abaixo.
+Um personagem segurando outro precisa
+usar pelo menos uma mão para fazer isso,
+e portanto só pode realizar ações com a
+mão livre. Ambos os personagens envolvidos são incapazes de se mover, e não
+podem se esquivar de ataques - mas ainda
+podem bloquear normalmente.
+Apertar (Força): Se tiver
+conseguido Agarrar um alvo
+(veja Agarrar, acima), um
+personagem pode apertar
+o alvo para causar dano.
+Para isso faça um Confronto de Força. Se o atacante vencer o teste, ele
+causa dano igual à Força/contusão. Em caso de
+empate ou se o resultado
+do alvo for mais alto, o atacante continua segurando o
+alvo, mas este não sofre dano.
+Caso o atacante tenha uma falha crítica no teste (independente
+do resultado do alvo) ele solta o alvo.
+Armar/Desarmar Armadilhas (Inteligência): Qualquer um é apto a fazer
+um teste de Inteligência para encontrar
+armadilhas. A dificuldade é igual ao
+resultado de quem armou a armadilha
+(veja a seguir). Para desarmar ou montar
+uma armadilha é necessário a Habilidade Armadilheiro (na lista dos Ladinos e
+dos Patrulheiros). A dificuldade para desarmar uma armadilha é a mesma para
+percebê-la. Para montar uma armadilha
+você também precisa de um Kit de Arrombamento e materiais apropriados,
+dependendo do tipo de armadilha. O seu
+resultado num teste de Inteligência, enquanto monta a armadilha, será a dificuldade de encontrá-la e desarma-la. Sem a
+Habilidade Armadilheiro ou sem um Kit
+de Arrombamento o personagem é considerado Inapto tanto no teste para desarmar armadilhas quanto no teste para
+montá-las, e sem ambos, estes testes não
+são possíveis.
+Abrir Fechaduras (Agilidade/Inteligência): a Habilidade Gatuno dos Ladinos lhes permitem abrir
+fechaduras sem ter
+as chaves, desde
+que ele tenha
+um Kit de Arrombamento.
+A dificuldade
+depende de
+quão segura é
+a fechadura,
+uma fechadura
+rústica (como
+uma aldabra ou
+ferrolho) tem dificuldade 10, enquanto cadeados
+medianos têm Dificuldade 12 e fechaduras
+particularmente elaboradas
+teriam dificuldade 14 – aparatos com dificuldades mais altas do que essa seriam
+obras-primas de engenharia. Sem a Habilidade Gatuno ou sem um Kit de Arrombamento o personagem é considerado Inapto nesse teste e sem ambos o teste
+não é possível.
+Barganha (Vontade/Inteligência):
+sempre que entra em algum tipo de negociação, o Mestre deve encorajar os
+jogadores a atuarem como seus personagens, fazendo suas ofertas e pechinchando preços. Se a interpretação em si,
+na opinião do Mestre, não for suficiente para definir o negócio, este pode pedir
+um Confronto entre a Vontade ou Inteligência dos envolvidos (o que for maior).
+Aquele que perder é convencido pelo outro. No caso de uma falha crítica em um
+dos lados, este acaba por fazer um péssimo negócio (se estava comprando, acaba
+pagando muito mais do que devia, se não
+tinha tanto dinheiro pode até mesmo dar
+algum item na troca; se estava vendendo
+irá vender por um preço abaixo do que
+ele mesmo pagou), independente do resultado do outro – a menos que ambos
+tenham uma falha crítica! Em caso de
+empate a negociação fica num empasse, e
+um novo teste pode ser necessário.
+Cavalgar (Agilidade): andar a cavalo (ou uma montaria típica da região do
+personagem) faz parte do dia a dia em um
+cenário de fantasia medieval e não exige
+testes. Porem qualquer atividade mais estressante do que simplesmente usar um
+animal como transporte irá exigir um teste
+para controlar a montaria – caso a montaria
+se assuste, seja atingida por um ataque ou
+mesmo para conduzi-la durante um combate. Uma falha nesses testes geralmente
+significa que o cavaleiro caiu da montaria.
+A ausência de rédeas impõe uma penalidade de -2 ao teste, enquanto uma sela
+com estribos concedem um bônus de +2. A
+dificuldade dos testes de montaria é igual
+à Vontade do animal, modificado pela situação – mesmo que o animal tenha rédeas, se o personagem estiver usando ambas
+as mãos para utilizar uma arma, ele ainda
+sofre a penalidade de -2.
+Caçar/Rastrear (Inteligência): quando um personagem tenta rastrear um animal, monstro ou outra criatura qualquer,
+ele faz um teste de Inteligência. A dificuldade depende de alguns fatores: Se estiver caçando uma criatura qualquer (para
+alimentação, por exemplo) a dificuldade é
+10, modificada pelo tipo de ambiente. Se
+estiver rastreando uma criatura específica,
+a Dificuldade será igual à Determinação
+do alvo. Criaturas grandes e/ou pesadas deixam rastros mais fáceis de seguir,
+enquanto criaturas menores/mais leves
+deixam menos rastros. Diminua a dificuldade em 2 se a criatura tiver mais de
+3 metros (se ela tiver dois valores, use o
+maior) ou pesar mais do que 300 quilos,
+ou aumente a dificuldade em 2 Se a criatura tiver menos de 1 metro (novamente,
+se ela tiver dois valores, use o maior) ou
+pesar menos de 50 quilos. Além disso, em
+regiões geladas, florestas e em climas frios
+a dificuldade diminui em 2, enquanto em
+regiões montanhosas, rochosas e em planícies a dificuldade aumenta em 2. Todos
+esses modificadores são cumulativos. Se
+a criatura estiver ativamente tentando
+cobrir seus rastros, use as mesmas regras
+de Ocultar-se/Camuflar-se (veja adiante).
+Sucesso no teste significa que o rastreador
+encontrou o rastro e tem uma ideia de há
+quanto tempo atrás a criatura passou por
+ali, enquanto uma falha significa que o
+rastreador não acha nenhum rastro para
+seguir. O teste deve ser repetido uma vez
+por dia ou toda vez que houver mudança
+de terreno até que o rastreador encontre o
+alvo ou perca o rastro. Note que chuvas
+fortes, nevascas e tempestades de vento
+podem destruir completamente os rastros,
+tornando impossível segui-los.
+Correr (Agilidade/Força): Existem
+dois tipos de corrida, a de velocidade e a
+de resistência. Uma corrida de velocidade normalmente indica um personagem
+perseguindo alguém, ou alguma coisa.
+Para determinar se o perseguir alcança o
+perseguido, faça um Confronto de Agilidade ou Força (o que for mais alto). Empates significam que ambos os corredores
+têm a mesma velocidade – geralmente
+dando a vantagem ao perseguido. A corrida de resistência é para cobrir grandes
+distâncias sem se exaurir. O personagem
+faz um teste de Força para cada quilometro de corrida, em caso de falha ele perde
+10 pontos de mana. A dificuldade é 10,
+mas sobe em +1 a cada falha e/ou quilometro percorrido. Este teste não é afetado
+pelo Deslocamento do personagem.
+Cuidados Médicos (Inteligência):
+um personagem pode tentar curar ferimentos usando um Kit de Cura. Essa ação
+pode ser utilizada para vários propósitos:
+remover um efeito de sangramento, eliminar uma infecção ou veneno natural
+que esteja afetando um alvo ou estabilizar um personagem que esteja Por um Fio
+(veja a página 15 para mais detalhes) gastando 1 minuto e fazendo um teste bem
+sucedido de Inteligência (dificuldade 12).
+Venenos e infecções mágicas também
+podem ser curadas da mesma maneira,
+mas a dificuldade desses testes é 16. Em
+caso de falha, o tratamento não funcionou, mas o personagem pode tentar novamente o teste (gastando mais 1 minuto
+e realizando o mesmo teste novamente).
+Em caso de falha crítica nesse teste, ele se
+atrapalhou ao usar o Kit de Cura e inutilizou o item além do tratamento não
+funcionar. Sucesso crítico nesse teste significa que o curativo foi muito bem feito,
+e além de recuperar o alvo do efeito desejado, o personagem também recupera 10
+Pontos de Vida do paciente (se o alvo for
+um personagem Por um Fio, ele também
+ignora o tempo de restabelecimento em
+caso de um sucesso decisivo nesse teste).
+Um personagem sem um Kit de
+cura pode tentar esses procedimentos,
+mas fará o teste como se fosse Inapto.
+Decifrar Escritas (Inteligência):
+Sempre que encontrar um texto em uma
+língua que não conheça – seja por nunca
+tê-la estudado, seja por ser uma língua
+antiga – o personagem pode, se tiver
+acesso a uma biblioteca de estudos, tentar
+decifrar o texto. A dificuldade varia entre
+10 e 16, dependendo do quão estranho o
+idioma for para o personagem – o Mestre
+tem a palavra final.
+Derrubar (Agilidade/Força): Se tiver conseguido agarrar um alvo (veja
+Agarrar, acima), um personagem pode
+tentar Derrubar o alvo. Derrubar um alvo
+exige uma Ação de Rodada Completa e
+um Confronto de Agilidade ou Força (o
+que for mais alto). Se o atacante vencer o
+teste, o alvo está caído. Em caso de empate ou se o resultado do alvo for mais alto,
+o atacante continua segurando o alvo,
+mas ele não cai. Caso o atacante tenha
+uma falha crítica no teste (independente
+do resultado do alvo) é ele quem cai.
+Desenhar Runas Arcanas/Selos
+Místicos (Inteligência/Vontade): Ver o
+item Magia adiante (pág. 36).
+Encontrar Abrigo/Forragear (Inteligência): para que um personagem seja
+capaz de encontrar um abrigo natural
+(para passar a noite, descansar em um
+local relativamente seguro ou se abrigar
+das intempéries do clima) ou encontrar
+frutas e vegetais para se alimentar (ou
+para serem usados na fabricação de poções, caso o personagem tenha a Habilidade Herbalismo) ele gasta cerca de uma
+hora por tentativa e precisa ser bem-sucedido em um teste de Inteligência. A dificuldade básica do teste é 12, mas deve ser
+ajustada de acordo com o terreno e com
+o clima. Bosques, florestas e pântanos
+diminuem a dificuldade em 2 quando o
+personagem procura por frutas e plantas,
+enquanto planícies, regiões montanhosas
+ou desérticas aumentam a dificuldade
+em 2. Quando estiver procurando abrigo,
+regiões montanhosas diminuem a dificuldade em 2, enquanto pântanos, desertos
+e planícies aumentam a dificuldade em
+2. Além disso chuva forte, climas muito
+frios ou invernos rigorosos impõem um
+redutor de -2 em ambos os testes. Sucesso
+no teste significa que o personagem conseguiu frutas e plantas suficientes para
+um refeição ou para produzir uma poção
+ou encontrou um abrigo adequado.
+Encontrar Armadilhas (Inteligência):
+Veja Armar/Desarmar Armadilhas, acima.
+Erguer/Puxar/Empurrar peso (Força): Veja Carga na página 20.
+Escalar (Força/Agilidade): Um personagem pode escalar tanto usando sua
+resistência física para se puxar para cima
+(Força), quanto sua flexibilidade e destreza
+para achar e encaixar os pontos de apoio
+mais apropriados (Agilidade). A dificuldade varia do quão íngreme e rico em pontos
+de apoio for o obstáculo a ser transposto.
+Uma árvore cheia de galhos firmes e fáceis de alcançar teria dificuldade 10, uma
+encosta pouco ingrime e com várias reentrâncias seria 12, uma encosta ingrime com
+poucos apoios seria 14 e uma parede lisa
+com poucos apoios 16. Um Kit de escalada
+oferece um bônus de +2 nesse teste.
+Furtar Bolsos (Agilidade): quando
+o personagem tenta tocar, tirar ou colocar itens carregados por uma criatura de
+modo furtivo (ou seja, sem ser percebido)
+ele deve fazer um ataque normal com sua
+Agilidade contra a Esquiva do alvo, ignorando quaisquer bônus de armadura. O
+Mestre pode exigir testes de Mover-se em
+Silêncio ou Ocultar-se (veja abaixo) para
+que o personagem se aproxime do alvo
+sem ser percebido (o que geralmente oferece um bônus de +1d6 na sua tentativa
+de Furtar Bolsos). Se o personagem não
+tiver sucesso no teste, ele não consegue
+realizar seu intento, mas o alvo não percebe a tentativa. Se o resultado do teste
+for uma falha crítica, o personagem chama atenção do alvo no ato, sendo pego
+em flagrante! Se o personagem tiver sucesso, ele consegue tirar/deixar o item
+intencionado da vítima ou realizar a ação
+que pretendia. O alvo só irá perceber a
+ação quando tiver sua atenção voltada
+para a questão – ele decide usar o item
+roubado, ou encontra o item plantado enquanto procura por alguma outra coisa
+entre seus pertences, por exemplo.
+Ler Tomos de Magia (Inteligência): Ver Magia na página 36.
+Mentir/Perceber Mentiras (Vontade/Inteligência): Quando um personagem quiser mentir e alguém tiver alguma
+razão pra não acreditar nele, ele deve fazer
+um teste de Vontade. O resultado se torna
+a Dificuldade para o observador perceber
+a mentira com um teste de Inteligência ou
+Vontade (o que for maior). Caso o personagem que tente mentir tenha uma falha
+crítica no seu teste, ele gagueja, se contradiz ou de alguma outra forma torna óbvia
+a sua tentativa de dissimular a verdade.
+Mover-se em Silêncio (Agilidade):
+Quando deseja se movimentar sem fazer
+ruídos, para não atrair atenção indesejada ou para fazer um ataque surpresa
+num alvo desavisado, o personagem
+deve fazer um teste de Agilidade. O resultado será a dificuldade para alguém
+ouvi-lo com um teste de Inteligência.
+Certas situações podem impor modificadores – um calçamento de pedra limpo
+pode significar um bônus de +2 ao teste,
+enquanto uma área coberta de seixos ou
+brita, pode impor uma penalidade de -2.
+A Habilidade Furtivo (ver Ladino e Patrulheiro) concede +1d6 nos testes para
+Mover-se em Silêncio.
+Nadar (Força): Um personagem que
+precise se deslocar em águas profundas
+precisará nadar. Para isso ele deve vencer
+um teste de Força, com dificuldade 10.
+Se estiver usando armadura, a dificuldade passa para 12. Se a armadura tiver a
+Característica Pesada a dificuldade passa
+para 14 e se tiver a Característica Rígida a
+dificuldade no teste passa a ser 16. Além
+disso as condições da água podem impor
+penalidades – uma correnteza muito forte ou ondas muito intensas poderiam impor uma penalidade de -2 (ou -4 se houver correnteza E ondas!). A cada minuto
+que o personagem estiver nadando ele
+deve repetir o teste. Um sucesso significa
+que ele avança, falha significa que ele não
+só não consegue avançar como também
+perde 10 Pontos de Mana devido ao esforço inútil e uma Falha Crítica significa
+que ele não avança (ou é carregado pela
+corrente, se houver) e além de perder 10
+Pontos de Mana devido ao esforço, perde
+também 10 Pontos de Vida por engolir
+água. Se o personagem ficar sem mana
+enquanto estiver nadando, ele fica sem
+forças e morre afogado.
+Ocultar-se/Camuflar-se (Inteligência): Seja cobrindo-se de folhas em uma
+floresta, usando roupas negras na escuridão da noite urbana ou simplesmente se
+misturando causalmente numa multidão,
+um personagem deve fazer um teste de
+Inteligência para saber se consegue passar
+despercebido ou manter-se fora da vista dos outros. O resultado nesse teste é a
+dificuldade para que alguém procurando
+o personagem (ou por algo escondido) o
+encontre. O personagem pode tentar se
+mover e permanecer camuflado, mas ele
+se movimenta apenas a metade do deslocamento e seu teste sofre uma penalidade
+de -2. A Habilidade Furtivo (ver as Classes
+Ladino e Patrulheiro) concede +1d6 nos
+testes para se esconder. O Mestre deve
+impor penalidades caso o ambiente não
+esteja favorável (uma área de pouca vegetação, ou uma rua deserta bem iluminada
+ou se o personagem for de uma Raça incomum na região, dependendo do caso).
+Pesquisar Informação (Inteligência/Vontade): Para encontrar uma determinada informação em uma biblioteca,
+ou sistema de arquivo de documentos
+semelhante, o personagem deve fazer
+um teste de Inteligência, cuja dificuldade
+será atribuída pelo Mestre dependendo
+do quão disponível a informação está.
+No entanto, para ir de taverna em taverna, falando com as pessoas em busca de
+um rumor ou pista, o personagem faz
+um teste de Vontade, a dificuldade vai
+depender do quão dispostas as pessoas
+vão estar para falar do assunto. O Mestre
+pode exigir mais de um teste dependendo da complexidade da informação, e ir
+dando pequenas pistas a cada sucesso,
+mas lembre-se de intercalar esses testes
+com história, e permita que, se os jogadores estiverem interagindo com PDMs
+(Personagens do Mestre), eles representem um pouco as conversas.
+Saltar (Força/Agilidade): Testes
+para saltar podem ser feitos com força
+ou Agilidade, mas estes testes são geralmente feitos para ver se um personagem
+consegue realizar alguma ação durante o
+salto – seja um confronto com outro personagem para alcançar um item alto ou
+competir para ver quem salta mais longe,
+por exemplo – já que a distância de saltos
+(tanto em altura quanto em distância) é
+fixa, conforme explicado no item Outras
+formas de movimentação (pág., 19). Se o
+personagem tentar saltar uma distância
+maior do que sua capacidade de salto,
+em geral ele tentará um teste de escalada (veja acima) para tentar se agarrar em
+uma superfície ao invés de cair.
+Seduzir (Vontade): Sedução como a
+capacidade de usar o desejo do outro para
+torná-lo mais suscetível a suas sugestões,
+normalmente usando seu carisma para
+isso (se favores ou bens estiverem envolvidos, a questão passa a ser mais de
+negociação do que sedução). Sedução geralmente é usada com relação ao gênero
+oposto, mas isso não é uma regra absoluta – perceba que tentar seduzir uma criatura do mesmo gênero do personagem
+pode ofender o alvo mesmo que o personagem tenha sucesso! Faça um Confronto
+de Vontade com o alvo. Se vencer o teste,
+o alvo torna-se amigável. Em caso de empate ou se o resultado do alvo for mais
+alto, ele não está interessado ou a tentativa pode nem sequer ter sido percebida.
+Caso o personagem tenha uma falha crítica no teste (independente do resultado
+do alvo) sua aproximação terá sido considerada grosseira e ofensiva, e o alvo torna-se inamistoso – ou até mesmo agressivo! Um personagem amigável estará
+inclinado a ajudar o personagem, talvez
+oferecendo informações ou mesmo oferecendo algum pequeno presente – como
+uma bebida ou uma refeição, por exemplo. A raça dos personagens envolvidos é
+relevante para esse teste. Há três grandes
+classificações pertinentes nesse contexto:
+Tipo, biologia e origem. Interações entre
+Esfinges (Centauros, Naga e Tritões) e
+Humanóides ou Esfinges de outras raças
+sempre deve ser tratada como se o personagem fosse Inapto em suas tentativas
+de sedução. Draconianos, Grotons, Naga
+e Tritões, por terem características biológicas muito distantes das outras raças
+sempre impõem um redutor de -4 em
+suas tentativas de sedução (cumulativas
+com os redutores impostos por interação Humanóide/Esfinge) com qualquer
+outra raça. Esse redutor é reduzido para
+-2 quando essas raças interagem entre si.
+Os Mahoks são um caso a parte, já que
+eles são biologicamente muito distantes
+de todas as outras raças, e suas tentativas
+de sedução com membros de quaisquer
+outras raças sempre tem um redutor de
+-4. Entre os outros Humanóides, há um
+redutor de -2 quando uma espécie originária de Gaian (Astérios, Hamelins,
+Jubans e Tailox) interage com as outras
+raças Humanóides (Aesires, Anões, Elfos, Faens, Faunos, Fira, Humanos, Metadílios e Orcs). Esse redutor não se aplica
+quando essas raças interagem com outras
+raças da mesma origem. Finalmente, os
+Goblins são universalmente desprezados, e suas tentativas de sedução sempre
+estão sujeitas à um redutor de -2 (mesmo
+com relação à outros goblins!). 
+*Inaptidão:
+Quando o personagem faz um teste
+como se fosse Inapto, ele deve rolar 1d6
+em vez de 2d6. No entanto, os bônus numéricos fixos nesses casos (+1 ou +2) que
+o personagem possuir ainda se aplicam
+normalmente, mas se o personagem recebe algum dado extra na rolagem, cada
++1d6 que ele vier a ter será convertido em um bônus fixo de +2 no teste.
+Inaptidão ocorre em diversas situações, como quando o personagem não
+tem a experiência ou capacidade adequada - tentar forragear em um tipo de
+terreno que o personagem nunca visitou
+antes, ou tentar ginetear um Grifo sem
+nunca ter montado uma criatura alada
+antes, por exemplo - ou diante de situações particularmente estranhas, aberrantes ou inusitadas – como tentar arrombar
+a fechadura de uma cripta com milênios
+de idade, tentar perceber se um Mahok
+está mentindo sem nunca ter encontrado um membro da raça antes. Essas situações incorrem na regra de Inaptidão
+mesmo que o personagem possua Bônus
+que possam ser usadas para lidar com a
+situação normalmente.
+Além disso, um personagem sem
+as ferramentas necessárias para realizar
+uma tarefa – como tentar abrir uma fechadura sem um Kit de Arrombamento
+ou realizar um teste de Cuidados Médicos sem um Kit de Primeiros socorros –
+também incorre nas regras de Inaptidão.
+Finalmente, existem algumas situações especificamente em combate que
+recaem na regra de Inaptidão:
+Se o personagem estiver usando
+duas armas e quiser realizar dois ataques
+num turno, sem possuir a Habilidade
+Combater com Duas Armas, ele realiza
+o primeiro teste normalmente, mas o segundo ataque será realizado como se o
+personagem fosse Inapto. Perceba que,
+mesmo que esteja portando duas armas,
+se ele atacar apenas com uma delas, ele
+não é considerado Inapto – isso ocorre
+apenas se ele quiser usar ambas as armas
+no mesmo turno. Ele pode até mesmo
+alternar o uso das armas, atacando com
+cada uma em turnos diferentes sem ser
+considerado Inapto (todos os personagens são sempre considerados ambidestros para todos os propósitos).
+Utilizar uma arma cuja FN seja
+maior do que a Força do personagem
+também faz com que o personagem ataque como se fosse Inapto
+Finalmente, usar uma Armadura
+com FN maior do que a Força do personagem significa que ele realiza TODOS
+os seus testes como se fosse Inapto enquanto estiver usando a armadura.
+Importante: Se duas ou mais condições fizerem o personagem realizar um
+teste como se fosse Inapto - estar utilizando uma arma com FN maior que sua Força e estar Distraído, por exemplo - aquela
+ação não tem chances de resultar em um
+sucesso e o personagem simplesmente
+falha automaticamente se tentar o teste.
+*Sucesso Crítico:
+Quando 2 ou mais dados tiverem
+um resultado 6 durante uma rolagem,
+isso é considerado um acerto crítico, acerto decisivo ou sucesso decisivo. Obviamente, é impossível conseguir um sucesso decisivo em um teste rolando apenas 1
+dado, mas é mais fácil obter um sucesso
+decisivo em testes com mais de 2 dados,
+em contrapartida.
+Um acerto crítico sempre produz
+resultados impressionantes – o personagem se esconde tão bem que fica
+praticamente invisível, relembra uma
+passagem de um livro em seus mínimos
+detalhes ou toca uma música tão emocionante que leva a plateia às lágrimas,
+por exemplo.
+Um acerto crítico em uma rolagem
+de ataque causa o dobro de dano. Se alguma Habilidade ou condição aumentaria o dano do ataque – como um ataque
+usando Investida Mortal – some todos
+os modificadores antes de multiplicar o
+dano por 2. No caso de ataques com Habilidades que multiplicam o dano – como um Ataque Devastador – some os multiplicadores, não multiplique várias vezes:
+usando um Ataque Devastador 2, que
+multiplica o dano por 3, o personagem
+causaria 5 vezes o dano (2+3) e não 6 vezes (2x3).
+Algumas criaturas são imunes à
+acertos críticos, e não sofrem danos extras por conta disso.
+No caso de sucessos Decisivos em
+Magias, o jogador escolhe se a magia não
+consome Mana, causa o dobro do dano
+ou tem sua área de efeito ou duração duplicada.
+No caso de confrontos, apenas um
+sucesso crítico pode vencer outro. Assim, se um dos adversários consegue
+um acerto crítico em um confronto, ele
+vence automaticamente a disputa a menos que o adversário também consiga
+um acerto crítico – nesse caso, o resultado nos dados e os bônus de Atributos
+são somados normalmente para saber
+quem vence.
+*Falha Crítica:
+Sempre que
+todos os dados caírem no número
+1, o personagem
+cometeu um erro
+crítico ou falha
+crítica. Quando estiver rolando apenas
+1 dado em um teste,
+as chances de uma
+falha crítica são bastante altas! Essa chance
+diminui consideravelmente se o personagem
+puder rolar 2 ou mais dados em um teste.
+Uma falha crítica
+significa que, além de
+falhar automaticamente, o personagem falha de maneira
+desastrosa, geralmente sofrendo efeitos
+mais severos pela falha – por exemplo,
+sofre mais dano no caso de uma queda,
+quebra uma ferramenta numa tentativa
+desastrada de forçar uma fechadura ou
+desafina horrivelmente se estiver cantando uma música. Os Mestres são livres
+para inventar situações perigosas, desastrosas ou talvez engraçadas que possam
+ocorrer no caso de uma falha crítica – no
+caso de um erro crítico num teste de ataque, o personagem pode jogar sua arma
+longe, tropeçar e cair ou até mesmo acertar um aliado próximo!
+Uma falha crítica em um confronto
+significa que o personagem perde de maneira miserável, talvez com efeitos adversos – ele desloca o ombro além de perder
+uma queda de braço, arremessa sua arma
+longe ao tentar saca-la, comete um erro
+primário e digno de escárnio num jogo de
+xadrez, por exemplo.
+---
+**Combate**
+Um combate em pequena escala –
+como uma escaramuça entre aventureiros
+e um grupo de monstros, por exemplo –
+dura, em média, 1 minuto. A maioria dos
+efeitos dura justamente esse tempo, o que
+seria o mesmo que dizer que são efeitos que
+duram até o final do combate. – mas, como
+podem ser usados fora de combate, uma
+medida absoluta como “1 minuto” é muito
+melhor para o entendimento do efeito.
+Dentro de cada combate, as ações dos
+combatentes são divididas em frações menores de tempo, chamadas rodadas. Uma
+rodada começa com as ações do personagem com a maior Iniciativa, e se encerra
+com as ações daquele com Iniciativa mais
+baixa. Assim que todos os personagens tiverem agido, a rodada termina e a próxima
+rodada tem início imediatamente. Cada
+rodada dura uma quantidade de tempo
+abstrata em relação ao combate como um
+todo, já que não importa se um combate
+tem apenas 2 ou 20 rodadas, ele ainda terá
+ocorrido, em termos de regras, dentro do
+espaço de 1 minuto que dura um combate.
+Dentro de uma rodada, cada personagem têm direito de realizar suas ações.
+Essas ações individuais são chamadas
+turnos. Apesar de todos os turnos de
+uma rodada ocorrerem simultaneamente, os personagens com maior iniciativa
+têm uma pequena vantagem em termos
+de velocidade de ação e reação. Assim,
+caso um personagem de alguma maneira
+neutralize um outro que ainda não tenha
+agido naquele turno, o personagem que
+ainda não agiu não terá direito de realizar
+uma ação no seu turno (a menos que seja
+trazido de volta ao combate de alguma
+forma, entre o momento que foi neutralizado e seu turno dentro da rodada).
+Dentro de um turno, cada personagem pode realizar quatro tipos de Ações:
+ações livres, ações padrão, ações de movimento e ações de rodada completa. O
+personagem sempre pode realizar ações
+livres, mas deve escolher entre realizar 1
+ação de rodada completa OU 1 ação padrão e 1 ação de movimento OU 1 ação de
+movimento e 1 ação padrão.
+*Ações Livres:
+Estas são ações muito simples que
+não consomem tempo considerável ou
+que podem ser realizadas enquanto o personagem está concentrado em outra tarefa
+qualquer. Soltar itens que o personagem
+tenha nas mãos, sacar um item do cinto ou
+aljava (poção, flecha ou qualquer item ou
+arma de FN 1 ou menos) ou falar (até cinco palavras). Um personagem pode realizar qualquer número de ações livres por
+turno – mas apenas uma vez cada ação
+livre. Assim, o personagem pode soltar
+o mapa que está segurando, sacar uma
+adaga e gritar “Cuidado, atrás de você!”
+quando vê uma Naga se aproximando do
+acampamento – tudo como ações livres.
+*Ação de Movimento:
+São ações que permitem se deslocar de alguma forma durante o combate.
+Geralmente é utilizada para se aproximar
+ou se afastar de um alvo ou escolher uma
+posição mais favorável (veja Deslocamento, na página 18), descer de uma montaria
+ou se levantar (caso o personagem esteja
+caído), por exemplo. Ações de movimento também são usadas para sacar armas e
+itens de FN 2 ou mais que estejam à mão
+ou para pegar itens do chão.
+Um personagem pode realizar uma
+dessas ações de movimento por turno (e
+apenas uma) e ainda tem direito a uma
+ação padrão.
+*Ações Padrão:
+São ações que exigem a maior parte
+da concentração do personagem ou que
+consomem um tempo considerável, como
+realizar um ataque, ativar Habilidades de
+Ação, guardar um item numa mochila ou
+falar quantas palavras quiser – dentro do
+bom senso, obviamente.
+Além disso, um personagem pode
+usar uma ação padrão para realizar uma
+ação de movimento (assim o personagem
+pode sacar uma arma como uma ação de
+movimento e atacar como uma ação padrão, sacar uma arma como uma ação padrão e se mover como uma ação de movimento ou sacar duas armas, uma como
+uma ação padrão e outra como uma ação de
+movimento, por exemplo). Não é possível
+usar uma ação de movimento para realizar
+uma segunda ação padrão, no entanto.
+Um personagem pode realizar uma
+dessas ações padrão por turno (e apenas
+uma) e ainda tem direito à uma ação de
+movimento.
+*Ações de Rodada Completa:
+Ao invés de realizar uma ação padrão e uma ação de movimento, o personagem pode escolher (ou precisar, em
+alguns casos) realizar uma ação de rodada
+completa. Estas ações consomem todo o
+tempo e/ou concentração que o personagem tem à disposição durante o seu turno. Subir em uma montaria, procurar um
+item numa mochila, trocar a corda de um
+arco, beber uma poção, lançar uma magia
+a partir de um tomo ou fazer um teste que
+não diga respeito diretamente ao combate
+(como abrir uma fechadura, escalar, nadar, saltar ou procurar, por exemplo) são
+todas ações de rodada completa. Além
+disso, há duas ações de rodada completa
+especiais: Correr e realizar um Encontrão.
+Correr significa que o personagem
+simplesmente corre tão rápido quanto
+lhe for possível. Correndo, um personagem se move até 4 vezes o seu Deslocamento normal. Se for usada mais de um
+turno consecutivamente, é preciso fazer
+um teste de Força (Dificuldade 8) para
+evitar ficar Fatigado (veja Condições, na
+página 172). A cada turno em que o personagem correr depois do primeiro ele
+realiza o teste com +1 na Dificuldade,
+cumulativamente – assim, se correr 5 turnos sem parar, o personagem vai precisar
+fazer quatro testes: O primeiro com dificuldade 9, o segundo com Dificuldade 10,
+depois 11 e finalmente 12.
+Um Encontrão é uma manobra em
+que o personagem embala na direção de
+um adversário e usa sua velocidade e o peso
+do corpo para tentar causar mais dano em
+um alvo. O personagem deve se deslocar
+pelo menos 3 metros e desferir um ataque
+no final dessa movimentação. Um personagem realizando um Encontrão adiciona
+a FN de sua Arma ou de sua Armadura (o
+que for maior) ao dano de seu golpe, mas
+como está usando a inércia para aumentar
+o efeito de seu ataque, perde muito em capacidade de reação e fica com um redutor
+de -2 na Defesa até seu próximo turno. Se
+o personagem estiver usando uma Habilidade que exija que ele faça uma ação de
+Encontrão como parte do efeito (como Investida Mortal), ignore esse modificador de
+Defesa e adicione quaisquer outros efeitos
+descritos na Habilidade.
+*Iniciativa:
+Quando um combate está para começar, todos os personagens envolvidos
+devem fazer uma rolagem de iniciativa.
+Role 2d6 e some a Agilidade ou Inteligência (a que for maior). Aqueles com
+resultados mais altos agem primeiro, seguidos pelos que tiverem resultados mais
+baixos, em ordem decrescente.
+Iniciativa pode ser rolada para cada
+personagem individualmente, ou para
+cada lado do conflito. Se o mestre prefere rolar para cada personagem, ele rola a
+iniciativa pelos personagens do mestre
+e cada jogador rola a iniciativa pelo seu
+personagem; se a iniciativa for rolada por
+lado do conflito, cada um dos lados rola
+apenas um teste de iniciativa (geralmente
+o líder do grupo é responsável por isso)
+e o grupo que tiver o resultado mais alto
+realiza todas as suas ações e depois o outro grupo realiza as suas ações.
+Não role iniciativa a cada rodada de
+combate! Considere que a ordem estabelecida na primeira rodada é mantida até o
+final da escaramuça.
+*Ataque:
+Os ataques são testes nos quais se realiza uma rolagem de Força ou Agilidade
+para armas corporais ou luta desarmada
+– Armas de Distância sempre usam Agilidade, mas ataques com armas arremessadas podem ser feitos tanto com Agilidade
+quanto com Força. A dificuldade destes
+testes é sempre igual à Defesa do alvo –
+Bloqueio ou Esquiva, de acordo com a escolha do alvo. Todos os personagens são
+considerados aptos a usarem uma arma,
+seja ela qual for. A única limitação para o
+uso de armas por qualquer personagem é a
+Força Necessária (FN) da arma. Se a FN da
+arma que o personagem estiver usando for
+maior do que a sua Força, o personagem é
+considerado Inapto para usar a arma.
+Para o uso de Magias em combate, veja “Desenhando Selos e Runas” na
+pág. 37.
+*Defesa:
+Um personagem possui três tipos
+de Defesa, duas físicas e uma mental. As
+defesas físicas (Bloqueio e Esquiva) são
+as medidas de dificuldade que o personagem oferece quando alguém tenta atingi-lo com um golpe, e cada personagem
+usa sua Defesa mais alta contra ataques
+físicos a menos que alguma situação o
+impeça de usar aquela Defesa específica.
+A defesa mental (Determinação) é a
+dificuldade que o personagem oferece contra efeitos mágicos que afetem sua mente.
+Bloqueio: O Bloqueio é calculado
+somando-se 5 + Força + Bônus de Armadura + Bônus de Bloqueio. O personagem
+usando Bloqueio literalmente coloca alguma coisa entre si e o ataque (seu escudo, sua arma ou uma parte de sua armadura). Um personagem que não possua
+bônus de armadura nem esteja portando
+uma arma ou escudo não pode bloquear
+– colocar o braço na frente de um ataque
+significa, basicamente, sofrer o dano do
+ataque no braço. A única exceção é se o
+atacante estiver atacando desarmado.
+Nesse caso é possível usar bloqueio sem
+ter uma armadura, escudo ou arma.
+Esquiva: A Esquiva é calculada
+somando-se 5 + Agilidade + Bônus de
+Armadura + Bônus de Esquiva. Um personagem usando Esquiva está tentando
+tirar seu corpo da frente de um ataque
+iminente, as vezes contando com uma
+ajuda de sua armadura ou de um obstáculo entre ele e o atacante. Um personagem quase sempre pode usar sua esquiva
+contra qualquer ataque, a menos que esteja amarrado, preso ou de alguma outra
+forma tenha seus movimentos restringidos. Se o personagem tiver qualquer redutor de Deslocamento ou Agilidade, ele
+não pode esquivar.
+Bônus do mesmo tipo fornecidos
+por itens não se acumulam e apenas o
+bônus mais alto é aplicado. Assim, um
+personagem que estiver usando um manto pesado (Bônus de Armadura +1) sobre uma armadura simples (Bônus de Armadura +3) tem um bônus de Armadura
+de +3 (fornecido pela armadura simples,
+que é mais alto que o bônus do manto pesado). Da mesma forma, usar mais de um
+escudo ao mesmo tempo adiciona apenas
+o bônus mais alto ao Bloqueio. Habilidades que fornecem bônus para a Esquiva
+ou Bloqueio não seguem essas restrições.
+Eles se acumulam com bônus fornecidos
+por itens e com outros bônus fornecidos
+por outras Habilidades.
+Todos os personagens são considerados aptos a usarem uma armadura,
+seja ela qual for. A única limitação para
+o uso de armaduras, como acontece com
+as armas, é a FN da armadura. Se a FN
+da armadura que o personagem estiver
+usando for maior do que a sua Força, o
+personagem é considerado Inapto quando realiza todo e qualquer teste de Agilidade e Força – incluindo ataques.
+Determinação: A Determinação é
+calculada somando-se 8 + Vontade ou Inteligência (o que for mais alto) + Bônus
+de Determinação. A Determinação é usada para definir o quanto o personagem é
+difícil de afetar com a maioria dos efeitos
+mentais. Alguns itens mágicos e Habilidades podem fornecer bônus na Determinação, mas não existem itens mundanos
+que melhorem essa Defesa, como armaduras e escudos fazem com o Bloqueio e
+a Esquiva. 
+/*
+*Então, resumidamente:
+Esquiva = 5 + Agilidade + Armadura +
+Bônus de Esquiva.
+Bloqueio = 5 + Força + Armadura +
+Bônus de Bloqueio.
+Determinação = 8 + Vontade ou Inteligência + Bônus de Determinação.
+*\
+*Alvo Específico:
+Às vezes em um combate o jogador
+pode querer que seu personagem ataque
+alguma parte específica do inimigo, como
+o amuleto que ele estiver usando, na arma
+dele para tentar desarmá-lo ou mesmo fazer um ataque mais letal, visando a garganta do alvo. Nestes casos, o teste de ataque é rolado normalmente, mas a Defesa
+do oponente terá um acréscimo de +4.
+Desarmar um oponente – ou tirar
+um item de suas mãos, de qualquer forma – exige um Confronto de Força ou
+Agilidade (o que for mais alto para ambos) além do sucesso no teste de ataque.
+Ataques que acertem áreas vitais do
+oponente (como o pescoço, a cabeça ou
+o coração) causam o dobro do dano normal. Esse multiplicador de dano se soma
+com quaisquer outros multiplicadores
+de dano – ou seja, um Golpe Devastador
+(que causa o dobro de dano) e atinja uma
+área vital do alvo (multiplicando o dano
+por 2) causa 4 vezes o dano normal - um
+acerto crítico nesse ataque causaria 6 vezes o dano normal! Acertos críticos em
+ataques à áreas vitais, quando aplicado a
+indivíduos normais, geralmente são considerados morte instantânea (veja abaixo).
+*Morte Instantânea:
+Se um personagem estiver completamente indefeso – isto e, inconsciente,
+totalmente contido ou Por Um Fio – um
+oponente pode matá-lo instantaneamente com um ataque qualquer. O dano do
+ataque é irrelevante (uma faca cega é fatal se o opoente não pode se defender, e
+mesmo desarmado um personagem pode
+simplesmente estrangular uma vítima indefesa até matá-la).
+Lembre-se que um personagem que
+esteja dormindo não é considerado indefeso, mas sim surpreso.
+---
+**Magia**
+Magia é uma categoria de Habilidade (veja Habilidades na página 12). Uma
+Classe cujas Habilidades incluam Magias
+é considerada uma Classe conjuradora
+– e, por extensão, um personagem dessa Classe é considerado um conjurador.
+Para usar qualquer Habilidade do tipo
+Magia, os conjuradores desenham no ar
+o símbolo mágico correspondente aos
+efeitos que querem desencadear. Esses
+traçados mágicos são chamados de Runas Arcanas ou Selos Místicos, e são parte crucial da realização de uma magia –
+correspondendo à Dificuldade da Magia
+tem para ser conjurada. Runas Arcanas
+são traçados usados especificamente para
+conjurar magias arcanas enquanto Selos
+Místicos são utilizados para conjurar magias místicas.
+*Magia Arcana:
+Qualquer Classe com Conhecimento Arcano como sua Habilidade Automática é considerada uma Classe de conjuradores arcanos. Esses conjuradores são
+estudiosos da magia, seu poder vem com
+intensas e demoradas pesquisas sobre
+a essência da magia, criando formulas
+complexas e intrincados diagramas que
+permitem manifestar seus poderes sobrenaturais.
+A magia arcana se baseia no desenho de Runas Arcanas, símbolos são
+usados para focar o poder do conjurador e sintetizar fórmulas complexas que
+determinarão o efeito a ser executado.
+A maioria das Runas Arcanas torna-se
+invisível logo depois de conjurada, mas
+podem ser percebidas com a Habilidade Detectar Magia. Identificar os efeitos
+de uma Runa Arcana que o personagem
+possa ver (caso a Runa seja visível por algum motivo ou o personagem possa
+vê-la com uso de Detectar Magia) exige um teste de Inteligência (Dificuldade
+igual à Dificuldade da Magia lançada),
+mas se o personagem possuir a magia
+em questão ele a identifica automaticamente.
+*Magia Mística:
+Qualquer Classe com Conhecimento Místico como sua Habilidade
+Automática é considerada uma Classe
+de conjuradores místicos. Personagens
+dessas Classes alcançam seu poder
+através da canalização de forças superiores às suas, que podem vir de divindades (no caso dos Sacerdotes) ou da
+própria natureza (no caso dos Druidas).
+Seu desenvolvimento vem da meditação, da contemplação e da propagação
+dos ensinamentos das crenças que eles
+seguem.
+Da mesma forma que os conjuradores arcanos usam runas, os conjuradores
+místicos também se valem de símbolos
+mágicos, chamados de Selos Místicos.
+Eles representam o poder divino ou sobrenatural que alimenta a magia do conjurador. Diferente das Runas Arcanas, a
+maioria dos conjuradores místicos prefere deixar seus Selos visíveis enquanto
+eles estiverem ativos, mas Selos Místicos
+invisíveis podem ser percebidos com a
+Habilidade Detectar Magia. Identificar os
+efeitos de um Selo Místico que o personagem possa ver (caso o Selo seja visível
+ou o personagem possa vê-la com uso de
+Detectar Magia) exige um teste de Vontade (Dificuldade igual à Dificuldade da
+Magia lançada), mas se o personagem
+possuir a magia em questão ele identifica
+o Selo automaticamente.
+*Desenhando Runas Arcanas e Selos Místicos:
+Todas as Habilidades do tipo Magia
+exigem que o personagem desenhe uma
+Runa Arcana ou Selo Místico para desencadear seus efeitos. Escrever uma Runa
+ou Selo requer apenas que o conjurador
+desenhe o símbolo desejado no ar entre si
+e o alvo, usando um objeto Canalizador
+ou mesmo a ponta do dedo.
+É impossível desenhar uma Runa
+ou Selo através de um item que não seja
+Canalizador (veja Itens de Conjuração,
+na página 164), e se o personagem estiver
+segurando um objeto sem essa característica, ele não pode usar a mão que estiver
+segurando o objeto para desenhar Runas
+Arcanas ou Selos Místicos.
+Se a Magia descrever um Selo ou
+Runa deve ser escrita sobre o alvo, é necessário que o desenho da runa toque diretamente o alvo, que precisa, portanto, estar
+ao alcance do toque do conjurador (ou do
+item de conjuração usado para desenhar
+o Selo ou Runa). Esse traçado deixa um
+rastro brilhante e visível enquanto a Magia está sendo conjurada, mas assim que
+seus efeitos são desencadeados, ela pode
+se tornar invisível se o conjurador assim
+desejar – podendo ser percebida apenas
+com o uso da Habilidade Detectar Magia.
+Quando traça uma Runa ou Selo
+para conjurar uma magia, os efeitos que
+ela causa são descritos na magia correspondente. No entanto, qualquer personagem conjurador é capaz de desenhar
+Runas e Selos simples, usadas apenas
+para marcar um objeto ou local ou para
+sintonizar um objeto Canalizador.
+Desenhar uma Runa Arcana ou Selo
+Místico simples exige sucesso em um teste
+de Inteligência ou Vontade (o que for mais
+alto) com dificuldade 8. Essas Runas e Selos simples não custam Pontos de Mana e
+consome uma ação padrão para serem desenhadas. Além disso, Runas e Selos simples sempre precisam ser desenhados sobre um objeto - não é possível desenha-los
+no ar nem sobre criaturas vivas. Runas Arcanas e Selos Místicos simples são perenes
+(se dissipando apenas se o item ou superfície for destruído ou se for diretamente
+dissipado por alguma Habilidade específica) e deixam o item ou superfície onde foram marcados com uma
+Aura Fraca. Se o personagem estiver usando uma Habilidade do
+tipo Magia, que já exigem que o
+conjurador desenhe uma Runa
+ou Selo como parte do efeito,
+não é necessário desenhar uma
+Runa ou Selo simples e depois
+desenhar a Runa ou Selo da
+Magia em questão – use apenas as características da habilidade (dificuldade, custo de
+mana e descrição).
+Marcar um objeto Canalizador com
+uma runa torna-o sintonizado a você, conferindo algumas propriedades especiais
+– veja a descrição dos Itens para Conjuradores para mais detalhes. Sem uma Runa
+Arcana ou Selo Místico para sintonizar o
+item ao personagem, as características especiais dos itens canalizadores não estão à
+disposição do personagem. Conjuradores
+também usam essas runas para marcar
+posse sobre objetos ou locais, ou às vezes
+marcam locais com runas específicas para
+avisar de perigos ou pontos de interesse
+para outros conjuradores.
+*Rituais:
+Qualquer personagem com as Habilidades Conhecimento Arcano ou Conhecimento Místico pode fazer rituais.
+Um ritual serve para reduzir a dificuldade de uma Habilidade do tipo Magia
+através de foco e concentração. Qualquer Magia que o personagem conheça
+pode ser afetada por um ritual, e o personagem deve escolher qual Magia pretende usar antes de começar o ritual. Se
+a Magia em questão estiver em um item
+com Registro (veja Tomos, adiante), o
+conjurador precisa ser capaz de ler a Magia do item e ter o item em mãos quando
+começar o ritual.
+Cada hora de concentração no ritual diminui a dificuldade da conjuração da
+magia em 4, cumulativamente, mas exige
+que o personagem realize um teste de Inteligência ou Vontade (o que for mais alto)
+com dificuldade 12 a cada hora depois da
+primeira para se manter concentrado no
+ritual. Uma falha num teste de concentração significa que todo o ritual foi arruinado e deve ser reiniciado do princípio.
+Falhas críticas ou sucessos críticos nesses
+testes não geram efeitos especiais.
+Para magias de origem Arcana, se
+o conjurador tiver a Habilidade Runa
+de Poder, ele pode desenhar um círculo
+especificamente para melhorar seu desempenho (Dificuldade 12, 20 Pontos
+de Mana). Um ritual realizado dentro
+de um Círculo de Poder desenhado
+para essa finalidade diminui a Dificuldade de qualquer magia Arcana em 2
+(cumulativo com os redutores do ritual
+em si).
+Além disso, para magias de origem
+mística, rituais realizados dentro de templos da divindade seguida pelo personagem reduzem as dificuldades das magias
+em 2 pontos (cumulativo com os redutores do ritual em si).
+O teste para conjurar a magia deve
+ser realizado sempre no final do ritual.
+*Tomos de Magia:
+Qualquer item com a característica Registro (Cetros, Cajados, Grimórios e Missais) podem ser usados para
+gravar magias que o conjurador conheça. Qualquer personagem que tenha a
+Habilidade Conhecimento Arcano ou
+Conhecimento Místico pode escrever a
+magia em um livro, pergaminho ou outra forma de escrita e também estudar
+magias escritas por outros conjuradores
+dessa forma (ele obviamente não precisa estudar magias que ele mesmo escreveu). Esse estudo demora 1 hora por
+magia gravada no item – e é impossível
+estudar apenas uma magia contida no
+item de forma isolada, o que significa que se o personagem encontrar um
+tomo com 10 magias, ele terá que gastar
+10 horas estudando cada magia contida
+ali, por exemplo. É necessário um teste
+de Inteligência ou Vontade (o que for
+mais alto) pra entender cada uma das
+magias – a dificuldade é a mesma para
+lançar a magia em questão. Um sucesso
+crítico em qualquer ponto do teste significa que o personagem consegue ler todas as magias contidas no tomo na
+metade do tempo necessário e sem testes adicionais. Uma falha significa que
+o personagem não compreendeu o funcionamento da magia, e precisa gastar
+mais 1 hora – e repetir o mesmo teste
+em que falhou – para entender aquela
+magia. Uma falha crítica em qualquer
+ponto do estudo significa que a tentativa foi completamente arruinada e o
+personagem terá que começar o estudo
+todo outra vez.
+Depois desse estudo, enquanto o
+personagem puder ler as magias registradas naquele item, ele pode lançá-las
+como uma ação de rodada completa.
+Além disso, como precisa estar com o
+tomo seguro diante de si, ele precisa de
+pelo menos uma das mãos para conjurar uma magia a partir de um tomo. Se o
+conjurador não tiver a magia contida no
+Tomo, a dificuldade para lançar aquela magia é normal, mas se ele conhecer
+aquela magia – mesmo que ele próprio
+tenha escrito a magia no Tomo – a sua
+concentração no efeito mágico pretendido é mais fácil e a dificuldade da magia
+é reduzida em 1.
+Conjuradores arcanos podem lançar qualquer magia arcana a partir de um
+Tomo, mas se não possuírem também a
+Habilidade Conhecimento Místico, eles
+lançam qualquer magia mística contida
+no Tomo como se fossem Inaptos.
+Conjuradores místicos podem lançar qualquer magia mística a partir de
+um Tomo, mas se não possuírem também
+a Habilidade Conhecimento Arcano, eles
+lançam qualquer magia arcana contida
+no Tomo como se fossem Inaptos.
+Apesar da maioria dos Requisitos
+da magia serem completamente ignorados quando um personagem lança uma
+magia a partir de um Tomo, se ele não
+tiver o nível condizente ele não pode
+conjurá-la de forma alguma (assim, se
+uma Magia tiver como requisito Nível
+5, um personagem precisa ser de nível
+5 ou superior para lançar a magia, independente dos outros requisitos da
+magia).
+Se o personagem conjurar uma
+magia a partir de um Tomo, ele pode
+aplicar normalmente quaisquer de suas
+Habilidades que possam afetar aquela
+magia.
+---
+**Motivação**
+A motivação pode ser qualquer coisa que o jogador quiser que seja o objetivo condutor de seu personagem. É o objetivo do personagem para entrar na vida
+de aventureiro. Não há regras e o jogador
+pode escrever o que quiser.
+Alguns exemplos de motivação:
+“Proteger a sua cidade natal”, “Derrotar
+o Lorde Tirano”, “Encontrar seu irmão
+desaparecido”, “conquistar fama e glória”, “espalhar a palavra da minha divindade”, “acumular conhecimento arcano”.
+É possível que um personagem
+alcance seu objetivo durante o decorrer
+de uma campanha – ou que ele se torne
+impossível de atingir. Um personagem com
+um objetivo como “Encontrar seu irmão
+desaparecido” poderia perfeitamente 
+encontrar o tal irmão, ou descobrir
+que ele morreu. Nesses casos, há duas
+possibilidades distintas de procedimento:
+Ou o personagem “se aposenta” da vida de
+aventureiro – indo com seu irmão de volta
+para casa, por exemplo – ou escolher outra
+Motivação – Como por exemplo, “Vingar
+a morte do meu irmão”. Um personagem
+sem motivação não tem porque se
+aventurar, e o jogador precisa encontrar
+outro objetivo condutor para mantê-lo na
+ativa ou deve desistir do personagem – e
+talvez criar um novo personagem para
+integrar a campanha.
+O Mestre pode – e deve! – ajudar jogadores iniciantes a encontrarem uma motivação apropriada para seus personagens
+em relação a história que ele quer contar.
+---
+**Evolução do Personagem**
+Ao final de cada partida, o mestre
+recompensará cada personagem com
+Pontos de Experiência - veja Premiando
+os Jogadores, na página 150 para mais
+detalhes. Quando conquistar 10 pontos
+de experiência, o personagem sobe de
+nível.
+Conforme sobe de nível o personagem recebe os seguintes benefícios:
+*Habilidades:
+O personagem recebe uma Habilidade nova a cada nível adquirido, que
+pode ser escolhida dentro da lista de sua
+Classe ou Raça, ou dentro da lista de Habilidades Gerais na página 13.
+*Ponto de Evolução:
+O personagem recebe 1 Ponto de
+Evolução a cada nível adquirido. O ponto
+de evolução deve ser gasto imediatamente para adquirir UM dos seguintes benefícios permanentemente:
++10 Pontos de Mana: o personagem
+aumenta seus Pontos de Mana máximos
+em 10.
++10 Pontos de Vida: o personagem
+aumenta seus Pontos de Vida máximos
+em 10.
++5 Pontos de Mana e +5 Pontos de
+Vida: o personagem aumenta seus Pontos de Vida e Mana máximos em 5.
+Aprendiz de [Classe]: o personagem pode adquirir esse benefício – veja
+caixa de destaque ao lado.
+*Atributos:
+Nos níveis 4, 7 e 10, o personagem
+escolhe 2 Atributos diferentes e aumenta
+cada um deles em +1.
+*Aposentando o Personagem:
+Quando um herói chega ao nível
+10 seu poder é tão grande que nenhuma
+aventura apresenta desafio suficiente.
+Normalmente ele já se tornou uma lenda
+no mundo e decide usufruir de suas conquistas. Sejam elas títulos reais, posses ou
+cargos políticos e militares.
+Nesse ponto, após algumas aventuras demonstrando seu poder para o
+mundo, o mestre pode transformá-lo em
+um PdM e iniciar uma nova campanha,
+fazendo os jogadores criarem novos personagens que, eventualmente, poderão
+até encontrar seus antigos personagens
+como coadjuvantes de suas novas aventuras!
+/*
+*Aprendiz de [Classe]:
+Se o personagem desejar, ele pode
+iniciar no aprendizado de uma Classe
+diferente daquela que o personagem
+já segue. Para fazer isso o Mestre pode
+exigir que ele tenha algum tipo de instrução na classe desejada, normalmente
+na forma de um mentor. Esse mentor
+pode ser um PdM com quem ele tenha
+convivido por algum tempo, ou um do
+seus companheiros de grupo. Quando
+seleciona Aprendiz de [Classe] o personagem adquire a Habilidade Automática da Classe da qual se tornou aprendiz
+ou, se ele já possuir a Habilidade Automática da Classe da qual se tornou
+aprendiz, uma Habilidade da nova
+Classe que ele atenda os Requisitos. A
+partir desse momento ele é considerado um Aprendiz da Classe escolhida
+(Anote isso na Ficha, na área dedicada à
+Classe do personagem), podendo escolher Habilidades da lista da sua Classe
+ou da Classe que se tornou aprendiz.
+Cada personagem só pode se tornar
+Aprendiz de mais uma Classe ao longo
+de sua carreira – esse benefício só pode
+ser selecionado uma vez.
+*\
+---
+**Dogma e EspÍrito Animal**
+Dogma é uma Habilidade da Classe Sacerdote, que serve de pré-requisitos
+para outras Habilidades da Classe. O
+Dogma de um sacerdote define sua crença e a divindade cujos dogmas ele segue.
+Espirito Animal está presente em
+três Classes (Druida, Patrulheiro e Xamã).
+Essas Classes têm uma profunda ligação
+e respeito à natureza. Essa Habilidade representa a essência espiritual do personagem. O personagem pode ter nascido com
+uma profunda ligação com o seu animal
+espiritual ou desenvolveu essa ligação ao
+longo da vida, mas é necessário escolher a
+Habilidade para que ela se manifeste.
+*Lista de Dogmas:
+Dogma: Discípulo da Forja
+Descrição: Você segue os ensinamentos de Hou, o Fogo. Você nunca pode quebrar
+um juramento, faltar com a palavra ou desistir de uma tarefa que se prontificou a levar a
+cabo – mesmo que isso ameace sua vida. Suas
+magias de Conjuração, Cariátide e Golens têm
+seu custo de Mana reduzido em 5 enquanto
+seguir este Dogma. Se em qualquer momento
+você quebrar um juramento ou uma promessa
+ou desistir de uma tarefa que se prontificou a
+terminar, você perderá esta Habilidade, e nunca
+mais poderá adquiri-la novamente.
+Arma dos Deuses: Martelo de Guerra
+flamejante. Além do dano normal, esse martelo
+causa um dano extra igual a 10/Fogo.
+Dogma: Discípulo da Guerra
+Descrição: Você segue os ensinamentos
+de Hadorn Braço de Ferro. Você nunca pode
+fugir de uma luta (a menos que seja uma morte
+certa) e deve sempre honrar a morte de quem
+morreu lutando. Você tem Força +1 enquanto
+seguir este dogma. Se em qualquer momento
+você fugir de uma luta ou desonrar os mortos,
+você perderá esta Habilidade, e nunca mais poderá adquiri-la novamente.
+Arma dos Deuses: Machado Pesado
+de bronze. Esta arma é extremamente afiada e
+causa o dobro do dano normal.
+Dogma: Discípulo da Justiça
+Descrição: Você é um devoto de Mirah,
+a Justiça ou de Ahogr Ruge-Mundos. Você deve
+seguir as leis e jamais pode permitir que alguém
+seja prejudicado injustamente se você puder evitar. Você tem Vontade +1 enquanto seguir este
+dogma. Se você quebrar uma lei ou permitir que
+alguém o faça de modo proposital sem exigir punição imediata, você perderá esta Habilidade, e
+nunca mais poderá adquiri-la novamente.
+Arma dos Deuses: Espada Longa cintilante. Além do dano normal, essa espada causa
+um dano extra igual a 10/Eletricidade.
+Dogma: Discípulo da Liberdade
+Descrição: Você segue os ensinamentos
+de Taranis Asas-de-Nuvens. Você nunca pode
+aprisionar, submeter ou forçar alguém a uma
+situação, condição ou ideia. Você tem Agilidade
++1 enquanto seguir este dogma. Se em qualquer momento você aprisionar alguém de qualquer forma ou permitir que alguém seja preso
+contra sua vontade, você perderá esta Habilidade, e nunca mais poderá adquiri-la novamente.
+Arma dos Deuses: Azagaia de gelo.
+Além do dano normal, se for arremessada essa
+arma causa um dano extra igual a 10/Frio, e se desfaz em um pó fino de gelo e retorna com um
+vento gelado até as mãos do portador onde reverte à sua forma de azagaia no final do turno.
+Dogma: Discípulo da Natureza
+Descrição: Você segue os ensinamentos
+de Ellenis, a Dama da Natureza ou de Lathellanis, a Grande Matriarca. Você deve sempre
+proteger a natureza e os animais, e nunca deve
+extrair dela mais do que o estritamente necessário – e quando precisar fazer isso, deve repor o
+dano que causou de alguma forma. Você pode
+se comunicar com qualquer Besta do tipo Mamífero, Peixe, Ave ou Réptil por meio de gestos
+e olhares e recebe +1 em todas as rolagens relativas à esses tipos de criaturas. Se em qualquer
+momento você desrespeitar a natureza, deixar
+que outros o façam ou deixar de ajudar quando ela precisar, você perderá esta Habilidade, e
+nunca mais poderá adquiri-la novamente.
+Arma dos Deuses: Arco Recurvo urticante. O portador desse arco recebe um bônus
+de +2 em seus ataques à distância, e toda vez
+que a corda desse arco é puxada, um ramo
+verde com uma única folha farpada na ponta
+cresce no lugar da flecha. Qualquer alvo atingido por uma dessas flechas, além de sofrer
+o dano normal fica automaticamente envenenado, perdendo 2 Pontos de Vida por turno.
+Esse veneno é considerado mágico e seus efeitos perduram até serem curados ou até o arco
+ser dissipado.
+Dogma: Discípulo da Paz
+Descrição: Você é um discípulo de Denalla, a Vida. Você deve sempre trazer a paz,
+nunca poderá matar qualquer criatura e deve
+tentar encontrar um caminho que não exija combate em todas as situações. Você tem Vontade
++2 enquanto seguir este dogma. Se em qualquer
+momento você matar ou permitir que alguém
+lute sem necessidade, você perderá esta Habilidade, e nunca mais poderá adquiri-la novamente.
+Arma dos Deuses: Missal da paz. Um
+tomo mágico que contém todas as magias que
+restaurem Pontos de Vida que o Sacerdote conheça. Ele pode conjurar qualquer dessas magias a partir o tomo e essas magias curam 10
+PVs a mais do que o normal.
+Dogma: Discípulo da Sabedoria
+Descrição: Você segue os ensinamentos
+de Sarfion, o Guardião do Conhecimento, e tenta
+transmiti-lo aos outros sempre que possível. Você
+nunca pode mentir ou omitir uma informação,
+deve sempre que puder transmitir conhecimento
+e deve ler por pelo menos 1 hora por dia. Você
+tem Inteligência +1 enquanto seguir este dogma.
+Se em qualquer momento você mentir ou desprezar a educação, você perderá esta Habilidade, e
+nunca mais poderá adquiri-la novamente.
+Arma dos Deuses: Cajado da conjuração. Esse Cajado oferece os benefícios combinados de um Cajado, um Orbe e uma Varinha
+quando seu portador conjura magias.
+/*
+*Dogma:
+Habilidade – Suporte
+Descrição: Você segue estritamente
+os ensinamentos de uma divindade que, em
+troca, lhe concede um favor especial. Escolha
+um Dogma para seguir. Essa escolha é permanente e não pode ser mudada posteriormente.
+Especial: Um personagem que não
+siga os Dogmas de uma divindade específica
+é considerado um Discípulo do Panteão ou
+Sacerdote do Panteão e não está vinculado
+a nenhuma divindade em particular – nem
+recebe quaisquer benefícios ou precisa seguir
+nenhuma conduta específica.
+*\
+*Lista de Espíritos Animais:
+Espírito Animal: Abelha
+Descrição: Seu espírito possui a forma
+de uma abelha. Você é imune a venenos naturais e recebe +1d6 para resistir à efeitos de
+venenos mágicos. Você também é capaz de
+uma comunicação rudimentar – dentro das capacidades do animal – com qualquer criatura do
+tipo Artrópode e rola +1d6 em todas as rolagens (atacar, perceber, treinar, etc.) com relação
+à essas criaturas.
+Finalmente, todas as suas Habilidades
+que envolvam criaturas do tipo Besta (Companheiro Animal, Convocar Animais, Forma
+Animal, Guardião da Natureza, etc.) passam a
+incluir criaturas do tipo Artrópode.
+Espírito Animal: Águia
+Descrição: Seu espírito possui a forma
+de uma águia. Você ganha +1 nas rolagens de
+ataque a distância. Você também é capaz de
+uma comunicação rudimentar – dentro das capacidades do animal – com qualquer criatura
+do tipo Ave, e rola +1d6 em todas as rolagens
+(atacar, perceber, treinar, etc.) com relação à
+qualquer Besta do tipo Ave.
+Espírito Animal: Camaleão
+Descrição: Seu espírito possui a forma
+de um camaleão. Você rola +1d6 nos testes
+de se esconder, escalar e se mover em silêncio.
+Você também é capaz de uma comunicação rudimentar – dentro das capacidades do animal
+– com qualquer criatura do tipo Réptil, e rola
++1d6 em todas as rolagens (atacar, perceber,
+treinar, etc.) com relação à qualquer Besta do
+tipo Réptil.
+Espírito Animal: Cavalo
+Descrição: Seu espírito possui a forma
+de um cavalo. Você rola +1d6 nos seus testes
+para correr, saltar, escalar, nadar ou qualquer
+tipo de movimentação e deslocamento. Você
+também é capaz de uma comunicação rudimentar – dentro das capacidades do animal –
+com qualquer Besta do tipo Mamífero que tenha uma dieta Herbívora, e rola +1d6 em todas
+as rolagens (atacar, perceber, treinar, etc.) com
+relação à qualquer Besta do tipo Mamífero que
+tenha uma dieta Herbívora. 
+Espírito Animal: Cobra
+Descrição: Seu espírito possui a forma de uma cobra. Você ganha +1 na Defesa
+(este é um bônus de Esquiva ou Bloqueio,
+à sua escolha; essa escolha deve ser feita no
+momento em que essa Habilidade é selecionada e não pode ser mudada mais tarde).
+Você também é capaz de uma comunicação
+rudimentar – dentro das capacidades do animal – com qualquer criatura do tipo Réptil, e
+rola +1d6 em todas as rolagens (atacar, perceber, treinar, etc.) com relação à qualquer
+Besta do tipo Réptil.
+Espírito Animal: Coruja
+Descrição: Seu espírito possui a forma
+de uma coruja. Você rola +1d6 em todos os
+testes para lembrar, pesquisar ou compreender qualquer tipo de conhecimento teórico.
+Você também é capaz de uma comunicação
+rudimentar – dentro das capacidades do animal – com qualquer criatura do tipo Ave, e
+rola +1d6 em todas as rolagens (atacar, perceber, treinar, etc.) com relação à qualquer Besta
+do tipo Ave.
+Espírito Animal: Golfinho
+Descrição: Seu espírito possui a forma
+de um golfinho. Você consegue respirar e se
+movimentar tanto sob quanto sobre a água
+normalmente. Você também é capaz de uma
+comunicação rudimentar – dentro das capacidades do animal – com qualquer Besta do tipo
+Peixe ou do tipo Mamífero cujo Habitat seja
+Rio ou Mar e rola +1d6 em todas as rolagens
+(atacar, perceber, treinar, etc.) com relação à essas criaturas.
+Espírito Animal: Lobo
+Descrição: Seu espírito possui a forma
+de um lobo. Você ganha +1 nas rolagens de
+ataque corporal. Você também é capaz de uma
+comunicação rudimentar – dentro das capacidades do animal – com qualquer Besta do
+tipo Mamífero que tenha uma dieta Carnívora, e rola +1d6 em todas as rolagens (atacar,
+perceber, treinar, etc.) com relação à qualquer
+Besta do tipo Mamífero que tenha uma dieta
+Carnívora.
+Espírito Animal: Touro
+Descrição: Seu espírito possui a forma
+de um touro. Você rola +1d6 nos seus testes
+para resistir à venenos naturais ou mágicos, doenças e infecções naturais e mágicas, tentativas
+de derrubá-lo, empurrá-lo ou movê-lo fisicamente de qualquer maneira. Você também é
+capaz de uma comunicação rudimentar – dentro das capacidades do animal – com qualquer
+Besta do tipo Mamífero que tenha uma dieta
+Herbívora, e rola +1d6 em todas as rolagens
+(atacar, perceber, treinar, etc.) com relação à
+qualquer Besta do tipo Mamífero que tenha
+uma dieta Herbívora.
+Espírito Animal: Tubarão
+Descrição: Seu espírito possui a forma
+de um tubarão. Você causa +2 de dano com
+seus ataques corporais (desarmados ou com
+armas). Você também é capaz de uma comunicação rudimentar – dentro das capacidades do
+animal – com qualquer Besta do tipo Peixe ou
+do tipo Mamífero cujo Habitat seja Rio ou Mar
+e rola +1d6 em todas as rolagens (atacar, perceber, treinar, etc.) com relação à essas criaturas.
+Espírito Animal: Urso
+Descrição: Seu espírito possui a forma
+de um urso. Você tem +10 Pontos de Vida.
+Você também é capaz de uma comunicação rudimentar – dentro das capacidades do animal
+– com qualquer Besta do tipo Mamífero que tenha uma dieta Carnívora, e rola +1d6 em todas
+as rolagens (atacar, perceber, treinar, etc.) com
+relação à qualquer Besta do tipo Mamífero que
+tenha uma dieta Carnívora.
+/*Espírito Animal
+Habilidades (Técnica) – Suporte
+Descrição: Seu espírito possui a forma
+de um animal. Escolha um Espírito Animal
+para ser seu guia. Essa escolha é permanente.
+*\
+---
+Capítulo 1V – O Mestre
+Como dissemos na introdução, o Mestre é aquele responsável por criar e contar
+a história. Então, se este é você, não é nenhum exagero afirmar que a diversão de todo
+o grupo depende muito do seu trabalho, mas calma!
+Não ceda diante da pressão. Ser
+Mestre da trabalho, mas também é muito
+divertido. É como se você fosse o autor,
+diretor e ator coadjuvante de sua peça.
+Enquanto cada jogador é responsável
+por descrever e interpretar as ações de
+seu próprio personagem, o Mestre é responsável por interpretar todos os outros
+personagens que não são jogadores, os
+chamados PdMs (Personagens do Mestre). Além disso, é o Mestre que determina como o ambiente responde aos personagens. Está frio? Está chovendo? É dia?
+É Noite? Essas questões todas são decididas pelo Mestre. E, claro, é o Mestre
+quem cria o plano maligno dos vilões ou
+os eventos que fazem com que os personagens dos jogadores decidam se aventurar para averiguar e – esperamos! – solucionar o problema.
+---
+**Montando a Aventura**
+Existem varias maneira de preparar
+uma aventura. Você pode também apenas
+improvisar. Para muitas pessoas funciona.
+Para outras é necessário um planejamento
+adiantado. E também tem gente que não
+gosta de inventar, e usam aventuras prontas. (O site www.mightyblade.com oferece
+aventuras para todos os usuários registrados – e qualquer um pode se registrar
+de forma totalmente gratuita).
+Lembre-se que os jogadores são os
+personagens principais do jogo. Coloque-
+-os no centro de sua aventura. Deixe que
+eles sejam especiais dentro dela. A melhor maneira de preparar a aventura e dividi-la em eventos, ou “cenas” principais,
+onde as coisas que você quer que aconteçam, acontecem. Anote o que você acha
+importante em cada cena - como os jogadores chegam a ela, quais outros personagens estarão presentes, quais eventos
+se desencadearão e por que - mas lembrese sempre de manter os personagens dos
+jogadores tendo um papel importante no
+desenvolvimento dos eventos.
+De fato, é bom que a maioria das cenas dependam diretamente de certas decisões dos jogadores para acontecerem: “se
+eles tirarem o rubi da testa do estatua do
+ciclope, ele ganhará vida e atacará”, por
+exemplo. Outras aconteceram de um jeito
+ou de outro: “Na manhã seguinte o grupo
+encontra uma caravana de Elfos na estrada”. O importante é manter os jogadores
+interessado no que está acontecendo ao redor deles – afinal, eles são os protagonistas
+da história que você desenvolveu! Lembrese sempre que, não importa o quanto você
+tenha planejado, você tem que estar sempre
+pronto para improvisar, mudar a ordem de
+cenas que já escreveu – de preferência já as
+componha de um modo mais flexível, pra
+facilitar. Os jogadores inevitavelmente vão
+acabar fugindo da ideia inicial, elaborando
+soluções mais “criativas” para os obstáculos que você planejou (afinal, eles estão
+em maior número do que você, e têm pontos-de-vista completamente diferentes de
+enfrentar problemas; esteja preparado pra
+o inesperado, sempre! É disso que se trata
+lidar com jogadores – e humanos em geral,
+na verdade…). Lembre-se também de não
+podar ou boicotar ideias que os jogadores
+tiverem que não estejam de acordo com as
+suas ideias iniciais. Tente fazer com que as
+ideias deles funcionem de forma positiva à
+favor da história. 
+*Pegando Ideias:
+Você não deve ter vergonha de pegar ideias de filmes, livros ou historias
+em quadrinhos – seus jogadores provavelmente fizeram isso quando criaram
+seus personagens! Tenha certeza apenas
+de que será novidade ou no mínimo interessante para seus jogadores. Você não
+está escrevendo uma historia inédita e
+inovadora, está apenas compondo uma
+aventura onde os jogadores são personagens ativos e não meros expectadores,
+que é exatamente onde está a graça do
+RPG! E não se preocupe com clichê; desde que não torne a aventura óbvia, o clichê acaba sempre ajudando a imaginação
+de todos – e muitas vezes adiciona uma
+pitada de humor nas histórias.
+*Aventura Simples:
+Uma dica para montar uma aventura simples é a seguinte: Crie um vilão
+ou monstro para ser enfrentado, ou simplesmente um final emocionante (podendo ser um evento aonde os heróis devem
+vencer com uma série de testes, como um
+templo desabando sobre suas cabeças enquanto eles correm pelas suas vidas, por
+exemplo). Depois crie três cenas interessantes relacionadas ao grande final que
+preparou. Essas cenas podem ser batalhas contendo monstros subordinados ao
+grande vilão, armadilhas exigindo testes
+ou então charadas à serem desvendadas
+pelos jogadores ou simples eventos interessantes como encontrar um PdM que
+depois de enfrentar o monstro no fim do
+labirinto acabou se perdendo e é encontrado muito enfraquecido – mas podendo
+oferecer informações de como chegar ou
+enfrentar o monstro! Então escolha um
+local para situar sua aventura (caverna
+infestada por Goblins, templo assombrado em algum local ermo, labirinto subterrâneo debaixo da cidade, castelo abandonado nos arredores da cidade, no meio
+do bairro dos carpinteiros, na floresta que
+circunda a vila dos personagens, etc.). Escolha um motivo para o vilão (que pode
+ir desde uma elaborada vingança contra
+um ancestral do burgomestre da cidade
+até um simples caso de criatura violenta
+que acordou com fome). Dê dicas para os
+jogadores sobre o que está acontecendo
+– como eles são heróis, é muito provável que a simples descoberta de um vilão ou monstro na região atraia sua sede
+de aventuras imediatamente, mas talvez
+haja boatos de que o monstro guarde um
+grande tesouro ou que o Barão da cidade
+quer ver o vilão derrotado, o que pode
+tornar a aventura mais recompensadora
+para os personagens. Pronto! Uma pequena e simples aventura!
+*Campanhas:
+Você pode jogar sempre aventuras
+simples, sem se preocupar muito com
+continuidade ou com a ligação entre cada
+uma. Mas se os jogadores forem sempre
+jogar com os mesmos personagens, para
+irem evoluído e abrindo novas habilidades na ficha, pode ser interessante pensar um pouco na sequência de eventos,
+ter uma trama maior por trás da história.
+Talvez todos os desafios que os personagens enfrentaram não tenham sido por
+acaso, talvez aquele vilão da primeira
+aventura não tenha morrido quando caiu
+no abismo, e esteja em busca de vingança.
+Esse tipo de sequência de aventuras interligadas é chamada de campanha.
+Isso ocorre quando o Mestre encadeia varias aventuras ao longo de uma história
+maior e mais complexa. Campanhas são
+mais difíceis de desenvolver, mas muito mais gratificantes de mestrar e jogar.
+Uma boa maneira de pensar uma campanha e compará-la com uma série de
+TV, onde cada aventura é um episódio,
+e cada temporada tem uma história distinta. Você não precisa ter toda a campanha planejada ao iniciar, você pode planejar apenas os primeiros episódios, ou
+mesmo só o primeiro episódio. E então
+ir criando a trama conforme os próprios
+jogadores forem agindo e, à medida as ações deles, ir pegando idéias para aventuras subsequentes.
+Uma campanha pode começam totalmente copiada de um filme e, conforme os jogadores vão avançando, o Mestre
+vai tendo ideias, apresentando desafios
+para os jogadores que podem vencê-los
+de modos totalmente inesperados e a
+partir disso dando novas ideias para o
+mestre trabalhar desafios futuros, tornando a aventura cada vez mais original
+e única. Uma campanha é algo bem empolgante, mas exige um grupo assíduo e
+unido para ser executada; deixe para experimentar essa possibilidade depois que
+seu grupo já estiver mais acostumado e
+empolgado com o jogo – mas se ela vier
+naturalmente ao longo de suas primeiras
+aventuras, abrace a ideia e deixe que as
+coisas sigam em frente!
+---
+**Premiando os Jogadores**
+Na sessão de Evolução do Personagem (pág, 40) é dito que com dez pontos
+de experiência o personagem sobe de nível, mas como essa experiência é ganha?
+Aqui é importante ressaltar que os Pontos
+de Experiência (ou simplesmente XP) representam o aprendizado do personagem
+e sua busca pelo autoaperfeiçoamento.
+Eles também servem para manter os jogadores motivados a seguirem jogando,
+mesmo que estejam em um ponto particularmente difícil da história, onde tudo
+parece estar dando errado para os personagens. Quando o personagem sobe de
+nível, isso funciona como um prêmio para
+o esforço do jogador até aquele momento.
+Existem maneiras mais simples e
+mais complexas de distribuir os XPs; a
+seguir vamos descrever algumas delas,
+mas o Mestre tem total liberdade de adotar qualquer uma delas ou uma variação
+que achar mais apropriado.
+Ignorar os Pontos de Experiência:
+O primeiro método, e o mais simples, e
+simplesmente ignorar os XPs. Assim ao
+final de cada aventura os personagens
+sobem um nível e pronto. Se usar esse
+método tenha em mente que você está
+dizendo que aquela aventura inteira valeu 10 pontos de experiência, o que normalmente pode ser muito, mas para um
+grupo iniciante pode ser uma boa ideia.
+No entanto, só permita que os personagens subam de nível quando eles terminarem a aventura - se ela precisar ser
+interrompida para continuar outro dia;
+os jogadores devem esperar até o final de
+fato da aventura, não o final de cada sessão de jogo. Além disso, exija um mínimo
+de sucesso dos personagens - Se eles fracassarem completamente em sua missão,
+eles não deveriam subir de nível.
+Vencendo Desafios: Uma maneira
+um pouco mais detalhada de distribuir os
+XPs é premiar os confrontos superados pelos personagens. Estabeleça um valor em
+XP para cada embate que os personagens
+forem enfrentar, e se eles conseguirem superar o obstáculo conceda o XP. O importante aqui é lembrar que apesar da maioria
+dos confrontos serem combates, seja contra
+monstros ou contra PdMs, um enigma bem
+feito pode render XPs, assim como algum
+desafio que exija que os personagens façam
+testes e sejam bem sucedidos. Mesmo no
+caso de um combate, não necessariamente
+vencer o desafio significa matar o adversário - se ele fugir, for persuadido a ceder ou
+enganado para permitir que o grupo alcance seu objetivo naquela aventura, isso também é considerado uma vitória.
+Premiar por Conquista: Um método mais avançado é definir em cada cena
+que você planejar as coisas que os jogadores precisam vencer. Como no caso anterior você determina os desafios de cada
+cena, mas ai tudo pode ser um desafio.
+Fazer a pergunta certa para o dono da estalagem, passar no teste de percepção e
+encontrar a pista escondida, etc.
+Esse método não é mais difícil, só
+mais trabalhoso, porque exige uma preparação maior da parte do Mestre. E
+quando os personagens divergirem, forçando o Mestre a improvisar, ele também
+pode considerar ideias inventivas e inspiradas dignas de receber XP, ou ir improvisando novos desafios conforme a
+história se desenrola.
+Avaliar a Interpretação: Alguns
+Mestres gostam de dar mais ênfase à interpretação dos personagens, em fazer
+aquele pedaço de papel com números se
+tornar algo vivo e palpável. Isso é mais
+complexo do que simplesmente “jogar o
+jogo”, e normalmente é reservado a grupos mais experientes, que querem mais
+do jogo do que sentar e rolar dados. Nesse caso é bem simples de avaliar: ao final
+da sessão de jogo de uma nota de 1 a 10
+para a interpretação do jogador, e converta isso em pontos de experiência.
+---
+**Mestre Adversário**
+O mestre tem o poder de fazer coisas ruins acontecerem o tempo todo – os
+personagens escapam de uma armadilha e
+logo caem em outra, assim que terminam
+de lutar contra um grupo de Goblins são
+surpeendidos por um lobisomem antes
+de poderem descansar, são pegos em uma
+chuva de granizo durante um combate à
+céu aberto... – e ele pode até mesmo matar
+os personagens! Mas isso é parte do trabalho do mestre: apresentar desafios para
+os jogadores. Mas qual a graça de apresentar desafios que os jogadores não podem
+enfrentar? Que avanço isso traria para a
+aventura em si? O importante é criar desafios que possam ser superados – ou pelo
+menos evitados, mesmo que com uma
+fuga! Se quiser colocar um dragão ancião
+contra dois personagens de nível 1, dê
+pelo menos uma alternativa para que eles
+não virem churrasco logo no primeiro turno! Desafios que envolvem charadas também podem ser interessantes e divertidos
+dependendo de como forem apresentados
+e da disposição dos jogadores de vencer
+esse tipo de atividade. Um bom balanço
+entre a ação do combate e a investigação
+sempre cria aventuras mais interessantes.
+Tenha em mente que para poder jogar você precisa de jogadores, se eles não
+gostarem das aventuras que você prepara, eles simplesmente irão parar de jogar.
+É muito importante entender que cada
+grupo é diferente,e nas primeiras vezes
+que mestrar você vai ir descobrindo o
+que eles acham divertido numa aventura de RPG. Da mesma forma, você vai ir
+descobrindo o que você gosta de mestrar,
+e a partir dai é só encontrar um meio termo entre o seu gosto e o dos jogadores, e
+você terá um grupo que se divertirá jogando nas histórias que você criar.
+/*
+*Regra de Ouro:
+O mestre tem a palavra final e suas
+regras sempre estarão acima de qualquer
+outra regra. Sempre que uma regra entrar em conflito com a história, a história
+ganha (faça acontecer). Este é o poder
+do mestre, mas ele deve usá-lo com responsabilidade, dando preferência para a
+história e acima de tudo sendo justo com
+seus jogadores. E lembre-se: As regras estão aí para serem ignoradas quando isso
+for o melhor para a diversão do grupo!
+*\
+---

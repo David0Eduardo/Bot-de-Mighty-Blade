@@ -1,0 +1,65 @@
+Habilidades Gerais
+A seguir apresentamos novas Habilidades Gerais, duas delas – Apóstata e
+Pacto – seguem regras específicas de como
+podem ser selecionadas e utilizadas que explicadas em sua descrição. 
+
+---
+--Apóstata--
+Habilidade (Característica) – Suporte
+Raças: Todas.
+Requisitos: Ter abandonado um Voto
+Descrição: Você perdeu sua fé em códigos
+de conduta e dogmas e sua descrença nesses ideais alimenta sua vontade. Você tem Determinação
++2 e consegue perceber se uma criatura possui
+Conhecimento Místico, Sintonia Dracônica, um
+Código, Dogma ou Pacto (mas não qual Código,
+Dogma ou Pacto específico) se puder vê-la ou tocá-la mesmo que brevemente. Além disso, você
+recebe +2 em todos os testes envolvendo criaturas que possuam uma destas Habilidades e sempre que derrotar uma delas você recupera imediatamente 10 Pontos de Vida e 10 Pontos de Mana.
+Especial: Ao adquirir esta Habilidade,
+você perde Conhecimento Místico e quaisquer
+Códigos ou Dogma que possua além daquele que
+abandonou para adquirir esta Habilidade (Veja
+Abandonando Votos para saber como adquirir
+novas Habilidades para repor aquelas que você tenha perdido) e nunca poderá adquirir um Código,
+Dogma ou Pacto ou se tornar aprendiz de uma
+Classe que tenha Conhecimento Místico como
+Habilidade Automática.
+---
+--Gigantismo--
+Habilidade (Característica) – Suporte
+Raças: Todas exceto Anão e Metadílio.
+Descrição: Você é mais alto do que o normal para sua Raça. Você recebe +10 Pontos de
+Vida, +1 em seu Deslocamento e pode usar armas
+corporais de duas mãos com uma mão só (desde
+que não sejam armas de haste) desde que tenha
+Força suficiente (você não pode usar uma arma
+dessa forma usando as regras de Inaptidão por
+Força menor do que a FN da arma). No entanto,
+sua Defesa Básica é 4 ao invés de 5. Além disso,
+você realiza testes para se esconder, mover em silêncio e se disfarçar como se fosse Inapto.
+Especial: Você só pode selecionar esta
+Habilidade durante a criação do personagem.
+---
+--Intuição--
+Habilidade (Característica) – Suporte
+Raças: Todas exceto Astérios.
+Descrição: Você possui um instinto afiado
+e consegue prever perigo de modo quase sobrenatural. Você usa Vontade ao invés de Agilidade
+para calcular sua Iniciativa e seu bônus básico de
+Esquiva – Habilidades que oferecem bônus de
+Esquiva baseados em Agilidade são calculadas
+normalmente. Além disso, você recebe +2 em
+seus testes de Iniciativa.
+---
+--Pacto--
+Habilidade – Suporte
+Raças: Todas.
+Descrição: Você fez um pacto com uma
+entidade infernal e recebeu um favor em troca.
+Escolha um Pacto (página 86). Esta escolha é permanente – para selecionar quaisquer outras Habilidades que tenham um Pacto como requisito,
+o personagem precisa seguir o Caminho Cultista.
+Especial: Se você tiver Conhecimento
+Místico ou Dogma, você perde essas Habilidades ao selecionar um Pacto. Se você possuir um
+Pacto, você não pode se tornar Aprendiz de uma
+Classe cuja Habilidade Automática seja Conhecimento Místico. 
+---

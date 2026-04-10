@@ -1,0 +1,550 @@
+Capítulo 3 – Caminhos
+Caminhos são opções avançadas para personagens, que podem estar disponíveis para os jogadores dentro do cenário da Campanha se o Mestre considerar
+apropriado. Eles funcionam como uma espécie de Classe especializada, com uma
+pequena lista de Habilidades que podem ser selecinadas pelos personagens em conjunto com as Habilidades de Classe e Raça para criar combinações ainda mais diversificadas. 
+
+De forma semelhante ao que faria ao
+selecionar Aprendiz de [Classe], um personagem pode usar 1 Ponto de Evolução
+(Veja o Guia Básico, página 40) e escolher
+o benefício Aprendiz de [Caminho] (veja a
+caixa lateral para detalhes). Perceba que,
+antes de poder selecionar esse benefício,
+o personagem precisa preencher todos os
+Requisitos do Caminho. O jogador pode
+selecionar o benefício no mesmo nível em
+que prencher seus Requisitos (um personagem que chegasse ao nível 4 e aumentasse sua Inteligência para 5 e selecionasse
+Herbalismo como sua nova Habilidade
+poderia usar imediatamente seu ponto de
+evolução para escolher o Caminho Alquimista, por exemplo).
+O Mestre é encorajado à exigir que o
+personagem tenha algum tipo de instrução no Caminho desejado, normalmente na forma de um mentor. Esse mentor
+pode ser um personagem do Mestre com
+quem ele tenha convivido por algum
+tempo, ou um do seus companheiros de
+grupo. Perceba que mesmo um mentor
+que não seja do Caminho desejado poderia servir como mentor: se o Guerreiro
+do grupo começa a treinar o uso de arcos
+com o Patrulheiro com quem costuma se
+aventurar, ele poderia extrapolar os conhecimentos adquiridos, adaptando-os e
+escolhendo o Caminho do Arqueiro. Ainda, o Mentor pode ser um item (como um
+livro sobre poções, que daria as noções
+básicas necessárias para um personagem
+se tornar um Alquimista).
+Por outro lado, um Caminho pode vir
+de uma afinidade natural do personagem
+(um Feiticeiro que invoca elementais com
+frequência pode descobrir formas pouco
+ortodoxas de conjuração, tornando-se um
+Invocador) ou como parte da evolução natural que o jogador decidiu para seu personagem (como um personagem com o Antecedente Artesão [Artes] que tornou-se
+tatuador como parte de sua iniciação no
+Caminho Tohunga).
+As possibilidades devem ser discutidas com o Mestre assim que o jogador decidir escolher um Caminho para verificar se
+aquela opção está presente no cenário da
+campanha e para qualquer decisão relevante com relação ao Caminho (como a inclusão de um Mentor, por exemplo) possa ser
+preparada previamente pelo Mestre, se necessário. Seja a necessidade de um Mentor
+ou a adequação do Histórico do personagem, os jogadores também são encorajados
+à desenvolverem as situações que os levarão ao Caminho que decidirem seguir através de interpretação, e não apenas através
+de ajustes em termos de regras.
+/*
+**Aprendiz de [Caminho]**
+Quando seleciona o esse benefício, o personagem adquire a Habilidade
+Automática do Caminho que decidiu
+trilhar. Se ele já possuir a Habilidade
+Automática do Caminho, ele seleciona
+qualquer Habilidade do Caminho cujos
+Requisitos ele preencha ao adquirir
+esse benefício.
+A partir do momento em que escolhe um Caminho, o personagem é
+considerado um membro do Caminho
+que selecionou (Anote isso na Ficha, na
+área dedicada à Classe do personagem)
+e pode escolher Habilidades do Caminho como se fossem Habilidades da sua
+Classe.
+Cada personagem só pode trilhar
+um Caminho ao longo de sua carreira
+– por tanto esse benefício só pode ser
+selecionado uma vez.
+*\
+
+---
+**ALQUIMISTA**
+*DESCRIÇÃO
+Os alquimistas são especialistas em
+poções e misturas alquímicas. A arte da
+alquimia é ensinada em laboratórios em
+grandes cidades e metrópoles e na Academia Argêntea, que possui a maior biblioteca alquímica de Cassiopéia.
+Apesar de ser possível aprender alquimia apenas através de livros, a maioria dos
+Alquimistas encoraja o aprendizado dentro
+de um laboratório, com a supervisão de Alquimistas experientes, uma vez que, principalmente durante suas primeiras experiências, as chances de cometer erros perigosos é
+considerável. Além disso, muitas poções simplesmente não são possíveis de realizar fora
+de um laboratório, e tentativas de simular os
+procedimentos sem os materiais necessários
+quase sempre geram reações desastrosas.
+A maioria dos Alquimistas trabalha em
+grandes cidades com lojas anexas aos seus
+laboratórios ou mesmo exclusivamente para
+a corte. Estes Alquimistas mercantes geralmente produzem poções práticas para o dia-
+-a-dia, como elixires do sono, poções contra
+dores e antídotos variados, mas a maioria deles mantém um estoque de poções destinadas
+especificamente para aventureiros.
+Outros trabalham para conjuradores
+– ou mesmo são conjuradores! – ou para
+criminosos, produzindo poções muito mais
+complexas e perigosas. Estes Alquimistas
+quase nunca negociam suas mercadorias,
+produzindo poções para fins específicos e
+com demandas consideráveis.
+E há, é claro, aqueles Alquimistas que
+se aventuram. Alguns deles aprenderam
+alquimia para complementar suas habilidades, ou como uma “progressão natural”
+delas, enquanto outros são curiosos por natureza, e o mesmo impulso que os faz estudar sobre reações químicas e físicas também os impulsionam para ver fenômenos
+pelo mundo em primeira mão – as vezes
+para estudá-los e tentar aprender com eles,
+as vezes apenas pela curiosidade.
+Embora a maioria dos Alquimistas trabalhe de forma abrangente, ou seja, produzindo todo tipo de poções, há aqueles que
+se especializam em tipos determinados de
+misturas. Algun deles se especializam em
+produzir elixires, poções criadas especificamente para curar, fortalecer ou acalmar
+o corpo e a mente. Os iátricos ou curandeiros, como geralmente são chamados, são
+bastante comuns entre Xamãs e Sacerdotes.
+Toxicólogos ou envenenadores, como costumeiramente são chamados os Alquimistas
+especializados em venenos, são comuns entre os Patrulheiros, Druidas e Ladinos, apesar destes últimos também serem adeptos
+ao uso de Extratos. Espagiristas, como são
+conhecidos os Alquimistas que produzem
+Extratos, costumam ser tão variados e excêntricos quanto as poções que produzem,
+mas os Ladinos e os Feiticeiros são, de longe, os mais inclinados à adotarem essa especialidade da alquimia.
+*RAÇAS:
+Humanos são os que mais
+se identificam com a Alquimia.
+Sua busca por conhecimento
+– e poder – e sua curiosidade natural os leva a procurar a alquimia com muita
+frequência. A curiosidade
+também é o que leva uma
+enorme quantidade de Metadílios à alquimia. Apesar
+de, no caso destes, a curiosidade pura e simples geralmente está misturada com
+um desejo de produzir efeitos
+espantosos, e não necessariamente uma busca por poder.
+Elfos e Faens, que são
+bastante ligados à natureza costumam ter um considerável conhecimento sobre plantas e suas propriedades, além de uma ligação intrínseca com
+magia, também são comumente atraídos
+pela alquimia, que entre eles é considerada
+uma forma de “magia menor”.
+Anões e Firas, cuja busca por conhecimento é conhecida, também são comuns
+entre os Alquimistas. Como são as raças
+que primeiro desenvolveram o vidro, além
+de terem uma ligação profunda com o fogo
+e suas características, eles estão entre as
+primeiras raças à fazerem experimentos
+químicos e aq desenvolverem laboratórios.
+De fato, há uma certa disputa entre as duas
+raças para determinar quem teria desenvolvido as primeiras reações alquímicas, o
+que pode levar membros de ambas as raças
+à longas e acirradas discussões.
+Tailox têm a curiosidade que leva Humanos e Metadílios ao ofício, mas não a paciência e disciplina necessários, e Alquimistas Tailox são incomuns. Aesires, Astérios,
+centauros, Mahoks e Orcs, apesar de serem
+raças com tradição no uso de herbalismo,
+Alqumia é considerada “delicada demais” e sumariamente ignorada.
+Entre as demais raças, a alquimia
+é um estudo extremamente raro.
+---
+**ARQUEIRO**
+*DESCRIÇÃO:
+Em Cassiopéia, um Arqueiro é qualquer especialista no uso de um arco, seja o
+tradicional arco de caça ou guerra, o arco
+horizontal montado sobre um cabo como
+no caso das bestas ou mesmo os arcos das
+forquilhas de bodoques. No entanto, como
+muitos caçadores, rastreadores e batedores costumam usar essas armas, o termo
+Arqueiro é utilizado entre Patrulheiros,
+Guerreiros e outros homens-de-armas para
+definir um grupo mais restrito de soldados:
+aqueles usuários de arcos que guardam e
+vigiam.
+Enquanto os Patrulheiros geralmente
+concentram suas habilidades em rastrear
+e emboscar seus alvos, usando ataques à distância para derrotar rapidamente inimigos desatentos, o Arqueiro se concentra em
+perceber e contra-atacar alvos escondidos e
+se defender contra eles de forma eficiente.
+Em essência, os Arqueiros são a antítese
+dos Patrulheiros.
+Além disso, os Arqueiros costumam
+também concentrar-se em praticar para
+manter os músculos fortes e rijos. Como
+não têm a disposição dos Patrulheiros para
+se esgueirar e encontrar locais apertados
+para se esconderem, Arqueiros têm muito
+menos necessidade de flexibilidade e agilidade. De fato, eles preferem ficar em áreas abertas, onde podem vigiar áreas mais
+amplas, e geralmente não se incomodam
+em passar horas patrulhando uma mesma
+área. A maioria dos Arqueiros valoriza um
+braço firme para uma mira precisa e uma
+constituição robusta para aguentar horas
+sem precisar de sono ou descanso.
+*RAÇAS:
+Arqueiros são bastante comuns entre
+os Humanos, Centauros e Anões. Os Humanos empregam Arqueiros como guardas e vigias em torres e castelos com muita
+frequência, e é bastante comum que Guerreiros treinados pelas guardas de cidades
+e castelos recebam treinamento como Arqueiros se demonstrarem um bom olho
+para detalhes. Entre os Anões a prática é
+bastante semelhante, e Arqueiros são bastante valorizados por conta de haver pouco
+interesse entre eles em adotar as práticas
+dos Patrulheiros. De fato, Guerreiros Arqueiros são mais comuns do que Patrulheiros entre eles. Diferente dos Humanos, no
+entanto, os Anões costumam dar preferência ao uso de bestas e prodds ao invés de
+arcos e se especializam em perceber adversários escondidos ou invisíveis com mais
+frequência – uma habilidade bastante útil dentro de corredores subterrâneos muitas
+vezes com pouca ou nenhuma iluminação.
+Entre os Centauros, a arqueria é bastante comum tanto como esporte quanto como
+prática de guerra e caça, e Arqueiros são comuns entre a raça, revezando entre trabalhos
+de vigiar as comunidades ou participando de
+grupos de caça. Arqueiros são comuns entre
+os Patrulheiros, Guerreiros e mesmo entre os
+Druidas Centauros. Ao lado da lança, o arco é
+a arma mais tradicional dos Centauros, e praticamente todos os jovens Centauros tiveram alguma prática no uso do arco, ao
+menos de forma recreacional.
+Alguns Jubans são treinados como Arqueiros, e em
+Kommos, uma das capitais de
+Parband, o treinamento de
+Guerreiros Arqueiros no uso
+do arco é bastante comum,
+apesar da raça de modo geral não ter inclinação para a
+arqueria.
+Entre os Aesires, Astérios e Mahoks, que preferem armas de arremesso,
+Arqueiros são praticamente
+inexistentes.
+As outras raças preferem as práticas mais tradicionais de arqueria desenvolvidas
+pelos Patrulheiros, e Arqueiros
+são pouco comuns.
+---
+**ARTÍFICE**
+*DESCRIÇÃO:
+Artífices são Conjuradores com o
+conhecimento e técnicas para criar e manipular itens mágicos. Os Rúnicos, cujo
+método de conjuração lida com a inscrição
+de magias sobre itens, são os conjuradores que mais comumente se tornam Artífices.
+Aqueles Feiticeiros que ingressam nesse
+Caminho geralmente possuem uma curiosidade sobre funcionamentos variantes da
+magia. Apesar de Conjuradores Místicos
+não serem capazes de produzir itens mágicos, já que eles canalizam o poder de uma
+entidade superior, e é impossível estagnar
+esse poder na forma de um encantamento,
+alguns deles (particularmente Sacerdotes
+de Hou) se iniciam nas práticas arcanas
+para produzir itens mágicos destinados à
+realizar os desígnios de sua divindade.
+A grande maioria dos Artífices cria
+apenas itens de pouco poder, rápidos e
+fáceis de produzir, enquanto alguns se especializam em itens com fins específicos,
+geralmente trabalhando para a corte de
+um determinado reino ou metrópole. Na
+Academia Argêntea há Artífices especializados em itens de proteção, usados por
+estudantes durante seus primeiros testes (e
+pela maioria dos professores) enquanto Tebrynia, Arbrat e Tell’Est Triadha mantém
+Artífices que produzem armas e armaduras
+mágicas para as tropas que protegem essas
+capitais, e Arkânia possui Artífices que produzem itens mágicos exclusivamente para
+a Aurora dos Dragões.
+Há ainda alguns Artífices que dedicam suas vidas à produção de itens mágicos com propriedades realmente impressionantes, e que requerem anos para
+serem produzidos. Em geral estes itens
+que consomem grandes quantidades de
+energia e recursos são criados com um
+propósito bastante específico – derrotar
+um perigo particularmente terrível, defender um reino de uma ameaça específica ou
+produzir uma ameaça ou perigo terríveis!
+Estes itens mágicos via de regra não estão
+à disposição de aventureiros, exceto, eventualmente, como pilhagem de suas aventuras.
+*RAÇAS:
+Anões e Firas, cuja cultura está intimamente ligada à Hou, a divindade patrona dos ferreiros, costumam produzir uma
+quantidade bastante considerável de Artífices. Muitos deles se dedicam à produção de
+itens para a proteção de seus reinos, mas as
+características mercantilistas de ambas as
+raças também faz com que seus comércios
+de itens mágicos estejam sempre bem abastecidos. Eles são também os que mais
+produzem itens mágicos com objetivos religiosos: proteger devotos
+e templos, destruir inimigos
+jurados de sua divindade ou
+executar os desígnios de Hou
+do modo que eles consideram mais sagrado, a produção de itens com qualidade
+superior.
+Entre os Aesires, a
+produção de itens mágicos geralmente têm caráter
+militarista, criando armas,
+armaduras e outros itens
+mágicos que melhorem seu
+desempenho no campo de
+batalha. Aesires também são
+a raça que mais produz Artífices aventureiros que se dedicam
+a testar na prática a eficiência de
+seus itens mágicos.
+Os Mahoks costumam produzir
+itens voltados para o uso cotidiano. Entre
+eles, itens de uso não-combativo são a regra, e armas mágicas de origem Mahok são
+raras.
+Feiticeiros Metadílios as vezes se tornam Artífices, geralmente se dedicando a
+criar itens com efeitos “interessantes”, e alguns itens amplamente apreciados – como
+a Cesta das Infinitas Tortas – são criações
+creditadas à eles.
+Já os Feiticeiros Elfos possuem um interesse com relação à natureza da magia, e
+alguns se tornam Artífices focados na criação de itens de conjuração encantados.
+Entre as outras raças, Artífices são raros, seja por falta de interesse, disciplina ou
+acesso às técnicas de encantamentos de itens. 
+---
+**DOMADOR**
+*DESCRIÇÃO:
+Domadores são pessoas com uma
+afinidade profunda com animais. Sejam cavaleiros com elos com suas montarias, falcoeiros experientes em treinar aves de rapina ou caçadores que desenvolveram uma
+afinidade com seus animais, Domadores
+possuem uma capacidade de compreender
+e influenciar animais (seja através de uma
+simpatia sincera ou de uma dominância
+bestial), o que faz deles membros apreciados de qualquer grupo ao qual pertençam – ou ameaças temíveis quando se voltam
+para o mal.
+Alguns Domadores desenvolvem
+um elo com um animal em particular e
+extendem naturalmente esse elo às demais bestas que encontram. Outros, apesar de possuírem uma ligação maior com
+uma criatura em especial, dedicam sua
+atenção entre todos os animais que encontra, sejam selvagens ou domesticados,
+de forma imparcial, muitas vezes reunindo uma pequena horda de “seguidores”
+selvagens.
+Outros utilizam sua afinidade natural com as feras, subjugando os animais à
+sua vontade, como uma espécie de alfa de
+um grupo. Estes Domadores não necessariamente possuem um comportamento vil
+ou cruel com relação aos animais sobre os
+quais possui dominância, literalmente liderando seu grupo, defendendo, ensinando
+e exigindo respeito dos animais em troca.
+Mas, obviamente, alguns Domadores com
+esse comportamento agem de forma agressiva com os animais (e, em geral, com todas as criaturas) sob sua influência ou não.
+Não raro, estes Domadores desenvolvem
+uma antipatia por grupos sociais civilizados, preferindo a companhia dos animais e
+daqueles que possuem um elo semelhante
+com estes.
+E há ainda aqueles Domadores que
+apenas tratam e treinam animais brevemente, quebrando qualquer vínculo com
+o animal em seguida, criando vínculos
+efêmeros com dezenas – as vezes centenas – de animais por breves períodos de
+tempo. 
+*RAÇAS:
+Os Firas são a raça mais reconhecida por seus Domadores. Como possuem
+uma tradição nomádica, animais de tração, 
+montaria e caça são extremamente valorizados entre eles, e a raça dá preferência ao
+treinamento de animais de montaria, como
+cavalos, camelos e grifos, além de aves de
+rapina para auxiliar na caça.
+Os Elfos, Faunos, Tailox, Levent e
+Orcs costumam domar animais de caça, e a
+tradição se estende à animais de estimação.
+Orcs e Faunos costumam usar lobos para
+auxiliar na caça, Tailox usam raposas para
+rastrear e patrulhar áreas, enquanto Levents dão preferência à águias e outras
+aves de rapina tanto como vigias
+quanto como rastreadoras. Elfos
+por sua vez treinam todos esses
+animais de forma indistinta.
+Metadílios têm uma
+estima especial por aríetes,
+grandes caprinos usados
+como montaria e animal de
+tração, e os Anões aprenderam a apreciar estes animais, uma vez que eles se
+saem bem nos terrenos acidentados de Dagothar.
+Entre os Aesires, Domadores tendem a ter um
+comportamento menos de
+treinadores e mais de alfas de
+grupos de animais com os quais
+lidam – normalmente lobos e ursos, animais aos quais a raça é tradicionalmente ligada.
+Os Faen também possuem uma tradição de uso de animais, mas no caso deles,
+voltada para artrópodes. Eles costumam
+manter fazendas de abelhas para a produção de mel, lagartas e aranhas para a fabricação de sedas, besouros gigantes como
+animais de carga e tração e vespas como
+animais de caça.
+As outras raças raramente criam vínculos poderoso com animais ou se dedicam
+ao treinamento extensivo comum aos Domadores. Os Hamelins, que possuem uma
+ligação intrínseca com ratos raramente se
+tornam Domadores, aceitando a companhia de ratos como um fenômeno natural, e
+não como aliados ou animais de estimação. 
+---
+**ILUSIONISTA**
+*DESCRIÇÃO:
+O Ilusionista é um conjurador especializado em enganar os sentidos, utilizando suas habilidades para trapacear a percepção de seus inimigo ou para maravilhar
+os sentidos daqueles ao seu redor. De fato,
+a maioria deles usa esse talento voltado
+para o entretenimento, criando exibições
+elaborada, mas alguns utilizam suas habilidades como jogadores, golpistas, trapaceiros e, com frequência, espiões.
+Graças à esse segundo grupo, alguns
+dizem que todo o Ilusionista é um trapaceiro, mentiroso e enganador. Os Astérios tem
+um ditado que diz: “Confie num ladrão antes de um Ilusionista ”.
+Muitos burgomestres, capitães, nobres e até mesmo monarcas reconhecem as capacidades dos Ilusionistas, e usam os
+mesmos como conselheiros em questões de
+seguranças, ou até como conselheiros pessoais. Lorde Esterlin II, regente de Ektória,
+é conhecido por ter duas guarda-costas Ilusionistas, que estão sempre ao lado dele.
+Independente de como utilizam suas
+habilidades, Ilusionistas comumente utilizam suas capacidades de conjuração para
+lidar com ameaça sem precisar recorrer à
+violência. Esse padrão às vezes fazem com
+que Ilusionistas sejam considerados covardes, mas eles próprios vêem o confronto físico como um desafio débil, a forma como
+pessoas pouco refinadas lidam com problemas.
+*RAÇAS:
+Entre os Faens, Ilusionistas são bastante comuns, e eles são, de fato, conhecidos entre os povos silvestres como grandes
+artistas – e trapaceiros contumazes! Faens
+adoram ilusões, e Ilusionistas são bastante
+apreciados entre eles.
+Entre os Metadilios, Ilusionistas também são comuns, geralmente se apresentando em companhias itinerantes ao lado
+de menestréis e atores em espetáculos extremamente elaborados. De fato, os Bryneses apreciam bastante os espetáculos de ilusionismo, e embora os Metadilios sejam os
+Ilusionistas mais comuns a se apresentarem
+na região, Ilusionistas de outras raças também são comuns no reino.
+Elfos têm uma fascinação por ilusões
+e como elas têm de ser elaboradas para
+funcionarem de forma eficiente, por tendo
+sentidos mais aguçados do que os das outras raças, os Elfos são particularmente eficientes em criar ilusões encantadoras.
+Sacerdotes de Mirah e Sarfion costumam se tornar Ilusionistas para criar ambientes agradáveis ou mesmerizantes para
+os devotos de sua fé, ajudar o conforto de
+enfermos ou criar narrativas elaboradas
+para transmitir conhecimento.
+As outras raças possuem pouco interesse, inclinação ou acesso às formas de
+conjuração dos Ilusionistas, e esse Caminho
+é raro entre elas. 
+---
+**INVOCADOR**
+*DESCRIÇÃO:
+Invocadores são Conjuradores especializados em invocar criaturas para auxiliá-los. Apesar das óbvias aplicações combativas, muitos Invocadores na verdade usam
+suas habilidades para atividades mais
+mundanas. Como são incansáveis, seguem
+ordens com exatidão e não se distraem, golens e elementais são trabalhadores extremamente eficientes. A Academia Argêntea e algumas metrópoles de Tebryn, Parband
+e Dagothar empregam Invocadores como
+arquitetos e construtores, enquanto muitos
+utilizam suas invocações como auxiliares
+em laboratórios, forjas e oficinas.
+Mas é obviamente em batalha que os
+Invocadores mais se destacam. Invocadores
+particularmente talentosos são capazes de
+dominar o campo de batalha praticamente
+sozinhos e sem precisar entrar em confronto direto com nenhum inimigo. Apesar do
+poder bruto de elementais e golens menores não serem particularmente impressionantes, um número considerável deles é capaz de manter ameaças consideráveis sob
+controle. De fato, um invocador cercado de
+elementais e golens – ou talvez espíritos,
+no caso de Necromantes e Xamãs invocadores – pode ser uma visão suficientemente
+amedrontadora para fazer com que alguns
+inimigos simplesmente decidam que não é
+uma boa idéia enfrentar o grupo. 
+*RAÇAS:
+Anões e Firas Invocadores são os mais
+comuns, dando preferência à golens de pedra e ferro e elementais de fogo, estimados
+por sua praticidade em trabalho de forja.
+Sacerdotes de Hou são particularmente
+adeptos de se tornarem Invocadores, apesar de alguns Rúnicos também escolherem
+esse Caminho ocasionalmente.
+Mahoks Druidas muitas vezes trilham o caminho do Invocador, e golens de
+pedra são favoritos entre eles, ao lado dos
+elementais de fogo.
+Entre os Levents, Invocadores geralmente lidam mais com espíritos do que
+com elementais e golens, e quase todos os
+Invocadores Levent são Xamãs ou Necromantes.
+As outras raças raramente produzem
+Invocadores, exceto entre Astérios, Centauros e Tailox que não possuem qualquer
+inclinação para a invocação, e Invocadores
+dessas raças são desconhecidos.
+---
+**ORÁCULO**
+*DESCRIÇÃO:
+Apesar de alguns Oráculos possuírem uma predisposição para a profecia, a
+maioria deles é formada por religiosos que
+desejam uma compreensão maior sobre a
+criação da sua divindade ou que buscam a
+resposta para uma questão específica.
+Oráculos cujo interesse por uma compreensão maior do mundo costumam ser 
+abertos à discussão e estão tão interessados
+em disseminar o conhecimento quanto em
+adquirí-lo. Não é surpresa alguma que a
+um grande número desses Oráculos sejam
+Sacerdotes dedicados à Sarfion. Sacerdotes de Taranis também são comuns nesse
+grupo, já que o próprio conceito de liberdade está ligada ao conhecimento – “não
+há prisão mais terrível do que a ignorância” é um dito comum entre eles. Druidas
+são conhecidos por engrossar essas fileiras
+de Oráculos, as vezes para melhor servir à
+seus propósitos, mas geralmente por uma
+curiosidade inata comum à todos os membros da Classe.
+Muitos Sacerdotes de Mirah e Hou,
+por outro lado, se tornam Oráculos em
+busca de conhecimentos específicos. Sacerdotes de Mirah costumam procurar
+um meio de chegar à paz absoluta, enquanto Sacerdotes de Hou muitas vezes
+se dedicam à encontrar respostas relacionadas à grandes artefatos perdidos
+– como a Mighty Blade – ou civilizações
+esquecidas – como Mankosh. Sua busca
+pode ser pelo objeto em si, seu método de
+construção, o motivo por trás de sua criação ou a identidade e natureza de seus
+criadores. Apesar de raramente serem
+capazes de obter a grande resposta que
+buscam, estes Oráculos costumam reunir
+informações significativas com relação à
+sua área de interesse.
+*RAÇAS:
+Por sua natureza contemplativa, os
+Levents são uma das raças com o maior
+número de Oráculos conhecidos, impelidos
+por uma curiosidade intensa, característica
+comum aos devotos de Taranis.
+Entre os Aesires, Druidas Oráculos são conhecidos por realizarem Seidhs
+– uma reunião de Oráculos na qual cada
+participante envia sua percepção para um indivíduo que preside o encontro. Muitos
+assuntos políticos, sociais e militares são
+discutidos nos Seidhs além de questões filosóficas e proféticas.
+Entre os Jubans Sacerdotes de Ahogr,
+Oráculos auxiliam em julgamentos, na solução de crimes, fazendo vigilância remota
+ou mesmo espionando – sendo, na prática,
+uma força da lei.
+As outras raças possuem poucos
+Oráculos. Apesar de Metadílios, Humanos e alguns Tailox trilharem esse Caminho, eles nem de longe chegam,
+juntos, ao número de Oráculos
+Aesires, Levents e Jubans separadamente.
+---
+**TOHUNGA**
+*DESCRIÇÃO:
+Em Reo, o idioma dos Astérios, a palavra Tohunga significa “mestre” ou “especialista”, e era usada como um título de
+honra para aqueles que mostravam excelência em sua área de atuação. Essa noção
+– assim como grande parte da cultura ancestral dos Astérios – foi perdida durante
+a Revoada dos Dragões e posteriormente
+com sua vinda para Cassiopéia, e o termo
+hoje é usado apenas para identificar um
+especialista em tatuagem. Nesse interim,
+no entanto, o termo ainda possui força, e é
+usado por todos os que decidem trilhar este
+Caminho, independente de sua cultura ou
+idioma.
+Apesar da maioria das qualidades
+que um Tohunga é capaz de exibir através de suas tatuagens serem um ato de pura
+determinação, algumas tatuagens podem
+possuir qualidades mágicas ou sobrenaturais. A maioria destes Tohunga é formada
+por Rúnicos, Xamãs e Druidas, mas mesmo
+Guerreiros ou Patrulheiros podem exibir
+essas capacidades extraordinárias.
+Independente de suas crenças, a maioria dos Tohunga faz uso de suas habilidades como tatuadores de maneira ordinária,
+seja marcando membros de sua comunidade com tatuagens de guerra ou em rituais
+de passagens, seja tatuando por dinheiro.
+No entanto, um Tohunga capaz de imprimir poderes nas tatuagens que produzem
+em outros costuma ser extremamente seletivo ao fazer isso, não sendo afetado por influência ou poder aquisitivo nessa escolha
+– exceto no caso de um Tohunga desesperado ou com muito pouco escrúpulo.
+*RAÇAS:
+Os Tohunga são em sua maioria Astérios, e esse Caminho é bastante comum entre
+eles, gozando de certo status dentro de sua
+cultura, as vezes até mesmo desempenhando papéis como conselheiros e contadores
+de histórias além de suas funções cotidianas.
+Os Aesires, cuja cultura possui uma
+tradição em tatuagem, abraçou as práticas
+dos Tohunga assim que entrou em contato
+com ela. Rúnicos e Xamãs são particularmente atraídos por este Caminho, assim
+como alguns Druidas.
+Anões produzem alguns Tohunga, na
+maioria Rúnicos, embora Sacerdotes também adotem o Caminho, criando intrincadas tatuagens homenageando Hou.
+Orcs Parbani desenvolveram uma afinidade com os os Astérios desde a fundação de Parband e tatuagens são populares
+entre eles como meio de distinguí-los dos
+Orcs das Terras Secas, e Orcs Tohunga – geralmente Xamãs – são bastante comuns.
+Entre as outras raças de Cassiopéia
+a prática dos Tohunga é pouquíssimo conhecida e praticada, com raros membros de
+outras raças adotando este Caminho.
+Firas, em especial, não possuem tatuadores, já que entre eles “esconder o corpo”
+sob maquiagem impede que Hou os veja
+por inteiro, e a idéia de uma marcação permanente em suas peles é impensável.
+Além disso, Tohunga não existem entre os Astérios Arkanitas. Como em Arkânia
+a marcação à ferro, escarificação e formas
+bastante rudimentares de tatuagem
+são usadas para identificar criminosos e escravos, a prática dos
+Tohunga foi se marginalizando até desaparecer. 
+---

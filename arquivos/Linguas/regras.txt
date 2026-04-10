@@ -1,0 +1,79 @@
+Capítulo 3: Regras
+
+**Idioma Automático e Idiomas Iniciais**
+Cada personagem recém-criado conhece um número de idiomas igual à sua
+Inteligência. Um deles será sempre seu
+Idioma Automático, definido pela sua
+Raça/Cultura e os outros são selecionados livremente entre os Idiomas Comuns
+- ou Idiomas Exóticos, se o personagem
+tiver acesso a algum deles - e serão considerados seus Idiomas Iniciais.
+Sugere-se que, se o Idioma Automático do personagem não for o Burguês, que ele selecione este como um
+de seus Idiomas Iniciais, já que este é o
+idioma mais falado em toda Cassiopéia.
+
+**Idiomas Extras**
+Existem duas formas de aprender
+novos idiomas. A primeira é aumentando a Inteligência do personagem permanentemente - escolhendo Inteligência
+como um dos seus Atributos para receber +1 quando atinge os níveis 4, 7 e 10
+- ou 16 caso a regra opcional de progressão até o nível 20 esteja em uso - ou através de alguma Habilidade que aumente
+sua Inteligência, como Inteligência Heróica. Quando o personagem aumentar
+sua Inteligência, ele poderá escolher
+mais um idioma, desde que ele esteja
+tendo contato com esse idioma (pode ser
+algum que um dos outros membros do
+grupo o conheça, ou o personagem está
+em uma região onde o idioma é comum,
+ou talvez ele esteja estudando através de
+livros), ou ele deve avisar o Mestre que
+irá estudar esse idioma em algum lugar
+disponível (biblioteca, escola, um sábio,por exemplo) dependendo da situação.
+Caso o idioma que o personagem queira aprender não esteja disponível no
+momento em que o personagem passar
+de nível (por circunstâncias de jogo, por
+exemplo), o Mestre pode permitir que o
+Jogador aprenda esse idioma mais tarde,
+quando tiver acesso a uma fonte de estudo do idioma que deseja aprender.
+Por exemplo: Um personagem
+Feiticeiro decide que deseja aprender
+Caint. Ele informa o Mestre que deseja
+comprar alguns livros para estudar o
+idioma, e começa a estudá-los. No entanto, o grupo entra em uma série de
+aventuras em um complexo subterrâneo
+e o Feiticeiro não tem ocasião de estudar
+seus livros. Durante essas aventuras,
+o feiticeiro recebe XP suficiente para ir
+para o nível 4, e aumenta sua Inteligência, mas o Mestre o informa que ele não
+conseguiu aprender o Caint ainda. Mais
+tarde, enquanto o grupo decide passar
+alguns dias em uma estalagem antes de
+ir para sua próxima aventura, o Feiticeiro finalmente tem tempo de estudar, e o
+Mestre então lhe diz que ele pode adicionar Caint entre seus idiomas.
+A segunda maneira é gastando
+um Ponto de Evolução. Quando o personagem puder utilizar um Ponto de
+Evolução, ele poderá escolher mais um
+idioma ao invés de escolher um dos outros benefícios, desde que ele esteja tendo contato com esse idioma (pode ser
+algum que um dos outros membros do
+grupo o conheça, ou o personagem está
+em uma região onde o idioma é comum,
+ou talvez ele esteja estudando através de
+livros), ou ele deve avisar o Mestre que
+irá estudar esse idioma em algum lugar 
+disponível (biblioteca, escola, um sábio,
+por exemplo) dependendo da situação.
+Assim que o Mestre anuncia que o personagem está apto para aprender aquele
+idioma, o Jogador pode fazer isso a qualquer momento que receba um Ponto de
+Evolução.
+Por exemplo: O grupo de aventureiros passa um bom tempo em Stord.
+O Guerreiro do grupo, que não sabe Futhark, deseja aprender o idioma. Depois
+de passar algumas sessões dizendo ao
+Mestre que seu personagem está ativamente tentando entender a língua dos
+Anões, o Mestre diz a ele que seu personagem está apto a aprender Futhark.
+Logo em seguida, o personagem sobe
+de nível, mas o Jogador decide usar
+seu Ponto de Evolução para aumentar
+seus PVs. Mais adiante na campanha,
+enquanto o grupo está se aventurando
+na Floresta dos Antigos, o personagem
+sobe de nível novamente, e o Jogador
+informa ao Mestre que, nesse momento, usará seu Ponto de Evolução para
+aprender Futhark.

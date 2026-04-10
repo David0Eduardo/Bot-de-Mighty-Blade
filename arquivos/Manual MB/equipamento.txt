@@ -1,0 +1,440 @@
+Capítulo V – Equipamento
+Este capítulo descreve os itens mais comuns encontrados nos mercados da
+maioria das cidades. Cada personagem começa com 500 moedas e podem gastar livremente este dinheiro para adquirir qualquer item descrito nesse capítulo. Essa quantidade de dinheiro é suficiente para equipar de modo eficiente um aventureiro iniciante
+- geralmente uma arma, uma armadura e algum item adequado à sua Classe (como
+um escudo, item de conjuração ou um kit de arrombamento) além de uma mochila
+com rações de viagem e talvez um kit de cura ou algumas tochas.
+Aumentar a quantidade de dinheiro inicial não é aconselhável – Excesso de dinheiro para personagens iniciantes pode desequilibrar o jogo e dificultar o trabalho do Mestre,
+além de aumentar o tempo necessário para cada personagem escolher seus itens.
+
+---
+**Equipamento Geral**
+A tabela a seguir apresenta uma série de itens que os personagens podem adquirir para personalizar seu equipamento ou para melhorar seu desempenho. Alguns
+itens são necessários para realizar ações sem incidir na regra de Inaptidão, enquanto
+outros oferecem bônus para determinadas rolagens – e outros são itens de uso corriqueiro, usados para manter tarefas cotidianas. 
+---
+**Descrição dos Equipamentos Gerais**
+Item: O nome mais comum do item.
+Peso: O peso em quilos do item.
+Custo: O custo em moedas do item.
+Descrição: Descrição dos itens e suas características, quando houver.
+/*equipamentos.xlsx*\
+---
+**Armas Corporais e de Distância**
+Qualquer personagem é capaz de usar qualquer arma, independente da Classe – em um cenário de fantasia, todos os personagens têm uma noção, mesmo que
+rudimentar, de como usar uma arma. No entanto, note que se o personagem estiver
+usando uma arma cuja FN for maior do que a sua Força, ele incorre na regra de
+Inaptidão.
+---
+**Descrições das Armas corporais**
+Arma: O nome mais comum da arma.
+Custo: O custo padrão em moedas da
+arma.
+Dano: O dano que a arma causa. Se o
+dano for um número, esse é o dano total
+da arma. Se for um número precedido de
+“For+”, o valor deve ser somado à Força
+do personagem para calcular o dano total
+da arma.
+Tipo: O tipo de dano que a arma causa.
+Perf – É abreviação de Perfuração. Cont
+– é para Contusão. Se uma arma tiver
+mais de um tipo de dano, o jogador pode
+escolher, a cada turno, que tipo de dano o
+seu personagem usa ao atacar com aquela arma.
+FN: Abreviação de Força Necessária. Um
+personagem usando uma arma cuja FN é
+maior do que sua Força ataca como se fosse Inapto. Quando existem dois números,
+o primeiro é a força necessária para usar
+a arma com apenas uma mão. O número
+entre parentes é a força para usar a arma
+com as duas mãos. Se o personagem tiver
+força para usar a arma com apenas uma
+mão, mas ainda assim usar com as duas,
+some +2 ao dano.
+Peso: o peso em quilos da arma.
+Distância: A distância máxima que a arma
+alcança em combate. Esses alcances são:
+Corpo-a-corpo: Qualquer arma ou ataque que é realizado dentro do alcance
+do braço de um humanoide médio é
+considerado corpo-a-corpo. A maioria
+das armas pode ser usada nessa distância, e muitas não têm um alcance maior
+do que este 1 metro.
+Haste: Armas dotadas de cabos compridos e com uma cabeça montada
+em uma das suas extremidades. Apesar de geralmente não serem usados
+para atacar com apenas uma das extremidades, cajados podem ser empunhados como lanças, para manter
+os adversários à distância, e são considerados armas de haste. Alcance: 3
+metros.
+Observações: Lista as características especiais da arma, quando houver. Essas
+características são:
+Arremesso: Esta arma pode ser arremessada como se tivesse Alcance Curto
+(veja a tabela de armas de distância).
+Canalizador: Você pode realizar magias
+enquanto estiver empunhando esse
+item.
+Duas Mãos: São necessárias ambas as
+mãos para usar a arma. Se usada com
+apenas uma mão, o personagem ataca
+como se fosse Inapto.
+/*equipamento.xlsx*\
+---
+**Descrições das Armas de Distância**
+Arma: O nome mais comum da arma.
+Custo: O custo padrão em moedas da arma.
+Dano: O dano que a arma causa. Se o dano
+for um número, esse é o dano total da arma.
+Se for um número precedido de “For+”, o
+valor deve ser somado à Força do personagem para calcular o dano total da arma.
+Tipo: O tipo de dano que a arma causa. FN:
+Abreviação de Força Necessária. Um personagem usando uma arma cuja FN é maior
+do que sua Força ataca como se fosse Inapto.
+Peso: o peso em quilos da arma.
+Distância: A distância máxima que a arma
+alcança em combate. Esses alcances são:
+Alcance Curto: Armas que são propelidas pela força do usuário sem auxílio
+de alavancas ou instrumentos de tensão. Alcance: 30 metros.
+Alcance Médio: Armas que usam sistema
+de alavancas ou de propulsão mecânica
+são consideradas armas de alcance médio. Arcos simples também caem nessa
+categoria. Alcance: 100 metros.
+Alcance Longo: Arcos longos, compostos
+e recurvos entram nessa categoria. Alcance: 200 metros.
+Observações: Lista as características especiais da arma, quando houver. Essas
+características são:
+Duas Mãos: São necessárias ambas as
+mãos para usar a arma. Se usada com
+apenas uma mão, o personagem ataca
+como se fosse Inapto.
+Carregar: Esta arma usa um sistema de
+alavancas para ser recarregada. É preciso gastar uma Ação de Movimentação
+para recarregar esta arma. Se a arma estiver sem alavanca, um personagem só
+pode recarregar a arma se tiver o dobro
+da FN normal da arma.
+/*equipamento.xlsx*\
+---
+**Armaduras**
+Armaduras são itens de proteção vestidos sobre o corpo ou, no caso dos escudos, carregados em uma das mãos. Não é necessária nenhuma Habilidade especial
+para usar uma armadura, mas algumas Habilidades, como Guerreiro de Aço, oferecem vantagens para quem às usa. Outras, como Movimentos Evasivos, só podem ser
+usadas se você estiver sem armadura.
+---
+**Descrição das Armaduras**
+Armadura: O nome mais comum da armadura.
+Custo: O custo em moedas da armadura.
+Defesa: O Bônus de Defesa fornecido
+pela armadura. Se o número for precedido de um sinal de “+”, o bônus deve ser
+somado a qualquer outro bônus de armadura para calcular a Defesa, e é considerado um bônus de Bloqueio.
+FN: Força Necessária. Um personagem
+usando uma armadura cuja FN é maior do
+que sua Força realiza todos os seus testes
+de Força e Agilidade como se fosse Inapto.
+Peso: O peso em quilos da armadura.
+Observações: Lista as características especiais da armadura, quando houver. Essas características são:
+Pesada: Esta armadura concede uma
+boa proteção para o personagem, mas
+restringe seus movimentos. Todos os
+danos que o personagem sofre são reduzidos em 1, mas seu modificador de
+corrida diminuído para o triplo de seu
+Deslocamento (ao invés do quádruplo).
+Rígida: Esta armadura é feita de placas com várias articulações rígidas
+que concedem ótima proteção mas e
+atrapalha a movimentação. Se o personagem estiver montado, a FN dessa
+armadura é considerada -1. Essa armadura reduz os danos sofridos pelo
+personagem em 2 (cumulativo com a
+redução oferecida pela característica
+Pesada), mas seu modificador de corrida será apenas o dobro de seu Deslocamento (ao invés do quadruplo).
+Ocupa uma Mão: O personagem precisa
+usar esse item em uma de suas mãos.
+/*equipamento.xlsx*\
+---
+**Itens de Conjuração**
+Itens de conjuração são itens que os conjuradores usam para ampliar ou simplesmente acessar os efeitos de suas magias. Cajados, cetros e adagas podem ser usados
+como armas, enquanto os outros itens não têm nenhuma outra aplicação em combate
+além de afetar os efeitos de conjuração.
+Um item de Conjuração precisa estar sintonizado com um conjurador para funcionar
+apropriadamente. Um conjurador só se beneficia dos efeitos de Asseste, Cerne e Foco de
+um item de conjuração se este tiver sua Runa Arcana ou Selo Místico pessoal gravada nele.
+As outras características dos itens de conjuração não mudam.
+/*equipamento.xlsx*\
+---
+**Descrição dos itens de Conjuração**
+Item: O nome mais comum do item.
+Custo: O custo em moedas do item.
+FN: Força Necessária. Um personagem
+usando um item cuja FN é maior do que
+sua Força realiza testes para realizar Habilidades do tipo Magia como se fosse
+Inapto.
+Peso: O peso em quilos do item.
+Observações: Lista as características especiais dos itens. Essas características são:
+Asseste Mágico: Habilidades do tipo
+Magia conjuradas enquanto o conjurador estiver segurando este item tem sua
+Dificuldade diminuída em 1.
+Canalizador: Você pode realizar magias
+enquanto estiver empunhando esse item.
+Cerne Arcano: Habilidades do tipo
+Magia que causem dano ou perda de
+Pontos de Vida conjuradas enquanto o
+conjurador estiver segurando este item
+causam +5 de dano ou a perda de 5
+Pontos de vida a mais.
+Cerne Místico: Habilidades do tipo Magia que recuperem Pontos de Vida conjuradas enquanto o conjurador estiver
+segurando este item recuperam 5 Pontos de vida a mais.
+Duas Mãos: São necessárias ambas as
+mãos para usar este Item.
+Registro: Você pode registrar magias
+nesse item e usá-las para realizar rituais.
+Foco Mágico: Habilidades do tipo Magia
+conjuradas enquanto o conjurador estiver segurando este item custam 5 Pontos de Mana a menos.
+---
+**Transportes**
+A tabela a seguir apresenta os meios mais comuns de transporte em Drakon - e
+na maioria dos cenários de fantasia medieval convencionais. Os animais de transporte
+precisão de estalagem quando estiverem dentro de cidades – veja o item Estábulo, na
+tabela de Tavernas, Hospedarias e Estalagens a seguir.
+/*equipamento.xlsx*\
+---
+**Tavernas, Hospedarias e Caravanas**
+Os preços de produtos e serviços que
+uma taverna ou estalagem podem oferecer
+variam bastante, dependendo de vários
+fatores, como o nível do estabelecimento,
+qualidade dos produtos e serviços e localização. Abaixo segue uma relação dos produtos e serviços mais comuns, seus preços
+médios e uma rápida descrição. 
+/*Tavernas: equipamento.xlsx*\
+---
+**Poções**
+Cada frasco de poção contém líquido suficiente para apenas um uso – geralmente 100 ml. Como algumas poções podem ter efeitos diversos se forem consumidas
+(ou usadas) em quantidades maiores, esse é o tamanho padrão para poções, e containers com quantidades maiores de poções são extremamente raros. 
+/*equipamento.xlsx*\
+---
+**Descrição das poções**
+Item: O nome mais comum da poção.
+Peso: O peso da poção, incluindo o frasco
+que a contém.
+Custo: O custo em moedas da poção.
+Aura: Todo item mágico exala uma aura
+mágica. Esta aura só é detectável através
+da magia Detectar Magia. Ela pode possuir 5 tipos de intensidade:
+Nula: Itens mundanos que produzem
+efeitos mágicos fracos.
+Fraca: Itens mágicos menores, com efeitos mágicos fracos.
+Média: Itens mágicos que simulam efeitos de magias básicas.
+Forte: Itens mágicos que simulam efeitos de magias avançadas
+Divina: Itens criados diretamente por uma
+divindade, com efeitos extraordinários.
+Observações: Lista os efeitos da poção ( a
+maioria só ocorre se ela for ingerida).
+---
+**Instrumentos Musicais**
+Tabela de instrumentos: /*equipamento.xlsx*\
+---
+**Apêndice – Condições**
+Aqui estão as descrições de todas as condições que podem afetar um personagem
+ao longo de suas aventuras. Algumas Habilidades descrevem seus efeitos através de condições, isso permite que a descrição das habilidades seja mais direta apenas especificando
+qual condição ela causa ao alvo. As condições descritas a seguir tendem a abranger o máximo de situações possível, porém o Mestre tem toda a liberdade de ajustar as condições
+para situações especificas que venham a ocorrer, ou até mesmo criar condições novas.
+*Amedrontado:
+Personagem sobe certos efeitos de
+medo são considerados Amedrontados,
+não podendo realizar nenhuma ação ofensiva – atacar, lançar magias ou usar Habilidades de Ação – contra a criatura que é a
+fonte de seu temor.
+Atordoado
+Personagens que sofrem um trauma físico considerável e repentino estarão
+atordoados (como uma queda, ou alguns
+ataques contundentes e a maioria dos
+danos por eletricidade). Isso lhes deixará
+incapazes de um controle absoluto sobre
+seus movimentos. Um personagem atordoado tem -1 na Defesa, no Deslocamento
+e em todos os seus testes.
+*Caído:
+O personagem está prostrado no
+chão e tem um redutor de -2 em sua Defesa contra ataques corporais e em todos
+os seus ataques. Um personagem Caído
+pode usar sua ação de movimento ou uma
+ação padrão para se levantar.
+*Cego/Invisível:
+Um personagem que tenha seus olhos
+feridos ou sua visão totalmente obstruída –
+devido a ambientes totalmente escuros ou
+tendo sido vendado – é considerado cego.
+Um personagem cego realiza todos os seus
+testes como se fosse Inapto, e falha automaticamente em todos os seus testes de Armas
+de Distância e Percepção baseados na visão.
+Além disso, um personagem cego não pode
+usar Habilidades de Reação.
+Testes para conjurar magias com alcance Pessoal são realizados normalmente, mas magias com alcance de Visão falham automaticamente.
+Um personagem invisível gera os
+mesmos efeitos descritos acima contra todos os seus adversários, ou seja: qualquer
+personagem falha automaticamente em
+testes de Armas de Distância e Percepção
+baseados em visão relacionados à ele, e todos os outros testes (incluindo magias de
+toque) são realizados como se o atacante
+fosse Inapto. Além disso, é impossível lançar magias com um alcance maior do que
+toque contra o alvo, mas um conjurador
+pode realizar Magias que afetem uma área
+onde ele imagina que o personagem pode
+estar – a Magia é realizada normalmente,
+mas o alvo pode perfeitamente não estar
+dentro da área afetada, a critério do Mestre.
+*Distraído:
+O personagem está sob algum efeito que não permite que ele se concentre
+ou perceba adequadamente o ambiente
+ao seu redor. Efeitos que geram cegueira
+parcial – como mudanças de luminosidade bruscas ou areia nos olhos – produzem
+essa condição, assim como embriaguez e
+alguns venenos específicos e também áreas com barulho extremo – causado por algumas Músicas de Bardo ou em algumas
+situações extremamente específicas, como
+estar logo abaixo ou mesmo dentro de um
+sino badalando, por exemplo. Um personagem distraído realiza todos os seus
+testes como se fosse Inapto, falha automaticamente ao tentar realizar Magias e não
+pode utilizar Habilidades de Reação.
+*Enregelado:
+Um personagem enregelado está sobre algum efeito de frio intenso. Exposição
+prolongada ao frio – meia hora sob uma
+nevasca ou em uma gruta de gelo ou uma
+hora debaixo de chuva fria – sem a proteção
+adequada geram efeitos de enregelamento
+até que o personagem possa se aquecer de
+alguma forma. Durante o combate, graças
+ao surto de adrenalina e atividade física intensa, efeitos de enregelamento se dissipam
+em 2 turnos. Um personagem enregelado
+realiza todos os seus testes como se fosse
+Inapto e seu deslocamento fica reduzido à
+metade (arredondado para cima).
+*Fatigado:
+Sempre que, na opinião do Mestre,
+um personagem fizer muito esforço físico, algo que seja extremamente exaustivo,
+estendendo essa ação por vários turnos
+consecutivos. Ele deve exigir que o personagem passe em um teste de Força, a dificuldade vai depender do quão exaustiva
+for a ação. Em caso de uma falha ele ficara
+Fatigado por um número de turno igual
+ao número de turnos que se manteve executando a ação que causou a fadiga. Um
+personagem Fatigado não pode realizar
+nenhuma ação durante seu descanso, limitando-se a tomar fôlego.
+*Faminto/Desidratado:
+Um personagem que passe um dia
+inteiro sem ingerir pelo menos 1 litro de
+água é considerado Desidratado. Um personagem Desidratado perde 20 Pontos de
+Vida e 20 Pontos de Mana a cada dia e
+não recupera Pontos de Vida eou Mana
+por descanso. Essa Condição é removida
+se o personagem Desidratado beber 1 litro de qualquer líquido (exceto bebidas
+alcóolicas).
+Um personagem que passe uma
+quantidade de dias igual a sua Força
+sem ingerir uma refeição é considerado
+Faminto. Um personagem Faminto não
+recupera Pontos de Vida ou Mana por
+descanso e precisa um teste de Força
+(Dificuldade 10) a cada dia que estiver
+Faminto. Falha nesse teste significa que
+o personagem perde 10 Pontos de Vida
+e 10 Pontos de Mana. A dificuldade desse teste aumenta em +2 a cada vez que o
+teste for feito. Essa Condição é removida
+se o persoangem Faminto consumir uma
+refeição.
+O Mestre pode facilitar o teste ou
+atenuar os efeitos caso o personagem
+esteja ingeringo pouca água e comida
+(como num caso de racionamento). Por
+outro lado os efeitos podem ser intensificados e os testes dificultados caso as circunstâncias sejam desfavoráveis (como
+uma viagem pelo deserto).
+*Imune a [Dano]:
+O personagem é imune a um dos 6
+tipos de dano do Mighty Blade (Contusão,
+Corte, Perfuração, Frio, Fogo e Eletricidade) e não sofre dano nenhum de uma fonte que cause esse tipo de dano.
+Exemplo: Um personagem Imune à Perfuração que sofra um ataque de uma Picareta
+de Guerra (Dano 10/Perfuração) não sofre
+dano algum do ataque.
+Um personagem com Imunidade a
+[Dano] fica Resistente a [Dano] quando
+for afetado por um efeito que o torne Vulnerável a [Dano], e passa a sofrer metade
+daquele tipo de dano.
+Exemplo: Um personagem que seja Vulnerável a Frio e receba Imunidade a Frio por
+se tornar um Lich, por exemplo, recebe apenas
+Resistência a Frio no lugar de Imunidade.
+*Indefeso:
+Alvos inconsciente (através de efeitos que os façam perder totalmente os sentidos, não apenas dormindo), totalmente
+contido (braços e pernas amarradas,
+constringido por alguém com o dobro de
+sua Força ou através de um Sucesso Decisivo) ou “Por Um Fio” (ver pág. 29) estão totalmente incapazes de se defender,
+e não têm como resistir a nenhum efeito
+externo. Um personagem indefeso pode
+sofrer morte instantânea se um oponente
+atacá-lo com a intenção de matar. O dano
+do ataque é totalmente irrelevante (uma
+faca cega é fatal se o opoente não pode se
+defender, e mesmo desarmado um personagem pode simplesmente estrangular
+uma vítima indefesa até matá-la).
+*Paralisado:
+O personagem não pode se mover
+por conta de restrições físicas – totalmente
+amarrado, sendo contido por uma criatura muito mais forte, debaixo de um peso muito grande – ou mágicas. Um personagem
+Paralisado não pode se mover ou realizar
+qualquer ação exceto falar e realizar testes
+de Percepção – e mesmo nesse caso, ele
+pode ser considerado Inapto, já que não
+pode mover o rosto para olhar em qualquer
+direção, nem estender os braços para tocar
+em algo, por exemplo. Um personagem paralisado também é considerado Surpreso.
+*Resistente a [Dano]:
+O personagem é resistente a um dos
+6 tipos de danos do Mighty Blade (Contusão, Corte, Perfuração, Frio, Fogo e Eletricidade) e sofre apenas metade do dano
+(arredondado para baixo) de uma fonte
+que cause esse tipo de dano.
+Exemplo: Um personagem Resistente à
+Contusão que sofra um ataque de um Martelo
+de Guerra (Dano 10/contusão) sofre apenas 5
+pontos de dano.
+Resistência a [Dano] e Vulnerabilidade a [Dano] se anulam mutuamente.
+Um personagem Resistente e Vulnerável
+a um mesmo tipo de dano sofre dano normal daquele tipo de dano.
+Exemplo: Um personagem Vulnerável
+a Fogo que receba Resistência a Fogo através
+da magia Resistência Elemental, sofrerá dano
+normal por fogo até que o efeito de Resistência
+Elemental termine.
+*Surpreso /Desprevenido:
+Se o oponente estiver desatento ou
+despreparado contra um ataque, você
+pode rolar +1d6 em seus testes de ataque
+contra aquele alvo. Isso pode ocorrer de
+diversas formas: Um Patrulheiro escondido na copa de uma árvore mirando um
+urso que passa abaixo dele, um ladino
+com Flanquear atacando um gnoll enquanto este ataca o guerreiro, um espadachim que se aproxime sorrateiramente de
+um guarda, um guerreiro que decida subitamente atacar um oponente, um bardo
+que ataque um vigia orc adormecido...
+Apenas ações físicas diretas contra
+o alvo recebem esse benefício – um teste
+de Furtividade para aliviar um nobre de
+suas moedas pode contar como um ataque
+surpresa, mas testes para se esconder de
+um alvo, ouvir furtivamente uma conversa e Habilidades dos tipos Magia e Música nunca recebem benefícios contra alvos
+Desprevenidos, já que o personagem está
+realizando um teste para saber se suas
+próprias capacidades lhe permitem atingir um resultado desejado.
+Em qualquer situação que permite
+que se role Iniciativa, não há mais chances de que um alvo esteja desprevenido;
+nenhum personagem envolvido em combate é considerado Desprevenido, exceto
+em situações especiais, como algumas Habilidades dos Ladinos. Claro, uma magia
+ou efeito que faça um alvo dormir o coloca
+em uma situação em que ele está desprevenido – irá deixa-lo despreparado, pelo
+menos até ser acordado com um ataque...
+Alvos dormindo, postos a ferros ou
+paralisados são sempre considerados Desprevenidos, mesmo que estejam em situação de combate.
+*Vulnerável a [Dano]:
+O personagem é vulnerável à um
+dos seis tipos de danos do Mighty Blade
+(Contusão, Corte, Perfuração, Frio, Fogo e
+Eletricidade) e sofre o dobro do dano de
+uma fonte que cause esse tipo de dano.
+Exemplo: Um personagem Vulnerável a
+Corte que sofra um ataque de um Machado Pesado (dano 12/Corte) sofre 24 pontos de dano.
+Resistência a [Dano] e Vulnerabilidade a [Dano] se anulam mutuamente.
+Um personagem Resistente e Vulnerável
+a um mesmo tipo de dano sofre dano normal daquele tipo de dano.
+Exemplo: Um personagem Vulnerável
+a Fogo que receba Resistência a Fogo através
+da magia Resistência Elemental, sofrerá dano
+normal por fogo até que o efeito de Resistência
+Elemental termine.
+---

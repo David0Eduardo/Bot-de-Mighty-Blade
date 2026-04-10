@@ -1,0 +1,4562 @@
+Habilidades de Classe
+
+---
+
+**Bardo**
+
+--
+/*
+Bônus de Atributo:
+Agilidade+1
+Vontade +1
+Habilidade Automática:
+--Poesia dos Bardos--
+Habilidade – Suporte
+Descrição: Através das inúmeras canções e poemas épicos, você conhece muitas
+histórias e lendas. Você pode rolar +1d6
+quando fizer testes referentes à qualquer tipo
+de conhecimento.
+Se o conhecimento em questão for
+considerado perdido, maçante ou técnico
+para figurar uma canção ou poema, não há
+como o Bardo conseguir informações sobre
+o assunto. 
+*\
+---
+
+Habilidades Básicas
+
+---
+--Aparar--
+Habilidade (Técnica) - Suporte
+Descrição: Você pode usar qualquer
+coisa que esteja em suas mãos para afastar e
+desviar golpes desferidos contra você. Enquanto estiver com um objeto em pelo menos uma das mãos, você recebe Defesa +1.
+Se estiver segurando uma objeto em ambas as
+mãos ou um objeto em cada mão você recebe
+Defesa +2.
+Este e um bônus de Esquiva.
+---
+--Ataque Redirecionado--
+Habilidade (Técnica) – Reação
+Requisito: Evasão
+Descrição: Quando um oponente errar
+um ataque corporal contra você, você pode direcionar o ataque dele para outro alvo. O novo
+alvo precisa estar adjacente a você ou ao oponente que errou o ataque. Esse ataque acerta
+automaticamente – sem chance de errar ou de
+ser um sucesso decisivo.
+Esta Habilidade só pode ser usada uma
+vez por rodada.
+---
+--Canção da Provocação--
+Habilidade (Música) – Ação
+Mana: 20
+Descrição: Você canta uma
+música que contém teor ofensivo
+para seus adversários, deixando
+eles irritados e desconcentrados em combate. Escolha uma
+profissão, raça, cultura ou
+classe social. Todas as criaturas do grupo selecionado que
+puderem entende-lo rolam
+um confronto de Vontade
+contra você. Aqueles que tiverem um resultado menor
+que o seu ficam com -2 na
+Defesa enquanto você continuar a tocar essa Música.
+Este é um efeito mental.
+---
+--Canção Desesperadora--
+Habilidade (Música) – Ação
+Requisito: Canção da Provocação
+Mana: 30
+Descrição: Você canta uma música que fala
+sobre a morte, destruição e derrotas dos seus
+adversários, instilando medo em seus corações.
+Escolha uma profissão, raça, cultura ou classe
+social. Todas as criaturas do grupo escolhido
+que puderem entendê-lo e ouvirem sua música
+por pelo menos 2 turnos rolam um confronto
+de Vontade contra você. Aqueles que tiverem
+um resultado menor que o seu precisam usar
+sua ação de movimento para tentar se afastar
+de você enquanto você continuar a tocar essa
+Música.
+Este é um efeito de medo.
+---
+--Canção do Triunfo--
+Habilidade (Música) – Ação
+Requisito: Melodia do Repouso
+Mana: 25
+Descrição: Você canta uma música relembrando os êxitos e vitórias do grupo, seus
+feitos mais memoráveis e exaltando seus laços
+de amizade, aumentando a moral do grupo.
+Todos os seus aliados (incluindo você) que puderem ouvir essa canção recuperam 5 Pontos
+de Vida por turno, enquanto você continuar a
+tocar essa Música.
+---
+--Canção Exultante--
+Habilidade (Música) – Ação
+Requisito: Melodia do Repouso
+Mana: 0
+Descrição: Você canta uma música
+exaltando as capacidades e qualidades dos seus
+aliados, deixando-os confiantes. Todos os seus
+aliados (incluindo você) que puderem ouvir essa
+canção recebem +1 em todos os seus testes enquanto você continuar a tocar essa Música.
+---
+--Eloquente--
+Habilidade (Característica) – Suporte
+Descrição: Você tem um talento de
+convencer ou comover outras pessoas apenas
+falando do jeito certo. Você recebe +1d6 em
+todos os seus testes para persuadir, mentir, perceber mentiras, intimidar ou em qualquer outra
+interação social.
+---
+--Evasão--
+Habilidade (Técnica) – Reação
+Mana: 20
+Descrição: Se o seu inimigo fizer um
+ataque corporal e acertar, você pode declarar
+evasão, e obrigar o inimigo a rolar novamente
+o teste de ataque.
+Você pode escolher com qual dos resultados o oponente vai ficar.
+Esta Habilidade só pode ser usada uma
+vez por rodada.
+---
+--Furtivo--
+Habilidade (Característica) – Suporte
+Descrição: Você é particularmente
+discreto quando quer. Você pode rolar +1d6
+quando fizer testes para se mover em silêncio,
+se esconder, camuflar, ou usar disfarces.
+---
+--Gregário--
+Habilidade (Característica) – Suporte
+Descrição: Você consegue compreender
+muito rapidamente as estruturas sociais de uma
+cultura e seus indivíduos e é capaz de fazer amigos
+em qualquer lugar. Depois de cinco minutos de
+conversa, a pessoa com quem você esteja interagindo – e que não seja obviamente hostil a você,
+como um captor ou um inimigo jurado – torna-se
+propensa a ajudá-lo. Essa Habilidade geralmente
+serve para colher informações gerais (apesar de
+segredos não serem possíveis de conseguir) ou pequenos favores – como ser apresentado a alguém
+ou conseguir uma cerveja de graça. Você também
+recebe +2 em testes de seduzir, mentir, detectar
+mentiras ou qualquer outra interação social.
+---
+--Grito de Guerra 1--
+Habilidade – Ação
+Mana: 10
+Descrição: Você pode dar um grito
+fervoroso que motiva todos seus aliados. Eles
+recebem (assim como você) +1 em todas as
+rolagens até o final da batalha. Além disso, remova todos os efeitos de Medo que estiverem
+afetando os seus aliados.
+Você não pode usar esta Habilidade se
+estiver sob qualquer efeito de Medo.
+Este é um efeito mental.
+---
+--Grito Ensurdecedor--
+Habilidade – Ação
+Mana: 10
+Descrição: Você solta um grito tão alto
+e poderoso que faz com que todos ao redor fiquem atordoados. Todas as criaturas em uma
+área de 10 metros à sua frente ficam Atordoadas
+por um número de turnos igual à sua Vontade.
+---
+--Grito Estilhaçador--
+Habilidade – Ação
+Requisito: Grito Ensurdecedor
+Mana: 20
+Descrição: Seu agudo é tão poderoso que você pode direcionar um grito capaz
+de romper vidros, cristais e tímpanos! Tudo
+e todos em até 10 metros à sua frente sofrem
+dano igual a 10/Corte. Criaturas com Corpo
+Amórfico, objetos inanimados e estruturas que
+sejam atingidas por esse grito sofrem o dobro
+do dano.
+---
+--Língua Afiada--
+Habilidade (Técnica) – Ação
+Requisito: Eloquente
+Mana: 10
+Descrição: Você possui uma língua ferina e um talento especial para insultar seus
+adversários. Escolha um inimigo do tipo Humanoide ou Esfinge. Você faz uma série de
+comentários jocosos ou degradantes sobre ele.
+Faça um confronto de Vontade contra o alvo.
+Se você tiver um resultado igual ou maior do
+que o alvo e se ele for capaz de entendê-lo, ele
+ataca você em detrimento de qualquer outro
+alvo, e é considerado Desprevenido para todos
+os seus aliados – mas não para você.
+Este é um efeito mental.
+---
+--Malabarista--
+Habilidade (Técnica) – Suporte
+Descrição: Você tem uma
+ótima coordenação para jogar e
+pegar objetos no ar. Além de
+poder realizar malabarismos –
+mesmo usando objetos perigosos como adagas ou tochas
+– como entretenimento, você
+recebe +2 em todas as suas jogadas para arremessar objetos e
++1 na Defesa contra ataques à
+distância. Esse bônus de Defesa
+conta como Esquiva.
+---
+--Melodia Dançante--
+Habilidade (Música) – Ação
+Mana: 20
+Descrição: Você toca ritmos
+empolgantes que fazem com que todos que
+escutarem esta música sintam uma vontade
+incontrolável de dançar. Todos os Humanoides que estiverem escutando sua música rolam um confronto de Vontade contra você.
+Aqueles que tiverem um resultado mais baixo que o seu começarão a dançar incontrolavelmente, realizando todos os seus testes
+baseados em Agilidade como se fosse Inábil
+e ficando com Defesa -1 enquanto você continuar a tocar essa Melodia.
+Este é um efeito mental.
+Especial: Personagens usando Dança
+das Espadas são imunes a esse efeito.
+---
+--Melodia do Enjoo--
+Habilidade (Música) – Ação
+Mana: 20
+Descrição: Sua melodia é perfeitamente desconexa e perturbadora. Todas as criaturas vivas que puderem lhe escutar rolam um
+confronto de Vontade contra você a cada turno em que você continuar tocando. Aqueles
+que tiverem um resultado mais baixo do que
+você ficam enjoados, sofrendo um redutor de
+-1 em sua Defesa e testes de ataque até o final
+do turno. Qualquer um que obtenha 3 resultados mais baixos que os seus em confrontos
+para resistir a esse efeito durante um mesmo
+combate ficarão tão enjoados que vomitarão, ficando Paralisados durante 1
+turno.
+---
+--Melodia do Repouso--
+Habilidade (Música) – Ação
+Descrição: Você toca uma
+série de canções simples e
+relaxantes, que permitem que
+todos os que a ouvirem repousem com serenidade e recobrem suas forças. Qualquer
+um que escute sua canção
+por pelo menos 10 minutos
+– mesmo que esteja dormindo
+– recupera o dobro de Pontos
+de Mana e de Pontos de Vida
+devido ao descanso por aquele
+período.
+Tocar a Melodia do Repouso é
+considerado descanso, e os efeitos dessa música também afetam
+você.
+---
+--Melodia Sonífera--
+Habilidade (Música) – Ação
+Requisito: Melodia do Repouso
+Mana: 15
+Descrição: Você toca uma melodia lenta e ritmada, que acalma a ponto de fazer quem
+a escuta cair no sono. Após 3 turnos ouvindo
+essa Melodia, todos que puderem escutá-la
+(menos você) rolam um confronto de Vontade
+contra você. Aqueles que tiverem um resultado
+menor que o seu caem em um sono profundo
+que dura 1 hora.
+Este é um efeito mental. 
+---
+--Mestre das Notas--
+Habilidade (Técnica) – Reação
+Mana: 10
+Descrição: Sempre que você fizer um
+teste que envolva contar histórias, entreter uma
+plateia, cantar ou tocar instrumento musicais
+(incluindo Habilidades do tipo Música) você
+pode rolar novamente 1 dos dados. Você pode
+escolher com qual dos resultados vai ficar.
+Você só pode usar esta Habilidade 1 vez
+por turno.
+---
+--Truque Sujo--
+Habilidade (Técnica) – Ação
+Requisito: Evasão
+Mana: 10
+Descrição: Quando estiver em distância
+corporal do oponente e ele estiver te vendo, faça
+um Confronto de Inteligência contra o alvo. Se
+você tiver um resultado igual ou maior do que o
+do oponente nesse teste, você realiza um truque
+sujo (joga areia nos olhos do oponente, joga um
+pano em seu rosto, enrola uma corda em suas
+pernas, etc.) fazendo com que o alvo fique confuso ou desequilibrado, não podendo realizar
+nenhuma ação no próximo turno, e sendo considerado Desprevenido por 1turno. 
+---
+
+Habilidades Avançadas
+
+---
+--Canção da Sereia--
+Habilidade (Música) – Ação
+Requisito: Nível 5, Eloquente
+Mana: 20
+Descrição: Você canta uma música melancólica capaz de deixar aqueles que a escutam
+enfeitiçados. Todos que estiverem a até 10 metros de você e puderem ouvir a canção rolam um
+confronto de Vontade contra você a cada turno
+enquanto você continuar cantando. Alvos que
+tenham um resultado menor do que o seu não
+poderão realizar qualquer ação exceto tentar se
+aproximar de você enquanto você estiver cantando – ou ficar imóvel lhe observando se estiverem a 1 metro ou menos de você. Esse efeito é
+cancelado e o alvo fica imune aos seus efeitos até
+o fim do combate se a vítima sofrer algum dano
+enquanto estiver sob efeito dessa Música.
+Enquanto estiver sob o efeito dessa Música o alvo é considerado Desprevenido para
+todos os seus aliados – mas não para você.
+Este é um efeito mental.
+---
+--Canção Desconcentrante--
+Habilidade (Música) – Ação
+Requisito: Nível 5, Melodia do Enjoo
+Mana: 20
+Descrição: Você canta uma canção com
+tom jocoso e com uma melodia irritante que
+prende a atenção dos ouvintes e não permite
+que eles se concentrem. Todos que estiverem a
+até 10 metros de você e puderem ouvir a canção
+rolam um confronto de Vontade contra você a
+cada turno enquanto você continuar cantando.
+Alvos que tenham um resultado menor do que
+o seu são considerados Distraídos até o final do
+seu próximo turno.
+Este é um efeito mental.
+---
+--Coração da Batalha--
+Habilidade (Característica) – Reação
+Requisito: Nível 5
+Descrição: Quando sofrer algum dano
+proveniente de um ataque, Magia, ou Música
+você recupera 5 Pontos de Mana.
+Você só pode usar esta Habilidade uma
+vez por turno.
+---
+--Grito de Guerra 2--
+Habilidade – Ação
+Requisito: Nível 5, Grito de Guerra 1
+Mana: 15
+Descrição: Você pode dar um grito
+fervoroso que motiva todos seus aliados. Eles
+recebem (assim como você) +2 em todas as
+rolagens até o final da batalha. Além disso, remova todos os efeitos de Medo que estiverem
+afetando os seus aliados.
+Você não pode usar esta Habilidade se
+estiver sob qualquer efeito de Medo.
+---
+--Grito de Intimidação--
+Habilidade – Ação
+Requisito: Nível 5, Grito de Guerra 1
+Mana: 35
+Descrição: Você pode dar um grito para
+intimidar seus inimigos. Todos os oponentes
+que estiverem a até 10 metros à sua frente que
+tiverem uma Determinação menor do que a sua
+ficam Paralisados (ver Condições na pág. 169)
+por 2 turnos.
+Esse é um efeito de Medo.
+---
+--Melodia da Fúria--
+Habilidade (Música) – Ação
+Requisito: Nível 5, Melodia Dançante
+Mana: 10
+Descrição: Você toca um ritmo primitivo, que faz com que todos os Humanoides que
+o escutem sintam seus instintos mais violentos aflorarem. Todos os Humanoides capazes
+de escutar essa canção desferem seus ataques
+com mais selvageria, causando +5 de dano, mas
+sofrendo um redutor de -2 em sua Defesa enquanto você continuar a tocar essa música.
+Este é um efeito mental.
+---
+--Melodia dos Animais--
+Habilidade (Música) – Ação
+Requisito: Nível 5, Canção da Sereia
+Mana: 10
+Descrição: Escolha um tipo de Besta
+(mamífero, réptil ou ave). Todas as criaturas do
+tipo escolhido que puderem escutar sua música
+ficarão fascinadas com ela e o seguirão enquanto você continuar a tocar. Os alvos não irão realizar qualquer ação além de seguir você para
+onde for enquanto você continuar a tocar.
+Esse efeito é cancelado se o alvo sofrer algum dano enquanto estiver sob efeito dessa Música, mas se você continuar a tocar essa Música
+o alvo será afetado novamente no começo do
+seu próximo turno.
+Este é um efeito mental.
+---
+--Trapaceiro Impecável--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Eloquente
+Descrição: Você está acostumado a
+enganar e mentir, e seu raciocínio se tornou
+tão condicionado a extrapolar situações rapidamente que até ler (ou mesmo dominar) sua
+mente é mais difícil! Sua Inteligência é considerada o dobro em Confrontos para tentar esconder ou dissimular a verdade e para calcular sua
+Determinação contra efeitos mentais – exceto
+os de medo.
+---
+--Virtuoso--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Mestre das Notas
+Descrição: Você treinou exaustivamente até se tornar um mestre no uso de
+instrumentos musicais. Você rola +1d6 em
+todos os testes envolvendo tocar instrumentos musicais (incluindo Habilidades do tipo
+Música).
+---
+--Vocalista--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, pelo menos uma Habilidade de Grito
+Descrição: Você treinou sua voz para se
+tornar mais potente e límpida e sua dicção mais
+clara e segura. Você recebe +2 em todos os testes que envolvam a fala – como mentir, seduzir,
+barganhar ou cantar (incluindo Canções, mas
+não Melodias) – e na sua Determinação para
+determinar se os alvos de seus Gritos e Rugidos
+são afetados por seus efeitos. Além disso, seus
+Gritos e Rugidos têm a área de efeito dobrada. 
+---
+
+Habilidade Final
+
+---
+--Canção do Réquiem--
+Habilidade (Música) – Ação
+Requisito: Nível 10, Virtuoso, Canção Desesperadora
+Mana: 80
+Descrição: Você toca uma música
+que fala sobre a morte, derrota e fracasso dos ancestrais do alvo e do sofrimento e amarguras que ele ainda provará no
+futuro. A cada turno em que você canta
+essa canção e o alvo estiver a menos de 10
+metros de você e puder escutá-lo, ele rola
+um Confronto de Vontade contra você.
+O alvo tem sua moral tão profundamente
+atingida pela canção que perde 20 Pontos
+de Mana sempre que rolar esse Confronto
+(independente do resultado), e se ficar sem
+Pontos de Mana devido aos efeitos dessa
+canção, ele imediatamente entra em um
+estado de profundo pesar e tristeza, e se
+entregará sem resistir. Além disso, se tiver
+um resultado menor do que o seu na rolagem, ele é tomado por um profundo pesar
+e sofrimento decorrente dos desgostos que
+já viveu, além das perspectivas de um futuro negro, perdendo 50 Pontos de Vida.
+Este é um efeito mental.
+---
+
+**Druida**
+
+--
+/*
+Bônus de Atributo:
+Inteligência +1
+Vontade +1
+Habilidade Automática:
+--Conhecimento Místico--
+Habilidade (Técnica) – Suporte
+Descrição: Você está ligado as energias místicas provenientes de forças superiores e consegue comungar com elas. Você
+pode ler e utilizar tomos mágicos e desenhar
+Selos Místicos (veja a página 36 para regras
+sobre magia). Você também pode entrar em
+um estado de transe se concentrando por 1
+minuto. Enquanto continuar meditando dessa forma, você recupera uma quantidade de
+Pontos de Mana igual à sua Vontade a cada
+10 minutos.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Aparar Magia--
+Habilidade (Técnica) – Reação
+Requisito: Detectar Magia
+Mana: 5
+Descrição: Sempre que for alvo de
+uma Magia que cause dano ou perda de
+vida, você pode reduzir aquele dano ou
+perda de vida pela metade.
+Essa Habilidade não afeta
+quaisquer outros efeitos da magia
+além de dano ou perda de vida.
+Especial: Se você tiver
+Resistência ao tipo de dano
+que a magia causa, você não
+sofre dano e evita qualquer
+outro efeito da magia.
+---
+--Asas Celestiais--
+Habilidade (Magia) – Ação
+Requisito: Caminhada
+Mágica
+Mana: 20
+Dificuldade da
+Magia: 10
+Descrição: Desenhando
+um Selo Místico sobre uma criatura viva, você faz surgir em suas
+costas um grande par de asas. O
+alvo ganha a Habilidade Asas Pesadas.
+Esse Selo dura por 1 Hora.
+---
+--Benção de Ellenis--
+Habilidades (Característica) – Suporte
+Descrição: Você é capaz de se comunicar com qualquer Besta do tipo Mamífero,
+Ave, Réptil ou Peixe. Essa comunicação é rudimentar, baseada nas capacidades da criatura
+em questão. Além disso, você receber +2 em
+todas as rolagens envolvendo essas criaturas e
+poder alterar o temperamento delas em 1 passo
+(Furioso ou Cruel para Agressivo, Agressivo
+para Sobrevivente, Sobrevivente para Pacífico
+e Pacífico para Covarde ou vice-versa) com um
+teste de Vontade (Dificuldade igual à Determinação do alvo) – esse efeito não funciona em
+animais com temperamento Servo ou Protetor.
+Animais selvagens só irão aceitar “conversar” se tiverem temperamento pacífico ou
+sobrevivente, a menos que estejam aprisionados ou encurralados de alguma forma.
+---
+--Bestializar--
+Habilidade (Magia) – Ação
+Requisito: Benção de Ellenis
+Mana: 20
+Dificuldade da Magia: 11
+Descrição: Desenhando um Selo Místico sobre uma criatura viva do tipo Besta, humanóide ou Troglodita, ele recebe +2 de
+Força e Agilidade e desenvolve garras
+e dentes afiados (dano igual à Força
++2/Corte) pela duração do efeito.
+Esse Selo Místico dura 1 minuto.
+---
+--Bons Frutos--
+Habilidade (Magia) – Ação
+Requisito: Sabedoria Selvagem
+Mana: 0
+Dificuldade: 8
+Descrição: Desenhando um
+Selo Místico sobre uma planta
+você faz com que ela desenvolva flores, frutas ou raízes.
+Uma planta só vai gerar flores
+ou frutos se ela normalmente
+for capaz disso. Utilizando essa
+magia sobre uma planta comestível, é possível alimentar um número de pessoas igual à sua Vontade. Um personagem que consuma
+uma dessas plantas recupera o dobro
+de Pontos de vida e Mana por descanso
+durante as próximas 6 horas.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Caminhada Mágica--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 9
+Descrição: Desenhando um Selo Místico sobre uma criatura viva, você permite que
+ela possa caminhar sobre qualquer tipo de superfície (incluindo líquidos), paredes ou teto e
+não sofre nenhum tipo de redutor ou penalidade de movimentação por terrenos difíceis ou
+acidentados. Finalmente, o alvo pode escolher á vontade se vai deixar rastros ou não enquanto
+esta runa estiver ativa sobre ele.
+Esse Selo Místico dura 1 hora. 
+---
+--Companheiro Animal 1--
+Habilidade – Suporte
+Descrição: Você possui uma ligação de
+fidelidade com um animal. Escolha uma Besta
+dos tipos Mamífero, Ave, Réptil ou Peixe com
+Ameaça 0 que exista na região em que você está.
+O animal escolhido será atraído para você e lhe
+será fiel até a morte (ele passa a ter o temperamento Protetor). Você pode liberar o animal
+à qualquer momento, e ele irá retornar à natureza, voltando a ter seu temperamento normal
+(mas retendo benefícios que tenha recebido por
+suas Habilidades de Companheiro Animal). Se
+você liberar o animal ou se o animal morrer,
+você pode atrair outro animal – que não precisa
+ser do mesmo tipo escolhido anteriormente.
+Você pode atrair um novo Companheiro
+Animal 1 vez a cada dia, e só pode atrair 1 animal de cada vez.
+Especial: Se essa Habilidade for escolhida durante a criação do personagem, o animal
+já estará com você, independente de onde você
+esteja e onde seja o habitat normal do animal.
+---
+--Companheiro Animal 2--
+Habilidade – Suporte
+Requisito: Companheiro animal 1
+Descrição: Seu companheiro animal recebe +1 em 2 Atributos à sua escolha, +5 Pontos de
+vida e +5 Pontos de Mana. Além disso, seu companheiro Animal recebe uma Habilidade do tipo
+Técnica à sua escolha (desde que faça sentido; o
+Mestre tem a palavra final sobre o assunto).
+---
+--Convocar Animais--
+Habilidade (Magia) – Ação
+Requisito: Benção de Ellenis
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando um Selo Místico sobre si mesmo, você consegue atrair uma
+quantidade de Bestas igual à sua Vontade escolhidas entre Mamífero, Ave, Réptil ou Peixe
+com Ameaça 0 que estejam a até 1 km de você.
+Em combate, 1 animal por vez chegará no início do seu turno até o número máximo de animais. Os animais não estarão sob seu controle,
+mas se sentirão inclinados a ajudá-lo dentro de
+suas capacidades – animais com temperamento
+pacífico ou covarde não irão entrar em combate, mas animais Sobreviventes, Ferozes ou
+Furiosos não terão problemas com isso.
+Esta Habilidade não tem efeito em Bestas com o comportamento Servo, e animais
+Protetores avisarão seus donos antes de virem
+até você – e agirão como se tivessem o Temperamento normal daquele tipo de animal ao
+invés de Protetor enquanto estiverem sob efeito do Selo (embora se recusem a atacar seus
+donos).
+Esse Selo Místico dura 1 hora. Quando
+for dissipado, as Bestas afetadas voltarão pacificamente para os locais de onde vieram.
+Especial: Você pode refinar o tipo específico de animal (“Cavalos”, “Carnívoros”, “Pacíficos”) ou até mesmo um animal específico
+(“Aquele rato com quem eu conversei ontem”,
+“meu Companheiro Animal”, “O cão do guarda-caça”) quando conjurar essa magia.
+---
+--Detectar Magia--
+Habilidade (Técnica) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+Descrição: Concentrando-se nos fluxos de energias mágicas, você pode enxergar
+a aura de objetos mágicos, Runas Arcanas
+e Selos Místicos. Você pode analisar a aura
+mágica de um Selo, Runa ou objeto para entender suas propriedades observando-a por
+1 minuto.
+---
+--Entrelaçar--
+Habilidade (Magia) – Ação
+Requisito: Sabedoria Selvagem
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando um Selo Místico sobre o solo você faz com que plantas
+comecem a brotar e agarrem um alvo que esteja com os pés no chão, reduzindo seu Deslocamento a 0 e sua Agilidade em -2 enquanto estiver preso dessa forma. Para se soltar,
+ele (ou outro personagem) deve passar uma
+quantidade de turnos igual à Vontade do conjurador cortando as plantas (com uma arma
+que faça dano por corte), ou passar em um
+teste de Força (Dificuldade igual à Determinação do conjurador).
+As plantas murcham e se desfazem após
+1 minuto.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Espírito Animal--
+Habilidades (Característica) – Suporte
+Descrição: Seu espírito possui a forma
+de um animal. Escolha um Espírito Animal
+para ser seu guia. Essa escolha é permanente.
+Veja a descrição dos Espíritos Animais
+na pág. 143.
+---
+--Evocar Temporal--
+Habilidade (Magia) – Ação
+Requisito: Princípio Natural
+Mana: 20
+Dificuldade da Magia: 11
+Descrição: Desenhando um Selo Místico sobre si mesmo, você inicia uma poderosa tempestade de chuva ou vento. A
+tempestade cobre uma área de 1 km
+de diâmetro e se move conforme
+você se desloca, permanecendo
+centrada em você. Todos na
+área realizam seus testes como
+se fossem Inaptos.
+O temporal leva 3 turnos para se formar e o Selo
+Místico se dissipa em um número de minutos igual à sua
+Vontade.
+---
+--Fruto Revigorante--
+Habilidade (Magia) –
+Ação
+Requisito: Bons Frutos
+Mana: 10
+Dificuldade: 10
+Descrição: Desenhando um
+Selo Místico sobre uma planta frutífera
+– mesmo morta – você faz com que ela
+desenvolva um único fruto grande e suculento
+capaz de restaurar 30 Pontos de Vida de quem
+o ingerir. Se não for ingerida, a fruta perde sua
+capacidade de cura após 1 minuto.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Herbalismo--
+Habilidade (Técnica) – Suporte
+Requisito: Sabedoria Selvagem
+Descrição: Você pode rolar testes de
+Inteligência para criar poções básicas e, enquanto estiver em um ambiente selvagem, você
+e seus aliados não são afetados por doenças e
+venenos naturais – seus aliados passam a ser
+imunes depois de um dia inteiro que estiverem
+com você, desde que eles aceitem suas dicas do
+que comer e do que não comer. Além disso,
+enquanto estiver em terreno natural que possa
+fornecer ervas, folhas e frutos (qualquer lugar
+exceto cidades, desertos ou regiões glaciais)
+você sempre faz testes de primeiros socorros
+como se tivesse um Kit de Cura à mão.
+---
+--Mover Terra--
+Habilidade (Magia) – Ação
+Requisito: Princípio Natural
+Mana: 15
+Dificuldade da Magia: 11
+Descrição: Você desenha um Selo
+Místico sobre o solo, fazendo com
+que ele se mova subitamente sob
+os pés de seus adversários (todos em uma área de 2 metros
+de diâmetro dentro de sua
+área de visão precisam fazer
+um teste de Agilidade com
+Dificuldade igual à sua Determinação ou cairão). Você
+também pode abrir uma
+passagem através de pedra
+ou terra. Essa passagem terá
+aproximadamente 2 metros
+de diâmetro e uma profundidade igual à sua Vontade em
+metros. Você pode deixar
+a passagem aberta, criando
+um túnel, ou fechá-la atrás
+de si depois que passar.
+O Selo Místico se dissipa imediatamente depois que seus efeitos são desencadeados.
+---
+--Princípio Natural--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+Descrição: Você desenha um Selo Místico no ar que se transforma em uma pequena
+quantidade de terra, água ou ar. Um punhado
+de terra pode ser usado para nutrir uma pequena planta, uma porção de água pode ser usada
+para matar a sede de uma pessoa e uma porção
+de ar criado desse modo permite que uma criatura respire normalmente por até 10 minutos debaixo d’água. Essa magia pode ser conjurada
+na forma de uma rajada mágica. Uma rajada de
+água pode apagar uma chama do tamanho de
+uma fogueira de acampamento, uma rajada de
+ar derruba ou espalha objetos leves e pequenos
+e uma rajada de pedras causa dano igual a 8/
+Contusão.
+O Selo Místico se dissipa imediatamente depois que seus efeitos são desencadeados e
+qualquer quantidade de terra, água ou ar criada
+são permanentes.
+---
+--Rajada de Água--
+Habilidade (Magia) – Ação
+Requisito: Princípio Natural
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Você desenha um Selo Místico no ar de onde uma massa de água jorra em
+um poderoso jato. Um alvo dentro de sua linha
+de visão sofre dano igual a 6/Contusão e precisa
+vencer uma rolagem de Força (Dificuldade igual
+à Determinação do conjurador) para não cair.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados mas
+qualquer quantidade de água criada é permanente.
+---
+--Rajada de Espinhos--
+Habilidade (Magia) – Ação
+Requisito: Sabedoria Selvagem
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando um Selo Místico em um item de madeira você faz com que
+ele desenvolva espinhos longos e afiados que se
+projetam atingindo um número de alvos igual à
+sua Vontade que estiverem à uma distância de
+até 10 metros à sua frente, causando dano igual
+à 12/Perfuração.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Sabedoria Selvagem--
+Habilidade – Suporte
+Descrição: Você passou muito tempo
+em ambientes selvagens e dedicou muito tempo ao estudo da natureza em todas as suas formas. Você rola +1d6 em testes que envolvam
+a natureza como forragear, rastrear, encontrar
+abrigo, identificar ervas, etc.
+---
+--Turbilhão--
+Habilidade (Magia) – Ação
+Requisito: Rajada de Água
+Mana: 25
+Dificuldade da Magia: 12
+Descrição: Desenhando um Selo Místico
+sobre você mesmo e em seguida realizando um
+rápido movimento circular com as mãos você
+dispara poderosas rajadas de água. Todas as criaturas a até 10 metros de você sofrem um dano
+igual à 6/contusão e precisam vencer um teste
+de Força (Dificuldade igual à sua Determinação)
+para não serem arremessados um número de
+metros igual à sua Vontade e ficando caídos.
+O Selo Místico se dissipa imediatamente depois que seus efeitos são desencadeados
+e qualquer quantidade de água criada é permanente.
+---
+
+Habilidades Avançadas
+
+---
+--Companheiro Animal 3--
+Habilidade – Suporte
+Requisito: Nível 5, Companheiro animal 2
+Descrição: Seu Companheiro Animal
+recebe +1 em todos os seus Atributos e +10
+Pontos de Vida ou +10 Pontos de Mana à sua
+escolha. Além disso, seu Companheiro Animal
+recebe uma Habilidade do tipo Técnica à sua
+escolha (desde que faça sentido; o Mestre tem a
+palavra final sobre o assunto).
+---
+--Conjurar Abrigo--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Mover Terra
+Mana: Variável
+Dificuldade da Magia: 12
+Descrição: Você desenha um Selo
+Místico sobre o solo, de onde uma estrutura
+simples e resistente se ergue seguindo a sua
+vontade. O custo em Mana da Magia depende
+do tamanho da estrutura: 10 Pontos de Mana
+criam um domo para até 4 pessoas, 20 Pontos
+de Mana criam uma cabana para até 10 pessoas,
+40 Pontos de Mana criam uma torre para até 20
+pessoas e 80 Pontos de Mana criam um pequeno forte para até 40 pessoas.
+O Selo Místico se dissipa depois de 24h,
+fazendo com que a estrutura comece a desmoronar lentamente. 
+---
+--Despertar a Flora--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Entrelaçar
+Mana: Varia
+Dificuldade da Magia: 13
+Descrição: Você desenha um Selo Místico sobre uma planta, imbuindo ela com percepção e fala de uma criatura inteligente além
+de capacidade de movimentação. Um rosto se
+cria no caule ou tronco da planta e pode interagir com qualquer um. Nenhuma planta gosta de
+ser incomodada e elas tendem a não ser muito
+amistosas. O custo em Mana da Magia depende do tamanho da planta: 10 Pontos de Mana
+para afetar uma planta pequena, 20 Pontos de
+Mana para afetar uma planta média, 40 Pontos de Mana para afetar uma planta grande e 80
+Pontos de Mana para afetar uma planta gigante.
+Trate uma planta sob efeito dessa magia como um Golem de madeira do tamanho
+apropriado, exceto o Tipo que será Esfinge e o
+Temperamento que será Pacífico.
+O Selo Místico dura 1 minuto por ponto
+de Vontade do conjurador.
+---
+--Dissipar Magia--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Aparar Magia
+Mana: Variável
+Descrição: Você dissipa todas as Runas
+Arcanas ou Selos Místicos de uma criatura, objeto ou estrutura com seu toque. Essa Habilidade
+não tem efeito em Runas ou Selos com efeitos
+instantâneos (como Curar Ferimentos, Rajada de
+Espinhos ou Teleporte) nem reverte efeitos permanentes de magia (como restaurar os Pontos
+de Vida perdidos devido a uma Bola de Fogo,
+dissipar água criada por Princípio Natural ou
+reverter água afetada por Raio Gélido de volta
+ao estado líquido). Você pode também escolher
+quais Runas ou Selos dissipar e quais não, caso o
+alvo tenha mais de um Selo ou Runa afetando-o.
+O custo para dissipar um Selo ou Runa é
+igual ao custo usado para conjurá-los.
+---
+--Evocar Nevasca--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Evocar Temporal
+Mana: 40
+Dificuldade da Magia: 12
+Descrição: Desenhando um Selo Místico sobre si mesmo, você pode iniciar uma
+nevasca ou chuva de granizo que cobre uma
+área de 1 km de diâmetro. Essa área se move
+conforme você se desloca, permanecendo
+centrada em você. Todos na área, exceto você,
+sofrem dano igual a 6/Frio (nevasca) ou 6/
+Contusão (granizo) a cada turno que estiverem
+desabrigados e todos os testes dentro da área
+são realizados como se os personagens fossem
+Inaptos.
+O temporal leva 3 turnos para se formar
+e o Selo Místico se dissipa em um número de
+minutos igual à sua vontade.
+---
+--Gavinhas e Espinhos--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Entrelaçar, Rajada de Espinhos
+Mana: 25
+Dificuldade da Magia: 12
+Descrição: Desenhando um Selo Místico sobre o solo você faz com que plantas
+espinhosas comecem a brotar e agarrem
+um alvo que esteja com os pés no chão. O
+alvo fica com Deslocamento 0, é considerado Desprevenido e sofre uma quantidade de
+dano igual a 10/Perfuração. Para se soltar
+ele (ou outro personagem) deve passar uma
+quantidade de turnos igual à sua Vontade
+cortando as plantas (com uma arma que faça
+dano por corte), ou passar em um teste de
+Força (Dificuldade igual à Determinação do
+conjurador). Toda vez que ataca as plantas
+ou fracassa no teste de Força, o alvo sofre
+dano igual a 10/Perfuração.
+As plantas murcham e se desfazem após
+1 minuto.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Olho do Furacão--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Evocar Temporal
+Mana: 40
+Dificuldade da Magia: 14
+Descrição: Desenhando um Selo Místico sobre si mesmo, você cria um poderoso
+turbilhão de vento em uma área com um diâmetro em metros igual à sua Vontade e uma
+altura igual à 10 vezes sua Vontade. Essa área
+tem um olho central com cerca de 2 metros
+de diâmetro onde não há vento. O furacão se move conforme você se desloca, permanecendo centrado em você. Todos dentro
+da área do furacão devem fazer um teste de
+Força (Dificuldade igual à sua Determinação)
+para não serem arremessados um número de
+metros igual à sua Vontade, ficando caídos.
+Vencendo 2 testes consecutivos um personagem consegue chegar ao olho do furacão –
+mas o conjurador pode se deslocar para tentar engolfar personagens na parede de vento
+outra vez. O furacão impede a linha de visão
+através dele.
+Este Selo Místico dura uma quantidade
+de turnos igual à Vontade do conjurador.
+---
+--Orbe de Contenção--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Convocar Animais
+Mana: 20
+Dificuldade da Magia: 12
+Descrição: Conjurando um Selo Místico sobre um item esférico com pelo menos
+10 cm de diâmetro (um ovo de canidrako
+ou uma maçã por exemplo) que não tenha
+nenhum Selo Místico ou Runa Arcana sobre ele, o item passa a ser capaz de absorver
+qualquer Besta que tenha o temperamento
+Protetor com relação á você, simplesmente
+tocando-o. Enquanto estiver dentro da orbe
+o tempo não passa para o animal (ele não envelhece, não precisa comer ou dormir e não
+é afetado por efeitos de sangramentos, venenos ou doenças, nem recupera Pontos de
+Vida e Mana por descanso). Liberar o animal
+exige que o conjurador destrua o item (geralmente arremessando-o no chão) o que exige
+uma ação padrão, mas não exige novos testes
+para conjurar a magia.
+Esse Selo Místico dura indefinidamente
+até o item ser destruído.
+---
+--Punho de Pedra--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Mover Terra
+Mana: 30
+Dificuldade da Magia: 12
+Descrição: Você desenha um Selo
+Místico sobre o solo (ou em uma estrutura
+de pedra como Paredes de alvenaria, estátuas
+de pedra e tetos de cavernas), fazendo com
+que uma coluna se projete violentamente da
+estrutura. Um alvo dessa magia sofre dano
+igual à 30/Contusão e precisa vencer um teste de Força (dificuldade igual à Determinação do conjurador) para não ser derrubado.
+A coluna tem cerca de 1 metro de diâmetro e
+uma extensão em metros igual à Vontade do
+conjurador.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados, mas
+a coluna de pedra é permanente.
+---
+--Venefício--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Herbalismo
+Descrição: Você é um especialista na
+fabricação, aplicação e cura de venenos. Você
+pode produzir qualquer veneno ou antídoto
+avançado.
+Especial: Se você tiver alguma Habilidade do tipo Magia que cause dano por Perfuração ou Corte em um alvo, ela também aplicam
+um efeito de veneno potente (O alvo perde 5
+Pontos de Vida por turno) além do dano normal. Esse veneno é considerado mágico e permanece ativo por uma quantidade de turnos
+igual à sua Vontade ou até ser curado.
+---
+
+Habilidade Final
+
+---
+--Hierofante--
+Habilidade (Característica) – Suporte
+Requisito: Nível 10, Princípio Natural, Companheiro Animal 1, Sabedoria
+Selvagem
+Descrição: Você adquiriu um vínculo poderoso com a natureza e um vasto
+entendimento de seu funcionamento. Você
+recebe +2 em seus testes com relação a natureza, animais e magias e o custo de todas
+as magias que você lançar é diminuído em
+5. Além disso, você pode atrair um segundo Companheiro Animal seguindo as mesmas regras descritas em Companheiro Animal 1. Seu segundo Companheiro Animal
+recebe os benefícios de todas as Habilidades Companheiro Animal que você tiver.
+---
+
+**Espadachim**
+
+--
+/*
+Bônus de Atributo:
+Força +1
+Agilidade +1
+Habilidade Automática:
+--Mestre de Armas 1--
+Habilidade (Técnica) – Suporte
+Descrição: Você é particularmente eficiente no uso de armas brancas. Sempre que
+realizar um ataque corporal bem sucedido,
+adicione 3 ao dano do ataque.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Acrobata--
+Habilidade (Característica) – Suporte
+Descrição: Você sempre rola +1d6 em
+seus testes de equilíbrio, salto, piruetas e qualquer outra tentativa de se deslocar que exija coordenação, flexibilidade e precisão. Além disso,
+você sofre apenas metade dos danos por queda.
+---
+--Aparar--
+Habilidade (Técnica) - Suporte
+Descrição: Você pode usar qualquer coisa
+que esteja em suas mãos para afastar e desviar golpes desferidos contra você. Enquanto estiver
+com um objeto em pelo menos uma das
+mãos, você recebe Defesa +1. Se estiver segurando uma objeto em ambas
+as mãos ou um objeto em cada mão
+você recebe Defesa +2.
+Este e um bônus de Esquiva.
+---
+--Ataque Aleijador--
+Habilidade (Técnica) – Ação
+Mana: 20
+Descrição: Faça um ataque
+corpo-a-corpo ou à distância
+contra uma criatura viva. Além
+de receber o dano normal pelo
+ataque, o alvo fica com seu
+Deslocamento reduzido em 1 e
+sempre que se deslocar ou fizer
+um teste que envolva movimentação ou equilíbrio (como se equilibrar, saltar, nadar ou mover-se em
+silêncio) ele perde 10 Pontos de Vida.
+Esse é um efeito de Sangramento.
+---
+--Ataque Giratório--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Você realiza um ataque amplo, girando sua arma para atingir todos os
+oponentes próximos. Faça um ataque corporal
+contra cada alvo dentro do seu alcance corporal.
+---
+--Ataque Redirecionado--
+Habilidade (Técnica) – Reação
+Requisito: Evasão
+Descrição: Quando um oponente errar
+um ataque corporal contra você, você pode direcionar o ataque dele para outro alvo. O novo
+alvo precisa estar adjacente a você ou ao oponente que errou o ataque. Esse ataque acerta
+automaticamente – sem chance de errar ou de
+ser um sucesso decisivo.
+Esta Habilidade só pode ser usada uma
+vez por rodada.
+---
+--Combate com Duas Armas 1--
+Habilidade (Técnica) – Suporte
+Descrição: Você treinou para usar duas
+armas em combate de forma eficiente. Você
+pode fazer até dois ataques corporais, cada deles com uma arma diferente (incuindo ataques
+desarmados) desde que pelo menos uma das armas tenha uma FN igual à metade (ou menos)
+do que a Força do personagem.
+Especial: Se você utilizar uma Habilidade
+de Ação, seus efeitos se aplicam a apenas um dos
+seus ataques – mas você ainda pode fazer um ataque normal com a outra arma no mesmo turno,
+antes ou depois de utilizar a Habilidade de Ação.
+---
+--Combate Tático--
+Habilidade (Técnica) – Reação
+Descrição: Se você derrotar um oponente com um ataque corporal, você pode imediatamente realizar outro ataque corporal normal (mas não Habilidades de Ação).
+---
+--Corte Arterial--
+Habilidade (Técnica) – Ação
+Requisito: Ataque Aleijador
+Mana: 30
+Descrição: Faça um ataque corporal com
+uma arma de corte ou perfuração. Se acertar, a
+vítima começará a sangrar, perdendo 10 Pontos
+de Vida no início de cada um de seus turnos.
+Este é um efeito de sangramento.
+---
+--Dança das Espadas 1--
+Habilidade (Técnica) – Ação
+Mana: 30
+Descrição: Você pode entrar em um fluxo incessante de movimentos fluidos e vigorosos. Enquanto estiver neste estado você recebe
+Agilidade +2 e recebe +1d6 em seus testes de
+dança. Este efeito dura até 5 minutos ou até que
+você pare, ou seja alvo de um efeito que o impeça da continuar se movendo continuamente
+(Constringido, Derrubado, amedrontado, etc.).
+---
+--Desarmar Oponente--
+Habilidade (Técnica) – Ação
+Requisito: Ataque Redirecionado
+Mana: 20
+Descrição: Você pode usar a sua arma
+para tirar a arma do seu oponente. Faça um
+teste resistido de Agilidade contra Força ou
+Agilidade do adversário (dependendo do que
+ele usar para combater), somando a FN das
+armas (a sua e a do seu adversário) nas suas
+respectivas rolagens. Se você estiver desarmado, use apenas Agilidade. Se o seu adversário tiver um sucesso igual ou menor do que
+o seu, a arma dele cairá no chão entre você
+e ele.
+---
+--Eloquente--
+Habilidade (Característica) – Suporte
+Descrição: Você tem um talento de
+convencer ou comover outras pessoas apenas
+falando do jeito certo. Você recebe +1d6 em
+todos os seus testes para persuadir, mentir, perceber mentiras, ou em qualquer outra interação
+social.
+---
+--Evasão--
+Habilidade (Técnica) – Reação
+Mana: 20
+Descrição: Se o seu inimigo fizer um
+ataque corporal e acertar, você pode declarar
+evasão, e obrigar o inimigo a rolar novamente
+o teste de ataque.
+Você pode escolher com qual dos resultados o oponente vai ficar.
+Você só pode usar esta Habilidade 1 vez
+por turno.
+---
+--Falhas da Armadura--
+Habilidade (Técnica) – Suporte
+Descrição: Você sabe como acertar ataques entre as frestas e falhas das armaduras do
+inimigo. Ignore sempre o bônus de Armadura
+da Defesa do oponente.
+---
+--Golpes Rápidos--
+Habilidade (Técnica) – Ação
+Mana: 20
+Descrição: Você pode fazer 2 ataques
+corporais com uma arma que esteja empunhando com apenas 1 mão ou com um de seus ataques desarmados.
+---
+--Investida Mortal--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Faça uma manobra de encontrão contra um alvo. Esse ataque causa
++10 de dano, e se acertar deixa o alvo Atordoado (O personagem tem -1 na Defesa, no
+Deslocamento e em todos os seus testes) por
+1 turno.
+---
+--Língua Afiada--
+Habilidade (Técnica) – Ação
+Requisito: Eloquente
+Mana: 10
+Descrição: Você possui uma língua ferina e um talento especial para
+insultar seus adversários. Escolha
+um inimigo do tipo Humanoide
+ou Esfinge. Você faz uma série
+de comentários jocosos ou degradantes sobre ele. Faça um
+confronto de Vontade contra o alvo. Se você tiver um
+resultado igual ou maior do
+que o alvo e se ele for capaz
+de entendê-lo, ele ataca você
+em detrimento de qualquer
+outro alvo, e é considerado
+Desprevenido para todos os
+seus aliados – mas não para
+você.
+Este é um efeito mental.
+---
+--Movimentos Evasivos--
+Habilidade – Suporte
+Requisito: Acrobata
+Descrição: Você ganha +1 na
+sua Defesa para cada 2 pontos que tiver em
+Agilidade. Esta habilidade só funciona se você
+estiver sem armadura.
+Esse é um bônus de Esquiva.
+---
+--Panache--
+Habilidade (Característica) – Suporte
+Requisito: Língua Afiada
+Descrição: Você possui uma bravura
+petulante e uma confiança inabalável nas suas
+próprias habilidades. Enquanto não estiver
+usando armadura, você recebe +1 na Defesa
+para cada 2 pontos de Vontade.
+Esse é um bônus de Esquiva.
+---
+--Sem Escapatória--
+Habilidade (Técnica) – Reação
+Requisito: Combate Tático
+Descrição: Se um oponente que está
+adjacente a você tentar se afastar ou se levantar, você pode imediatamente fazer um ataque
+corporal normal contra ele. Se acertar, além de
+sofrer o dano normal pelo ataque, o oponente
+não poderá se deslocar neste turno.
+---
+--Touché--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Faça um ataque corporal
+com uma arma que estiver empunhando
+com apenas 1 mão, rolando +1d6 no
+teste.
+---
+--Truque Sujo--
+Habilidade (Técnica) – Ação
+Requisito: Evasão
+Mana: 10
+Descrição: Quando estiver em distância corporal
+do oponente e ele estiver te
+vendo, faça um Confronto de Inteligência contra o
+alvo. Se você tiver um resultado igual ou maior do que
+o do oponente nesse teste,
+você realiza um truque sujo
+(joga areia nos olhos do oponente, joga um pano em seu
+rosto, enrola uma corda em suas
+pernas, etc.) fazendo com que o
+alvo fique confuso ou desequilibrado, não podendo realizar nenhuma
+ação no próximo turno, e sendo considerado
+Desprevenido por 1 turno.
+---
+
+Habilidades Avançadas
+
+---
+--Combate com Duas Armas 2--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Combate com Duas
+Armas 1.
+Descrição: Como Combate com Duas
+Armas 1, mas você pode usar duas armas com
+a mesma FN. 
+---
+--Coração da Batalha--
+Habilidade (Característica) – Reação
+Requisito: Nível 5
+Descrição: Quando sofrer algum dano
+proveniente de um ataque, Magia, ou Música
+você recupera 5 Pontos de Mana.
+Você só pode usar esta Habilidade uma
+vez por turno.
+---
+--Dança das Espadas 2--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Dança das Espadas 1
+Descrição: Quando entra em combate,
+seu fluxo de movimentos pode criar um estado
+de hipnose autoinduzida, produzindo efeitos
+quase sobre-humanos de agilidade, velocidade
+e foco. Sempre que você estiver usando Dança
+das Espadas, você recebe um acréscimo de +2
+na sua Agilidade (acumulado com o bônus de
+Dança das Espadas 1) e em sua Determinação.
+Este efeito dura enquanto durar o efeito
+de Dança das Espadas 1.
+---
+--Fintar--
+Habilidade (Técnica) - Ação
+Requisito: Nível 5, Língua Afiada
+Mana: 25
+Descrição: Você é muito bom em ludibriar seus oponentes, abrindo sua guarda.
+Como uma Ação de Movimento, faça um confronto de Vontade contra o alvo. Se você vencer o confronto, seus ataques corporais contra
+o alvo são realizados com +1d6 neste turno.
+---
+--Implacável--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Sem Escapatória
+Descrição: Sempre que errar um ataque
+corporal, o alvo sofre metade do dano normal
+do ataque (arredondando para baixo).
+---
+--Mestre de Armas 2--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: Você é extremamente eficaz
+no uso de armas brancas. Sempre que realizar
+um ataque corporal bem sucedido, adicione 3
+ao dano do ataque.
+Esse bônus de dano se acumula com o
+bônus fornecido por Mestre de armas 1.
+---
+--Retalhar--
+Habilidade (técnica) – Suporte
+Requisito: Nível 5, Corte Arterial
+Descrição: Sempre que você rolar um
+Sucesso Crítico em um ataque corporal usando
+uma arma que cause dano por Corte ou Perfuração, o dano será multiplicado por 3 ao invés
+de 2.
+Este é um efeito de sangramento.
+---
+--Ripostar--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5, Ataque Redirecionado
+Descrição: Você está sempre atento à
+guarda do oponente, esperando uma falha para
+contra-atacar de modo oportuno. Sempre que
+um oponente fizer um ataque contra você e errar, você pode imediatamente fazer um ataque
+normal contra aquele oponente.
+---
+--Tempestade de Lâminas--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5, Golpes Rápidos
+Descrição: Sempre que acertar um ataque corporal você pode fazer 1 ataque normal
+extra com a mesma arma.
+Esse efeito só pode ser usado 1 vez por
+turno com cada arma que você estiver usando.
+---
+--Valor da Vitória--
+Habilidade (Característica) – Reação
+Requisito: Nível 5
+Descrição: Cada vez que você derrota
+um oponente (isso inclui se ele se render ou fugir após a batalha) você recupera 5 pontos de
+vida e 5 pontos de mana.
+---
+
+Habilidade Final
+
+---
+--Senhor das Lâminas--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 10, Touché
+Descrição: Sempre que for realizar
+um teste de ataque corpo-a-corpo usando
+uma arma que cause dano por corte ou perfuração, você pode rolar +1d6.
+---
+
+**Feiticeiro**
+
+--
+/*
+Bônus de Atributo:
+Inteligência +1
+Vontade +1
+Habilidade Automática:
+--Conhecimento Arcano--
+Habilidade (Técnica) – Ação
+Descrição: Você é capaz de decifrar
+e canalizar os fenômenos do sobrenatural.
+Você pode ler e utilizar tomos mágicos e desenhar Runas Arcanas (veja a página 36 para
+regras sobre magia). Você também é capaz
+de canalizar sua energia para a conjuração
+de fenômenos mágicos com eficiência. Sempre que usar uma Habilidade do tipo Magia,
+você pode gastar Pontos de Vida ao invés de
+Pontos de Mana para pagar seu custo. Nesse
+caso, cada 2 Pontos de Vida equivalem à 1
+Ponto de Mana.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Aparar Magia--
+Habilidade (Técnica) – Reação
+Requisito: Detectar Magia
+Mana: 5
+Descrição: Sempre que for alvo de
+uma Habilidade do tipo Magia
+que cause dano ou perda de
+vida, você pode reduzir aquele dano ou perda de vida pela
+metade.
+Essa Habilidade não afeta quaisquer outros efeitos da
+magia além de dano ou perda
+de vida.
+Especial: Se você tiver Resistência ao tipo de
+dano que a magia causa, você
+não sofre dano e evita qualquer outro efeito da magia.
+---
+--Arco Voltaico--
+Habilidade (Magia) –
+Reação
+Requisito: Relâmpago 1, Teleporte 1
+Mana: 15
+Dificuldade da Magia: 12
+Descrição: Você aprendeu a usar sua capacidade de teleporte na velocidade de um raio!
+Desenhando uma Runa Arcana sobre si mesmo,
+você sempre pode ativá-la se for alvo de um ataque ou magia que cause dano (mas não perda de
+vida ou outros efeitos que não causem dano).
+Quando fizer isso, você se teleporta para algum
+lugar que você possa ver e que esteja a um número de metros igual à sua Inteligência de onde
+você está, evitando a ação completamente.
+Essa Runa Arcana dura uma quantidade
+de horas igual à sua Vontade, mas se dissipa
+imediatamente depois que seus efeitos são desencadeados.
+---
+--Aríete Mágico--
+Habilidade (Magia) – Ação
+Requisito: Telecinésia
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Você projeta um poderoso
+golpe mágico capaz de derrubar oponentes – e
+estruturas! Desenhando uma runa arcana no ar,
+você projeta uma rajada de energia mágica bruta
+que causa dano igual a 10/Contusão em um alvo
+em sua linha de visão, e obriga o alvo a vencer
+um teste de Força com dificuldade igual à Determinação do conjurador para não ser derrubado.
+Itens inanimados e estruturas sofrem o dobro
+do dano normal.
+A Runa Arcana se dissipa
+imediatamente depois que
+seus efeitos são desencadeados.
+---
+--Bola de Fogo--
+Habilidade (Magia) – Ação
+Requisito: Inflamar
+Mana: 20
+Dificuldade da Magia: 12
+Descrição: Desenhando uma
+runa Arcana no ar você projeta uma esfera de chamas de
+20 cm de diâmetro contra um
+alvo na sua linha de visão. A
+esfera explode ao atingir o alvo,
+causando dano igual a 20/Fogo
+nele e 10/Fogo em tudo e todos
+em até 2 metros dele. Objetos inanimados inflamáveis atingidos por
+essa magia tendem a entrar em combustão.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Congelar--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da magia: 8
+Descrição: Desenhando uma runa Arcana sobre um objeto ou superfície, você infunde um frio intenso congelando-o. Essa magia pode congelar até 200 litros de líquido ou
+de material sólido por ponto de Inteligência do
+conjurador. Apenas matéria inanimada pode
+ser afetada por essa magia. Essa magia pode ser usada para criar uma camada de gelo grosso
+(cerca de 5 centímetros) e extremamente escorregadio numa área circular com um diâmetro
+igual à sua Inteligência. Qualquer criatura sobre
+essa superfície (incluindo você) precisa fazer
+um teste de Agilidade (Dificuldade 12) sempre
+que realizar um ataque, se mover ou tentar se
+levantar. Uma falha nesse teste significa que o
+personagem cai.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados, mas
+o gelo criado é permanente e descongela em
+velocidade normal.
+---
+--Detectar Magia--
+Habilidade (Técnica) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+Descrição: Concentrando-se nos fluxos de energias mágicas, você pode enxergar a aura de objetos mágicos,
+Runas Arcanas e Selos Místicos. Você pode analisar a aura
+mágica de um Selo, Runa ou
+objeto para entender suas
+propriedades observando-a
+por 1 minuto.
+---
+--Eletricidade Estática--
+Habilidade (Magia) Ação
+Mana: 10
+Dificuldade da Magia: 8
+Descrição: Desenhando uma
+runa Arcana sobre um objeto ou criatura, você o carrega com uma forte carga
+de eletricidade estática, prendendo-o à qualquer
+superfície em que estiver tocando. Pode ser usado em um item portátil para tornar impossível
+que ele seja derrubado ou em uma criatura para
+impedir que ela tire os pés do chão – reduzindo seu Deslocamento para 0 e sua Agilidade em
+-2. Um alvo afetado dessa forma pode fazer um
+teste de Força com dificuldade igual à Determinação do conjurador como uma ação de movimento para tentar tirar os pés do chão.
+Essa Runa Arcana dura 1 minuto, mas
+se a criatura afetada conseguir tirar um dos pés
+do chão, seus efeitos sobre ela se dissipam imediatamente.
+---
+--Inflamar--
+Habilidade (Magia) – Ação
+Mana: Varia
+Dificuldade da Magia: 8
+Descrição: Desenhando uma Runa
+Arcana entre você e um objeto ou superfície
+dentro de sua linha de visão você faz com que
+ele irrompa em chamas. O custo depende do
+tamanho da chama criada: criar a chama em
+uma vela tem custo 0, enquanto uma chama suficiente para acender uma tocha tem custo 5 e
+fazer uma fogueira de acampamento irromper
+em chamas imediatamente tem custo 10. Você
+pode produzir uma explosão de chamas diretamente sobre um item segurado por uma
+criatura ou na superfície onde ela está,
+causando dano igual a 4/Fogo, por
+0 Pontos de Mana, 8/Fogo por 5
+Pontos de Mana ou 12/Fogo por
+10 Pontos de Mana.
+A Runa Arcana se dissipa imediatamente depois que
+seus efeitos são desencadeados, mas material combustível afetado se incendeia automaticamente.
+---
+--Infravisão--
+Habilidade (Magia) – Ação
+Requisito: Detectar Magia,
+Inflamar
+Mana: 5
+Dificuldade da Magia: 9
+Descrição: Você desenha uma
+Runa Arcana sobre um alvo, que
+passa a perceber o calor que emana dos
+objetos e criaturas sobrepondo a sua visão normal. Ele pode enxergar normalmente em
+locais sem iluminação nenhuma, pode perceber
+criaturas invisíveis pelo calor (ou frio) que elas
+emanam e consegue identificar ilusões, já que
+elas não emanam calor nem frio.
+Essa Runa Arcana dura 1 hora.
+---
+--Invocar Elemental 1--
+Habilidade (Magia) – Ação
+Requisito: Congelar e Inflamar
+Mana: 15
+Dificuldade da Magia: 9
+Descrição: Você conjura um pequeno
+Elemental de Fogo ou do Gelo desenhando uma runa Elemental no ar. O Elemental obedecerá todos os seus comandos e agirá a partir
+do turno seguinte, logo depois de você.
+A runa que mantém o Elemental coeso
+se dissipa depois de 10 minutos.
+Veja os dados dos Elementais no Monstrum Codex para mais detalhes.
+---
+--Invocar Elemental 2--
+Habilidade (Magia) – Ação
+Requisito: Invocar Elemental 1
+Mana: 30
+Dificuldade da Magia: 11
+Descrição: Você conjura um Elemental
+Médio de Fogo ou do Gelo desenhando uma
+Runa arcana no ar. O Elemental obedecerá todos os seus comandos e agirá a partir do turno
+seguinte, logo depois de você.
+A runa que mantém o Elemental coeso
+se dissipa depois de 10 minutos.
+Veja os dados dos Elementais no Monstrum Codex para mais detalhes.
+---
+--Levitar--
+Habilidade (Magia) – Ação
+Requisito: Telecinésia
+Mana: 20
+Dificuldade da Magia: 11
+Descrição: Desenhando uma Runa Arcana sobre uma criatura, você faz com que ela
+seja capaz de voar livremente no ar para qualquer direção no seu deslocamento normal.
+Essa Runa Arcana dura 1 hora, mas se
+dissipa automaticamente se alvo tocar o solo.
+---
+--Manto Crepitante--
+Habilidade (Magia) – Ação
+Requisito: Eletricidade Estática
+Mana: 15
+Dificuldade da Magia: 9
+Descrição: Você desenha uma Runa Arcana sobre uma criatura, envolvendo-a numa
+aura elétrica. A aura ilumina uma área de 20
+metros ao seu redor, tornando-a clara como se
+fosse dia. A aura elétrica causa dano igual a 10/
+Eletricidade em qualquer um que tocar em você
+- o que inclui todos os ataques corporais feitos
+contra ou por você.
+Essa Runa dura 1 minuto, mas
+pode ser dissipada a qualquer momento
+pela criatura sobre a qual foi desenhada.
+---
+--Mente Disciplinada--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma vontade
+extremamente organizada, acostumada a se
+concentrar em tarefas complexas. Você tem
+Determinação +2 e as dificuldades de todas as
+magias que você realiza são reduzidas em 1.
+---
+--Parede de Gelo--
+Habilidade (Magia) – Ação
+Requisito: Congelar
+Mana: 15
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa Arcana no ar, você congela a umidade do ambiente na forma de uma grossa parede de gelo.
+A parede tem 3 metros de altura por 3 metros
+de largura e 1 metro de espessura, e deve ser
+conjurada diretamente sobre uma superfície
+firme, mas pode ser criada em qualquer ângulo ou formato desde que respeite seu volume
+e fique firmemente presa na posição onde foi
+conjurada. A parede tem 60 Pontos de Vida,
+Defesa 10, é Vulnerável ao Fogo e sempre
+que receber dano por Frio recupera Pontos de
+Vida ao invés de sofrer dano. Ela pode suportar até 500 quilos de peso sobre ela antes de
+quebrar.
+A Runa Arcana se dissipa imediatamente depois que seus efeitos são desencadeados,
+mas o gelo criado é permanente e descongela
+em velocidade normal.
+---
+--Rajada de Gelo--
+Habilidade (Magia) – Ação
+Requisito: Congelar
+Mana: 20
+Dificuldade da Magia: 12
+Descrição: Desenhando uma Runa arcana no ar você projeta a partir dela uma rajada de
+energia mágica que causa dano igual a 20/Frio
+em um alvo dentro da sua linha de visão. Se
+o alvo for uma criatura viva, ele fica Enregelado por 1 turno. Se a magia tiver como alvo um
+objeto inanimado, ela congela até 100 litros ou
+100 quilos de material.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados, mas
+o gelo criado é permanente e descongela em velocidade normal.
+---
+--Relâmpago 1-
+Habilidade (Magia) – Ação
+Requisito: Eletricidade Estática
+Mana: 20
+Dificuldade da Magia: 10
+Descrição: A partir de uma Runa Arcana que desenha no ar você dispara uma faísca
+elétrica contra um alvo dentro de seu campo de
+visão. O alvo sofre um dano igual a 20/Eletricidade e fica Atordoado por 2 rodadas. Alvos
+usando armaduras de metal sofrem o dobro do
+redutor (-2 na Defesa, no Deslocamento e em
+todos os seus testes).
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Rajada Elemental--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+Descrição: Desenhando uma runa Arcana no ar você pode disparar uma rajada de energia elemental em qualquer alvo que possa ver.
+Essa magia causa 8 pontos de dano elemental
+(Fogo, Frio ou Eletricidade) escolhido no momento que o conjurador lança a magia.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Resistência Elemental--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 9
+Descrição: Desenhando uma Runa Arcana sobre uma criatura ou objeto, você confere Resistência ao Fogo, Frio ou Eletricidade
+a ele.
+Essa Runa Arcana dura por 1 minuto.
+---
+--Telecinésia--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: Variável.
+Descrição: Desenhando uma Runa Arcana entre você e um objeto ou criatura dentro de sua linha de visão, você pode mover o
+alvo através de uma energia mágica invisível. O
+alvo pode ser movido à vontade em qualquer
+direção, e até mesmo ser erguido no ar, mas
+apenas de forma lenta (1 metro por turno no
+máximo). A dificuldade será igual ao peso do
+alvo dividido por 5 (arredondado para baixo).
+Se estiver usando essa magia sobre si próprio,
+diminua a sua Vontade da Dificuldade final. A
+dificuldade mínima dessa magia será sempre 8,
+independente do peso do alvo ou da Vontade
+do Conjurador.
+Essa Runa Arcana dura por tanto tempo
+quanto você estiver concentrado nela, mas se
+o alvo for uma criatura, ela pode cancelar os
+efeitos dessa Runa no início do seu turno se
+vencer um teste de Força com dificuldade igual
+à Determinação do conjurador.
+---
+--Teleporte 1--
+Habilidade (Magia) – Ação
+Requisito: Levitar
+Mana: 30
+Dificuldade da Magia: 12
+Descrição: Desenhando uma Runa Arcana sobre si mesmo enquanto fita um local
+você se teleporta de onde está para o ponto
+que está olhando. Você pode levar alguém com
+você se puder tocar o alvo e ele concordar (ou
+estiver inconsciente). Some +2 na dificuldade
+da magia para cada pessoa além de você.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+
+Habilidades Avançadas
+
+---
+--Aptidão Elemental--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Mente Disciplinada
+Descrição: Você possui um domínio
+considerável sobre as energias mais elementares da magia. Todas as suas magias custam 5
+Pontos de Mana a menos para serem conjuradas e todas as suas magias e técnicas que causam dano por Fogo, Frio ou Eletricidade causam 5 pontos de dano a mais.
+---
+--Dissipar Magia--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Aparar Magia
+Mana: Variável
+Descrição: Você dissipa todas as Runas
+Arcanas ou Selos Místicos de uma criatura, objeto ou estrutura com seu toque. Essa Habilidade não tem efeito em Runas ou Selos com
+efeitos instantâneos (como Curar Ferimentos,
+Rajada de Espinhos ou Teleporte) nem reverte efeitos permanentes de magia (como restaurar
+os Pontos de Vida perdidos devido a uma Bola
+de Fogo, dissipar água criada por Princípio Natural ou reverter água afetada por Raio Gélido
+de volta ao estado líquido). Você pode também
+escolher quais Runas ou Selos dissipar e quais
+não, caso o alvo tenha mais de um Selo ou
+Runa afetando-o.
+O custo para dissipar um Selo ou Runa é
+igual ao custo usado para conjurá-los.
+---
+--Eletrosfera--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Relâmpago 2
+Mana: 40
+Dificuldade da magia: 13
+Descrição: Você desenha uma Runa Arcana sobre si mesmo, fazendo um turbilhão de
+raios elétricos emanarem a partir dela. No final
+do seu turno, tudo e todos que estiver a uma
+quantidade de metros igual à sua Inteligência
+ao seu redor sofrem uma quantidade de dano
+igual a 20/Eletricidade. Alvos usando armaduras com a Característica Pesada que sofram esse
+dano também ficam Atordoadas por 1 turno.
+Essa Runa Arcana dura uma quantidade
+de turnos igual à sua Vontade.
+---
+--Incandescer--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Inferno
+Mana: 50
+Dificuldade da Magia: 14
+Descrição: Desenhando uma Runa
+Arcana sobre um objeto ou superfície, você
+faz com que ele aquece ao ponto de incandescer ou inflamar. Objetos de pedra e
+metal se tornarão quentes ao ponto de tornarem-se candentes, causando dano igual
+a 20/Fogo em qualquer coisa que tocarem
+– e produzindo uma quantidade considerável de calor. Metais aquecidos a esse ponto
+amolecem e podem ser facilmente dobrados
+ou quebrados. Objetos combustíveis irão se
+inflamar instantaneamente, e pegarão fogo
+mesmo que estejam ensopados – a água vai
+evaporar em segundos antes que eles entrem
+em combustão. Essa magia pode ser usada
+em armas, armaduras e vestimentas de criaturas vivas.
+Note que o objeto alvo se aquece por inteiro. Assim, uma árvore inteira secaria e então
+irromperia em chamas, e uma imensa sessão
+de uma caverna poderia subitamente se tornar
+mortalmente quente.
+Essa Runa dura um número de turnos
+igual à sua Inteligência, mas materiais inflamáveis que irrompam em chamas vão queimar enquanto houver combustível disponível, mesmo
+depois da runa se dissipar.
+---
+--Inferno--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Bola de Fogo
+Mana: 40
+Dificuldade da Magia: 13
+Descrição: Desenhando uma Runa arcana sobre o solo, você faz com que uma área
+de 4 metros de diâmetro dentro da sua linha de
+visão entre em combustão enquanto é atingido
+por uma chuva de brasas e fogo. Todos que tiverem nessa área sofrem dano igual a 30/Fogo
+quando essa magia for lançada e mais 30/Fogo
+no início de cada turno que iniciarem dentro
+da área.
+Esta Runa Arcana dura 1 rodada por
+ponto de Inteligência que você tiver, mas você
+pode dissipá-la a qualquer momento.
+Material inflamável na área irrompe em
+chamas instantaneamente.
+---
+--Invocar Elemental 3--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Invocar Elemental 2
+Mana: 60
+Dificuldade da Magia: 13
+Descrição: Você conjura um grande
+Elemental de Fogo ou do Gelo desenhando
+uma runa Arcana no ar. O Elemental obedecerá todos os seus comandos e agirá a partir do
+turno seguinte, logo depois de você.
+A Runa Arcana que mantém o Elemental
+coeso se dissipa depois de 10 minutos.
+Veja os dados dos Elementais no Monstrum Codex para mais detalhes.
+---
+--Prisão de Gelo--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Parede de Gelo
+Mana: 40
+Dificuldade da Magia: 13
+Descrição: Desenhando uma runa arcana sobre uma criatura ou objeto você cria um imenso bloco de gelo ao redor dele. O alvo
+pode ter um peso máximo igual a 100 vezes
+sua Inteligência em quilos. Uma criatura presa
+dentro do bloco é considerada Paralisada, sofre dano igual a 10/Frio no começo de cada
+um de seus turnos e só pode ser alvo de efeitos mentais. O bloco tem 60 Pontos de Vida,
+Defesa 10, é Vulnerável a Fogo e sempre que
+receber dano por Frio recupera Pontos de Vida
+ao invés de sofrer dano. Ataques de Eletricidade causam dano normal ao bloco, mas também
+causa a mesma quantidade de dano na criatura
+presa dentro dele.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados, mas
+o gelo criado é permanente e descongela em velocidade normal.
+---
+--Relâmpago 2--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Relâmpago 1
+Mana: 30
+Dificuldade da Magia: 12
+Descrição: Você projeta uma poderosa
+rajada de energia elétrica em um alvo dentro de
+seu campo de visão a partir de uma runa Arcana
+que você desenha no ar. O alvo sofre um dano
+igual a 40/Eletricidade, e precisa fazer um teste
+de Força com dificuldade igual a sua Determinação ou ficará Paralisado por 1 turno. Alvos
+usando armaduras de metal realizam esse teste
+como se fossem Inaptos.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Teleporte 2--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Teleporte 1
+Mana: 50
+Dificuldade da Magia: 14
+Descrição: Desenhando uma runa arcana sobre si mesmo enquanto se concentra em
+um local qualquer que já tenha visitado pelo
+menos uma vez, você se teleportar imediatamente para o local pretendido. Você pode levar
+alguém com você se puder tocar o alvo e ele
+concordar (ou estiver inconsciente). Some +2
+na dificuldade da magia para cada pessoa além
+de você.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Tempestade de Gelo--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Rajada de Gelo
+Mana: 40
+Dificuldade da Magia: 13
+Descrição: Desenhando uma runa Arcana sobre o solo você pode evocar uma tempestade de gelo em uma área circular de 10 metros
+de diâmetro que você possa ver. Uma chuva de
+pedaços finos e afiados de gelo cai sobre a área.
+Todos que estiverem na área escolhida sofrerão
+dano igual a 10/Corte + 10/Frio quando essa
+magia for lançada. A cada turno em começar
+dentro da área de efeito um personagem sofre
+dano igual a 10/Corte + 10/Frio e fica Enregelado por 1 rodada.
+A Runa Arcana dura 1 rodada por ponto
+de Inteligência que você tiver, mas você pode
+dissipá-la a qualquer momento. 
+---
+
+Habilidade Final
+
+---
+--Maestria Elemental--
+Habilidade (Característica) – Suporte
+Requisito: Nível 10, Resistência Elemental, Aptidão Elemental
+Descrição: Você possui um profundo
+conhecimento sobre a essência elemental da
+magia. Sempre que você for alvo de uma magia ou efeito que o deixa Resistente ao Frio,
+Fogo ou Eletricidade, você fica Imune aquele
+elemento. Se você já for Resistente a um elemento e receber Resistência a ele através de
+uma magia, você passa a absorver o elemento
+(recuperando uma quantidade de Pontos de
+Vida iguais a qualquer quantidade de dano
+que sofreria daquele elemento).
+Além disso, todas as magias e técnicas que você conjura e que causem dano por
+fogo, frio ou eletricidade causam 5 pontos de
+dano a mais (esse bônus se acumula com o
+bônus de Aptidão Elemental). 
+---
+
+**Guerreiro**
+
+--
+/*
+Bônus de Atributo:
+Força +1
+Agilidade +1
+Habilidade Automática:
+--Mestre de Armas 1--
+Habilidade (Técnica) – Suporte
+Descrição: Você é particularmente
+eficiente no uso de armas brancas. Sempre
+que realizar um ataque corporal bem sucedido, adicione 3 ao dano do ataque.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Anular Golpe--
+Habilidade (Técnica) – Reação
+Requisito: Defesa Agressiva
+Mana: Varia
+Descrição: Você se especializou em perceber e evitar
+os ataques mais complexos dos
+seus adversários. Sempre que
+um oponente utilizar uma Habilidade de Ação do tipo Técnica, você pode evitar totalmente seus efeitos (incluindo
+o dano). O custo dessa Habilidade é o mesmo da Técnica
+a ser evitada.
+Você só pode utilizar
+essa Habilidade 1 vez por turno.
+---
+--Ataque do Búfalo--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Faça uma manobra
+de encontrão. Se acertar o ataque, além
+de causar o dano normal pelo encontrão, o
+alvo precisa vencer um teste de Força (Dificuldade igual à sua Determinação mais a FN da
+arma que estiver usando) ou será derrubado.
+Alvos com o dobro do seu peso não são afetados.
+---
+--Ataque Giratório--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Você realiza um ataque amplo, girando sua arma para atingir todos os
+oponentes próximos. Faça um ataque corporal
+contra cada alvo dentro do seu alcance corporal.
+---
+--Ataque Simultâneo--
+Habilidade (Técnica) – Ação
+Requisito: Combate em Grupo
+Mana: 20
+Descrição: Você está acostumado a lutar
+em grupo e sabe como abrir a guarda de um adversário para que seus aliados possam atingi-lo.
+Faça um ataque corporal contra um oponente.
+Se acertar, todos aliados que estiverem adjacentes ao mesmo oponente poderão fazer um ataque corporal normal contra ele imediatamente.
+---
+--Brigão--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado à combater desarmado. Você rola +1 em seus
+ataques desarmados e adiciona +2 nos
+danos desses ataques. Além disso,
+quando estiver realizando apenas
+ataques desarmados em um turno,
+você pode realizar 2 ataques sem
+incorrer nas regras de Inaptidão.
+Especial: Se você utilizar uma Habilidade de
+Ação, seus efeitos se aplicam
+a apenas um dos seus ataques
+desarmados – mas você ainda
+pode fazer um segundo ataque
+desarmado normal no mesmo
+turno, antes ou depois de utilizar a Habilidade de Ação.
+---
+--Combate em Grupo--
+Habilidade (Técnica) – Reação
+Descrição: Você ganha +1 nos
+testes de ataques corporais para
+cada aliado que esteja em combate
+corporal com o alvo.
+---
+--Combate com Duas Armas 1--
+Habilidade (Técnica) – Suporte
+Descrição: Você treinou para usar duas
+armas em combate de forma eficiente. Quando
+estiver pelo menos uma arma cuja FN igual à
+metade (ou menos) do que a Força do personagem (incluindo ataques desarmados), você
+pode realizar 2 ataques sem incorrer nas regras
+de Inaptidão.
+Especial: Se você utilizar uma Habilidade
+de Ação, seus efeitos se aplicam a apenas um dos
+seus ataques – mas você ainda pode fazer um ataque normal com a outra arma no mesmo turno,
+antes ou depois de utilizar a Habilidade de Ação.
+---
+--Combate Pesado--
+Habilidade (Técnica) – Reação
+Requisito: Combate Tático
+Mana: 10
+Descrição: Sempre que você fizer uma
+manobra de encontrão ou um ataque corporal
+enquanto estiver portando uma arma de duas
+mãos ou um escudo, você pode rolar novamente 1 dos dados em seus testes de ataque.
+Você pode escolher com qual dos resultados vai ficar.
+Você só pode usar esta Habilidade 1 vez
+por turno.
+---
+--Combate Tático--
+Habilidade (Técnica) – Reação
+Descrição: Se você derrotar
+um oponente com um ataque corporal, você pode imediatamente
+realizar outro ataque corporal
+normal.
+---
+--Defesa Agressiva--
+Habilidade (Técnica) – Suporte
+Requisito: Defletor
+Descrição: Você entende que a melhor defesa é
+um ataque eficiente. Quando
+estiver empunhando uma arma
+corporal de duas mãos, duas
+armas corporais ou um escudo,
+você recebe +1 em seus testes de
+ataque corporal e +1 na sua Defesa.
+Esse bônus de Defesa é considerado um bônus de Bloqueio.
+---
+--Defletor--
+Habilidade (Técnica) – Suporte
+Descrição: Você está acostumado a se
+defender de projéteis. Enquanto estiver empunhando uma arma corporal de duas mãos,
+duas armas corporais ou um escudo, você
+recebe +2 no seu bônus de Bloqueio contra
+ataques à distância.
+Esse bônus de Defesa é considerado um
+bônus de Bloqueio.
+---
+--Estabilidade--
+Habilidade (Característica) – Suporte
+Descrição: Você gosta de ter os dois
+pés solidamente plantados no chão – e faz isso
+muito bem! Você sempre rola +1d6 em todos
+os seus testes de evitar quedas e manter o equilíbrio.
+---
+--Golpe Devastador 1--
+Habilidade (Técnica) – Ação
+Requisito: Nocautear
+Mana: 30
+Descrição: Você pode fazer um ataque
+corporal que causa o dobro de dano, e se acertar, o alvo precisa vencer um confronto de Força (adicione a FN da arma que estiver usando
+no seu teste) contra você ou ficará Paralisado
+(veja Condições na página 169) por um turno.
+---
+--Golpe com Escudo--
+Habilidade (Técnica) – Reação
+Mana: 5
+Descrição: Se você estiver
+portando um escudo e errar um
+ataque corporal com sua arma,
+você pode imediatamente fazer
+um ataque corporal normal
+contra o mesmo alvo com
+seu escudo. Um ataque com
+um escudo causa dano igual à
+Força + FN do escudo/Contusão.
+---
+--Grito de Guerra 1--
+Habilidade – Ação
+Mana: 10
+Descrição: Você pode dar
+um grito fervoroso que motiva todos seus aliados. Você e
+todos os aliados que estiverem em
+um raio de 5 metros recebem +1 em
+todas as rolagens até o final da batalha.
+Além disso, remova todos os efeitos de
+Medo de todos os aliados dentro da área dessa
+Habilidade.
+Você não pode usar esta Habilidade se estiver
+sob qualquer efeito de Medo.
+---
+--Guerreiro de Aço 1--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado a usar
+armaduras pesadas. Você considera a FN dequalquer armadura com a Característica Pesada
+como tendo FN-1 para todos os propósitos.
+Além disso, quando estiver utilizando uma armadura pesada, a redução de dano oferecida
+pela armadura é dobrada.
+---
+--Investida Mortal--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Faça uma manobra de encontrão contra um alvo. Se acertar, esse ataque
+causa +10 de dano e deixa o alvo Atordoado
+(veja Condições na página 169) por 1 turno.
+---
+--Nocautear--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Faça um ataque corporal que
+cause dano por Contusão. Se acertar, além de sofrer o dano normal do ataque, o alvo fica Paralisado (veja Condições na página 169) por 1 turno.
+---
+--Parede de Escudos--
+Habilidade (Técnica) – Suporte
+Descrição: Você está acostumado a lutar
+em grupo e usar seu escudo para proteger seus
+aliados. Enquanto você estiver usando um escudo,
+todos os aliados adjacentes a você recebem um
+bônus de +1 na Defesa.
+Este é um bônus de Bloqueio.
+---
+--Sem Escapatória--
+Habilidade (Técnica) – Reação
+Requisito: Combate Tático
+Descrição: Se um oponente que está
+adjacente a você tentar se afastar ou se levantar, você pode imediatamente fazer um ataque
+corporal normal contra ele. Se acertar, além de
+sofrer o dano normal pelo ataque, o oponente
+não poderá se movimentar neste turno.
+---
+--Transpor--
+Habilidade (Técnica) – Suporte
+Requisito: Defesa Agressiva
+Descrição: Você sabe encontrar os espaços deixados pelo escudo do adversário. Ignore sempre o bônus de Bloqueio da Defesa
+do oponente.
+---
+
+Habilidades Avançadas
+
+---
+--Combate com Duas Armas 2--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Combater com
+Duas Armas 1.
+Descrição: Como em Combate com
+Duas Armas 1, mas você pode usar duas armas
+com a mesma FN.
+Especial: Se você utilizar uma Habilidade de Ação, seus efeitos se aplicam a apenas um
+dos seus ataques – mas você ainda pode fazer
+um ataque normal com a outra arma no mesmo
+turno, antes ou depois de utilizar a Habilidade
+de Ação.
+---
+--Força de Explosão--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Ataque do Búfalo
+Descrição: Quando fizer ataques que têm
+chance de derrubar o oponente você pode afetar
+alvos até 10 vezes mais pesados do que você (a
+maioria dos ataques que derrubam oponentes só
+afetam alvos com até o dobro do seu peso).
+Além disso, se você usar qualquer Habilidade que derrube o oponente, a dificuldade
+para resistir ao efeito e aumentada em +2.
+---
+--Golpe Devastador 2--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Golpe Devastador 1
+Mana: 60
+Descrição: Faça um ataque corporal contra o alvo. Se acertar, o ataque causa o triplo do
+dano normal e o alvo precisa vencer um confronto
+de Força (adicione a FN da arma que estiver usando no seu teste) contra você ou ficará Paralisado
+(veja Condições na página 169) por um turno.
+---
+--Grito de Guerra 2--
+Habilidade – Ação
+Requisito: Nível 5, Grito de Guerra 1
+Mana: 15
+Descrição: Você pode dar um grito fervoroso que motiva todos seus aliados. Você e
+todos os seus aliados em um raio de 10 metros
+recebem +2 em todas as rolagens até o final da
+batalha. Além disso, remova todos os efeitos de
+Medo de todos os aliados dentro da área dessa
+Habilidade.
+Você não pode usar esta Habilidade se
+estiver sob qualquer efeito de Medo.
+---
+--Grito de Intimidação--
+Habilidade – Ação
+Requisito: Nível 5, Grito de Guerra 1
+Mana: 35
+Descrição: Você pode dar um grito para
+intimidar seus inimigos. Todos os oponentes que estiverem a até 10 metros à sua frente que
+tiverem uma Determinação menor do que a
+sua ficam Paralisados (veja Condições na página
+169) por 2 turnos.
+Esse é um efeito de Medo.
+---
+--Guerreiro de Aço 2--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Guerreiro de Aço 1
+Descrição: Você está extremamente acostumado a usar armaduras pesadas e se
+sente confortável quando verga uma. Você
+considera a FN de Qualquer armadura com a
+Característica Pesada como tendo FN-1 para
+todos os propósitos. Além disso, se alguma
+Habilidade ou situação anularem seu bônus de
+Defesa de Armadura, você ainda recebe metade
+do seu bônus normal (arredondado para cima)
+enquanto estiver utilizando uma armadura
+com a característica pesada (este efeito também
+se aplica à redução de dano oferecida pela armadura).
+A redução de FN se acumula com a redução fornecida por Guerreiro de Aço 1.
+---
+--Implacável--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Sem Escapatória
+Descrição: Sempre que errar um ataque
+corporal, você causa metade do dano normal
+do ataque (arredondando para baixo).
+---
+--Investida Forte--
+Habilidade – Suporte
+Requisito: Nível 5, Golpe com Escudo
+Descrição: Sempre que acertar uma
+manobra de encontrão usando um escudo, o alvo precisa vencer um teste de Força (Dificuldade igual à sua Determinação
++ a FN do escudo que você estiver usando) ou será derrubado. Alvos com o dobro
+do seu peso não são afetados. Um ataque
+com um escudo causa dano igual à Força
++ FN do escudo/Contusão.
+---
+--Mestre de Armas 2--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: Você é extremamente eficaz no uso de armas brancas. Sempre que
+acertar um ataque corporal adicione 3 ao dano
+do ataque.
+Esse bônus de dano se acumula com o
+bônus fornecido por Mestre de armas 1.
+---
+--Valor da Vitória--
+Habilidade (Característica) – Reação
+Requisito: Nível 5
+Descrição: Cada vez que você derrota
+um oponente (isso inclui se ele se render ou fugir após a batalha) você recupera 5 pontos de
+vida e 5 pontos de mana.
+---
+
+Habilidade Final
+
+---
+--Mestre de Armas 3--
+Habilidade (Técnica) – Ação
+Requisito: Nível 10, Mestre de Armas 2
+Mana: 50
+Descrição: Faça um ataque corporal
+contra uma criatura. Se o ataque acertar o alvo,
+ao invés do dano normal da arma, os Pontos
+de Vida atuais dele são reduzidos à metade.
+No caso de um sucesso crítico no ataque, o
+oponente é morto instantaneamente.
+---
+
+**Ladino**
+
+--
+/*
+Bônus de Atributo:
+Agilidade +1
+Inteligência +1
+Habilidade Automática:
+--Gatuno--
+Habilidade – Suporte
+Descrição: Você aprendeu com a dura
+vida nas ruas a sobreviver na selva urbana.
+Você nunca é considerado Inapto quando
+tentar furtar bolsos ou arrombar fechaduras
+usando um kit de arrombamento. Além disso, você rola +1d6 quando tentar escalar, se
+esconder e tentar passar despercebido. 
+*\
+---
+
+Habilidades Básicas
+
+---
+--Acrobata--
+Habilidade (Característica) – Suporte
+Descrição: Você sempre rola +1d6 em
+seus testes de equilíbrio, salto, piruetas e coisas semelhantes. Além disso, você sofre apenas
+metade dos danos por queda.
+---
+--Aparar--
+Habilidade (Técnica) - Suporte
+Descrição: Você pode usar qualquer
+coisa que esteja em suas mãos para afastar e
+desviar golpes desferidos contra você. Enquanto estiver com um objeto em pelo menos uma das mãos, você recebe Defesa +1. Se estiver segurando uma
+objeto em ambas as mãos ou um
+objeto em cada mão você recebe
+Defesa +2.
+Este e um bônus de Esquiva.
+---
+--Armadilheiro--
+Habilidade (Técnica) –
+Ação
+Descrição: Você se especializou em desarmar e preparar armadilhas. Você nunca
+é considerado Inapto para desarmar armadilhas e se tiver os
+materiais e o tempo necessários,
+você pode armar uma armadilha.
+Faça um teste de Inteligência: O
+resultado do teste será a dificuldade para a armadilha ser percebida e desarmada.
+---
+--Ataque Aleijador--
+Habilidade (Técnica) – Ação
+Mana: 20
+Descrição: Faça um ataque corpo-a-
+-corpo ou à distância contra uma criatura viva.
+Além de receber o dano normal pelo ataque, o
+alvo fica com seu Deslocamento reduzido em 1
+e sempre que se deslocar ou fizer um teste que
+envolva movimentação ou equilíbrio (como se
+equilibrar, saltar, nadar ou mover-se em silêncio) ele perde 10 Pontos de Vida.
+Esse é um efeito de Sangramento.
+---
+--Ataque Evasivo--
+Habilidade – Ação
+Requisito: Evasão
+Mana: 10
+Descrição: Você realiza um ataque seguido de uma movimentação errática para confundir seu oponente. Faça um ataque baseado
+em Agilidade. Se acertar, o alvo realiza seus ataques contra você como se fosse Inapto durante
+o próximo turno. Se o ataque for à distância
+e houver alguma cobertura à disposição, você
+pode se esconder tornando impossível para o
+alvo lhe atacar enquanto ele não o ver primeiro.
+---
+--Ataque Redirecionado--
+Habilidade (Técnica) – Reação
+Requisito: Evasão
+Descrição: Quando um oponente
+errar um ataque corporal contra
+você, você pode direcionar o
+ataque dele para outro alvo. O
+novo alvo precisa estar adjacente a você ou ao oponente
+que errou o ataque. Esse ataque acerta automaticamente –
+sem chance de errar ou de ser
+um sucesso decisivo.
+Esta Habilidade só pode
+ser usada uma vez por rodada.
+---
+--Combate com Duas Armas 1--
+Habilidade (Técnica) – Suporte
+Descrição: Você treinou para
+usar duas armas em combate de
+forma eficiente. Você pode fazer até
+dois ataques corporais, cada ele com
+uma arma diferente (incuindo ataques
+desarmados) desde que pelo menos uma das
+armas tenha uma FN igual à metade (ou menos)
+do que a Força do personagem.
+Especial: Se você utilizar uma Habilidade
+de Ação, seus efeitos se aplicam a apenas um dos
+seus ataques – mas você ainda pode fazer um ataque normal com a outra arma no mesmo turno,
+antes ou depois de utilizar a Habilidade de Ação.
+---
+--Contatos no Crime--
+Habilidade (Técnica) – Suporte
+Descrição: Você possui muitos contatos
+entre os criminosos – pequenos e grandes. Com
+isto você pode descobrir informações privilegiadas ou comprar e vender mercadoria roubada. 
+Obviamente o mestre poderá restringir informações se isso for atrapalhar o andamento ou a
+trama da campanha, e você nem sempre será capaz de encontrar qualquer item à disposição em
+qualquer lugar – mas o mercado negro nas grandes cidades costuma estar abastecido de praticamente qualquer item disponível na campanha.
+Criminosos pagarão metade do preço
+normal de qualquer item que você quiser vender
+– desde que tenham dinheiro para tanto – e venderão itens com um custo um terço menor do
+que o normal. Itens proibido ou controlados, no
+entanto, podem ser extremamente caros. Informações terão um preço dependendo da importância e dificuldade de obtê-las, de acordo
+com a vontade do Mestre.
+---
+--Corte Arterial--
+Habilidade (Técnica) – Ação
+Requisito: Ataque Aleijador
+Mana: 30
+Descrição: Faça um
+ataque corporal com uma
+arma de corte ou perfuração.
+Se acertar, a vítima começará
+a sangrar, perdendo 10 Pontos de Vida no início de cada
+um de seus turnos.
+Este é um efeito de sangramento.
+---
+--Eloquente--
+Habilidade (Característica) – Suporte
+Descrição: Você tem um talento de convencer ou comover outras
+pessoas apenas falando do jeito certo. Você
+recebe +1d6 em todos os seus testes para persuadir, mentir, perceber mentiras, intimidar ou
+em qualquer outra interação social.
+---
+--Evasão--
+Habilidade (Técnica) – Reação
+Mana: 20
+Descrição: Se o seu inimigo fizer um
+ataque corporal e acertar, você pode declarar
+evasão, e obrigar o inimigo a rolar novamente
+o teste de ataque. Você pode escolher com qual
+dos resultados o oponente vai ficar. Esta Habilidade só pode ser usada uma vez por turno.
+---
+--Falhas da Armadura--
+Habilidade (Técnica) – Suporte
+Descrição: Você sabe como acertar ataques entre as frestas e falhas das armaduras do
+inimigo. Ignore sempre o bônus de armadura
+da defesa do oponente.
+---
+--Flanquear--
+Habilidade (Técnica) – Suporte
+Descrição: Você prefere atacar seus alvos
+quando eles estão desatentos – e é muito eficiente fazendo isso! Sempre que você e pelo
+menos mais um aliado estiverem em alcance corporal de um oponente, você considera
+aquele oponente Despreparado em relação a
+você (ver Condições, pág. 169).
+Você só pode flanquear
+um alvo por turno.
+Se 2 ou mais adversários estiverem adjacentes a
+você e a um aliado ao mesmo
+tempo, você deve definir qual
+deles vai flanquear.
+---
+--Flexível--
+Habilidade (Característica) – Suporte
+Descrição: Você tem o corpo muito flexível, capaz de se
+dobrar, esticar e espremer de
+maneiras extremas. Você pode
+passar por aberturas como se
+tivesse apenas metade do seu tamanho, consegue escorregar para
+fora de grilhões e amarras com
+facilidade, pode se esticar e dobrar
+de modos a alcançar pontos de apoio
+difíceis numa escalada além de ser mais
+ágil quando corre e escapa de obstáculos, recebendo um bônus de +2 em qualquer teste que
+envolva esse tipo de circunstância.
+Especial: Armaduras com a Característica Pesada impedem que você receba os bônus
+por esta Habilidade.
+---
+--Furtivo--
+Habilidade (Característica) – Suporte
+Descrição: Você é particularmente
+discreto quando quer. Você pode rolar +1d6
+quando fizer testes para se mover em silêncio,
+se esconder, camuflar, ou usar disfarces.
+---
+--Golpes Rápidos--
+Habilidade (Técnica) – Ação
+Mana: 20
+Descrição: Você pode fazer 2 ataques
+corporais com uma arma que esteja empunhando com apenas 1 mão ou com um de seus ataques desarmados.
+---
+--Mestre das Adagas 1--
+Habilidade (Técnica) – Ação
+Descrição: Você se especializou em arremessar armas pequenas de forma eficiente.
+Você pode arremessar 2 armas com a característica Arremesso e FN 1.
+---
+--Mestre das Adagas 2--
+Habilidade (Técnica) – Ação
+Requisito: Mestre das Adagas 1
+Descrição: Você refinou sua técnica de
+arremesso de pequenos objetos. Você pode arremessar até 4 armas com a característica Arremesso e FN 1.
+---
+--Movimentos Evasivos--
+Habilidade – Suporte
+Requisito: Acrobata
+Descrição: Você ganha +1 na sua defesa para cada 2 pontos que tiver em Agilidade.
+Esta habilidade só funciona se você estiver sem
+armadura.
+Esse é um bônus de Esquiva.
+---
+--Malabarista--
+Habilidade (Técnica) – Suporte
+Descrição: Você tem uma ótima coordenação para jogar e pegar objetos no ar. Além
+de poder realizar malabarismos – mesmo usando objetos perigosos como adagas ou tochas
+– como entretenimento, você recebe +2 em
+todas as suas jogadas para arremessar objetos
+e +1 na Defesa contra ataques à distância. Esse
+bônus de Defesa conta como Esquiva.
+---
+--Truque Sujo--
+Habilidade (Técnica) – Ação
+Requisito: Evasão
+Mana: 10
+Descrição: Quando estiver em distância
+corporal do oponente e ele estiver te vendo, faça
+um Confronto de Inteligência contra o alvo. Se
+você tiver um resultado igual ou maior do que o
+do oponente nesse teste, você realiza um truque
+sujo (joga areia nos olhos do oponente, joga um
+pano em seu rosto, enrola uma corda em suas
+pernas, etc.) fazendo com que o alvo fique confuso ou desequilibrado, não podendo realizar
+nenhuma ação no próximo turno, e sendo considerado Desprevenido por 1turno. 
+---
+
+Habilidades Avançadas
+
+---
+--Camuflagem--
+Habilidade – Suporte
+Requisito: Nível 5, Furtivo
+Descrição: Você pode se camuflar em
+florestas usando galhos, folhas e lama, ou nas
+sombras de becos e ruas usando uma capa preta
+e talvez fuligem ou barro. Quando puder usar
+o ambiente a seu favor dessa forma, você pode
+rolar +1d6 nos testes para se esconder.
+Combate com Duas Armas 2
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Combate com Duas
+Armas 1.
+Descrição: Como em Combate com
+Duas Armas 1, mas você pode usar duas armas
+com a mesma FN.
+---
+--Emboscar--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Camuflagem
+Mana: 20
+Descrição: Você se especializou em emboscar inimigos incapazes de percebê-lo. Quando
+fizer um ataque à distância contra um alvo Desprevenido (ver Condições, pág. 169), faça imediatamente um Confronto com sua Agilidade versus
+Inteligência do alvo. Se o seu resultado for mais
+alto do que o do alvo, ele não consegue perceber
+de onde veio o ataque, tornando impossível para
+o alvo lhe atacar (ou mesmo ter uma ideia aproximada da sua posição, a menos que ela seja óbvia)
+enquanto você permanecer escondido.
+---
+--En Passant--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5, Flanquear
+Descrição: Se um alvo que está adjacente a você tentar se afastar ou se levantar, você
+pode imediatamente fazer uma ação normal (sem Habilidades de Ação) contra ele. O alvo é
+considerado Despreparado contra essa ação (ver
+Condições, pág. 169).
+---
+--Explorar Surpresa--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Flanquear
+Mana: 20
+Descrição: Faça um ataque contra um
+alvo Despreparado (ver Condições, pág. 169).
+Esse ataque causa o dobro do dano normal.
+---
+--Improvisação Ladina--
+Habilidade – Suporte
+Requisito: Nível 5
+Descrição: Você pode pegar garrafas
+quebradas, lascas de madeira ou osso, pedaços
+de vidro ou mesmo de gelo e usar como se fosse
+uma adaga. Em geral uma adaga improvisada
+dessa forma se torna inútil depois de um ataque.
+Você também pode montar ou desarmar
+armadilhas e abrir fechaduras sem ter os materiais apropriados, desde que possa improvisar
+gazuas ou ferramentas – com agulhas, galhos,
+lascas de pedra, pedaços de armas, etc.
+---
+--Mestre das Adagas 3--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Mestre das Adagas 2
+Descrição: Você é um mestre da técnica de arremessar pequenos objetos! Você pode
+arremessar até 6 armas com a característica Arremesso e FN 1.
+---
+--Passo Leve--
+Habilidade (Técnica) Reação
+Requisito: Nível 5, Furtivo
+Mana: 10
+Descrição: Sempre que você fizer um
+teste para mover-se em silencio, se esconder ou
+camuflar ou bater carteiras você pode rolar novamente 1 dos dados.
+Você pode escolher com qual dos resultados vai ficar.
+Esta Habilidade só pode ser usada uma
+vez por turno.
+---
+--Ripostar--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5, Ataque Redirecionado
+Descrição: Você está sempre atento à
+guarda do oponente, esperando uma falha para
+contra-atacar de modo oportuno. Sempre que
+um oponente fizer um ataque contra você e errar, você pode imediatamente fazer um ataque
+normal contra aquele oponente.
+---
+--Trapaceiro Impecável--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Eloquente
+Descrição: Você está acostumado a enganar e mentir, e seu raciocínio se tornou tão
+condicionado a extrapolar situações rapidamente que até ler (ou mesmo dominar) sua mente
+é mais difícil! Sua Inteligência é considerada o
+dobro em Confrontos para tentar esconder ou
+dissimular a verdade e para calcular sua Determinação contra magias e efeitos que tentem ler
+sua mente ou perceber suas intenções.
+---
+
+Habilidade Final
+
+---
+--Mestre Especialista--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 10
+Descrição: Sempre que uma Habilidade oferecer um bônus de +1d6 em uma
+determinada ação, você recebe +2d6 para
+aquela ação ao invés disso. 
+---
+
+**Paladino**
+
+--
+/*
+Bônus de Atributo:
+Força +1
+Vontade +1
+Habilidade Inicial:
+--Mestre de Armas 1--
+Habilidade (Técnica) – Suporte
+Descrição: Você é particularmente
+eficiente no uso de armas brancas. Sempre
+que realizar um ataque corporal bem sucedido, adicione 3 ao dano do ataque.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Austeridade--
+Habilidade (Característica) –
+Suporte
+Requisito: Código da Honestidade
+Descrição: Sua integridade e retidão são
+tão inabaláveis que é impossível para outros
+influenciarem suas decisões. Você é imune a
+efeitos mentais (mas não Ilusões ou efeitos de
+Medo) e tentativas de influenciar sua opinião
+com persuasão e manipulação.
+Cavaleiro Experiente
+Habilidade (Técnica) – Suporte
+Descrição: Você passou muito tempo
+com animais de montaria e conhece seus hábitos, características e como lidar com eles. Você
+recebe +2 em todas as suas rolagens referentes à
+criaturas com as Habilidades Montaria e Paquiderme e recebe +2 em seus testes de ataque enquanto estiver montando uma dessas criaturas.
+---
+--Código da Coragem--
+Habilidade (Característica) – Suporte
+Descrição: Um Paladino nunca teme a
+morte, principalmente na proteção dos indefesos. Você nunca pode fugir de uma luta justa e
+deve sempre proteger os mais fracos – com a
+vida, se necessário.
+Você é imune a todos os efeitos de Medo.
+---
+--Código da Cortesia--
+Habilidade (Característica) – Suporte
+Descrição: Você se porta de maneira
+cortês e exala uma aura de autoconfiança e nobreza que inspira aqueles
+ao seu redor. Você sempre trata os
+nobres com o respeito que eles
+merecem e os seus inferiores
+com a cortesia devida.
+Você recebe Vontade +1, todos os seus aliados num raio
+de 1 metro por ponto de
+Vontade que você tiver também recebem +1 na Vontade.
+---
+--Código da Honestidade--
+Habilidade (Característica) – Suporte
+Descrição: Você sempre cumpre
+suas promessas, não importa quão
+difícil isso seja, e preza a verdade acima de tudo, emanando uma aura de
+honestidade que deixa desconfortáveis
+aqueles que escondem a verdade.
+Você sempre saberá quando alguém
+estiver mentindo. Nem sempre omitir é mentir, depende das intenções da pessoa que está
+omitindo. Mentir é passar informações erradas
+propositalmente.
+---
+--Código da Justiça--
+Habilidade (Característica) – Suporte
+Descrição: Você confia nas leis para se
+apoiar e possui uma crença inabalável na ordem. Você sempre respeita as leis vigentes nos
+locais onde está e não permite que outros as
+descumpram impunemente. Sua fé na ordem
+faz com que criaturas geradas no caos se sintam
+repelidas por você. 
+Todo infernal, morto-vivo ou espírito
+deve ser bem sucedido em um teste Vontade (Dificuldade igual à sua Determinação) ou
+não será capaz de se aproximar ou atacar você.
+Criaturas desses tipos com Mente Vazia fazem
+seus testes de baseados em Força, e se falhar
+serão completamente destruídas.
+---
+--Código da Lealdade--
+Habilidade (Característica) – Suporte
+Descrição: Você nunca ataca um
+combatente que já está derrotado, nem luta
+ou permite que outros lutem de forma injusta ou com deslealdade, e jamais trai ou
+permite que outros traiam aqueles que
+confiam em você.
+Você recupera o dobro de Pontos de Vida (por descanso, através
+de poções, magias, etc.) e é imune
+a venenos e doenças naturais ou
+mágicas.
+---
+--Combate Montado--
+Habilidade (Técnica) – Suporte
+Requisito: Cavaleiro Experiente
+Descrição: Sempre
+que fizer um ataque corporal
+enquanto estiver sobre uma
+montaria (uma criatura com
+a Habilidade Montaria ou Paquiderme), acrescente +6 em
+seus danos.
+---
+--Combate Tático--
+Habilidade (Técnica) – Reação
+Descrição: Se você derrotar um
+oponente com um ataque corporal, você
+pode imediatamente realizar outro ataque corporal normal (sem usar qualquer Habilidade de
+Ação).
+---
+--Defletor--
+Habilidade (Técnica) – Suporte
+Descrição: Você está acostumado a se
+defender de projéteis. Enquanto estiver empunhando uma arma corporal de duas mãos, duas
+armas corporais ou um escudo, você recebe
++2 no seu bônus de Bloqueio contra ataques
+à distância.
+Esse bônus de Defesa é considerado um
+bônus de Bloqueio.
+---
+--Égide--
+Habilidade (Técnica) – Reação
+Requisito: Código da Coragem
+Mana: 15
+Descrição: Você sempre está pronto
+para se interpor diante do perigo. Se um ataque
+ou magia for atingir um alvo adjacente a você,
+você pode se interpor e sofrer o ataque no lugar
+do alvo original. Você sofre apenas metade do
+dano do ataque ou magia, mas sofre quaisquer
+outros efeitos normalmente.
+---
+--Estabilidade--
+Habilidade (Característica) – Suporte
+Descrição: Você gosta de ter os dois pés solidamente plantados no chão – e faz isso
+muito bem! Você sempre rola +1d6
+em todos os seus testes de evitar
+quedas e manter o equilíbrio.
+---
+--Grito de Guerra 1--
+Habilidade – Ação
+Mana: 10
+Descrição: Você pode dar
+um grito fervoroso que motiva todos seus aliados. Você
+e todos os aliados que estiverem em um raio de 5 metros
+recebem +1 em todas as rolagens até o final da batalha.
+Além disso, remova todos
+os efeitos de Medo de todos
+os aliados dentro da área dessa
+Habilidade.
+Você não pode usar esta Habilidade se estiver sob qualquer
+efeito de Medo.
+---
+--Guerreiro de Aço 1--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado a usar
+armaduras pesadas. Você considera a FN de
+qualquer armadura com a Característica Pesada
+como tendo FN-1 para todos os propósitos.
+---
+--Justiça Final 1--
+Habilidade (Técnica) – Ação
+Requisito: Código da Justiça
+Mana: 25
+Descrição: Você pode fazer um ataque
+corporal que, se acertar, causa o dobro do dano
+normal, ou o triplo do dano normal se a criatura for um infernal, morto-vivo ou espírito.
+---
+--Montaria Especial 1--
+Habilidade – Suporte
+Requisito: Código da Cortesia
+Descrição: Um animal especial foi atraído pela aura de nobreza que você exala. Escolha uma criatura com a Habilidade Montaria
+ou Paquiderme com Ameaça 0 que exista na
+região em que você está. O animal escolhido
+será atraído para você e lhe será fiel até a morte (ele passa a ter o temperamento Protetor) e
+terá um Treinamento Especial à sua escolha
+automaticamente (sem necessidade de treinamento). Se o animal morrer, você pode atrair
+outro animal – que não precisa ser do mesmo tipo escolhido anteriormente. Se o animal
+não existir na região onde você está, ele pode
+levar algum tempo para ser guiado até você –
+dependendo da região onde o tipo de animal
+existe nas proximidades, podendo demorar até
+1 dia inteiro.
+Você pode atrair uma nova Montaria Especial 1 vez a cada dia, e só pode atrair 1 montaria de cada vez.
+Especial: Se essa Habilidade for escolhida durante a criação do personagem, o animal já estará com você, independente de onde
+você esteja e onde seja o habitat normal do
+animal.
+---
+--Montaria Especial 2--
+Habilidade – Suporte
+Requisito: Montaria Especial 1, Código
+da Coragem
+Descrição: Sua montaria especial foi tocada pela sua aura de coragem e tornou-se ainda mais ligada a você. Sua montaria é totalmente imune a efeitos mentais e efeitos de Medo, e
+recebe +10 Pontos de Vida.
+---
+--Motivar--
+Habilidade (Técnica) – Ação
+Requisito: Código da Lealdade
+Mana: 30
+Descrição: Você profere palavras de encorajamento que inspiram seus aliados, recuperando sua moral e vontade. Todos os aliados
+num raio de 1 metro por ponto de Vontade que
+você tiver e que puderem lhe ouvir recuperam
+imediatamente 10 Pontos de Vida e quaisquer
+efeitos de Medo que os estiver afetando é removido.
+Estes efeitos não afetam o personagem
+usando essa Habilidade.
+---
+--Nocautear--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Faça um ataque corporal que
+cause dano por Contusão. Se acertar, além de sofrer o dano normal do ataque, o alvo fica Paralisado (veja Condições na página 169) por 1 turno.
+---
+--Parede de Escudos--
+Habilidade (Técnica) – Suporte
+Descrição: Você está acostumado a lutar em grupo e usar seu escudo para proteger
+seus aliados. Enquanto você estiver usando um
+escudo, todos os aliados adjacentes a você recebem um bônus de +1 na Defesa.
+Este é um bônus de Bloqueio.
+---
+--Sem Escapatória--
+Habilidade (Técnica) – Reação
+Requisito: Combate Tático
+Descrição: Se um oponente que está
+adjacente a você tentar se afastar ou se levantar, você pode imediatamente fazer um ataque
+corporal normal contra ele. Se acertar, além de
+sofrer o dano normal pelo ataque, o oponente
+não poderá se movimentar neste turno.
+---
+
+Habilidades Avançadas
+
+---
+--Banir--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Código da Justiça
+Mana: 30
+Descrição: Sua crença na ordem natural
+das coisas é tão arrebatadora que você é capaz de
+purgar criaturas geradas do caos. Tocando uma
+criatura do tipo morto-vivo, infernal ou espírito,
+você pode destruí-las (no caso de mortos-vivos e
+espíritos) ou bani-las de volta aos seus planos de
+origem (no caso de infernais) a menos que passem em um teste de Vontade (Dificuldade igual
+à sua Determinação). Criaturas desses tipos com
+Mente Vazia não podem resistir a esse efeito e
+são automaticamente destruídas ou banidas.
+---
+--Comando Heroico--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Motivar
+Mana: 30
+Descrição: Você ordena uma palavra
+a um aliado (pule, resista, viva, acerte, etc.) e o
+alvo realiza imediatamente aquela ação. A ordem não pode ser negativa (falhe, morra, caia, etc.).
+O alvo ainda rola seu teste normalmente, apenas
+para verificar a possibilidade de um sucesso crítico – qualquer outro resultado (mesmo uma falha
+crítica) é considerado um sucesso normal.
+---
+--Coração da Batalha--
+Habilidade (Característica) – Reação
+Requisito: Nível 5
+Descrição: Quando sofrer algum dano
+proveniente de um ataque, Magia, ou Música
+você recupera 5 Pontos de Mana.
+Você só pode usar esta Habilidade uma
+vez por turno.
+---
+--Destemor--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Código da Coragem
+Descrição: Sua coragem o impulsiona
+em situações de perigo para si e para seus companheiros. Sempre que for realizar um teste que
+represente um risco direto para você ou para
+um amigo (incluindo praticamente todas as situações de combate), você soma +2 ao resultado de todas as suas rolagens.
+---
+--Grito de Guerra 2--
+Habilidade – Ação
+Requisito: Nível 5, Grito de Guerra 1
+Mana: 15
+Descrição: Você pode dar um grito fervoroso que motiva todos seus aliados. Você e
+todos os seus aliados em um raio de 10 metros
+recebem +2 em todas as rolagens até o final da
+batalha. Além disso, remova todos os efeitos de
+Medo de todos os aliados dentro da área dessa
+Habilidade.
+Você não pode usar esta Habilidade se
+estiver sob qualquer efeito de Medo.
+---
+--Guerreiro de Aço 2--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Guerreiro de Aço 1
+Descrição: Você está extremamente
+acostumado a usar armaduras pesadas e se sente confortável quando verga uma. Você considera a FN de Qualquer armadura com a Característica Pesada como tendo FN-1 para todos
+os propósitos.
+Essa redução se acumula com a redução
+fornecida por Guerreiro de Aço 1.
+---
+--Implacável--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Sem Escapatória
+Descrição: Sempre que errar um ataque
+corporal, o alvo sofre metade do dano normal
+do ataque (arredondando para baixo).
+---
+--Justiça Final 2--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Justiça Final 1
+Mana: 50
+Descrição: Você pode fazer um ataque
+corporal que, se acertar, causa o triplo do dano
+normal ou o quádruplo se a criatura for um infernal, morto-vivo ou espírito.
+---
+--Montaria Especial 3--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Montaria Especial 2,
+Código da Honestidade
+Descrição: Sua montaria desenvolveu
+um vínculo profundo com você, permitindo
+que você veja pelos olhos dela apenas se concentrando. Ela também recebe +1 em Força e
++1 em Vontade e é capaz de enxergar criaturas
+invisíveis.
+---
+--Valor da Vitória--
+Habilidade (Característica) – Reação
+Requisito: Nível 5
+Descrição: Cada vez que você derrota
+um oponente (isso inclui se ele se render ou fugir após a batalha) você recupera 5 pontos de
+vida e 5 pontos de mana.
+---
+
+Habilidade Final
+
+---
+--Integridade--
+Habilidade (Característica) – Reação
+Requisito: Nível 10, Dois Códigos Quaisquer
+Mana: 10
+Descrição: Sua inflexibilidade moral é
+tanta, que você não se dá por vencido nem
+diante da morte certa. Quando um ataque,
+magia, música ou técnica reduziriam seus
+Pontos de Vida a ponto de deixá-lo “Por Um
+Fio” (ver pág, 15), você ignora totalmente seu
+dano e quaisquer outros efeitos.
+Essa Habilidade não tem efeito em
+venenos, doenças ou fatores ambientais que
+causem dano.
+---
+
+**Patrulheiro**
+
+--
+/*
+Bônus de Atributo:
+Agilidade +1
+Inteligência +1
+Habilidade Automática:
+--Arqueria--
+Habilidades (Característica) – Suporte
+Descrição: Você recebe +2 em todos
+os seus ataques à distância (incluindo arremessos) e em testes envolvendo Arcos, Bestas, Prodds e fundas de todos os tipos. Você
+sabe como consertar essas armas e como fabricar a munição para elas.
+Especial: para consertar as armas ou
+fabricar a munição, você deve ter as matérias
+primas adequadas e as ferramentas, com isso
+faça um teste de Inteligência, a dificuldade é
+10 (o Mestre pode aumentar a dificuldade no
+caso de consertos muito complexos ou de
+uma fabricação do zero).
+*\
+---
+
+Habilidades Básicas
+
+---
+--Acrobata--
+Habilidade (Característica) – Suporte
+Descrição: Você sempre rola +1d6 em
+seus testes de equilíbrio, salto, piruetas e coisas semelhantes. Além disso, você sofre apenas
+metade dos danos por queda.
+---
+--Armadilheiro--
+Habilidade (Técnica) – Ação
+Descrição: Se encontrar armadilhas,
+você pode fazer testes de Inteligência para
+desarmá-las. Além disso, se tiver os materiais
+e o tempo necessários, você pode armar uma
+armadilha. Faça um teste de Inteligência: O resultado do teste será a dificuldade para a armadilha ser percebida e desarmada.
+---
+--Ataque Aleijador--
+Habilidade (Técnica) – Ação
+Mana: 20
+Descrição: Faça um ataque corpo-
+-a-corpo ou à distância contra
+uma criatura viva. Além de receber o dano normal pelo ataque, o
+alvo fica com seu Deslocamento
+reduzido em 1 e sempre que se
+deslocar ou fizer um teste que
+envolva movimentação ou
+equilíbrio (como se equilibrar, saltar, nadar ou mover-
+-se em silêncio) ele perde 10
+Pontos de Vida.
+Esse é um efeito de
+Sangramento.
+---
+--Benção de Ellenis--
+Habilidade (Característica) – Suporte
+Descrição: Você é capaz
+de se comunicar com qualquer
+Besta do tipo Mamífero, Ave,
+Réptil ou Peixe. Essa comunicação é
+rudimentar, baseada nas capacidades da
+criatura em questão. Além disso, você receber +2 em todas as rolagens envolvendo essas
+criaturas e poder alterar o temperamento delas
+em 1 passo (Furioso ou Cruel para Agressivo,
+Agressivo para Sobrevivente, Sobrevivente
+para Pacífico e Pacífico para Covarde ou vice-
+-versa) com um teste de Vontade (Dificuldade
+igual à Determinação do alvo) – esse efeito
+não funciona em animais com temperamento
+Servo ou Protetor.
+Animais selvagens só irão aceitar “conversar” se tiverem temperamento pacífico ou
+sobrevivente, a menos que estejam aprisionados ou encurralados de alguma forma.
+---
+--Caçador de [Criatura]--
+Habilidade (Técnica) – Suporte
+Requisito: Armadilheiro
+Descrição: Você se especializou em caçar um tipo de criatura. Escolha entre Humanoides, Trogloditas, Bestas ou Esfinges. Você
+sempre causa +2 pontos de dano em todos os
+ataques contra este tipo de criatura. Além disso,
+você recebe +2 em todos os seus testes relacionados a esse tipo de criatura.
+---
+--Chuva de Flechas--
+Habilidade (Técnica) – Ação
+Requisito: Flechas Rápidas
+Mana: 30
+Descrição: Você pode atirar até 4
+flechas em um só ataque em múltiplos oponentes. Faça
+uma rolagem para cada
+flecha, que devem ter alvos diferentes.
+---
+--Companheiro Animal 1--
+Habilidade – Suporte
+Descrição: Você possui uma
+ligação de fidelidade com um
+animal. Escolha uma Besta dos tipos Mamífero, Ave,
+Réptil ou Peixe com Ameaça
+0 que exista na região em que
+você está. O animal escolhido
+será atraído para você e lhe será
+fiel até a morte (ele passa a ter o
+temperamento Protetor). Você pode
+liberar o animal à qualquer momento, e
+ele irá retornar à natureza, voltando a ter seu
+temperamento normal (mas retendo benefícios
+que tenha recebido por suas Habilidades de
+Companheiro Animal). Se você liberar o animal ou se o animal morrer, você pode atrair
+outro animal – que não precisa ser do mesmo
+tipo escolhido anteriormente.
+Você pode atrair um novo Companheiro
+Animal 1 vez a cada dia, e só pode atrair 1 animal de cada vez.
+Especial: Se essa Habilidade for escolhida durante a criação do personagem, o animal
+já estará com você, independente de onde você
+esteja e onde seja o habitat normal do animal.
+---
+--Companheiro Animal 2--
+Habilidade – Suporte
+Requisito: Companheiro Animal 1
+Descrição: Seu Companheiro Animal recebe +1 em 2 Atributos à sua escolha, +5 Pontos
+de vida e +5 Pontos de Mana. Além disso, seu
+Companheiro Animal recebe uma Habilidade do
+tipo Técnica à sua escolha (desde que faça sentido; o Mestre tem a palavra final sobre o assunto).
+---
+--Disparo Forte--
+Habilidade (Técnica) – Ação
+Requisito: Retesar Eficiente
+Mana: 10
+Descrição: Faça um ataque à distância. Se acertar, some +8 ao dano da arma.
+---
+--Disparo Certeiro--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Você realiza
+um ataque à distância rolando
++1d6.
+---
+--Espírito Animal--
+Habilidades (Técnica) – Suporte
+Descrição: Seu espírito
+possui a forma de um animal.
+Escolha um Espírito Animal
+para ser seu guia. Essa escolha é
+permanente e não pode ser mudada posteriormente.
+Veja a descrição dos Espíritos Animais na pág. 143.
+---
+--Evasão--
+Habilidade (Técnica) – Reação
+Mana: 20
+Descrição: Se o seu inimigo fizer um
+ataque corporal e acertar, você pode declarar
+evasão, e obrigar o inimigo a rolar novamente
+o teste de ataque. Você pode escolher com qual
+dos resultados o oponente vai ficar.
+Você só pode usar esta Habilidade 1 vez
+por turno.
+---
+--Falhas da Armadura--
+Habilidade (Técnica) – Suporte
+Descrição: Você sabe como acertar ataques entre as frestas e falhas das armaduras do
+inimigo. Ignore sempre o bônus de armadura
+da defesa do oponente.
+---
+--Flechas Rápidas--
+Habilidade (Técnica) – Reação
+Mana: 20
+Descrição: Após fazer um ataque normal usando um arco, você pode fazer imediatamente outro ataque normal com o arco.
+Especial: Esta Habilidade só pode ser
+usada 1 vez por turno.
+---
+--Furtivo--
+Habilidade (Característica) – Suporte
+Descrição: Você é particularmente discreto quando quer. Você pode rolar
++1d6 quando fizer testes para se mover em silêncio, se esconder, camuflar, ou usar disfarces.
+---
+--Herbalismo--
+Habilidade (Técnica) – Suporte
+Requisito: Sabedoria Selvagem
+Descrição: Você pode rolar testes de Inteligência para
+criar poções básicas. Além
+disso, enquanto estiver em
+um ambiente selvagem, você
+e seus aliados não são afetados por doenças e venenos
+de origem natural – seus aliados passam a ser imunes depois
+de um dia inteiro que estiverem
+com você (desde que eles aceitem
+suas dicas do que comer e do que
+não comer) – e você é sempre considerado como tendo um Kit de Cura á mão,
+a menos que o ambiente seja completamente
+estéril (desertos ou áreas glaciais).
+---
+--Precisão--
+Habilidade (Técnica) – Suporte
+Requisito: Disparo Certeiro
+Descrição: Você confia mais em uma
+pontaria bem feita do que em força bruta quando arremessa armas ou dispara com arcos.
+Quando fizer ataques à distância você pode
+usar Inteligência ou Agilidade ao invés de Força para calcular o dano de armas de distância e
+de arremesso.
+---
+--Retesar Eficiente--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma técnica
+eficiente em retesar arcos e bestas. Quando
+estiver usando uma besta ou prodd de qualquer tipo, você ignora a Característica Carregar dessas armas.
+Quando estiver usando um arco ou funda de qualquer tipo, o dano de seus ataques à
+distância é aumentado em +2.
+---
+--Sabedoria Selvagem--
+Habilidade – Suporte
+Descrição: Você passou muito tempo
+em ambientes selvagens e dedicou muito tempo ao estudo da natureza em todas as suas formas. Você rola +1d6 em testes que envolvam
+a natureza como forragear, rastrear, encontrar
+abrigo, identificar ervas, etc.
+---
+--Truque Sujo--
+Habilidade (Técnica) – Ação
+Requisito: Evasão
+Mana: 10
+Descrição: Quando estiver em distância
+corporal do oponente e ele estiver te vendo,
+faça um Confronto de Inteligência contra o
+alvo. Se você tiver um resultado igual ou maior
+do que o do oponente nesse teste, você realiza
+um truque sujo (joga areia nos olhos do oponente, joga um pano em seu rosto, enrola uma
+corda em suas pernas, etc.) fazendo com que
+o alvo fique confuso ou desequilibrado, não
+podendo realizar nenhuma ação no próximo
+turno, e sendo considerado Desprevenido por
+1turno. 
+---
+
+Habilidades Avançadas
+
+---
+--Caçador de [Monstro]--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Armadilheiro
+Descrição: Escolha um monstro (orc,
+troll, ogro, goblin ou qualquer outro monstro)
+quando comprar esta habilidade. Você sempre
+causa +6 de dano em todos os ataques contra
+este tipo de monstro e rola +1d6 em testes relacionados a eles.
+---
+--Camuflagem--
+Habilidade – Suporte
+Requisito: Nível 5, Furtivo
+Descrição: Você pode se camuflar em
+florestas usando galhos, folhas e lama, ou nas
+sombras de becos e ruas usando uma capa preta
+e talvez fuligem ou barro. Quando puder usar
+o ambiente a seu favor dessa forma, você pode
+rolar +1d6 nos testes para se esconder.
+---
+--Chuva de Flechas 2--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Chuva de Flechas
+Mana: 40
+Descrição: Você pode atirar até 6 flechas em um só ataque. Faça uma rolagem para
+cada flecha, que podem ter alvos diferentes.
+---
+--Companheiro Animal 3--
+Habilidade – Suporte
+Requisito: Nível 5, Companheiro animal 2
+Descrição: Seu Companheiro Animal
+recebe +1 em todos os seus Atributos e +10
+Pontos de Vida ou +10 Pontos de Mana à sua
+escolha. Além disso, seu Companheiro Animal
+recebe uma Habilidade do tipo Técnica à sua
+escolha (desde que faça sentido; o Mestre tem a
+palavra final sobre o assunto).
+---
+--Emboscar--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Camuflagem
+Mana: 20
+Descrição: Você se especializou em
+emboscar inimigos incapazes de percebê-lo.
+Quando fizer um ataque à distância contra um
+alvo Desprevenido, faça imediatamente um
+Confronto de com sua Agilidade versus Inteligência do alvo. Se o seu resultado for mais alto
+do que o do alvo, ele não consegue perceber de
+onde veio o ataque, tornando impossível para o
+alvo lhe atacar (ou mesmo ter uma ideia aproximada da sua posição, a menos que ela seja
+óbvia) enquanto você permanecer escondido.
+---
+--Empalar--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Ataque Aleijador,
+Disparo Certeiro
+Descrição: Se você rolar um Sucesso
+Crítico em um ataque à distância (incluindo arremessos) usando uma arma que cause dano
+por Perfuração, o dano será multiplicado por 3
+ao invés de 2.
+Este é um efeito de sangramento.
+---
+--Matador de [Criatura]--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Caçador de [Criatura]
+Descrição: Escolha uma criatura dentre aquelas do tipo que escolheu para Caçador
+(Goblins, Orcs, Gnolls ou Draconianos se você
+escolheu Humanóides, por exemplo). Você
+sempre causa +4 pontos de dano em todos os
+ataques contra este tipo de criatura (esse bônus
+se acumula com o bônus de Caçador de [Criatura]). Além disso, você rola +1d6 em todos os
+testes relacionados a essa criatura (esse bônus
+se acumula com o bônus de Caçador de [Criatura]).
+---
+--Olho da Águia--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5, Disparo Certeiro
+Mana: 10
+Descrição: Sempre que você fizer um
+ataque à distância (incluindo arremessos) você
+pode rolar novamente 1 dos dados.
+Você pode escolher com qual dos resultados vai ficar.
+Você só pode usar esta Habilidade 1 vez
+por turno.
+---
+--Passo Leve--
+Habilidade (Técnica) Reação
+Requisito: Nível 5, Furtivo
+Mana: 10
+Descrição: Sempre que você fizer um
+teste para mover-se em silencio, se esconder ou
+camuflar ou bater carteiras você pode rolar novamente 1 dos dados.
+Você pode escolher com qual dos resultados vai ficar.
+Esta Habilidade só pode ser usada uma
+vez por turno.
+---
+--Venefício--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Herbalismo
+Descrição: Você é um especialista na fabricação, aplicação e cura de venenos. Você pode
+produzir qualquer veneno ou antídoto mágico.
+Especial: Se você tiver alguma Habilidade do tipo Magia que cause dano por Perfuração ou Corte em um alvo, ela também aplicam
+um efeito de veneno potente (O alvo perde 5
+Pontos de Vida por turno) além do dano normal. Esse veneno é considerado mágico e permanece ativo por uma quantidade de turnos
+igual à sua Vontade ou até ser curado.
+---
+
+Habilidade Final
+
+---
+--Arqueria de Mestre--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 10, Olho da Águia
+Descrição: Você sempre rola +1d6
+para ataques à distância (incluindo arremessos)
+---
+
+**Rúnico**
+
+---
+/*
+Bônus de Atributo:
+Força +1
+Inteligência +1
+Habilidade Automática:
+--Conhecimento Arcano--
+Habilidade (Técnica) – Ação
+Descrição: Você é capaz de decifrar
+e canalizar os fenômenos do sobrenatural.
+Você pode ler e utilizar tomos mágicos e desenhar Runas Arcanas (veja a página 36 para
+regras de magia). Você também é capaz de
+canalizar sua energia para a conjuração de
+fenômenos mágicos com eficiência. Sempre que usar uma Habilidade do tipo Magia,
+você pode gastar Pontos de Vida ao invés de
+Pontos de Mana para pagar seu custo. Nesse
+caso, cada 2 Pontos de Vida equivalem à 1
+Ponto de Mana.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Aparar Magia--
+Habilidade (Técnica) – Reação
+Requisito: Detectar Magia
+Mana: 5
+Descrição: Sempre que for
+alvo de uma magia que cause dano ou
+perda de vida, você pode reduzir aquele
+dano ou perda de vida pela metade.
+Essa Habilidade não afeta quaisquer outros efeitos da magia além de dano ou perda
+de vida.
+Especial: Se você tiver Resistência ao
+tipo de dano que a magia causa, você não sofre
+dano e evita qualquer outro efeito da magia.
+---
+--Arma Fiel--
+Habilidade (Magia) – Ação
+Requisito: Enfeitiçar Arma 1
+Mana: 20
+Dificuldade da Magia: 12
+Descrição: Você pode fazer um item
+portátil vir até você desenhando uma Runa
+Arcana no ar entre você e o objeto. O item
+precisa estar em sua linha de visão, e irá desaparecer de onde está e aparecer na sua mão.
+Essa magia só funciona com itens portáteis
+como armas, escudos, ferramentas ou frascos
+e o item precisa estar marcado com sua Runa
+pessoal. Além disso, você precisa ter pelo menos uma mão livre para que essa magia funcione.
+---
+--Arma Incandescente--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Faça um ataque corporal
+com uma arma que esteja marcada
+com sua Runa pessoal. Esse ataque
+causa o dano normal da arma e um
+dano adicional igual a 10/Fogo.
+Esse efeito pode ser usado para
+inflamar objetos combustíveis
+– mas não faz alvos vivos irromperem em chamas.
+---
+--Arma Gélida--
+Habilidade (Técnica) – Ação
+Mana: 5
+Descrição: Faça um ataque
+corporal com uma arma que
+esteja marcada com sua Runa
+pessoal. Esse ataque causa o
+dano normal da arma, mais um
+dano adicional igual a 8/Frio.
+Se esse efeito for conjurado enquanto a arma estiver submersa em
+líquido, ele congela uma esfera de meio
+metro de diâmetro (aproximadamente 125
+litros).
+---
+--Arma Relampejante--
+Habilidade (Técnica) – Ação
+Mana: 15
+Descrição: Faça um ataque corporal
+com uma arma que esteja marcada com sua
+Runa pessoal. Esse ataque causa o dano normal da arma, mais um dano adicional igual a
+10/Eletricidade. Ignore bônus de Armadura e
+Bloqueio se o alvo estiver usando armaduras
+ou escudos de metal ou se estiver usando uma
+arma de metal para bloquear.
+---
+--Armadura Fiel--
+Habilidade (Magia) – Ação
+Requisito: Arma Fiel, Enfeitiçar Armadura
+Mana: 30
+Dificuldade da Magia: 12
+Descrição: Você pode fazer uma vestimenta vir até você desenhando uma Runa Arcana no ar entre você e ela. O item precisa estar
+em sua linha de visão, e irá desaparecer de onde
+está e aparecer vestido no seu corpo. Essa magia
+só funciona com itens que possam ser vestidos,
+como armaduras, roupas, mochilas ou cintos e o
+item precisa estar marcado com sua Runa pessoal. Além disso, você precisa ter espaço para que
+o item seja vestido para que essa magia funcione – é impossível trazer uma mochila
+se você já estiver usando alguma coisa
+nas costas, ou trazer uma armadura
+se você já estiver usando uma.
+---
+--Ataque Fantasma--
+Habilidade (Técnica) – Ação
+Mana: 15
+Descrição: Faça um
+ataque corporal com uma
+arma que esteja marcada com
+sua Runa pessoal. Esse ataque causa +8 de dano e afeta
+criaturas incorpóreas como se
+elas não tivessem essa Habilidade.
+---
+--Combate Tático--
+Habilidade (Técnica) – Reação
+Descrição: Se você derrotar um oponente com um ataque
+corporal, você pode imediatamente realizar outro ataque corporal.
+---
+--Conjurar Escudo--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Você desenha uma Runa
+Arcana sobre uma criatura que se materializa
+na forma de um escudo que flutua ao redor
+do alvo defletindo ataques, mas pode ser segurado como um escudo normal. Ele garante
+Bloqueio +2, e se for segurado tem FN 2,
+ocupa 1 mão e seu bônus passa a ser de Bloqueio.
+A Runa Arcana que mantém o escudo se
+dissipa depois de 1 minuto.
+---
+--Desativar Item--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade: 11
+Descrição: Você pode desativar temporariamente um item mágico desenhando uma
+Runa Arcana sobre ele, fazendo com que todos
+os efeitos mágicos fornecidos pelo item (incluindo sua resistência, que será definida pelo
+material original do item ao invés de ser calculada como se ele fosse feito de Drakonite) deixem de funcionar. Além disso, todas as Runas
+Arcanas e Selos Místicos sobre o item são dissipadas imediatamente. Itens abençoados (Guia
+do Herói, página 70) não são afetados por
+essa Habilidade.
+Essa Runa Arcana se dissipa imediatamente depois que seus efeitos são
+desencadeados, mas o item mágico permanece desativado por 10
+minutos por ponto de Inteligência que você tiver.
+---
+--Detectar Magia--
+Habilidade (Técnica) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+Descrição: Concentrando-se
+nos fluxos de energias mágicas, você pode enxergar a aura
+de objetos mágicos, Runas Arcanas e Selos Místicos. Você
+pode analisar a aura mágica de
+um Selo, Runa ou objeto para entender suas propriedades observando-a por 1 minuto.
+---
+--Enfeitiçar Arma 1--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa Arcana sobre uma arma, você confere um bônus de +1
+nas rolagens de ataque e nos danos dessa arma.
+Essa Runa Arcana dura 1 minuto.
+---
+--Enfeitiçar Armadura--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa Arcana sobre uma armadura ou vestimenta, você aumenta o bônus de defesa do item em +1 (ou
+confere +1 de Armadura para uma peça de
+roupa comum).
+Essa Runa Arcana dura 1 minuto.
+---
+--Guerreiro de Aço 1--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado a usar
+armaduras pesadas. Você considera a FN de
+Qualquer armadura com a Característica Pesada como tendo FN-1 para todos os propósitos.
+---
+--Mente Disciplinada--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma vontade extremamente organizada, acostumada a se concentrar em tarefas
+complexas. Você tem Determinação +2 e as dificuldades de todas
+as magias que você realiza são
+reduzidas em 1.
+---
+--Onda de Chamas--
+Habilidade (Técnica) – Ação
+Requisito: Arma Incandescente
+Mana: 10
+Descrição: Faça um
+ataque corporal com uma arma
+que esteja marcada com sua
+Runa pessoal, contra um alvo
+dentro da sua linha de visão. Esse
+ataque produz uma onda flamejante que causa dano igual a 10/Fogo.
+Esse efeito pode ser usado para inflamar objetos combustíveis – mas não faz
+alvos vivos irromperem em chamas.
+---
+--Onda de Frio--
+Habilidade (Técnica) – Ação
+Requisito: Arma Gélida
+Mana: 10
+Descrição: Faça um ataque corporal
+com uma arma que esteja marcada com sua
+Runa pessoal, contra um alvo dentro da sua linha de visão. Esse ataque produz uma rajada de
+ar gélido e partículas de gelo que causa igual a
+10/Frio. Se o alvo for um líquido, ele congela
+uma área de até 10 metros quadrados, com cerca de 10 centímetros de espessura.
+---
+--Onda de Raios--
+Habilidade (Técnica) – Ação
+Requisito: Arma Relampejante
+Mana: 15
+Descrição: Faça um ataque corporal
+com uma arma que esteja marcada com sua
+Runa pessoal, contra um alvo dentro da sua linha de visão. Esse ataque produz uma descarga
+elétrica que causa igual a 10/Eletricidade. Esse
+ataque ignora qualquer escudo ou armadura
+com a Característica Pesada e quaisquer bônus
+de bloqueio do alvo.
+---
+--Onda Fantasma--
+Habilidade (Técnica) – Ação
+Requisito: Ataque Fantasma
+Mana: 15
+Descrição: Faça um ataque corporal contra um alvo
+que possa ver. Você precisa
+estar usando uma arma que
+esteja marcada com sua Runa
+pessoal. Esse ataque produz
+uma onda espectral que ignora paredes, portas, armaduras, escudos e quaisquer
+outros obstáculos inorgânicos. Essa rajada causa 10 de
+dano (o tipo de dano causado pelo ataque será o mesmo do tipo que a arma usada
+puder causar normalmente)
+e afeta criaturas incorpóreas
+como se elas fossem sólidas.
+---
+--Resistência Elemental--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 9
+Descrição: Desenhando uma Runa Arcana
+sobre uma criatura ou objeto, você confere
+Resistência a Fogo, Frio ou Eletricidade (o
+alvo sofre apenas metade do dano proveniente desse tipo de energia) a ele.
+Essa Runa Arcana dura por 1 minuto.
+---
+--Sem Escapatória--
+Habilidade (Técnica) – Reação
+Requisito: Combate Tático
+Descrição: Se um oponente que está
+adjacente a você tentar se afastar ou se levantar, você pode imediatamente fazer um ataque
+corporal normal contra ele. Se acertar, além de
+sofrer o dano normal pelo ataque, o oponente
+não poderá se movimentar neste turno.
+---
+
+Habilidades Avançadas
+
+---
+--Aptidão Elemental--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Mente Disciplinada
+Descrição: Você possui um domínio
+considerável sobre as energias mais elementares da magia. Todas as suas magias custam 5
+Pontos de Mana a menos para serem conjuradas e todas as suas magias e técnicas que causam dano por Fogo, Frio ou Eletricidade causam 5 pontos de dano a mais.
+---
+--Arma Elemental--
+Habilidade (Técnica) - Reação
+Requisito: Nível 5
+Mana: 5
+Descrição: Quando sacar uma arma que
+tenha sua Runa Pessoal desenhada sobre ela,
+você pode fazer com que a arma irrompa em
+energia elemental, causando uma quantidade de
+dano extra igual à sua Inteligência - este dano
+deve ser por Eletricidade, Fogo ou Frio.
+A escolha do tipo de energia é feito quando você saca a arma, e o efeito só se dissipa
+quando você soltar (ou embainhar) a arma.
+---
+--Ataque Chocante--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Arma Relampejante
+Mana: 25
+Descrição: Faça um ataque corporal com
+uma arma que esteja marcada com sua Runa pessoal. Esse ataque causa o dano normal da arma
+em conjunto com uma potente rajada elétrica que
+causa 10/eletricidade e faz com que o alvo fique
+Paralisado por 2 turno (ver Condições, pág. 169).
+Ignore bônus de Armadura e Bloqueio se o alvo
+estiver usando armaduras ou escudos de metal ou
+se estiver usando uma arma de metal para bloquear.
+Especial: Alvos Imunes à Eletricidade
+não são afetados por essa Habilidade – mas
+alvos Resistentes à Eletricidade são afetados
+normalmente.
+---
+--Ataque Congelante--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Arma Gélida
+Mana: 30
+Descrição: Faça um ataque corporal
+com uma arma que esteja marcada com sua
+Runa pessoal. Esse ataque causa o dano normal
+da arma além de 8/Frio e congela dentro de um
+bloco de gelo (o alvo é considerado Paralisado
+e só pode ser afetado por efeitos Mentais) e sofre dano igual a 8/Frio no começo de seu turno. Esse efeito dura uma quantidade de turnos
+igual à sua Inteligência.
+Especial: O bloco de gelo contendo o
+personagem pode ser destruído se sofrer uma
+quantidade de dano igual à Determinação do
+conjurador da magia. O bloco de gelo é imune
+a ataques que causem dano por Frio e ataques
+que causam dano por Eletricidade também afetam o alvo congelado.
+---
+--Ataque Flamejante--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Arma Incandescente
+Mana: 20
+Descrição: Faça um ataque corporal
+com uma arma que esteja marcada com sua
+Runa pessoal. Esse ataque causa o dano normal
+da arma além de 10/fogo e faz o alvo entrar
+em combustão (o alvo sofre uma quantidade de
+dano igual a 10/fogo no começo do seu turno)
+por uma quantidade de turnos igual à sua Inteligência ou até que as chamas sejam apagadas
+de alguma forma.
+Especial: Um personagem em combustão pode gastar seu turno rolando no chão para
+apagar as chamas. Ele será considerado Caído
+e Despreparado enquanto fizer isso (ver Condições, pág. 169).
+---
+--Golpe do Vento--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Enfeitiçar Arma 1
+Mana: 20
+Descrição: Você é capaz de cortar o ar,
+enviando uma rajada de vento mágico que corta
+alvos distantes. Faça um ataque corporal com
+uma arma que esteja marcada com sua Runa
+pessoal contra um alvo dentro da sua linha
+de visão. Esse ataque causa o dano normal da
+arma.
+---
+--Dissipar Magia--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Aparar Magia
+Mana: Variável
+Descrição: Você dissipa todas as Runas
+Arcanas ou Selos Místicos de uma criatura, objeto ou estrutura com seu toque. Essa Habilidade não tem efeito em Runas ou Selos com
+efeitos instantâneos (como Curar Ferimentos,
+Rajada de Espinhos ou Teleporte) nem reverte
+efeitos permanentes de magia (como restaurar
+os Pontos de Vida perdidos devido a uma Bola
+de Fogo, dissipar água criada por Princípio Natural ou reverter água afetada por Raio Gélido
+de volta ao estado líquido). Você pode também
+escolher quais Runas ou Selos dissipar e quais
+não, caso o alvo tenha mais de um Selo ou
+Runa afetando-o.
+O custo para dissipar um Selo ou Runa é
+igual ao custo usado para conjurá-los.
+---
+--Enfeitiçar Arma 2--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Enfeitiçar Arma
+Mana: 25
+Dificuldade da Magia: 12
+Descrição: Desenhando uma Runa Arcana sobre uma arma, você confere um bônus
+de +3 nas rolagens de ataque e nos danos dessa
+arma.
+Essa Runa Arcana dura 1 minuto.
+---
+--Guerreiro de Aço 2--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Guerreiro de Aço 1
+Descrição: Você está extremamente
+acostumado a usar armaduras pesadas e se sente confortável quando verga uma. Você considera a FN de Qualquer armadura com a Característica Pesada como tendo FN-1 para todos
+os propósitos.
+Essa redução se acumula com a redução
+fornecida por Guerreiro de Aço 1.
+---
+--Implacável--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Sem Escapatória
+Descrição: Sempre que errar um ataque
+corporal, você causa metade do dano normal
+do ataque (arredondando para baixo).
+---
+
+Habilidade Final
+
+---
+--Destruição Elemental--
+Habilidade (Característica) – Suporte
+Requisito: Nível 10, Arma Incandescente, Arma Gélida e Arma Relampejante
+Descrição: Você se tornou extremamente hábil no controle das energias elementais. Sempre que usar uma técnica ou magia
+que causa dano por Fogo, Frio ou Eletricidade, esse dano é dobrado.
+---
+
+**Sacerdote**
+
+--
+/*
+Bônus de Atributo:
+Inteligência +1
+Vontade +1
+Habilidade Automática:
+--Conhecimento Místico--
+Habilidade (Técnica) – Suporte
+Descrição: Você está ligado as energias místicas provenientes de forças superiores e consegue comungar com elas. Você
+pode ler e utilizar tomos mágicos e desenhar
+Selos Místicos (veja a página 36 para regras de
+magia). Você também pode entrar em um estado de transe se concentrando por 1 minuto.
+Enquanto continuar meditando dessa forma,
+você recupera uma quantidade de Pontos de
+Mana igual à sua Vontade a cada 10 minutos.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Abençoar Aliados 1--
+Habilidade (Magia) – Ação
+Requisito: Graça Divina
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Você desenha um Selo Místico sobre sí mesmo que concede um bônus de
++1 em todas as suas rolagens. Todos os seus
+aliados que estiverem à uma distância em metros de você igual à sua Determinação quando
+você desenha este Selo também são afetados
+por ele.
+Esse Selo Místico dura 1 minuto.
+---
+--Abençoar Objeto--
+Habilidade (Magia) – Ação
+Requisito: Graça Divina
+Mana: 10
+Dificuldade da Magia: 8
+Descrição: Você desenha um Selo Místico sobre uma arma ou armadura para que ela
+se torne mais eficiente contra criaturas sobrenaturais. Uma arma abençoada causa +6 de dano
+contra infernais, mortos-vivos e espíritos, além
+de atingir criaturas incorpóreas como se elas
+não tivessem a Habilidade Corpo Intangível. Se você abençoar uma armadura, qualquer infernal, morto-vivo ou
+espírito que tocá-la (incluindo com
+ataques desarmados) perde imediatamente 6 Pontos de Vida – e
+perde 6 Pontos de vida a cada
+turno que comece em contato
+com a armadura.
+Esse Selo Místico dura 1 hora.
+---
+--Aparar Magia--
+Habilidade (Técnica) – Reação
+Requisito: Detectar Magia
+Mana: 5
+Descrição: Sempre que for
+alvo de uma magia que cause
+dano ou perda de vida, você
+pode reduzir aquele dano ou perda de vida pela metade.
+Essa Habilidade não afeta quaisquer
+outros efeitos da magia além de dano
+ou perda de vida.
+Especial: Se você tiver Resistência ao
+tipo de dano que a magia causa, você não sofre
+dano e evita qualquer outro efeito da magia.
+---
+--Asas Celestiais--
+Habilidade (Magia) – Ação
+Requisito: Caminhada Mágica
+Mana: 20
+Dificuldade da Magia: 10
+Descrição: Desenhando um Selo Místico sobre uma criatura viva, você faz surgir em
+suas costas um grande par de asas. O alvo ganha a Habilidade Asas Pesadas.
+Esse Selo Místico dura por 1 Hora. 
+---
+--Asceta--
+Habilidade (Característica) – Suporte
+Descrição: Através de sua dedicação
+aos dogmas de sua divindade ou panteão, você
+adquiriu um considerável conhecimento e uma
+compreensão intuitiva sobre seus desígnios.
+Você rola +1 em todos os seus testes envolvendo magias (incluindo conjurá-las) e conhecimento. Além disso, todas as suas magias de
+Cura recuperam 5 Pontos de Vida a mais.
+---
+--Aura de Cura 1--
+Habilidade (Magia) – Ação
+Requisito: Curar Ferimentos 1
+Mana: 15
+Dificuldade da Magia: 11
+Descrição: Você desenha um
+Selo Místico sobre sí mesmo que recupera 10 Pontos de Vida. Todas
+as criaturas vivas que estiverem
+à uma distância em metros de
+você igual à sua Determinação
+quando você desenha este selo
+também são afetados por ele.
+O Selo Místico se dissipa
+imediatamente depois que seus
+efeitos são desencadeados.
+---
+--Caminhada Mágica--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 9
+Descrição: Desenhando
+um Selo Místico sobre uma criatura viva, você permite que ela possa
+caminhar sobre qualquer tipo de superfície (incluindo líquidos), paredes ou
+teto e não sofre nenhum tipo de redutor ou
+penalidade de movimentação por terrenos difíceis ou acidentados. Finalmente, o alvo pode
+escolher á vontade se vai deixar rastros ou não
+enquanto esta runa estiver ativa sobre ele.
+Esse Selo Místico dura 1 hora.
+---
+--Cariátide--
+Habilidade (Magia) – Ação
+Mana: Variável
+Dificuldade da Magia: 12
+Descrição: Você pode dar movimentos para uma estátua desenhando um Selo Místico sobre ela. A estátua precisa ter uma forma
+aproximadamente humanoide e toda feita de um
+mesmo material. O custo da magia depende do
+tamanho da estátua: 20 Pontos de Mana para uma
+estátua pequena, 40 Pontos de Mana para uma estátua média e 80 Pontos de Mana para uma estátua grande. A estátua terá as características de um
+Golem do material e tamanho apropriados.
+Esse Selo Místico dura 1 Minuto.
+Veja os dados dos Golens no Monstrum
+Codex para mais detalhes.
+---
+--Conjurar Arma dos Deuses--
+Habilidade (Magia) – Ação
+Requisito: Dogma
+Mana: 20
+Dificuldade da Magia: 10
+Descrição: Você desenha um Selo
+Místico no ar que se materializa na
+forma da arma favorecida pela
+sua divindade (consulte a lista de
+Dogmas na página 143 para ver
+a arma de sua divindade).
+O Selo Místico que conjura a
+arma se dissipa após 1 minuto,
+mas se você soltar a arma ele
+se dissipa imediatamente.
+---
+--Conjurar Broquel Místico--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Você desenha um
+Selo Místico sobre uma criatura
+que se materializa na forma de um
+escudo que flutua ao redor do alvo
+defletindo ataques, mas pode ser segurado como um escudo normal. Ele garante
+Esquiva +2, e se for segurado tem FN 2, ocupa
+1 mão e seu bônus passa a ser de Bloqueio.
+O Selo Místico que mantém o escudo se
+dissipa depois de 1 minuto.
+---
+--Conjurar Lança do Destino--
+Habilidade (Magia) – Ação
+Requisito: Exorcismo
+Mana: 15
+Dificuldade da Magia: 10
+Descrição: Você desenha um Selo Místico no ar que assume a forma de uma lança de
+luz. A lança arremete na direção de um alvo que
+você possa ver e causa dano igual a 10/Perfuração. Se a criatura for um infernal, morto-vivo ou espírito a lança causa o dobro do dano. Após
+atingir o alvo a lança se dissipa em uma explosão
+de luz, e o alvo precisa fazer um teste de Vontade (dificuldade igual à sua Determinação) ou fica
+Distraído por 1 turno (ver Condições, pág. 169).
+Infernais, mortos-vivos ou espíritos não têm direito ao teste para evitar ficarem Distraídos.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Corpo Fechado--
+Habilidade (Magia) – Ação
+Requisito: Proteção Mística
+Mana: 20
+Dificuldade da Magia: 12
+Descrição: Desenhando um
+Selo Místico sobre um alvo, você
+confere Resistência à Contusão,
+Corte ou Perfuração a ele.
+Esse Selo Místico
+dura por 1 minuto.
+---
+--Curar Ferimentos 1--
+Habilidade (Magia) – Ação
+Mana: 5
+Dificuldade da Magia: 8
+Descrição: Desenhando um Selo Místico sobre uma
+criatura viva que recupera imediatamente 10 Pontos de Vida.
+O Selo Místico se dissipa
+imediatamente depois que seus
+efeitos são desencadeados.
+---
+--Detectar Magia--
+Habilidade (Técnica) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+Descrição: Concentrando-se nos fluxos de energias mágicas, você pode enxergar a
+aura de objetos mágicos, Runas Arcanas e Selos Místicos. Você pode analisar a aura mágica
+de um Selo, Runa ou objeto para entender suas
+propriedades observando-a por 1 minuto.
+---
+--Dogma--
+Habilidade – Suporte
+Descrição: Você segue estritamente os
+ensinamentos de uma divindade que, em troca, lhe concede um favor especial. Escolha um
+Dogma para seguir. Essa escolha é permanente
+e não pode ser mudada posteriormente.
+Veja a descrição dos Dogmas no final
+desse capítulo.
+---
+--Exorcismo--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: 11
+Descrição: Você desenha um Selo Místico no ar que expurga os mortos-vivos, infernais
+e espíritos que estiverem a uma distância em
+metros igual à sua Determinação ao seu redor,
+fazendo com que eles imediatamente percam
+10 Pontos de Vida e 10 Pontos de Mana. Criaturas afetadas que tenham Mente Vazia perdem
+todos os seus Pontos devida e Mana imediatamente. Mortos-vivos destruídos
+por essa magia voltarão a ser cadáveres inanimados e não poderão ser
+reanimados novamente, infernais
+são imediatamente enviados de
+volta ao inferno e não podem
+sair de lá por 1 ano e espíritos
+são permanentemente dissipados.
+O Selo Místico se dissipa imediatamente depois que seus
+efeitos são desencadeados.
+---
+--Graça Divina--
+Habilidade (Magia) – Ação
+Mana: 5
+Dificuldade da Magia: 8
+Descrição: Desenhando um
+Selo Místico sobre uma criatura
+viva, você imbui ela com a graça
+de sua Divindade. O alvo recebe
++1 em todas as suas rolagens.
+Este Selo Místico dura por 1 minuto.
+---
+--Proteção Mística--
+Habilidade (Magia) – Ação
+Requisito: Toque Místico
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando um Selo Místico sobre uma criatura viva, você à deixa imune
+a todos os efeitos de Dreno de Energia. Além
+disso, a criatura afetada recebe +2 em todos os
+seus testes ou Confrontos para resistir à efeitos
+mentais ou de medo – e aumenta em 2 a dificuldade de qualquer Efeito Mental ou Efeito de
+Medo que vise a criatura afetada por este Selo e que não permita um teste ou Confronto para
+ser resistido.
+Este Selo Místico dura 1 hora.
+---
+--Purgar--
+Habilidade (Magia) – Ação
+Requisito: Curar Ferimentos 1
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando um Selo Místico sobre uma criatura, objeto ou superfície,
+você os purifica de impurezas mundanas. Qualquer veneno ou agente infeccioso de origem natural afetado por essa magia se torna água pura
+e límpida, incluindo substâncias que estiverem
+em alimentos ou bebidas. Qualquer criatura
+afetada é imediatamente curada de qualquer
+veneno, doença, infecção de origem natural e
+também de quaisquer efeitos de sangramento.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Toque Místico--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: 10
+Descrição: Desenhando um Selo Místico sobre uma criatura viva você a infunde com
+inspiração momentânea. Se o alvo usar uma
+Habilidade com Custo de Mana igual ou menor a 30, ele não gasta nenhum Ponto de Mana.
+Essa magia não tem efeito em Habilidades com
+Custo de Mana maiores do que 30 e não pode
+ser usada sobre você mesmo.
+Este Selo Místico dura até o final do próximo turno do alvo, mas se ele gastar Pontos
+de Mana antes disso, o Selo se dissipa imediatamente.
+---
+
+Habilidades Avançadas
+
+---
+--Abençoar Aliados 2--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Abençoar Aliados 1
+Mana: 15
+Dificuldade da Magia: 12
+Descrição: Você desenha um Selo Místico sobre sí mesmo que concede um bônus de
++2 em todas as suas rolagens. Todos os seus
+aliados que estiverem à uma distância em metros
+de você igual à sua Determinação quando você
+desenha este Selo também são afetados por ele.
+Esse Selo Místico dura 1 minuto.
+---
+--Aura de Cura 2--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Aura de Cura 1
+Mana: 30
+Dificuldade da Magia: 13
+Descrição: Você desenha um Selo Místico sobre sí mesmo que recupera 30 Pontos
+de Vida. Todas as criaturas vivas que estiverem
+à uma distância em metros de você igual à sua
+Determinação quando você desenha este Selo
+também são afetados por ele.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Círculo da Proteção--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Conjurar Broquel
+Místico, Exorcismo
+Mana: 40
+Dificuldade da Magia: 13
+Descrição: Você desenha um Selo Místico no ar que se transforma em uma barreira de
+energia centrada em você e com um diâmetro
+igual á sua Vontade. A barreira é imaterial, indestrutível, imóvel, translúcida e bloqueia qualquer magia (tanto de fora para dentro quanto de
+dentro para fora). Além disso, qualquer infernal,
+morto-vivo ou espírito perde 20 Pontos de Vida
+A cada turno em começar dentro da barreira.
+O Selo Místico dura tanto tempo quanto
+você se mantiver dentro da barreira e concentrado em mantê-la.
+---
+--Conjurar Falange do Destino--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Conjurar Lança do
+Destino
+Mana: 60
+Dificuldade da Magia: 12
+Descrição: Você desenha um Selo Místico no ar que se transforma em um conjunto de
+lanças de luz igual à metade da sua Vontade que
+arremetem imediatamente na direção de seus
+inimigos. Cada lança causa dano igual a 10/Perfuração. Se o alvo for um infernal, morto-vivo
+ou espírito, a lança causa o triplo de dano. Após
+atingir o alvo a lança se dissipa em uma explosão
+de luz, e o alvo precisa fazer um teste de Vontade (dificuldade igual à Determinação do conjurador) ou fica Distraído por 1 turno. Infernais,
+mortos-vivos e espíritos não tem direito ao teste
+para evitarem ficar Distraídos.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+Especial: Você pode atingir o mesmo alvo
+com várias lanças, ou um alvo com cada lança.
+---
+--Criar Golem--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Cariátide
+Mana: 60
+Dificuldade da Magia: 14
+Descrição: Você pode dar movimentos para um receptáculo especialmente preparado. Você precisa de um receptáculo de
+forma aproximadamente humanoide todo
+feito de um mesmo material com uma pedra
+preciosa incrustada nele. A pedra preciosa
+precisa ter um valor de 400 moedas para cada
+metro de altura do Golem. Você então desenha um Selo Místico sobre o receptáculo, que
+se torna um Golem do material e tamanho
+apropriados.
+O Selo Místico que mantém o Golem
+dura 1 hora.
+Veja os dados de diversos tipos de Golens no Monstrum Codex para mais detalhes.
+---
+--Curar Ferimentos 2--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Curar Ferimentos 1
+Mana: 30
+Dificuldade da Magia: 12
+Descrição: Desenhando um Selo Místico sobre uma criatura viva, ela recupera imediatamente 60 pontos de vida.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Dissipar Magia--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Aparar Magia
+Mana: Variável
+Descrição: Você dissipa todas as Runas
+Arcanas ou Selos Místicos de uma criatura, objeto ou estrutura com seu toque. Essa Habilidade não tem efeito em Runas ou Selos com
+efeitos instantâneos (como Curar Ferimentos,
+Rajada de Espinhos ou Teleporte) nem reverte
+efeitos permanentes de magia (como restaurar
+os Pontos de Vida perdidos devido a uma Bola
+de Fogo, dissipar água criada por Princípio Natural ou reverter água afetada por Raio Gélido
+de volta ao estado líquido). Você pode também
+escolher quais Runas ou Selos dissipar e quais
+não, caso o alvo tenha mais de um Selo ou
+Runa afetando-o.
+O custo para dissipar um Selo ou Runa é
+igual ao custo usado para conjurá-los.
+---
+--Manter Golem--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Criar Golem
+Mana: 10
+Dificuldade da Magia: 12
+Descrição: Você desenha um Selo Místico sobre um Golem que você tenha criado,
+com o objetivo de fortalecer sua coesão. Cada
+vez que você desenhar este Selo Místico sobre
+o Golem, a duração do Selo que o mantém ativo será duplicada. Você pode desenhar quantos selos desses quiser sobre um Golem, e seus
+efeitos são cumulativos.
+---
+--Portal--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Caminhada Mágica
+Mana: 60
+Dificuldade da Magia: 14
+Descrição: Desenhando um Selo Místico no ar, ele se torna uma passagem (com o tamanho aproximado de uma porta) até um local
+onde haja outro Selo da sua divindade (pode ser
+uma igreja que você conheça, ou algum lugar
+onde você tenha escrito um Selo da sua divindade previamente). A distância entre os dois
+pontos é irrelevante.
+Este Selo Místico dura 1 minuto, mas
+você pode dissipá-lo à qualquer momento.
+---
+--Primaz--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Asceta
+Descrição: Você acumulou um grande
+conhecimento sobre os desígnios das divindades. Você rola +1 em todos os seus testes
+envolvendo magias (incluindo conjurá-las) e
+conhecimento (esse bônus se acumula com os
+bônus de Asceta). Além disso, o custo de todas
+as Habilidades do tipo Magia que você lançar é
+diminuído em 5.
+---
+--Velocidade--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Caminhada Mágica
+Mana: 20
+Dificuldade da Magia: 13
+Descrição: Desenhando um Selo Místico sobre uma criatura viva você aumenta a
+velocidade dela, deixando-a com o dobro do
+Deslocamento e de ações.
+Este Selo Místico se dissipa no final do
+próximo turno do alvo.
+---
+
+Habilidade Final
+
+---
+--Pontífice--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 10, Primaz
+Descrição: Você adquiriu uma profunda ligação e um conhecimento extremamente amplo sobre a magia e seu fluxo das
+Divindades para o mundo material. Você
+rola +2 em todos os seus testes envolvendo
+magias (incluindo conjurá-las), todas as suas
+magias de Cura recuperam 5 Pontos de Vida
+a mais e o custo de todas as Habilidades do
+tipo Magia que você lançar é diminuído em 5.
+Além disso todos os Selos Místicos que você
+desenhar duram o dobro do tempo normal.
+---
+
+**Xamã**
+
+--
+/*
+Bônus de Atributo:
+Força +1
+Vontade +1
+Habilidade Automática:
+--Guia Espiritual--
+Habilidade – Suporte
+Descrição: Você possui um Guia Espiritual que está constantemente com você.
+Este Guia pode assumir qualquer forma, mas
+normalmente escolhe a forma de um animal
+com o qual você tenha uma ligação ou de um
+de seus ancestrais. Ele se mantém sempre
+alerta e próximo de você, e irá lhe despertar
+se algum perigo se aproximar enquanto você
+estiver dormindo, além de lhe avisar de qualquer perigo imediato, garantir um bônus de
++2 em seus testes de Iniciativa.
+O Guia Espiritual também pode oferecer conselhos e ajuda quando necessário.
+Quando estiver diante de uma situação que
+envolva um teste ligado à animais (adestrar,
+convocar um Companheiro Animal), natureza
+(rastrear, procurar abrigo) ou algum outro conhecimento que seu Guia poderia ter (como
+lidar com outros espíritos) você pode meditar por 1 hora em busca de orientação de seu
+Guia, recebendo +1d6 no teste apropriado. 
+*\
+---
+
+Habilidades Básicas
+
+---
+--Ataque do Búfalo--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Faça uma manobra de encontrão. Se acertar o ataque, além de causar
+o dano normal pelo encontrão, o alvo precisa
+vencer um teste de Força (Dificuldade igual à
+sua Determinação mais a FN da arma que estiver usando) ou será derrubado. Alvos com o
+dobro do seu peso não são afetados.
+---
+--Benção de Ellenis--
+Habilidades (Característica) – Suporte
+Descrição: Você é capaz de se comunicar com qualquer Besta do tipo Mamífero,
+Ave, Réptil ou Peixe. Essa comunicação é rudimentar, baseada nas capacidades da criatura
+em questão. Além disso, você receber +2 em
+todas as rolagens envolvendo essas criaturas e
+poder alterar o temperamento delas em 1 passo (Furioso ou Cruel para Agressivo, Agressivo
+para Sobrevivente, Sobrevivente para Pacífico
+e Pacífico para Covarde ou vice-versa) com um
+teste de Vontade (Dificuldade igual à Determinação do alvo) – esse efeito não funciona em
+animais com temperamento Servo ou Protetor.
+Animais selvagens só irão aceitar “conversar” se tiverem temperamento pacífico ou
+sobrevivente, a menos que estejam aprisionados ou encurralados de alguma forma.
+---
+--Brigão--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado à
+combater desarmado. Você rola +1 em seus
+ataques desarmados e adiciona +2 nos danos
+desses ataques. Além disso, quando estiver realizando apenas ataques desarmados em um turno, você pode realizar 2 ataques sem incorrer
+nas regras de Inaptidão.
+Especial: Se você utilizar uma Habilidade de Ação, seus efeitos se aplicam a apenas
+um dos seus ataques desarmados – mas você
+ainda pode fazer um segundo ataque desarmado normal no mesmo turno, antes ou depois de
+utilizar a Habilidade de Ação.
+---
+--Bravura Selvagem 1--
+Habilidade (Característica) – Suporte
+Descrição: Você confia mais nas suas
+habilidades naturais do que em armaduras para
+se defender. Quando não estiver usando armadura, você recebe +2 em sua Defesa.
+Quando escolhe essa Habilidade, você
+deve escolher se este será um bônus de Bloqueio ou Esquiva. Essa escolha é permanente e
+não pode ser mudada mais tarde.
+---
+--Combate Tático--
+Habilidade (Técnica) – Reação
+Descrição: Se você derrotar um oponente com
+um ataque corporal, você pode imediatamente
+realizar outro ataque corporal.
+---
+--Companheiro Animal 1--
+Habilidade – Suporte
+Descrição: Você possui uma ligação de fidelidade com um animal. Escolha uma Besta
+dos tipos Mamífero, Ave, Réptil ou Peixe com
+Ameaça 0 que exista na região em que você está.
+O animal escolhido será atraído para você e lhe
+será fiel até a morte (ele passa a ter o temperamento Protetor). Você pode liberar o animal
+à qualquer momento, e ele irá retornar à natureza, voltando a ter seu temperamento normal
+(mas retendo benefícios que tenha recebido por
+suas Habilidades de Companheiro Animal). Se
+você liberar o animal ou se o animal morrer,
+você pode atrair outro animal – que não precisa
+ser do mesmo tipo escolhido anteriormente.
+Você pode atrair um novo Companheiro
+Animal 1 vez a cada dia, e só pode atrair 1 animal de cada vez.
+Especial: Se essa Habilidade for escolhida durante a criação do personagem, o animal
+já estará com você, independente de onde você
+esteja e onde seja o habitat normal do animal.
+---
+--Companheiro Animal 2--
+Habilidade – Suporte
+Requisito: Companheiro Animal 1
+Descrição: Seu companheiro Animal recebe +1 em 2 Atributos à sua escolha, +5 Pontos
+de vida e +5 Pontos de Mana. Além disso, seu
+Companheiro Animal recebe uma Habilidade do
+tipo Técnica à sua escolha (desde que faça sentido; o Mestre tem a palavra final sobre o assunto).
+---
+--Comunhão com Espíritos--
+Habilidade (Característica) – Suporte
+Requisito: Contato com Espíritos
+Descrição: Enquanto estiver utilizando
+Contato com Espíritos, você pode tocar outro personagem que será capaz de ouvir e ver qualquer espírito num raio de 20 metros por 10
+minutos. Um personagem sob esse efeito pode
+gastar 10 Pontos de Mana para ser capaz de tocar espíritos por 1 minuto.
+---
+--Contato com Espíritos--
+Habilidade (Característica) – Ação
+Mana: 5
+Descrição: Você pode se comunicar
+com os espíritos que estejam próximos. Você
+é capaz de ouvir e ver qualquer espírito num
+raio de 20 metros. Esse efeito dura 10 minutos.
+Você pode gastar 10 Pontos de Mana enquanto
+estiver sob o efeito dessa Habilidade para ser
+capaz de tocar espíritos por 1 minuto.
+---
+--Chamado do Alfa--
+Habilidade (Técnica) – Ação
+Requisito: Benção de Ellenis
+Mana: 20
+Descrição: Você solta um poderoso
+uivo (ou uma poderosa vibração sob a água)
+que será entendida como um chamado irresistível para os animais que o ouvirem, atraindo
+uma quantidade de Bestas igual à sua Vontade
+escolhidas entre Mamífero, Ave, Réptil ou Peixe com Ameaça 0 que estejam a até 500 metros por ponto de Força que você tenha. Em
+combate, 1 animal por vez chegará no início
+do seu turno até o número máximo de animais.
+Os animais não estarão sob seu controle, mas
+se sentirão inclinados a ajudá-lo dentro de suas
+capacidades – animais com temperamento pacífico ou covarde não irão entrar em combate,
+mas animais Sobreviventes, Ferozes ou Furiosos não terão problemas com isso.
+Esta Habilidade não tem efeito em Bestas com o comportamento Servo, e animais
+Protetores avisarão seus donos antes de virem
+até você – e agirão como se tivessem o Temperamento normal daquele tipo de animal ao
+invés de Protetor enquanto durar o efeito (mas
+se recusarão a atacar seus donos).
+Este efeito dura 1 hora, e depois disso as
+Bestas afetadas voltarão pacificamente para os
+locais de onde vieram.
+Especial: Você pode refinar o tipo específico de animal (“Lobos”, “Herbívoros” ou
+“Ferozes”) ou até mesmo um animal específico
+(“Aquele cão que fica na volta da taverna”, “o
+companheiro animal do Druida” ou “O camelo do líder da caravana”) quando utilizar esta
+Habilidade.
+---
+--Combate com Duas Armas 1--
+Habilidade (Técnica) – Suporte
+Descrição: Você treinou para usar duas
+armas em combate de forma eficiente. Você
+pode fazer até dois ataques corporais, cada ele
+com uma arma diferente (incuindo ataques desarmados) desde que pelo menos uma das armas tenha uma FN igual à metade (ou menos)
+do que a Força do personagem.
+Especial: Se você utilizar uma Habilidade
+de Ação, seus efeitos se aplicam a apenas um dos
+seus ataques – mas você ainda pode fazer um ataque normal com a outra arma no mesmo turno,
+antes ou depois de utilizar a Habilidade de Ação.
+---
+--Cura Espiritual--
+Habilidade (Técnica) – Ação
+Mana: 20
+Descrição: Com seu toque você pode
+recuperar as energias de um espírito. Você pode
+curar até 40 Pontos de Vida de uma criatura
+com Corpo Intangível, além de remover quaisquer efeitos Mentais, de medo, Selos Místicos e
+Runas Arcanas que a estiverem afetando.
+---
+--Espírito Animal--
+Habilidades (Técnica) – Suporte
+Descrição: Seu espírito possui a forma
+de um animal. Escolha um Espírito Animal
+para ser seu guia. Essa escolha é permanente
+e não pode ser mudada posteriormente. Veja
+a descrição dos Espíritos Animais na pág. 169.
+---
+--Forma Animal 1--
+Habilidade (Característica) – Ação
+Requisito: Benção de Ellenis
+Mana: 20
+Descrição: Você pode se transformar
+em qualquer Besta dos tipos Mamífero, Réptil, Ave ou Peixe de uma categoria de tamanho
+igual à sua ou até uma categoria de tamanho
+menor do que a sua – use as estatísticas do animal em que se transformou, mantendo apenas
+sua Inteligência, Vontade, Pontos de Vida e
+Mana e Habilidades do tipo Técnica.
+Não é possível utilizar Habilidades do
+tipo Magia ou Músicas, usar armas ou falar com
+criaturas que não sejam da espécie em que você se transformou enquanto este efeito estiver
+ativo. Todo o equipamento que você estiver
+carregando é absorvido e desaparece na transformação e nenhum deles oferecerá nenhum
+modificador enquanto você permanecer na forma animal (incluindo itens mágicos).
+Você pode permanecer nesta forma por
+até 1 hora, mas pode retomar sua forma natural
+à qualquer momento como uma ação livre sem
+qualquer custo em Mana.
+Especial: Se você ficar sem Pontos de
+Vida enquanto estiver em uma Forma Animal,
+você imediatamente retorna a sua forma natural
+e recupera uma quantidade de Pontos de Vida
+igual à sua Vontade.
+---
+--Herbalismo--
+Habilidade (Técnica) – Suporte
+Requisito: Sabedoria Selvagem
+Descrição: Você pode rolar testes de Inteligência para criar poções básicas. Além disso,
+enquanto estiver em um ambiente selvagem, você
+e seus aliados não são afetados por doenças e venenos de origem natural – seus aliados passam a
+ser imunes depois de um dia inteiro que estiverem
+com você (desde que eles aceitem suas dicas do
+que comer e do que não comer) – e você é sempre
+considerado como tendo um Kit de Cura á mão, a
+menos que o ambiente seja completamente estéril
+(desertos ou áreas glaciais).
+---
+--Invocar Espírito Animal--
+Habilidade (Técnica) – Ação
+Requisito: Espírito Animal, Contato
+com Espíritos
+Mana: 20
+Descrição: Você invoca um espírito
+animal espectral para protegê-lo. Esse espectro
+tem a forma do seu Espírito Animal, mas os
+Atributos dele serão todos iguais à sua Vontade. Além das Habilidades normais do animal, todos os Espíritos Animais terão Mente
+Bloqueada e Corpo Intangível. Seus ataques
+causam dano igual à Força +2 por Corte, Perfuração ou Contusão – o que for mais apropriado, de acordo com os ataques do animal – e
+recebem os bônus referentes ao seu Espírito
+Animal. Espíritos Animais têm 30 Pontos de
+Vida e 30 Pontos de Mana. Espíritos Animais
+são sempre Bestas do tipo Espírito com o temperamento Servo.
+Espíritos Animais invocados por esta
+Habilidade se dissipam após um minuto ou assim que forem destruídos.
+Especial: Águias Espectrais invocadas
+por essa magia recebem +1 em seus ataques
+corporais ao invés do bônus normal.
+---
+--Rugido do Alfa--
+Habilidade (Técnica) – Ação
+Requisito: Rugido do Predador
+Mana: 40
+Descrição: Você emite um rugido capaz
+de abalar até o mais valente dos predadores.
+Todos os oponentes que estiverem a até 10
+metros à sua frente que tiverem uma Determinação menor do que a sua ficam Paralisados
+por 1 turno.
+Um oponente só é afetado por esta habilidade uma vez por combate.
+Este é um efeito de Medo.
+---
+--Rugido do Predador--
+Habilidade (Técnica) – Ação
+Mana: 25
+Descrição: Você emite um rugido amedrontador. Todos os oponentes que estiverem
+a até 10 metros à sua frente que tiverem uma
+Determinação menor do que a sua ficam Amedrontados por 1 turno.
+Um oponente só é afetado por esta habilidade uma vez por combate.
+Este é um efeito de Medo.
+---
+--Sabedoria Selvagem--
+Habilidade – Suporte
+Descrição: Você passou muito tempo
+em ambientes selvagens e dedicou muito tempo ao estudo da natureza em todas as suas formas. Você rola +1d6 em testes que envolvam
+a natureza como forragear, rastrear, encontrar
+abrigo, identificar ervas, etc.
+---
+--Sem Escapatória--
+Habilidade (Técnica) – Reação
+Requisito: Combate Tático
+Descrição: Se um oponente que está
+adjacente a você tentar se afastar ou se levantar, você pode imediatamente fazer um ataque
+corporal normal contra ele. Se acertar, além de
+sofrer o dano normal pelo ataque, o oponente
+não poderá se movimentar neste turno.
+---
+--Vantagem Animal 1--
+Habilidade (Característica) – Ação
+Requisito: Forma Animal 1
+Mana: 10
+Descrição: Você pode transformar uma
+pequena parte do seu corpo para que ela assuma
+uma característica animal, lhe conferindo uma
+Habilidade temporária. Você pode transformar
+seus olhos para captar mais luz como uma coruja, recebendo Visão no Escuro, tornar suas
+unhas em garras de um tigre e receber Garras ou
+modificar seu nariz para que se pareça com o de
+um lobo, recebendo Faro, por exemplo. Apenas
+pequenas modificações são possíveis, e as possibilidades devem ser discutidas com o Mestre.
+Esse efeito dura 1 hora, mas você pode
+cancelá-lo quando quiser.
+---
+
+Habilidades Avançadas
+
+---
+--Atropelar--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Ataque do Búfalo
+Descrição: Quando usar Ataque do Búfalo, se o alvo for derrubado ele sofre um dano
+adicional igual a 6/Contusão para cada 100 quilos de peso que você tiver.
+---
+--Caminhada Fantasma--
+Habilidade (Característica) – Ação
+Requisito:Nível 5, Comunhão com Espíritos
+Mana: 40
+Descrição: Você tornou-se um canal entre o mundo físico e o mundo espiritual. Você (e
+tudo o que você estiver carregando) pode tomar
+a forma de um espírito, adquirindo a Habilidade
+Corpo Intangível – você não tem peso, pode voar
+ao seu Deslocamento normal em qualquer direção e atravessar objetos sólidos. Você pode materializar partes do seu corpo, permitindo que você
+ataque ou conjure magias, e a menos que escolha
+o contrário, você é Imune à Corte, Perfuração e
+Contusão. Magias que causem danos desses tipos, no entanto, afetam você normalmente. Além
+disso, você pode ver, ouvir e tocar espíritos ou
+criaturas com a Habilidade Corpo Intangível enquanto estiver sob efeito dessa Habilidade.
+Este efeito dura um número de minutos
+igual à sua Determinação. Se o efeito terminar
+enquanto você estiver dentro de algum material
+sólido, você é expelido para fora e sofre dano
+igual a 30/Contusão.
+Especial: Se você tiver Imunidade Espiritual, os efeitos dessa Habilidade não funcionam enquanto você estiver sob efeito de Caminhada Fantasma.
+---
+--Companheiro Animal 3--
+Habilidade – Suporte
+Requisito: Nível 5, Companheiro animal 2
+Descrição: Seu Companheiro Animal
+recebe +1 em todos os seus Atributos e +10
+Pontos de Vida ou +10 Pontos de Mana à sua
+escolha. Além disso, seu Companheiro Animal
+recebe uma Habilidade do tipo Técnica à sua
+escolha (desde que faça sentido; o Mestre tem a
+palavra final sobre o assunto).
+---
+--Companheiro Espiritual--
+Habilidade – Suporte
+Requisito: Nível 5, Invocar Espírito
+Animal
+Descrição: Seus Espíritos Animais conjurados duram permanentemente (mas você ainda
+pode cancelar o efeito quando quiser) e recebem
++20 PV, ou +20 PM, ou +10 PV e +10 PM à
+sua escolha quando você os conjura. No entanto, enquanto esses Espíritos Animais estiverem
+conjurados, você não pode recuperar os Pontos
+de Mana gastos para conjurá-los. Depois que
+eles forem dissipados (ou destruídos) você pode
+recuperar esses Pontos de Mana normalmente.
+---
+--Estraçalhar--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Brigão
+Mana: 35
+Descrição: Você salta sobre um alvo
+atacando com tudo o que tem! Faça um Encontrão realizando todos os seus possíveis ataques corporais (em geral dois socos/garradas/
+ataques com armas, dois chutes/ataques com
+cascos e uma cabeçada/mordida/marrada). Se
+você possuir Habilidades do tipo Característica que permitam mais ataques (como Reflexos
+Dracônicos) você pode realizar todos estes ataques.
+---
+--Forma Animal 2--
+Habilidade (Característica) – Ação
+Requisito: Nível 5, Forma Animal 1
+Mana: 30
+Descrição: Sua capacidade de assumir a
+forma de um animal permite que você se transforme em qualquer Besta dos tipos Mamífero,
+Ave, Réptil ou Peixe com até uma categoria de
+tamanho maior do que a sua – use as estatísticas
+do animal em que se transformou, mantendo
+apenas sua Inteligência, Vontade, Pontos de
+Vida e Mana e Habilidades do tipo Técnica.
+Não é possível utilizar Habilidades do
+tipo Magia ou Músicas, usar armas ou falar com
+criaturas que não sejam da espécie em que você
+se transformou enquanto este efeito estiver
+ativo. Todo o equipamento que você estiver
+carregando é absorvido e desaparece na transformação, nenhum deles oferecerá qualquer
+modificador enquanto você permanecer na forma animal (incluindo itens mágicos).
+Você pode permanecer nesta forma por
+até 1 hora, mas pode retomar sua forma natural
+a qualquer momento como uma ação livre sem
+qualquer custo em Mana.
+Especial: Se você ficar sem Pontos de
+Vida enquanto estiver em uma Forma Animal,
+você imediatamente retorna a sua forma natural
+e recupera uma quantidade de Pontos de Vida
+igual à sua Vontade.
+---
+--Implacável--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Sem Escapatória
+Descrição: Sempre que errar um ataque
+corporal, o alvo sofre metade do dano normal
+do ataque (arredondando para baixo).
+---
+--Imunidade Espiritual--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Comunhão com Espíritos
+Descrição: Você não recebe nenhum
+dano de criaturas do tipo Espírito e rola +1d6
+em todos os testes de Vontade ligados a estas
+criaturas.
+---
+--Mestre Domador--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: Você é capaz de domar animais com extrema facilidade. Quando você
+captura uma criatura do tipo Besta, o teste para
+ganhar a confiança do animal e para reduzir seu
+Temperamento pode ser feito em uma quantidade de dias igual à Vontade do animal, ao
+invés de sua Determinação – e se você tiver um
+sucesso decisivo no teste de doma, você reduz
+o tempo para o próximo teste para 1 dia. Além
+disso, se você tiver uma falha crítica nos testes
+para ganhar a confiança do animal ou para reduzir seu Temperamento, o resultado é considerado uma falha normal.
+Você pode ter, simultaneamente, uma
+quantidade de criaturas com o comportamento
+Protetor em relação à você igual à metade da
+sua Vontade (arredondada para baixo). Você
+pode ter outros animais domados, mas eles terão o comportamento Covarde até que você
+possa concluir seu treinamento (seja vendendo
+ou dando um de seus animais domados, seja aumentando sua Vontade).
+Especial: Estas regras são uma revisão
+da Habilidade Mestre Domador (Guia Básico
+página 141 e Guia do Herói página 33) e portanto tem precedência sobre aquelas versões.
+---
+--Vantagem Animal 2--
+Habilidade (Característica) – Ação
+Requisito: Nível 5, Vantagem Animal 1
+Mana: 20
+Descrição: Você pode transformar uma
+parte do seu corpo para que ela assuma uma
+característica animal, lhe conferindo uma Habilidade temporária. Você pode transformar seus
+braços em asas de grifo, recebendo Asas Pesadas, transformar sua cabeça para a de um lobo
+atroz e receber Mordida Poderosa ou desenvolver guelras como as de um tubarão, recebendo
+Anfíbio, por exemplo. Quaisquer modificações
+são possíveis, mas as possibilidades devem ser
+discutidas com o Mestre.
+Esse efeito dura 10 minutos, mas você
+pode cancelá-lo a qualquer momento. 
+---
+
+Habilidade Final
+
+---
+--Guardião da Natureza--
+Habilidade (Característica) – Suporte
+Requisito: Nível 10, Forma Animal 2
+Descrição: Sua capacidade de assumir
+a forma de um animal permite que você controle sua transformação com muito mais eficiência. O custo de Mana de suas Habilidades
+de transformação (Forma Animal e Vantagem Animal) é reduzido à metade – e podem
+durar indefinidamente. Além disso, quando
+ficar sem Pontos de Vida enquanto estiver
+em uma Forma Animal, você imediatamente
+retorna a sua forma natural e recupera uma
+quantidade de Pontos de Vida igual à sua Determinação.
+---

@@ -1,0 +1,177 @@
+Capítulo 5 – Equipamentos
+Aqui estão descritos novos equipamentos próprios para personagens de Tebryn. Novos
+tipos de flechas e equipamentos para arcos usados pelos Elfos da Floresta dos Antigos e flechas
+alquímicas desenvolvidas pelos membros da Iris de Maltas. Além deles, alguns instrumentos
+musicais comuns ao longo do reino e próprios para Bardos e Menestréis do reino. 
+
+---
+**Dinheiro Inicial**
+Em Tebryn, um personagem em
+início de carreira geralmente possui
+posses na soma de 500 coroas tebrynianas (1 coroa tebrinyana equivale à 1
+moeda apresentada em qualquer outro
+livro do Mighty Blade). Sugerimos que
+os Mestres ajustem os valores iniciais de
+moedas para suas campanhas para este
+valor (no lugar de 400 moedas, como
+descrito no Guia Básico) para campanhas mais preocupadas em customização de equipamentos.
+Caso o Mestre decida inicar uma
+campanha em um nível acima do primeiro, o dinheiro inicial dos personagens devem ser ajustados de acordo. Como regra, um personagem recebe +70% sobre
+o valor que receberia no nível anterior.
+Assim, um personagem inicial de nível 2
+recebe 500 coroas tebrynianas (pelo nível
+1) +350 moedas (70% de 500) num total
+de 850 coroas tebrynianas. Para facilitar
+a vida dos Mestres e jogadores, aqui está
+uma tabela do dinheiro inicial para personagens de nível 1 à 10:
+/*dinheiro_inicial.xlsx*\
+Para níveis acima de 10, o Mestre deve ajustar os valores de acordo –
+muito embora a partir desse ponto, ficar
+contando moedas passe a fazer pouco
+sentido, e os personagens simplesmente
+deveriam ter os melhores equipamentos mágicos disponíveis à disposição. 
+---
+**Munições Especiais**
+A seguir uma lista contendo várias novas munições para arcos, bestas
+e plumbatas. Essas munições podem
+ser usadas em qualquer arco, besta ou
+plumbata, mas precisam ser compradas
+especificamente para um tipo de arma
+– na forma de flechas, virotes ou setas,
+respectivamente – e não são intercambiáveis. Elas funcionam em todas as armas
+do tipo apropriado (virotes funcionam
+em qualquer tipo de besta, flechas funcionam em qualquer tipo de arco e setas
+funcionam em qualquer tipo de plumbata). Todos os projéteis a seguir recebem
+o nome de flecha para simplificação, mas
+considere que eles podem ser encontrados na forma de virotes ou setas (simplesmente substitua o nome “flecha” de
+cada item por “virote” ou “seta”, como
+for mais adequado).
+Setas são os projéteis utilizados em
+plumbatas – diferente do que diz o Guia
+Básico, que lista virotes como sendo a
+munição para essas armas. Uma seta comum custa 2 moedas.
+Os projéteis listados a seguir causam dano normal para o tipo de arma
+da qual são disparadas, exceto quando a
+descrição do projétil disser o contrário.
+Os preços listados são para projéteis
+individuais.
+*Flecha Alarme: Ao invés de uma
+ponta normal, esse projétil possui um
+apito simples. Quando disparada, emite
+um assobio estridente que pode ser ouvido a mais de um quilômetro de distância.
+A maioria dos Patrulheiros de Ambrook
+carrega pelo menos uma flecha desse tipo
+consigo para avisar sobre intrusos nas
+proximidades. Patrulheiros especializados na segurança de determinada região
+podem ter apitos diferentes, com sons
+diferentes, para comunicarem alertas específicos (Ataque em Larga Escala, Ataque Montado, Santuário Violado, etc.),
+sendo isto muito comum no reino élfico
+de Londérien, mas em Tebryn aparece
+apenas na Floresta dos Antigos. Se usada para atacar, causa apenas metade do
+dano normal, e o dano será por contusão.
+4 moedas.
+*Flecha Cortante: Estes projéteis
+possuem uma ponta mais larga e curva,
+semelhante a uma folha. Causa dano por
+Corte ao invés de Perfuração. 2 moedas.
+*Flecha de Prata: Uma flecha tradicional de metal, banhada em prata. 10
+moedas.
+/*
+*Removendo Flechas:
+Flechas, virotes e setas que atinjam seus alvos costumam ficar enterradas na carne e são difíceis de tirar sem
+ferir ainda mais o alvo. Sempre que
+uma criatura viva for atingida por um
+sucesso decisivo com uma flecha, virote ou seta, considere que o projétil está
+enterrado na carne da criatura, e deve
+ser removido com cuidado. Um teste
+bem-sucedido de Primeiros Socorros
+(Dificuldade 12) permite remover todas
+as flechas, virotes e/ou setas que estejam enterradas em um alvo sem causar
+qualquer dano adicional. Esse procedimento leva 1 ação de rodada completa
+por projétil a ser removido.
+Se o personagem decidir remover
+uma flecha, virote ou seta de seu ferimento sem os cuidados necessários, ele
+sofre metade do dano normal do projétil (sem nenhum bônus por Habilidades
+que aumentem o dano do ataque) arredondado para baixo. Remover um projétil de um ferimento durante o combate exige uma ação de movimento. 
+*\
+*Flecha Envenenada: Um projétil
+com um pequeno orifício na ponta que
+pode ser preenchido com qualquer tipo
+de veneno (veneno da lentidão costuma
+ser o mais utilizado). Quando atinge o
+alvo, além do dano do projétil, ele sofre
+os efeitos do veneno. Essas flechas são
+guardadas com a ponta enfiada em uma
+pequena peça de cortiça para que o veneno não se perca. Quando for remover a
+cortiça da ponta da flecha o personagem
+deve realizar um teste de Agilidade (Dificuldade 8). Se tiver sucesso, ele remove
+a cortiça como uma ação livre, mas se falhar, ele se atrapalha e precisa gastar uma
+ação padrão para remover a cortiça. O
+veneno a ser utilizado deve ser comprado separadamente, e um frasco normal
+de veneno é suficiente para preencher 3
+projéteis. 5 moedas.
+*Flecha Explosiva: Invenção da Iris
+de Malta, esse projétil possui um bulbo
+de vidro na ponta, com uma versão concentrada de Extrato Explosivo Menor que
+causa dano igual a 12/Fogo ao se romper,
+além do dano normal do projétil. O bulbo
+vem envolto em uma proteção de couro
+acolchoado que impede que ele exploda
+se cair no chão ou sofrer impactos leves e
+retém grande parte da explosão caso isso
+ocorra. Remover a proteção exige uma
+ação de movimento. Disparar o projétil
+sem tirar a proteção diminui consideravelmente o dano do projétil (o dano normal do projétil é reduzido à metade e o
+dano do Extrato é reduzido a 4/Fogo).
+150 moedas.
+*Flecha Farpada: A ponta deste projétil possui farpas de ambos os lados, e
+quando é removida causa novamente seu
+dano normal (ao invés de apenas metade) além de um efeito de sangramento,
+fazendo o alvo perder metade do dano
+normal (arredondado para baixo) por 3 turnos. Se for removida através de um
+uso bem-sucedido de Primeiros Socorros,
+a flecha causa apenas metade do dano
+normal (arredondado para baixo) e não
+causa o efeito de sangramento. 5 moedas.
+*Flecha Incendiária: Estes projéteis
+carregam uma pequena bucha embebida
+em óleo inflamável atrás da ponta. A bucha é acesa por uma pederneira especial,
+com a pedra fixada na haste do projétil
+e o isqueiro no arco da arma. Quando o
+projétil é disparado, a pedra risca o isqueiro produzindo uma pequena faísca
+que incendeia a bucha. Quando atinge o
+alvo, além do dano do projétil, ele sofre
+um dano extra igual à 4/Fogo. O alvo
+sofre o dano por fogo novamente no início do seu turno, por 3 turnos ou até ser
+removida – o que ocorrer primeiro. Setas
+não podem ser produzidas com este efeito. 5 moedas.
+*Flecha Perfurante: Estes projéteis
+possuem uma ponta longa e estreita, eficiente contra armaduras, entrando entre anéis de cota-de-malha, perfurando
+couro e acertando mais facilmente entre
+falhas das placas de armaduras pesadas.
+Ignora metade do bônus de Defesa fornecido por Armaduras (arredondado para
+baixo) e a resistência a dano de armaduras com a característica Pesada (mas não
+a resistência a dano oferecido pela característica Rígida). 3 moedas.
+*Flecha Rede: desenvolvida por arqueiros Élficos, ela possui uma rede tramada com linhas de Prata Fria, conhecida
+por sua resistência e flexibilidade. Essa
+rede é dobrada e enrolada de uma forma
+específica (teste de Inteligência Dif. 14)
+ao redor de um carretel. Quando o projétil é disparado, a rede se abre no ar e cai
+sobre o alvo, prendendo-o. Para disparar
+esse projétil é necessário que o arqueiro tome um turno para calcular a distância
+e a força necessária, de modo que a rede
+não abra antes ou depois do alvo. Nesse
+turno, o personagem faz um teste de Inteligência (Dificuldade 14). Sucesso no teste
+significa que a rede funcionará com precisão, mas ele ainda deve acertar o disparo – que ignora os bônus de Armadura e
+Bloqueio do alvo.
+Um alvo preso pode tentar romper
+a rede com um teste de Força (Dificuldade 14), mas a cada tentativa ele sofre
+dano igual à 6/Corte. É possível tentar
+se desvencilhar da rede com um teste
+de Agilidade (Dificuldade 14), mas cada
+falha faz com que a rede fique mais enredada, aumentando a dificuldade em 1,
+cumulativamente. Alvos presos na rede
+tem seu movimento reduzido a 0, não
+adicionam seus bônus de Bloqueio ou Esquiva na Defesa, não podem utilizar Habilidades de Reação e realizam testes de
+ataque, Músicas e conjuram Magias como
+se fossem Inaptos. 50 moedas. 

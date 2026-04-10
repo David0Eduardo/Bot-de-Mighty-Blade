@@ -1,0 +1,815 @@
+Habilidades Classes
+
+---
+
+**Menestrel**
+
+---
+/*
+Bônus de Atributo
+Agilidade +1
+Vontade +1
+Habilidade Automática
+--Jogral--
+Habilidade (Técnica) – Suporte
+*Descrição: Você praticou várias formas de entretenimento, e é bastante hábil
+com sua voz e com suas mãos. Você recebe
++2 em todos os testes que envolvam a fala
+– como mentir, seduzir, barganhar ou cantar – tocar instrumentos musicais (incluindo
+Músicas) e realizar malabarismos (incluindo
+arremessar objetos).
+Além disso, você pode selecionar duas
+Músicas para as quais preencha os requisitos.
+Esta escolha é permanente e não pode ser alterada mais tarde.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Acrobata--
+Habilidade (Característica) – Suporte
+*Descrição: Você sempre rola +1d6 em
+seus testes de equilíbrio, salto, piruetas e qualquer outra tentativa de se deslocar que exija coordenação, flexibilidade e precisão. Além disso,
+você sofre apenas metade dos danos por queda.
+---
+--Aparar--
+Habilidade (Técnica) – Suporte
+*Descrição: Você pode usar qualquer
+coisa que esteja em suas mãos para afastar e
+desviar golpes desferidos contra você. Enquanto estiver com um objeto em pelo menos uma das mãos, você recebe Esquiva +1.
+Se estiver segurando um objeto em
+ambas as mãos, ou um objeto em cada mão,
+você recebe Esquiva +2.
+---
+--Ataque Redirecionado--
+Habilidade (Técnica) – Reação
+*Requisito: Evasão
+*Descrição: Quando um oponente
+errar um ataque corporal contra você, você
+pode direcionar o ataque dele para outro alvo.
+O novo alvo precisa estar adjacente a você ou
+ao oponente que errou o ataque. Esse ataque
+acerta automaticamente – sem chance de errar ou de ser um sucesso decisivo.
+Esta Habilidade só pode ser usada uma
+vez por rodada.
+---
+--Clamar por Socorro--
+Habilidade (Técnica) – Reação
+Mana: 10
+*Descrição: Quando você é atacado,
+pode gritar em desespero para que seus aliados o ajudem. Sempre que você for atingido
+por um ataque corporal, todos os aliados que
+estiverem adjacentes ao seu atacante poderão
+fazer um ataque corporal normal contra ele
+imediatamente e aliados que não estiverem
+em alcance corporal do seu atacante podem,
+imediatamente, se mover na sua direção – e
+apenas na sua direção – uma quantidade de
+metros igual ao seu Deslocamento
+---
+--Contos da Estrada--
+Habilidade – Suporte
+*Descrição: Através de várias histórias
+e canções contadas ao redor de fogueiras
+com viajantes que você encontrou em suas
+andanças, você acumulou um vasto conhecimento oral sobre inúmeros assuntos.
+Você rola +1d6 quando fizer testes de Inteligência referentes a qualquer tipo de conhecimento, não importando o quão inacessível
+seja este conhecimento.
+---
+--Eloquente--
+Habilidade (Característica) – Suporte
+*Descrição: Você tem um talento de
+convencer e comover outras pessoas apenas
+falando do jeito certo. Você recebe +1d6 em
+todos os seus testes para persuadir, mentir,
+perceber mentiras, intimidar ou em qualquer
+outra interação social.
+---
+--Evasão--
+Habilidade (Técnica) – Reação
+Mana: 20
+*Descrição: Se o seu inimigo fizer um
+ataque corporal e acertar, você pode declarar
+evasão, e obrigar o inimigo a rolar novamente
+o teste de ataque. Você pode escolher com
+qual dos resultados o oponente vai ficar.
+Esta Habilidade só pode ser usada uma
+vez por rodada.
+---
+--Flexível--
+Habilidade (Característica) – Suporte
+*Descrição: Você tem o corpo muito
+flexível, capaz de se dobrar, esticar e espremer de maneiras extremas. Você pode passar por aberturas como se tivesse apenas
+metade do seu tamanho, consegue escorregar para fora de grilhões e amarras com facilidade, pode se esticar e dobrar de modos
+a alcançar pontos de apoio difíceis numa escalada, além de ser mais ágil quando corre e
+escapa de obstáculos, recebendo um bônus
+de +2 em qualquer teste que envolva esse
+tipo de circunstância.
+*Especial: Armaduras com a Característica Pesada impedem que você receba os
+bônus por esta Habilidade.
+---
+--Grito de Guerra 1--
+Habilidade – Ação
+Mana: 10
+*Descrição: Você pode dar um grito fervoroso que motiva todos seus aliados.
+Eles (assim como você) recebem +1 em
+todos os testes até o final da batalha. Além
+disso, remova todos os efeitos de Medo que
+estiverem afetando os seus aliados.
+Você não pode usar esta Habilidade se
+estiver sob qualquer efeito de Medo.
+Este é um efeito mental.
+---
+--Grito Ensurdecedor--
+Habilidade – Ação
+Mana: 10
+*Descrição: Você solta um grito tão
+alto e poderoso que faz com que todos ao
+redor fiquem atordoados. Todas as criaturas
+em uma área de 10 metros à sua frente ficam
+Atordoadas por um número de turnos igual à
+sua Vontade.
+---
+--Grito Estilhaçador--
+Habilidade – Ação
+*Requisito: Grito Ensurdecedor
+Mana: 20
+*Descrição: Seu agudo é tão poderoso
+que você pode direcionar um grito capaz de
+romper vidros, cristais e tímpanos! Tudo e
+todos em até 10 metros à sua frente sofrem
+dano igual a 10/Corte. Criaturas com Corpo
+Amórfico, objetos inanimados e estruturas
+que sejam atingidas por esse grito sofrem o
+dobro do dano.
+---
+--Língua Afiada--
+Habilidade (Técnica) – Ação
+*Requisito: Eloquente
+Mana: 10
+*Descrição: Você possui uma língua
+ferina e um talento especial para insultar seus
+adversários. Escolha um inimigo do tipo Humanoide ou Esfinge. Você faz uma série de
+comentários jocosos ou degradantes sobre
+ele. Faça um confronto de Vontade contra
+o alvo. Se você tiver um resultado igual ou
+maior do que o alvo e se ele for capaz de
+entendê-lo, ele ataca você em detrimento de
+qualquer outro alvo, e é considerado Desprevenido para todos os seus aliados – mas não
+para você.
+Este é um efeito mental
+---
+--Malabarista--
+Habilidade (Técnica) – Suporte
+*Descrição: Você tem uma ótima coordenação para jogar e pegar objetos no ar.
+Além de poder realizar malabarismos – mesmo usando objetos perigosos como adagas
+ou tochas – como entretenimento, você recebe +2 em todos os seus testes para arremessar objetos e um Bônus de Esquiva de +1
+contra ataques à distância.
+---
+--Mestre das Adagas 1--
+Habilidade (Técnica) – Ação
+*Descrição: Você se especializou em
+arremessar armas pequenas de forma eficiente. Você pode arremessar 2 armas com a característica Arremesso e FN 1.
+---
+--Mestre das Adagas 2--
+Habilidade (Técnica) – Ação
+*Requisito: Mestre das Adagas 1
+*Descrição: Você refinou sua técnica de arremesso de pequenos objetos. Você
+pode arremessar até 4 armas com a característica Arremesso e FN 1.
+---
+--Pantomima--
+Habilidade (Técnica) – Suporte
+*Descrição: Você é muito bom em
+ler e imitar o comportamento das pessoas,
+incluindo a linguagem corporal de um oponente em combate e prever seus movimentos
+assim como encontrar falhas na sua defesa.
+Você recebe um bônus de +2 em testes de
+Disfarce e perceber mentiras, e como uma
+ação livre, pode escolher uma criatura que
+possa ver para receber +1 nos seus testes de
+ataque e +1 de Esquiva contra ela.
+Você só pode estar concentrado em
+uma criatura de cada vez, mas pode trocar
+o alvo desta Habilidade como uma ação livre.
+---
+--Tocar de Ouvido--
+Habilidade (Técnica) – Suporte
+*Descrição: Você possui um ótimo
+ouvido para música e é capaz de aprender
+canções ouvindo-as apenas uma vez. Você
+recebe +2 em todos os seus testes para tocar instrumentos musicais (incluindo Músicas).
+Além disso, você pode selecionar 1
+Música que você preencha os requisitos. Esta
+escolha é permanente e não pode ser alterada
+mais tarde.
+---
+--Truque Sujo--
+Habilidade (Técnica) – Ação
+*Requisito: Evasão
+Mana: 10
+*Descrição: Quando estiver em distância corporal do oponente e ele estiver te
+vendo, faça um Confronto de Inteligência
+contra o alvo. Se você tiver um resultado
+igual ou maior do que o do oponente nesse
+teste, você realiza um truque sujo (joga areia
+nos olhos do oponente, joga um pano em seu
+rosto, enrola uma corda em suas pernas, etc.)
+fazendo com que o alvo fique confuso ou desequilibrado, não podendo realizar nenhuma
+ação no próximo turno, e sendo considerado
+Desprevenido por 1 turno. 
+---
+--Ventriloquismo--
+Habilidade (Técnica) – Reação
+*Descrição: Você é capaz de falar sem
+mover os lábios, além de saber projetar sua
+voz e imitar sons com perfeição. Sempre que
+falar (mas não utilizar Músicas) você pode escolher não mover os lábios e/ou fazer com
+que sua voz pareça vir de um ponto a até sua
+Vontade em metros de distância. Além disso,
+você é capaz de imitar com perfeição a voz
+de criaturas que já tenha ouvido – incluindo
+sotaques de idiomas que conheça ou mesmo
+sons de animais.
+---
+--Voz de Peito--
+Habilidade (Técnica) – Suporte
+*Descrição: Você treinou no uso da
+extensão mais grave da sua voz, e pode
+retumbar como um trovão. A dificuldade
+para resistir aos efeitos dos seus Gritos e
+Rugidos é aumentada em 2 assim como a
+sua Determinação para definir se os alvos
+de seus Gritos e Rugidos são afetados por
+seus efeitos.
+Além disso, seus Gritos e Rugidos consomem 5 Pontos de Mana a menos.
+---
+
+Habilidades Avançadas
+
+---
+--Falsete--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Você treinou no uso da
+extensão mais aguda da sua voz, projetando sua voz muito mais longe O alcance
+dos seus Gritos e Rugidos é dobrada e o
+dano de seus Gritos e Rugidos é aumentado em 5.
+---
+--Grito de Guerra 2--
+Habilidade – Ação
+*Requisito: Nível 5, Grito de Guerra 1
+Mana: 15
+*Descrição: Você pode dar um grito
+fervoroso que motiva todos os seus aliados.
+Eles (assim como você) recebem +2 em
+todos os testes até o final da batalha. Além
+disso, remova todos os efeitos de Medo que
+estiverem afetando os seus aliados.
+Você não pode usar esta Habilidade se
+estiver sob qualquer efeito de Medo.
+---
+--Grito de Intimidação--
+Habilidade – Ação
+*Requisito: Nível 5, Grito de Guerra 1
+Mana: 35
+*Descrição: Você pode dar um grito para intimidar seus inimigos. Todos os
+oponentes que estiverem a até 10 metros à
+sua frente que tiverem uma Determinação
+menor do que a sua ficam Paralisados por
+1 turno.
+Esse é um efeito de Medo.
+---
+--Malabares--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5, Malabarista
+Mana: 5
+*Descrição: Você é tem uma precisão
+e agilidade muito boas com suas mãos, sendo capazes, de arremessar coisas a grandes
+distâncias. Sempre que arremessar uma arma
+com característica Arremesso e FN 1, você
+pode rolar +1d6.
+Esta Habilidade só pode ser utilizada
+uma vez por turno.
+---
+--Mestre das Adagas 3--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Mestre das Adagas 2
+*Descrição: Você é um mestre da técnica de arremessar pequenos objetos! Você
+pode arremessar até 6 armas com a característica Arremesso e FN 1
+---
+--Mimicar--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5, Pantomima
+Mana: Varia
+*Descrição: Sempre que um oponente
+ou aliado utilizar uma Habilidade de Ação do
+tipo Técnica e você consiga ve-lô, você pode
+realizar aquela Habilidade no seu próximo
+turno. Você ainda precisa preencher quaisquer exigências da Técnica (tipo de dano,
+itens, condições especiais, tipo de ação, etc.)
+além do Requisito de nível (mas ignora outros Requisitos).
+O custo dessa Habilidade é o mesmo
+da Técnica a ser copiada +5.
+Esta Habilidade só pode ser utilizada
+uma vez por turno.
+---
+--Orquestra de Um Homem Só--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Tocar de Ouvido
+*Descrição: Você toca vários tipos de
+instrumentos – muitas vezes mais de um ao
+mesmo tempo! – e é excelente com todos
+eles.Você recebe +2 em todos os seus testes
+para tocar instrumentos musicais e em seus
+testes de Músicas.
+Além disso, você pode selecionar 1
+Música que você preencha os requisitos. Esta
+escolha é permanente e não pode ser alterada
+mais tarde.
+---
+--Poeta Itinerante--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Você está acostumado a se
+apresentar enquanto caminha entre a platéia
+– ou acompanhando a plateia! Suas Músicas
+passam a ser iniciadas como uma ação de movimento ao invés de uma ação padrão.
+---
+--Só para seus Ouvidos--
+Habilidade – Suporte
+*Requisito: Nível 5, Ventriloquismo
+*Descrição: Você é capaz de fazer sua
+canção ser direcionada para apenas um único alvo. Sempre que usar uma Música, você
+pode escolher um único alvo para afetar, ao
+invés de afetar todos que lhe ouvirem. Além
+disso, você pode escolher se as outras criaturas
+na área escutam a sua Música ou não, e pode
+utilizar os efeitos de Ventriloquismo quando
+utilizar uma habilidade do tipo Canção.
+Além disso, você pode selecionar 1
+Música que você preencha os requisitos. Esta
+escolha é permanente e não pode ser alterada
+mais tarde.
+---
+--Trapaceiro Impecável--
+Habilidade (Característica) – Suporte
+*Requisito: Nível 5, Eloquente
+*Descrição: Você está acostumado a
+enganar e mentir, e seu raciocínio se tornou
+tão condicionado a extrapolar situações rapidamente que até ler (ou mesmo dominar) sua
+mente é mais difícil! Sua Inteligência é considerada o dobro em Confrontos para tentar
+esconder ou dissimular a verdade e para calcular sua Determinação contra efeitos mentais – exceto os de medo.
+---
+
+Habilidade Final
+
+---
+--Fantasma da Ópera--
+Música – Ação
+*Requisito: Nível 10, Só para seus Ouvidos, Melodia da Paixão
+Mana: 60
+*Descrição: Você canta uma música
+em um tom dramático contando histórias
+de assombrações e triângulos amorosos improváveis. Enquanto estiver tocando esta
+música, todas as criaturas vivas que puderem
+entender o que você diz (exceto seus aliados)
+realizam um confronto de Vontade contra
+você no começo de cada um dos seus turnos. Aqueles que falharem são considerados
+Desprevenidos – exceto em relação à você – e
+realizam todas as suas ações como se fossem
+Inaptos. Além disso, se um alvo tiver uma
+falha crítica em um desses confrontos, ele é
+considerado Indefeso até o final do seu próximo turno.
+Este é um efeito mental.
+*Especial: Esta Música é considerada
+uma Canção, um Ritmo e uma Melodia para
+todos os propósitos.
+---
+
+**Bardo**
+
+---
+/*
+Bônus de Atributo
+Inteligência +1
+Vontade +1
+Habilidade Automática
+--Poesia dos Bardos--
+Habilidade – Suporte
+*Descrição: Através das inúmeras canções e poemas épicos, você conhece muitas
+histórias e lendas. Você pode rolar +1d6
+quando fizer testes referentes à qualquer tipo
+de conhecimento.
+Se o conhecimento em questão for
+considerado perdido, maçante ou técnico
+para figurar uma canção ou poema, não há
+como o Bardo conseguir informações sobre
+o assunto.
+Além disso, você pode selecionar duas
+Música para as quais preencha os requisitos.
+Esta escolha é permanente e não pode ser alterada mais tarde.
+*\
+---
+Habilidades Básicas
+---
+--Aparar--
+Habilidade (Técnica) – Suporte
+*Descrição: Você pode usar qualquer
+coisa que esteja em suas mãos para afastar e
+desviar golpes desferidos contra você. Enquanto estiver com um objeto em pelo menos uma das mãos, você recebe Defesa +1.
+Se estiver segurando um objeto em ambas as
+mãos ou um objeto em cada mão, você recebe Defesa +2.
+Este é um bônus de Esquiva.
+---
+--Ataque Redirecionado--
+Habilidade (Técnica) – Reação
+*Requisito: Evasão
+*Descrição: Quando um oponente
+errar um ataque corporal contra você, você
+pode direcionar o ataque dele para outro alvo.
+O novo alvo precisa estar adjacente a você ou
+ao oponente que errou o ataque. Esse ataque
+acerta automaticamente – sem chance de errar ou de ser um sucesso decisivo.
+Esta Habilidade só pode ser usada uma
+vez por rodada.
+---
+--Audição Treinada--
+Habilidade (Característica) – Suporte
+*Descrição: Você possui uma audição
+extremamente aguçada. Você recebe +1d6
+em todos seus testes para ouvir (e consegue
+ouvir sussurros à uma distância em metros
+igual à sua Determinação), e +2 em seus testes e Confrontos para resistir aos efeitos de
+Músicas, Gritos e Rugidos. Além disso, você
+é muito bom em isolar sons, e pode entender
+claramente uma conversa do outro lado de
+uma taverna cheia ou outro ambiente barulhento.
+Além disso, você pode selecionar 1
+Música que você preencha os requisitos. Esta escolha é permanente e não pode ser alterada
+mais tarde.
+---
+--Contatos na Corte--
+Habilidade – Suporte
+*Descrição: Você possui muitos contatos entre os nobres do reino, o que lhe concede alguns privilégios com relação à elite.
+Você pode conseguir informações e favores
+ligados à corte e à nobreza do reino, como
+audiências com os nobres, acesso às dependências da maioria das áreas exclusivas de cidades ou castelos, e
+informações referentes a figuras
+importantes da região e da
+política local.
+Obviamente, o mestre
+poderá restringir que tipo de
+ajuda e informação eles fornecerão se isto for problemático para o andamento da
+aventura ou da campanha.
+---
+--Distração--
+Habilidade (Técnica) – Ação
+*Requisito: Eloquente
+Mana: 10
+*Descrição: Você é
+capaz de usar sua oratória
+para chamar a atenção de um
+alvo para você e confundi-lo
+no processo. Você escolhe uma
+criatura que esteja a uma distância
+em metros igual à sua Vontade e que
+seja capaz de compreender o que você diz.
+Aquela criatura precisa passar em um teste de
+Inteligência (Dificuldade igual à sua Determinação) ou ficará Distraída por 1 turno.
+Esse é um efeito mental.
+---
+--Eloquente--
+Habilidade (Característica) – Suporte
+*Descrição: Você tem um talento de
+convencer ou comover outras pessoas apenas falando do jeito certo. Você recebe +1d6 
+em todos os seus testes para persuadir, mentir, perceber mentiras, intimidar ou em qualquer outra interação social.
+---
+--Evasão--
+Habilidade (Técnica) – Reação
+Mana: 20
+*Descrição: Se o seu inimigo fizer um
+ataque corporal e acertar, você pode declarar
+evasão, e obrigar o inimigo a rolar novamente o teste de ataque. Você pode escolher com
+qual dos resultados o oponente vai ficar.
+Esta Habilidade só pode ser usada uma vez por rodada. 
+---
+--Figura Imponente--
+Habilidade (Técnica) – Ação
+Mana: 10
+*Descrição: Você sabe se
+impor quando a situação
+requer. Você força todos os
+inimigos que possam vê-lo
+e ouvi-lo (mesmo que não
+sejam capazes de entender
+o que você diz) a fazer um
+Confronto de Vontade contra você. Aqueles que tiverem
+um resultado mais baixo que
+o seu passam a prestar atenção exclusiva no que você diz,
+e ficam Desprevenidos em relação
+a todas as criaturas, exceto você,
+por 1 turno.
+Uma criatura só pode ser afetada
+por essa Habilidade uma vez a cada minuto – ou combate.
+---
+--Frequentador de Tavernas--
+Habilidade (Característica) – Suporte
+*Descrição: Você está acostumado
+com o ambiente – geralmente competitivo
+e cheio de falastrões – das tavernas. Sempre
+que realizar um Confronto, você recebe um
+bônus de +2 no seu teste – esse bônus se
+aplica a qualquer Habilidade que exija um
+Confronto, além de testes de percepção
+(como detectar criaturas escondidas), situações sociais (como mentir ou detectar mentiras) e passar despercebido (como se esconder
+e mover-se em silêncio).
+---
+--Grito de Guerra 1--
+Habilidade – Ação
+Mana: 10
+*Descrição: Você pode dar um grito fervoroso que motiva todos seus aliados.
+Eles recebem (assim como você) +1 em
+todos os testes até o final da batalha. Além
+disso, remova todos os efeitos de Medo que
+estiverem afetando os seus aliados. Você não
+pode usar esta Habilidade se estiver sob qualquer efeito de Medo.
+Este é um efeito mental.
+---
+--Grito Ensurdecedor--
+Habilidade – Ação
+Mana: 10
+*Descrição: Você solta um grito tão
+alto e poderoso que faz com que todos ao
+redor fiquem atordoados. Todas as criaturas
+em uma área de 10 metros à sua frente ficam
+Atordoadas por um número de turnos igual à
+sua Vontade.
+---
+--Grito Estilhaçador--
+Habilidade – Ação
+*Requisito: Grito Ensurdecedor
+Mana: 20
+*Descrição: Seu agudo é tão poderoso
+que você pode direcionar um grito capaz de
+romper vidros, cristais e tímpanos! Tudo e
+todos em até 10 metros à sua frente sofrem
+dano igual a 10/Corte. Criaturas com Corpo
+Amórfico, objetos inanimados e estruturas
+que sejam atingidas por esse grito sofrem o
+dobro do dano.
+---
+--Instrumentista--
+Habilidade (Técnica) – Suporte
+*Descrição: Você possui um ótimo ritmo e excelente cadência musical. Você recebe +2 em todos os testes para tocar instrumentos musicais (incluindo utilizar Músicas
+do tipo Ritmo) e seus Ritmos tem seu custo
+de Mana reduzido em 5.
+Além disso, você pode selecionar 1
+Habilidade do tipo Música que seja um Ritmo e que você preencha os requisitos. Esta
+escolha é permanente e não pode ser alterada
+mais tarde.
+---
+--Língua Afiada--
+Habilidade (Técnica) – Ação
+*Requisito: Eloquente
+Mana: 10
+*Descrição: Você possui uma língua
+ferina e um talento especial para insultar seus
+adversários. Escolha um inimigo do tipo Humanoide ou Esfinge. Você faz uma série de
+comentários jocosos ou degradantes sobre
+ele. Faça um confronto de Vontade contra
+o alvo. Se você tiver um resultado igual ou
+maior do que o alvo e se ele for capaz de
+entendê-lo, ele ataca você em detrimento de
+qualquer outro alvo, e é considerado Desprevenido para todos os seus aliados – mas não
+para você.
+Este é um efeito mental.
+---
+--Mestre das Notas--
+Habilidade (Técnica) – Reação
+Mana: 10
+*Descrição: Sempre que você fizer um
+teste que envolva contar histórias, entreter
+uma plateia, cantar ou tocar instrumento musicais (incluindo Habilidades do tipo Música),
+você pode rolar novamente um dado cujo resultado seja 1.
+Esta Habilidade só pode ser utilizada
+uma vez por turno.
+---
+--Músico Fúnebre--
+Habilidade (Técnica) – Suporte
+*Descrição: Você possui uma inclinação ao funesto e ao lúgubre, e suas Músicas
+podem afetar até mesmo criaturas com Mente Vazia como se eles não tivessem esta Habilidade. Você também recebe um bônus de
++1 em seus testes relacionados a cadáveres
+ou partes deles – como preparação de carne
+para refeições, extrair couro ou partes de animais mortos ou determinar a causa da morte
+de uma criatura – o que inclui todos os tipos
+de mortos-vivos.
+Além disso, você pode selecionar 1
+Música para a qual preencha os requisitos.
+Esta escolha é permanente e não pode ser
+alterada mais tarde
+---
+--Presença Inspiradora--
+Habilidade (Característica) – Suporte
+*Descrição: Você inspira confiança em
+seus aliados com sua mera presença. Todos
+os seus aliados, mas não você, recebem Determinação +2 e +1 em todos os testes enquanto você estiver dentro do seu alcance de
+visão. Esses benefícios deixam de ter efeito
+se você ficar desacordado ou sob um efeito
+de Medo.
+---
+--Repentista--
+Habilidade (Técnica) – Suporte
+*Descrição: Você é muito bom em
+improvisar músicas e rimas rapidamente.
+Você recebe +2 em todos os testes para tocar instrumentos musicais e cantar (incluindo utilizar Músicas do tipo Melodia) e suas
+Melodias têm seu custo de Mana reduzido
+em 5.
+Além disso, você pode selecionar 1 Habilidade do tipo Música que seja uma Melodia
+que você preencha os requisitos. Esta escolha
+é permanente e não pode ser alterada.
+---
+--Soprista--
+Habilidade (Técnica) – Suporte
+*Descrição: Você se especializou em
+usar instrumentos de sopro, o que lhe concedeu um fôlego invejável! Você pode usar
+Canções e Gritos utilizando instrumentos de
+sopro ao invés de sua voz e, quando o fizer,
+você recebe +2 nos seus Confrontos.
+Além disso, você pode selecionar 1
+Música e que você preencha os requisitos.
+Esta escolha é permanente e não pode ser
+alterada.
+---
+--Truque Sujo--
+Habilidade (Técnica) – Ação
+*Requisito: Evasão
+Mana: 10
+*Descrição: Quando estiver em distância corporal do oponente e ele estiver lhe vendo, faça um Confronto de Inteligência contra
+o alvo. Se você tiver um resultado igual ou
+maior do que o do oponente, você realiza um
+truque sujo (joga areia nos olhos do oponente, joga um pano em seu rosto, enrola uma
+corda em suas pernas, etc.) fazendo com que
+o alvo fique confuso ou desequilibrado, não
+podendo realizar nenhuma ação no próximo
+turno, e sendo considerado Desprevenido por
+1 turno.
+---
+--Vocalista--
+Habilidade (Técnica) – Suporte
+*Descrição: Você sabe utilizar sua voz
+para cantar com harmonia. Você recebe +2
+em todos os testes para cantar e declamar
+(incluindo utilizar Músicas do tipo Canção),
+e suas Canções tem seu custo de mana reduzido em 5.
+Além disso, você pode selecionar 1
+Habilidade do tipo Música que seja uma
+Canção e que você preencha os requisitos.
+Esta escolha é permanente e não pode ser
+alterada.
+---
+
+Habilidades Avançadas
+
+---
+--Coração da Batalha--
+Habilidade (Característica) – Reação
+*Requisito: Nível 5
+*Descrição: Quando sofrer algum
+dano ou perder Pontos de Vida fora de seu
+turno, você recupera 5 Pontos de Mana.
+Esta Habilidade só pode ser utilizada
+uma vez por turno.
+---
+--Falsete--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Você treinou no uso da
+extensão mais aguda da sua voz, projetando
+sua voz muito mais longe O alcance dos seus
+Gritos e Rugidos é dobrado e o dano destas
+Habilidades é aumentado em 5.
+--- 
+--Grito Contundente--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Grito Estilhaçador
+Mana: 25
+*Descrição: Você produz um som tão
+violento que ele reverbera em tudo e todos
+ao seu redor, rompendo órgãos e provocando danos estruturais. Todas as criaturas a até
+10 metros à sua frente devem fazer um teste
+de Força (Dificuldade igual à sua Determinação). Se passarem no teste, elas sofrem dano
+igual a 10/Contusão. Se falharem no teste,
+elas sofrem dano igual a 20/Contusão. Criaturas com Corpo Amórfico não têm direito
+a este teste e criaturas dos tipos Autômato e
+Elemental sofrem o dobro do dano.
+---
+--Grito de Guerra 2--
+Habilidade – Ação
+*Requisito: Nível 5, Grito de Guerra 1
+Mana: 15
+*Descrição: Você pode dar um grito fervoroso que motiva todos seus aliados.
+Eles recebem (assim como você) +2 em
+todos os testes até o final da batalha. Além
+disso, remova todos os efeitos de Medo que
+estiverem afetando os seus aliados.
+Você não pode usar esta Habilidade se
+estiver sob qualquer efeito de Medo.
+---
+--Grito de Intimidação--
+Habilidade – Ação
+*Requisito: Nível 5, Grito de Guerra 1
+Mana: 35
+*Descrição: Você pode dar um grito
+para intimidar seus inimigos. Todos os oponentes que estiverem a até 10 metros à sua
+frente que tiverem uma Determinação menor
+do que a sua ficam Paralisados por 1 turno.
+Esse é um efeito de Medo.
+---
+--Lírico--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Você treinou sua voz para
+se tornar mais potente e límpida, e sua dicção,
+mais clara e segura. Você recebe +2 em todos
+os testes que envolvam a fala – como mentir,
+seduzir, barganhar ou cantar (incluindo Canções e Melodias, mas, não Ritmos).
+Além disso, você pode selecionar 1
+Música que seja uma Canção ou Melodia e
+que você preencha os requisitos. Esta escolha
+é permanente e não pode ser alterada.
+---
+--Ritmista--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Você se especializou em
+manter ritmos perfeitos independente da velocidade da música. Graças a braços e mãos
+bem treinadas, você causa +2 de dano com
+armas corporais que esteja usando em apenas
+uma mão e também recebe +2 em seus testes para tocar Ritmos e Melodias (mas, não
+Canções).
+Além disso, você pode selecionar 1
+Música que seja um Ritmo ou Melodia e que
+preencha os requisitos. Esta escolha é permanente e não pode ser alterada.
+---
+--Trapaceiro Impecável--
+Habilidade (Característica) – Suporte
+*Requisito: Nível 5, Eloquente
+*Descrição: Você está acostumado a
+enganar e mentir, e seu raciocínio se tornou
+tão condicionado a extrapolar situações rapidamente que até ler (ou mesmo dominar) sua
+mente é mais difícil! Sua Inteligência é considerada o dobro em Confrontos para tentar
+esconder ou dissimular a verdade, e para calcular sua Determinação contra efeitos mentais – exceto os de medo.
+---
+--Versos e Rimas--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Você consegue se focar
+com eficiência em tocar instrumentos musicais ou cantar – embora não seja especialmente eficiente quando precisa fazer as duas
+coisas ao mesmo tempo. Você recebe +2 em
+todos os testes que envolvam entreter uma
+plateia – seja cantando, tocando instrumentos musicais, contando histórias ou declamando (incluindo utilizar Ritmos e Canções,
+mas não Melodias).
+Além disso, você pode selecionar 1
+Habilidade do tipo Música que seja um Ritmo ou Canção e que preencha os requisitos.
+Esta escolha é permanente e não pode ser
+alterada.
+---
+--Virtuoso--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Mestre das Notas
+*Descrição: Você treinou exaustivamente até se tornar um mestre no uso de
+instrumentos musicais. Você rola +1d6 em
+todos os testes envolvendo tocar instrumentos musicais (incluindo Habilidades do tipo
+Música).
+---
+
+Habilidade Final
+
+---
+--Réquiem--
+Música – Ação
+*Requisito: Nível 10, Virtuoso
+Mana: 80
+*Descrição: Você toca uma música que
+fala sobre a morte, derrota e fracasso dos ancestrais do alvo e do sofrimento e amarguras
+que ele ainda provará no futuro. A cada turno
+em que você canta essa canção e o alvo puder escutá-lo e entender o que você diz, ele
+rola um Confronto de Vontade contra você.
+O alvo tem sua moral tão profundamente
+atingida pela canção que perde 20 Pontos
+de Mana sempre que rolar esse Confronto
+(independente do resultado). Além disso, se
+tiver um resultado menor do que o seu no
+teste, ele é tomado por uma completa aflição
+decorrente dos desgostos e sofrimentos que
+já viveu, além das perspectivas de um futuro
+negro, perdendo 50 Pontos de Vida. No começo de cada turno em que estiver tocando
+esta Música, você pode escolher um novo
+alvo como uma ação livre. O novo alvo deve
+estar a uma distância de você igual à sua Determinação em metros.
+Este é um efeito mental.
+*Especial: Esta Música é considerada
+uma Canção, um Ritmo e uma Melodia para
+todos os propósitos.
+---

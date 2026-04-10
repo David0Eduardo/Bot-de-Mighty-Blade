@@ -1,0 +1,386 @@
+Capítulo 3: Equipamento
+
+---
+**Armas**
+*Tipo de Dano:
+Tipo: o tipo de dano que a arma
+causa. Se uma arma tiver mais de um
+tipo de dano, o jogador pode escolher,
+a cada ataque, que tipo de dano o seu
+personagem usa ao atacar com a arma
+em questão. Cada tipo de dano possui
+um efeito que pode ser utilizado quando o personagem tem um Sucesso Decisivo com a arma – o jogador escolhe
+se causará o dobro do dano ou o efeito
+por dano específico, mas, não, ambos:
+Contusão (Cont.): O ataque causa dano normal e o alvo fica Atordoado
+(ver pág. 66) por 1 turno – se o efeito do
+ataque já deixasse o alvo Atordoado, o
+efeito dura 1 turno a mais. Além disso,
+o personagem pode empurrar o alvo 1
+metro – se o ataque já fosse empurrar
+o alvo, ele empurra o alvo 1 metro a
+mais.
+Corte: o ataque causa dano normal e também atinge outro alvo dentro
+do seu alcance, causando o dano normal da arma (sem bônus por Habilidades de Ação). O personagem pode se
+mover 1 metro entre os ataques. Mesmo que não haja outros alvos em seu
+alcance, o personagem ainda pode se
+mover 1 metro.
+Perfuração (Perf.): o ataque causa dano normal e alvo tem um de seus
+membros atingidos (veja a manobra
+Ataque Localizado, para detalhes). O
+membro atingido é definido pelo atacante.
+*Alcance:
+A distância máxima que a arma alcança em combate. O valor entre parênteses indica a distância em metros que a
+arma pode atingir. Esses alcances são:
+Arremesso (20m): armas que são
+propelidas pela força do usuário, sem
+auxílio de alavancas ou instrumentos
+de tensão.
+*Adjacente (1m): armas brancas,
+ataques desarmados e armas improvisadas são incluídas nessa categoria.
+Disparo Médio (100m): armas que
+usam sistema de alavancas ou de propulsão mecânica são consideradas armas de alcance médio. Arcos simples também
+caem nessa categoria. Contra alvos adjacentes, causam apenas metade do dano.
+Disparo Longo (200m): arcos longos, compostos e recurvos entram nessa categoria. Contra alvos adjacentes,
+causam apenas metade do dano.
+Haste (3m): armas dotadas de cabos compridos e com uma cabeça montada em uma das suas extremidades.
+São armas geralmente especializadas
+para técnicas de falange ou para manter
+alvos à distância. Contra alvos adjacentes, causam apenas metade do dano.
+*Propriedade:
+Lista as características especiais
+da arma, quando houver. Essas características são:
+*Arremessável: esta arma pode ser
+arremessada como se tivesse o alcance
+de Arremesso – armas sem essa Propriedade só podem ser arremessadas
+um número de metros igual à Força do
+personagem, e o teste de ataque é feito
+como se o personagem fosse Inapto.
+*Carregar: esta arma usa um sistema de alavancas para ser recarregada. É
+preciso gastar uma Ação de Movimento
+para recarregar esta arma. Se a arma estiver sem alavanca, um personagem só
+pode recarregar a arma se tiver o dobro
+da FN normal da arma ou como uma
+Ação Completa. Esta arma não tem seu
+dano reduzido por atacar alvos adjacentes, independente de seu Alcance.
+*Empurrar: se um ataque causar
+dano de Contusão, o atacante pode escolher empurrá-lo 1 metro para trás.
+*Duas Mãos: são necessárias ambas as mãos para usar a arma. Se usada
+com apenas uma das mãos, o personagem ataca como se fosse Inapto.
+*Gancho: como um ataque, esta
+arma pode ser utilizada para derrubar
+um alvo – se o ataque acertar o alvo, em
+vez de causar dano, faça um Confronto
+de Força ou Agilidade (o que for mais
+alto para ambos) contra o alvo; se tiver
+um resultado mais alto, o alvo fica Caído (ver pág. 66)– ou para puxar o escudo do alvo – incluindo escudos de
+corpo (se o ataque acertar, o alvo não se
+beneficia dos bônus do seu escudo até o
+começo do seu próximo turno).
+*Mão-e-Meia: a arma pode ser
+utilizada com uma ou ambas as mãos.
+Se a arma estiver sendo utilizada com
+ambas as mãos, a FN dela é considerada reduzida à metade para definir se o
+personagem tem Força suficiente para
+empunhá-la, e se o personagem tiver
+Força suficiente para utilizar a arma
+com uma das mãos mas empunhar com
+ambas as mãos, adicione metade da sua
+FN (arredondada para cima) em seu
+dano.
+*Meia-Guarda: a arma pode ser
+segurada de forma que ambas as extremidades possam ser utilizadas para
+golpear. Enquanto for empunhada dessa forma, a arma tem Alcance Adjacente e o personagem é considerado como
+se estivesse empunhando 2 armas (uma
+causando o dano normal da arma -2,
+e a outra causando dano igual à Força
++2/Contusão). Trocar a empunhadura
+pode ser feito como uma Ação Livre,
+inclusive entre múltiplos ataques no
+mesmo turno.
+*Segurar: quando um ataque com
+esta arma acerta o alvo, em vez de causar dano você pode considerar que teve
+sucesso em uma Manobra de Agarrar
+contra o alvo. Se o alvo for um objeto
+cuja FN seja menor do que sua Força,
+você pode puxar aquele objeto para a sua mão como uma Ação Livre. Além
+disso, a arma oferece um bônus de
++2 em Manobras de Desarmar.
+*Transpor: esta arma pode contornar ou envolver escudos com facilidade, e ignora os bônus oferecidos
+por quaisquer tipo de escudo que
+o alvo estiver empunhando, assim
+como a Cobertura de Escudos de
+Corpo.
+*Trespassar: se o alvo do ataque desta arma fizer uma criatura
+ficar sem PVs, escolha um outro alvo
+dentro do alcance da arma e cause a
+ele uma quantidade de dano igual à
+sua Força (o tipo de dano é o mesmo
+do ataque que deixou o alvo original
+sem PVs).
+/*equipamentos.xlsx*\
+---
+**Ferramentas**
+Ferramentas seguem as mesmas regras de armas corporais, exceto que elas
+são sempre consideradas como tendo qualidade baixa como padrão (Guia do Herói,
+pág. 53), embora ferramentas de qualidade normal ou qualidade alta – mas não
+Obra-Prima – possam ser fabricadas. 
+/*equipamentos.xlsx*\
+---
+**Armas de Distância**
+Ataques com armas de distância são feitos com Agilidade ou Inteligência – à
+escolha do atacante. Contra alvos adjacentes, todos os ataques com essas armas
+causam apenas metade do dano (a menos que possuam a Propriedade Carregar).
+/*equipamentos.xlsx*\
+---
+**Armaduras e Escudos**
+Armaduras são itens de proteção
+vestidos sobre o corpo, enquanto escudos são carregados nas mãos. Não é
+necessária nenhuma Habilidade para
+trajar uma armadura, mas algumas
+Habilidades, como Guerreiro de Aço,
+oferecem benefícios para quem as usa.
+Outras Habilidades, como Movimentos
+Evasivos, só podem ser usadas se você
+estiver sem armadura.
+Há oito tipos de armaduras e três
+tipos de escudos. Cada tipo corresponde a uma série considerável de modelos
+diferentes (entre parênteses ao lado de
+cada tipo de armadura e escudo há uma
+lista de exemplos históricos equivalentes). Perceba que algumas Armaduras
+– especificamente a Aramida e a Guayule – são armaduras completamente ficcionais e portanto não possuem correspondente histórico. 
+**Armaduras**
+*Gambeson (perponte, jaque):
+qualquer armadura de tecido ou couro
+flexível entra nessa categoria. Leves e
+fáceis de vestir, oferecem pouca proteção e podem ficar extremamente quentes – o que lhes fornece uma excelente
+proteção contra o frio, conferindo Resistência a Frio (ver pág. 70) para o usuário.
+São consideradas roupas de inverno.
+*Aramida: mantos e túnicas feitas
+de fibras de asbestos especialmente tratadas, essas armaduras são extremamente
+leves. Embora ofereçam pouca proteção,
+são fáceis de manter e fornecem alguma
+proteção contra ácidos e uma considerável proteção contra chamas, conferindo
+Resistência a Fogo (ver pág. 70), além de
+ter propriedades de vedação.
+*Guayule: armaduras feitas de
+camadas de tecido – linho e algodão
+sendo os mais comuns – impermeabilizadas com seiva vegetal. São fáceis de
+vestir e despir, possuem uma certa boiância, mas não deixam o corpo transpirar adequadamente. Essas armaduras
+garantem um certo isolamento elétrico,
+e conferem Resistência a Eletricidade (ver
+pág. 70) para o usuário.
+*Armadura de Couro (cuir bouilli,
+armadura lamelar): armaduras feitas
+majoritariamente de peças de couro
+ou outros materiais de origem animal
+(como ossos, escamas de pangolim ou
+mesmo marfim) com reforço de metal.
+Combina leveza, flexibilidade e defesa,
+conferindo proteção moderada.
+Cota de Malha (jazerand, hauberk, armadura de escamas): armaduras feitas com pequenos anéis ou placas
+de metal entrelaçados ou costurados
+juntos, sendo resistentes, mas flexíveis,
+não restringindo os movimentos, apesar de seu considerável peso.
+*Armadura Segmentada (behterets, yushman, kalantar, brigandine):
+utiliza placas de metal e couro sobrepostas, garantindo boa proteção com
+pouca restrição dos movimentos.
+*Armadura de Batalha: uma couraça peitoral de metal, combinada com
+uma armadura de couro para as articulações, reforçada com cota de malha nas
+partes mais vulneráveis. Grevas, manoplas e um elmo completam o conjunto.
+Oferece excelente proteção, mas tem
+pouca flexibilidade e é bastante pesada.
+*Armadura Completa: essas armaduras são o pináculo da confecção
+de proteções corporais, e apenas os
+ferreiros mais habilidosos conseguem
+produzir esses itens. Armaduras Completas recobrem o corpo do usuário
+primariamente de placas de metal com
+articulações para permitir uma boa
+mobilidade. Seções de cota de malha
+protegem as partes internas das juntas.
+O conjunto todo é mantido no lugar
+distribuindo o peso de forma eficiente através de forramento, cintas e correias de couro. Armaduras Completas
+sempre são consideradas armaduras
+de qualidade alta – embora ainda possam receber os benefícios por itens de qualidade obra-prima – e embora tornem o usuário extremamente resistente
+a qualquer tipo de dano, são pesadas,
+exigem ajuda para ser vestidas e restringem a visão e a audição. 
+/*
+**Túnicas**
+As armaduras com a propriedade Túnica são feitas especificamente para
+serem usadas sob outras armaduras, no intuito de oferecer conforto – já que Armaduras tendem a ser abrasivas e desconfortáveis se forem usadas diretamente
+sobre a pele ou com roupas leves.
+Túnicas podem ser usadas sob outras armaduras, o que irá conferir a soma
+das FN e das RDs (inclusive no Bloqueio), além da Resistência a [Dano] conferida pela Túnica. É possível utilizar uma Túnica sobre outra, o que confere a
+Resistência a [Dano] de ambas (além da soma de FN e RD) – no entanto, como
+bônus de itens iguais não se acumulam, utilizar duas Túnicas que ofereçam a
+mesma Resistência a [Dano] não confere Imunidade a [Dano].
+Além disso, como as Túnicas são produzidas para melhorar o caimento de
+armaduras mais pesadas, ajustando-as ao corpo confortavelmente, se o personagem estiver usando Armadura e nenhuma delas tiver a Propriedade Túnica
+listada, ele perde 5 Pontos de Mana a cada turno que estiver em combate, devido
+ao desconforto.
+*\
+**Escudos**
+Escudos podem ser de três tipos
+diferentes:
+*Broquel (buckler): um pequeno
+escudo com uma abóboda central (a
+bossa), no interior da qual há uma haste onde se segura o escudo. É no geral
+utilizado por esgrimistas para defender
+a mão da arma, mas também serve para
+defletir ataques. É geralmente feito de
+metal, e é pequeno o suficiente para ser
+carregado no cinto.
+*Escudo Médio (targe, scutum, escudo de gota): protege grande parte do
+corpo do usuário. É geralmente feito de madeira com revestimento de couro e
+reforço de metal. Pode ter uma bossa,
+semelhante ao broquel, ou segurado
+com duas correias – uma para passar
+o antebraço, a outra para segurar o escudo com a mão (nesse caso, considere
+que o escudo está equipado com uma
+Alça; veja adiante). Escudos geralmente
+tem um tiracolo (uma tira de couro que
+permite que o escudo seja mantido nas
+costas quando não está em uso). Um
+escudo a tiracolo concede RD 1 para o
+usuário (em vez de um bônus de Esquiva quando está sendo segurado).
+*Escudo de Corpo (pavise,mantlet): 
+um grande escudo retangular, geralmente levemente curvado e
+com uma haste central que serve como
+apoio, em vez de empunhadura. É utilizado pousando o escudo no chão, de
+forma a oferecer uma barreira para o
+usuário – geralmente um arqueiro ou
+besteiro, mas pode ser usado por infantaria, principalmente para proteção
+contra flechas, lanças e outros projéteis.
+Apenas criaturas muito fortes conseguem portar este escudo, e ele geralmente é carregado para ser montado no
+campo de batalha.
+**Descrição dos Equipamentos de Proteção**
+*Equipamento: o nome mais comum do item.
+*Custo: o custo em moedas.
+*Redução de Dano: todo e qualquer ataque deve ter esse valor reduzido do dano antes de aplicar qualquer
+modificador (acerto crítico, Resistência
+a [Dano], Vulnerabilidade a [Dano], etc).
+*FN: Força Necessária. Um personagem usando uma armadura cuja FN
+é maior do que sua Força realiza todos
+os seus testes como se fosse Inapto. A
+FN: corresponde a uma armadura sendo vestida, enquanto uma armadura
+sendo carregada (em um baú, mochila,
+sobre o ombro, por exemplo), tem FN
+x2, já que sua FN leva em consideração
+uma distribuição ideal sobre o corpo do
+personagem.
+*Observações: lista as características especiais da armadura, quando
+houver. Essas características são:
+*Boia: Você recebe +2 em seus testes para natação e, se ficar sem Pontos de
+Mana durante um teste de natação, você
+fica sem forças para continuar nadando,
+mas não corre o risco de se afogar.
+*Cobertura: oferece um bônus de
++4 de esquiva, mas apenas numa direção, de acordo com o posicionamento
+do escudo. Quando estiver posicionado
+dessa forma, não ocupa uma das mãos
+do usuário. Se o personagem tiver Força
+suficiente para usar o escudo, ele pode
+escolher segurar o escudo com uma mão
+em vez de posicioná-lo, o que confere
+um bônus de Esquiva de +4.
+*Estancar (x): reduz Perda de Vida
+de qualquer fonte (mágica ou mundana) pelo número indicado.
+*Leve: Não impõe restrições de
+movimentos nem Deslocamento do
+personagem.
+*Média: Reduz a capacidade de
+corrida do usuário (veja a seção sobre
+Deslocamento para detalhes).
+*Ocupa uma Mão: o personagem
+precisa usar o item em uma das suas
+mãos.
+*Pesada: reduz consideravelmente
+a capacidade de corrida do personagem
+(veja a seção sobre Deslocamento (pág.
+7), para detalhes).
+*Restritiva: restringe os sentidos,
+e testes de percepção e furtividade do
+usuário são feitos como se ele fosse
+Inapto.
+*Roupa de Inverno: protege contra
+efeitos de climas frios.
+*Tiracolo: enquanto estiver nas
+costas do personagem, concede RD 1
+(em vez do bônus de Esquiva de quando está sendo segurado), usado dessa
+forma não ocupa uma das mãos do personagem.
+*Túnica: pode ser usada sob outra
+Armadura, conferindo a soma das FN
+e das RDs – mas apenas a RD mais alta
+é adcionada à Defesa – além da Resistência a [Dano] conferida pela Túnica.
+Nunca é possível combinar uma Túnica
+com mais de uma outra Armadura.
+**Vestindo Armaduras**
+Armaduras são peças de proteção
+que, em geral, não são feitas para serem
+vestidas rapidamente – em combate,
+por exemplo. Elas podem possuir vários componentes separados, e mesmo
+as mais leves precisam ser ajustadas
+corretamente para serem eficientes.
+Armaduras com as Propriedade Leve exigem uma Ação Completa
+para serem vestidas, e uma segunda
+Ação Completa para serem ajustadas
+ao corpo – geralmente com fivelas embutidas na própria armadura, ou por
+meio de um cinturão para manter a
+armadura no lugar. No final do turno
+em que tiver vestido a armadura, um
+personagem recebe seus benefícios,
+e pode se mover dentro delas. No
+entanto, se não ajustar a armadura,
+mantendo-a no lugar, ele fará todos
+os seus testes como se fosse Inapto,
+devido ao volume ou peças soltas de
+armadura que atrapalham seus movimentos e tendem a ficar presos em objetos do ambiente ou em itens sendo
+usados.
+Armaduras com a Propriedade
+Média são feitas majoritariamente
+de uma peça única, sendo vestidas
+enfiando os braços dentro da
+armadura, erguendo-a sobre a cabeça
+e deixando ela deslizar por sobre o
+corpo – uma operação que exige três
+rodadas completas, nas quais o personagem não pode realizar nenhuma
+outra Ação exceto falar. Feito isso, a
+armadura oferece proteção integral
+e não atrapalha os movimentos, podendo ser utilizada normalmente.
+No entanto, essas armaduras tendem
+a ser pesadas e desajeitadas de usar,
+devido ao peso ficar todo concentrado
+sobre os ombros. Assim, a menos que
+o personagem gaste uma Ação Completa ajustando a armadura – colocando um cinturão ou afivelando-a, dependendo do modelo específico – ele
+perde 5 Pontos de Mana a cada turno
+que estiver utilizando a armadura em
+combate, devido ao esforço extra. Esta
+perda de Mana se acumula com a perda de Mana que o personagem sofre
+por não estar utilizando uma Túnica
+(veja caixa na página 55 para detalhes).
+Armaduras com a Propriedade Pesada não podem ser vestidas
+em combate. Elas exigem ajuda para
+serem vestidas apropriadamente – as
+placas peitorais precisam ser afiveladas nas costas e as ombreiras e abraçadeiras precisam ser amarradas sobre os ombros, o que é impossível de
+ser feito por alguém vestindo a armadura. Uma Armadura de Batalha leva
+cerca de 6 minutos para ser vestida, enquanto uma Armadura Completa
+leva, em média, 10 minutos.
+Remover uma armadura leva metade do tempo para vesti-la – uma Ação
+Completa para armaduras com a Característica Leve, duas Ações Completas
+para armaduras com a Característica
+Média, 3 minutos para uma Armadura
+de Batalha e 5 minutos para uma Armadura Completa.
+/*equipamentos.xlsx*\
+---
+**Equipamentos Gerais**
+Os equipamentos descritos a seguir que afetam armas ou escudos podem ser aplicados em qualquer item
+adequado que não seja mágico. Baionetas, Cabos Cestas, Espigões e Cordas de
+arco de aço podem ser produzidas por
+ferreiros em 4 horas. Instalar uma Baioneta, Cabo Cesta ou Espigão leva 1 hora(com um teste de Ferraria Dificuldade
+10). Alças e cordas de arco de couro ou
+fibras vegetais podem ser produzidas
+por talabarteiros em 1 hora. Instalar
+uma alça leva 10 minutos (com um teste
+de Correaria Dificuldade 10). Luvas de
+Pugilismo podem ser feitas por um talabarteiro em cerca de 4 horas por luva.
+/*equipamentos.xlsx*\

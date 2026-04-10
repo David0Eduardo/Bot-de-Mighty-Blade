@@ -1,0 +1,11 @@
+se dentro das habilidades separadas por '---' tiver algo entre '[]' significa que e uma descrição a mais de como algo funciona dentro da habilidade ou um efeito a mais recebido por ela
+
+o que esta dentro de '/*texto*\' e uma descrição de algo falado ou algo a mais sobre o topico deve ser tratado como uma informação avulsa(caso ele seja aberto e fechado na mesma linha e sobre uma planilha daquele titulo)
+
+Titulo= **Texto**
+Sub-titulo= *Texto:
+Detalhes:-*Texto:
+Nomes de Habilidades: --texto--
+o que tem em uma habilidade {Nome/Tipo/Requisito/Mana/Descrição/tipo/Dificuldade da Magia/Especial/Raças} as habilidades são separadas por '---' isso esta no final de cada habilidade antes de começar uma nova o tipo da habilidade e sempre a segunda informação depois do nome na linha de baixo antes de alguma das outras definições de habilidades, cria a database com todas as informações e caso a habilidade não possua isso deixar vazio
+
+As pastas podem possuir planilhas com informações daquele códex e geralmente e pra equipamentos porem podem ser de outra coisa 'equipamentos.xslx' deve ir pro json de equipamentos 'texto.xlsx' deve ir para o json de texto(o nome da planilha corresponde a um arquivo .txt ou um Titulo) dentro das planilhas o nome da aba e o nome do titulo ao qual ele e correspondente

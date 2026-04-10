@@ -1,0 +1,348 @@
+Idiomas Exóticos
+
+Os Idiomas Exóticos exigem características especiais para poderem
+ser aprendidos por um personagem. Essas características geralmente
+são ligadas à Raça, Classe ou Habilidade que o personagem precisa possuir
+para poder aprender aquele idioma,
+tanto como um de seus Idiomas Iniciais (selecionados durante a criação do
+personagem) quanto como um de seus
+Idiomas Extras (selecionados com o uso
+de um Ponto de Evolução). A descrição
+de cada idioma dirá quais são essas exigências, e os Mestres devem exigir que
+elas sejam sempre observadas para que
+um personagem possa selecionar estes
+idiomas.
+
+---
+**Ctónico**
+O Ctónico é falado por criaturas vindas tanto dos planos inferiores
+quanto por criaturas astrais. Apesar de
+alguns Sacerdotes apontarem que esta
+é uma linguagem infernal e considerarem que ela é maligna por natureza,
+esta é uma afirmativa falsa. Como a
+maioria dos sábios, Arcanistas e muitos
+Sacerdotes (principalmente de Sarfion
+e Hou) pode apontar, as letras deste
+alfabeto são utilizadas como Runas
+Arcanas e Selos Místicos para conjurar Magias que lidam com os espíritos.
+Acredita-se que a maioria das criaturas
+infernais capazes de se comunicar utiliza esta linguagem porque o idioma infernal seria totalmente incompreensível
+para a mente mortal, e eles utilizam um
+idioma que os habitantes da dimensão
+material estudaram o suficiente para
+compreender. Ainda, muitos Arcanistas apontam que a escolha não é totalmente aleatória, e que os infernais
+escolheram esta linguagem para criar
+confusão entre os sábios e diminuir a
+influência de criaturas do plano astral,
+já que eles próprios poderiam ser vistos
+como uma “casta” ou aliados dos infernais. Embora não tenham sido completamente bem sucedidos, essa estratégia funcionou em algum nível, já que
+muitas pessoas desconfiam da Magia
+espiritual, principalmente devido ao
+fato de que muitos Sacerdotes pregam
+uma ligação entre eles e os demônios. O
+fato de Necromantes e muitos Cultistas
+conhecerem a linguagem também não
+ajuda a desfazer este equívoco.
+Além de Necromantes e Cultistas,
+no entanto, muitos Conjuradores Arcanos aprendem o Ctónico para aprimorar seu entendimento sobre a Magia, e
+vários Sacerdotes aprendem o idioma
+por motivos variados - Sacerdotes de
+Mirah e Denalla aprendem o idioma
+para melhor lidarem com seus inimigos
+infernais, enquanto Sacerdotes Taranis,
+que lidam com espíritos com frequência, costumam aprender este idioma
+para lidarem melhor com seus aliados
+extradimensionais. Já Sacerdotes de
+Sarfion são inclinados a aprender esta
+linguagem como qualquer outra por
+sua intrínseca sede de conhecimento.
+É interessante notar que os Dagonires usam uma corruptela do Ctónico como
+sua língua nativa, e embora possa ser uma
+comunicação limitada, eles são capazes de 
+conversar nessa linguagem. Devido a isso,
+os Grotons e Tritões, que muitas vezes
+negociam ou guerreiam com os Dagonires, também aprendem esse idioma - que,
+além de tudo, tende a ser favorito entre os
+Devas de Ran assim como o Quoratus.
+Qualquer personagem Necromante deve selecionar o Ctónico como um de
+seus Idiomas Iniciais, e personagens das
+Raças Groton ou Tritão podem aprender o Ctónico como um de seus Idiomas
+Iniciais. Personagens com Aprendiz de
+Necromante precisam aprender o Ctónico antes de poderem se tornar Aprendizes dessa Classe, e personagens com um
+Pacto podem aprender o idioma como
+um de seus Idiomas Iniciais ou como um
+de seus Idiomas Extras.
+O idioma base do Ctónico é o Enochiano tanto em sua forma falada quanto escrita.
+---
+**Língua dos Deuses (Quoratus)**
+Em suas orações os Sacerdotes
+aprendem o idioma celestial, a língua
+dos deuses. Não se sabe se esta é realmente a linguagem falada pelas divindades, mas é a forma que eles usam
+para se comunicar com os mortais.
+Todos os Devas conhecem esta linguagem, e embora eles sejam capazes de
+conversar em uma gama de outras linguagens, em geral tendem a tentar se
+comunicar em Quoratus quando lidam
+com mortais.
+Embora ele varie um pouco de uma
+religião para outra - principalmente devido às influências culturais nas quais
+aquela religião está envolta - todas possuem uma raiz comum e são extremamente similares, o que permite que sacerdotes de deuses diferentes conversem
+entre si apenas usando essa linguagem.
+Sacerdotes devem escolher o Quoratus como um de seus Idiomas Iniciais,
+já que a inspiração enviada pelas divindades, tanto em seus sonhos ou quando
+eles são contatados por seus Devas é realizada nessa língua. Além disso, à medida que exploram os mistérios de uma
+religião, personagens com Aprendiz de
+Sacerdote aprendem esta língua conforme são infundidos com o poder da
+divindade que escolheram seguir. Um
+personagem que selecione Aprendiz
+de Sacerdote precisa escolher aprender
+Quoratus como um Idioma Extra assim
+que receber seu próximo Idioma Extra
+(seja por um bônus de Inteligência ou
+quando receber seu próximo Ponto de
+Evolução) obrigatoriamente - a menos,
+claro, que já possua o idioma.
+O Quoratus é relativamente fácil
+de aprender, e fontes de ensino nunca serão um problema. Quase todos os
+textos sagrados possuem versões em
+Quoratus, e qualquer Sacerdote de Sarfion estará disposto a ensinar o idioma a
+qualquer um que queira aprendê-lo. Embora nem todos os Sacerdotes de outras
+divindades tenham o ânimo ou disposição para ensinar o idioma, não é difícil
+para alguém interessado em aprender o
+idioma encontrar um Sacerdote ansioso
+para passar este conhecimento - junto
+dos dogmas de sua divindade, obviamente - para qualquer pessoa.
+O idioma base do Quoratus é o
+Latim, e sua escrita base é a Escrita Latina.
+---
+**Língua dos Dragões (Track’kar’a)**
+Esse idioma falado com o rugido
+dos dragões é impronunciável por qualquer outra raça. No entanto ele pode ser
+aprendido para que outras raças consigam entendê-lo. Muitos Dracomantes
+se dedicam a aprender o Track’kar’a
+para tentar ter uma compreensão mais
+adequada sobre os Dragões que cultuam, e todos os textos sagrados do Templo da Aurora dos Dragões podem ser
+encontrados tanto em Burguês Arkanita quanto em Track’kar’a.
+Os Draganos são a única raça humanoide capaz de falar o Track’kar’a
+corretamente (apesar da maioria deles
+nunca chegar a estudar a língua) e alguns Dracomantes desenvolvem formas dracônicas para simular a fisiologia Dragana e então poder pronunciar
+a Língua dos Dragões de forma correta.
+Esse idioma guarda certas semelhanças com o Arkadis, o que permitiria
+um falante de um destes idiomas possa
+tentar entender o sentido geral de uma
+frase em Track’kar’a (com um teste de
+Inteligência Dificuldade 14).
+Os Dracomantes aprendem o Track’kar’a durante seu aprendizado dos
+desígnios dracônicos, e todos os Dracomantes devem selecionar a Língua
+dos Dragões como um de seus Idiomas
+Iniciais. Além disso, a medida que são
+infundidos com o poder dos Dragões,
+personagens com Aprendiz de Dracomante aprendem esta língua de modo
+reflexivo. Um personagem que selecione Aprendiz de Dracomante precisa
+escolher aprender Track’kar’a como
+um Idioma Extra assim que receber
+seu próximo Idioma Extra (seja por um
+bônus de Inteligência ou quando receber seu próximo Ponto de Evolução)
+obrigatoriamente - a menos, claro, que
+já possua o idioma.
+Além disso, graças à semelhança entre os dois idiomas, é possível
+aprender Magia Arcana usando o Track’kar’a, e alguns Feiticeiros e Rúnicos
+aprendem essa língua em detrimento
+do Arkadis durante seus estudos (particularmente em Arkânia) e podem selecionar uma em detrimento da outra
+como seu Idioma Inicial ou como Idioma Extra para se tornar Aprendiz dessas Classes.
+Para aprender a Língua dos Dragões o personagem precisa encontrar
+uma fonte de estudos dracônicos, normalmente um NPC que fale o idioma
+- como um Dracomante ou Dragano -
+ou através dos raros grimório de Dracomancia encontrados nos confins de
+bibliotecas perdidas.
+O idioma base para o Track’kar’a
+é a Língua Maltesa, e sua forma escrita
+é o Cuneiforme.
+---
+**Língua dos Druidas (Draen)**
+Os Druidas chamam esse idioma
+de Draen, que significa absorver ou
+reunir conhecimento. Aprender esse
+idioma é parte indispensável para desenvolver as habilidades druídicas,
+principalmente as que envolvem a comunicação com animais e plantas. O
+idioma é particularmente complexo de
+aprender porque é constituído de uma
+linguagem falada que inclui vários sons
+semelhantes ao de animais - incluindo
+assobios, gargarejos e até mesmo rugidos - em conjunto com um sistema de
+linguagem de sinais. O idioma é utilizado de fato em linguagem de sinais,
+com os sons sendo uma forma de apoio
+para indicar o tom da conversa e o ânimo geral do falante, mas a parte sonora
+do idioma pode ser ignorada, permitindo que dois Druidas conversem entre si
+em total silêncio se puderem ver um ao
+outro ou sejam capazes de se comunicar a grandes distâncias sem serem descobertos. Em ambos os casos, no entanto, a comunicação será comprometida,
+e embora seja possível transmitir ideias
+gerais, para discussões mais complexas uma conversa usando apenas uma
+das formas do Draen levará muito mais
+tempo que o normal. A linguagem
+também é amplamente utilizada para
+enviar avisos (na forma de rugidos ou
+sons de ameaça) ou anunciar aproximação entre Druidas (em geral com arrulhos e assobios) que para ouvintes que
+não conheçam o Draen soarão como
+sons normais de animais.
+Druidas dificilmente ensinarão
+este idioma para alguém a menos que
+essa pessoa se mostre interessada em
+ingressar na Classe, mas em alguns
+casos é possível que comunidades de
+Druidas ensinem o idioma para Patrulheiros ou comunidades silvestres para
+permitir uma maior integração entre
+eles.
+O ensino do Draen é parte do
+treinamento de qualquer Druida, e é
+necessário selecionar este idioma antes
+que um personagem possa se tornar
+um Aprendiz de Druida. Além disso,
+durante a criação de personagem, um
+personagem Druida precisa, obrigatoriamente, selecioná-lo como um de seus
+Idiomas Iniciais.
+O Draen não possui uma versão escrita tradicional, mas a maioria
+dos Druidas utiliza a versão escrita do
+Caint - fácil de escrever por só utilizar
+linhas retas e por possuir uma similaridade com desenho rudimentar de árvores - para escrever a língua, quando
+necessário. Essa escrita geralmente é
+utilizada para marcar territórios, avisar
+de áreas propícias para caça, pesca, forrageamento ou abrigo ou para indicar
+regiões com perigos naturais ou que
+seja morada de criaturas agressivas ou
+comunidades hostis.
+O idioma base do Draen é a Linguagem Brasileira de Sinais, embora
+sua forma falada não possua correspondentes reais.
+---
+**Língua da Magia (Arkadis)**
+A Magia Arcana exige que Feiticeiros, Rúnicos e Dracomantes aprendam
+uma grafia especial, as Runas Arcanas,
+que foram recebendo nomes específicos
+para se tornarem mais fáceis de ensinar. Com o tempo, as Runas Arcanas
+mais comuns se tornaram a base de um
+idioma que se tornou comum entre os
+Conjuradores Arcanos por tornar mais
+fácil a compreensão do funcionamento
+e uso de Runas Arcanas. O Arkadis é
+ensinado como base da compreensão
+do sistema de uso de Runas Arcanas,
+e faz parte do ensino de Conhecimento Arcano. Qualquer personagem com
+Conhecimento Arcano precisa necessariamente conhecer esse idioma, mas a
+própria natureza do idioma, ligado aos
+conceitos da conjuração arcana o tornam impossível de ser aprendido por
+qualquer personagem sem essa Habilidade.
+Personagens que possuam Conhecimento Arcano devem escolher
+o Arkadis entre seus Idiomas Iniciais,
+e um personagem precisa aprender
+o Arkadis antes de poder se tornar
+Aprendiz de uma Classe ou Caminho
+que tenha Conhecimento Arcano como
+Habilidade Automática. Essa aprendizagem geralmente é realizada ao se
+estudar com um Feiticeiro, Rúnico ou
+Dracomante, mas também pode ser realizado com o estudo de tomos arcanos
+que contenham Habilidades do tipo
+Magia.
+O idioma base para o Arkadis é a
+Língua Amárica, incluindo sua forma
+escrita - que possui algumas letras que
+são excelentes para serem usadas como
+Runas Arcanas.
+---
+**Língua das Ruas**
+As gírias e formas de construções
+de sentenças utilizadas por criminosos
+através de toda Cassiopéia é conhecida
+coletivamente como Língua das Ruas.
+A Língua das Ruas não é um idioma de
+fato, mas sim uma forma de comunicação, construindo frases de forma específica para transmitir e captar informações entre criminosos de todos os tipos.
+Ela se vale de pichações e elementos de
+vestimenta para identificação de possíveis contatos, mas não um idioma particular.
+A base da Língua das Ruas é utilizar um vocabulário intimista para conversar de modo mais inocente possível.
+Títulos familiares são usados para indicar posições dentro de um grupo ou
+de possíveis alvos. Primo é usado para
+identificar um possível contato ou outro criminoso, irmão/irmã para aliados, tio para o governo/milícia, pai/
+mãe/avô/avó são usados nesse contexto para pessoas que merecem respeito (geralmente líderes ou criminosos
+experientes) enquanto genro/nora/
+sogro/sogra são usados para indicar alvos. Elementos de tempo costumam ser
+usados para indicar urgência em um
+trabalho ou situação, e uma conversa
+envolvendo elementos variados - quase
+sempre envolvendo algum tipo de celebração - pode ser usado para providenciar algum tipo de trabalho ou a área de
+especialidade do criminoso em questão. A maioria das conversas termina
+com uma troca de endereço, para que
+um encontro mais formal seja realizado
+mais tarde caso o criminoso contatado
+esteja interessado. Qualquer personagem com a Habilidade Contatos com o
+Crime tem acesso a esse idioma automaticamente. 
+Alguns exemplos:
+Contato: Olha se não é o meu primo! Ficou sabendo que eu abri uma padaria? Estou vendendo doces, salgados
+e sucos. O tio tem ido bastante lá e está
+gostando. Aparece pra conhecer uma
+hora dessas.
+Significado: Tenho contrabando pra
+passar, de vários tipos. A milícia local sabe,
+mas está fazendo vista grossa, é seguro.
+Contato: Primo! Faz tempo que
+não te vejo por aqui! Tá sabendo que é
+aniversário do meu genro essa semana?
+Estamos organizando a festa, se quiser
+ajudar, vai lá em casa uma hora dessas!
+Traga uns amigos se quiser.
+Significado: Há um alvo que alguém
+quer morto, e estamos procurando por um
+assassino. Vá ao endereço para detalhes.
+Provavelmente será necessário apoio. Não é
+urgente, mas quanto antes melhor.
+Contato: Ei, primo, como tem
+passado? Nosso tio tá procurando por
+você, e o vovô tá esperando aquela visita, hein? Aparece lá em casa essa noite,
+pra gente fazer uma visita surpresa, ok?
+Lembra onde é?
+Significado: A milícia sabe que você
+está na cidade, mas tem um criminoso poderoso que está lhe oferecendo um acordo. Não
+conte a ninguém e vá sozinho ao endereço que
+estou lhe passando para discutir detalhes.
+Quando um criminoso usa a Língua das Ruas para ameaçar outro, ele usa
+termos honoríficos e geralmente é mais
+elogioso do que o normal. Quanto mais
+elogioso for um contato, maior a ameaça.
+Por exemplo: 
+Contato: Meu caríssimo primo! O
+titio tá querendo muito falar contigo! Tem
+uns presentões pra te dar! Coisa fina! Se
+eu fosse você não deixava ele esperando!
+Pena que os meus irmãos não estão na cidade pra te ver. Passar bem, primo!
+Significado: A milícia local está te
+procurando e colocou um prêmio pela sua
+captura. Melhor sair da cidade. Nenhum
+criminoso vai te oferecer ajuda.
+Contato: Meu primo querido!
+Que prazer enorme te ver por aqui! Papai está com muitas saudades tua, não
+fala em outra coisa! Está até organizando uma enorme festa pra ti por esses
+dias. Eu e meus irmãos vamos estar lá
+pra levantar um brinde pra ti! Se cuida!
+Significado: Minha guilda está querendo te capturar. Está oferecendo uma recompensa pela sua captura. Todos os membros estão atrás de ti, e não vão desistir.
+Contato: Ei, primo, é muito bom
+te ver! Está tendo uma reunião familiar
+na cidade, aniversário de um monte de
+gente nos últimos dias. Teu aniversário
+é por agora também, não é? Foi bom te
+ver, mas eu tenho que ir!
+Significado: Cuidado, está acontecendo uma guerra de gangues na cidade, e muita
+gente já foi morta. Se eles te pegarem, vão te
+matar. Não quero que saibam que eu te avisei.
+Além da linguagem em si, os grupos de criminosos marcam as grandes
+cidades com símbolos que avisam qual
+gangue controla a região, onde comprar contrabando, quais áreas não são
+seguras para determinadas atividades
+ou quem contratar para fazer aquele
+“servicinho”.
+Personagens das Classes Ladino e Bardo podem escolher a Língua
+das Ruas como um de seus Idiomas
+Iniciais, assim como personagens com
+Contatos no Crime e Contatos Políticos.
+Para poder aprender o idioma depois
+da criação do personagem, é preciso ter
+as Habilidades Contatos no Crime ou
+Contatos Políticos antes (simplesmente
+se tornar Aprendiz de Ladino ou Bardo não é suficiente para selecionar esse
+idioma).

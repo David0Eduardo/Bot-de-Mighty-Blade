@@ -1,0 +1,1136 @@
+Capítulo 1 – Cenário
+A seguir apresentamos uma linha do tempo referente à história de Tebryn, desde a chegada dos primeiros Humanos à região que hoje forma o reino, até os dias atuais. Essa história
+é conhecida por praticamente todos os cidadãos do reino, e apresenta apenas os eventos mais
+relevantes para a história da região.
+Também apresentamos as descrições de títulos militares, civis e de nobreza em Tebryn.
+Notem que estes títulos são frouxamente baseados em títulos de organizações reais, e não devem ser usados como paralelo histórico – suas aplicações, como apresentadas nesse livro, servem apenas dentro do cenário de Drakon.
+Finalmente, a parte mais importante deste capítulo é a descrição do reino de Tebryn
+em detalhes, incluindo todas as suas divisões geográficas. As metrópoles e algumas cidades
+possuem descrições mais detalhadas, enquanto outras cidades não receberam descrições, permitindo, assim, que os Mestres tenham liberdade de criar partes do cenário ao seu gosto. Além
+de metrópoles e cidades, há um enorme número de vilas e vilarejos (alguns marcados no mapa,
+mas a maioria não) que em geral não foram descritos aqui, com poucas exceções. 
+
+---
+**A Passagem das Eras**
+Há três calendários em Cassiopéia:
+O Conto das Rochas, usado em Dagothar
+e pela maioria dos estudiosos de Cassiopéia, o Anuário Arkanita, que não é aceito
+fora do reino e o Calendário Tebryniano,
+usado comumente por todos os povos de
+Cassiopéia, exceto os Arkanitas.
+O Conto das Rochas foi criado em
+Dagothar e se inicia com a fundação do
+próprio reino, que tem a forma mais
+antiga de escrita. Por esse calendário, o
+ano é 7521. Esse calendário, no entanto, é
+usado apenas em Dagothar e Bryne e por
+historiadores de outros reinos. Os Anões,
+no entanto, adotaram o Calendário Tebryniano assim como os outros reinos,
+principalmente para facilitar o comércio
+– mas também porque o Calendário Tebryniano foi ajustado ao Conto das Rochas e ambos são extremamente simples
+de serem usados em conjunto.
+O Anuário Arkanita é usado apenas
+em Arkânia e tem como ano inicial a ascensão de Arkan como senhor das terras
+que mais tarde formariam aquele
+reino. Por este calendário, o ano
+atual é 1882. No entanto, nenhum
+outro reino reconhece o calendário e ele é usado apenas dentro de
+Arkânia – que também mantém o
+uso do Calendário Tebryniano,
+ao menos entre os membros do
+exército. Os escravos também
+costumam usar o Calendário Tebryniano, mas um escravo que
+seja pego usando outro calendário que não o Anuário é punido
+severamente.
+Assim sendo o mais usado, por tanto, é o chamado Calendário Tebryniano, criado por
+Penard Telbar, fundador da Academia Argêntea. Esse calendário
+sofreu alguns ajustes ao longo dos anos,
+visto que ele inicialmente era contado a
+partir da criação do Registro Argênteo,
+um gabinete especial da Academia que
+serve para investigar e catalogar eventos
+históricos de Cassiopéia, porém, mais
+tarde foi ajustado para se aproximar da
+data do Calendário de Dagothar. Por esse
+calendário, o ano atual é 521. Esse calendário é usado em toda a extensão de
+Cassiopéia, e é considerado o “calendário
+oficial”.
+Parband nunca chegou a oficializar
+um calendário, tendo chegado a contar
+anos a partir da fundação do reino, mas
+como na época não havia organização
+suficiente para manter registros acurados
+em toda a extensão do reino, a Contagem
+Parbani foi extinta tão logo eles travaram
+contato com Bryne – que na época usava
+o Conto das Rochas – ainda nos primeiros anos depois da fundação do reino.
+Parband passou a utilizar o Calendário
+Tebryniano logo depois de sua criação, e
+os poucos registros que existiam na Contagem Parbani foram ajustados ao novo
+calendário.
+Bryne ainda utiliza o Conto das
+Rochas por questões tradicionais – como
+mantém pouco contato com Tebryn e o
+Calendário Tebryniano é simples de ajustar ao Conto das Rochas, eles nunca trocaram seu sistema de contagem de tempo.
+Em Eishelm, as coisas são um pouco mais complexas. Apesar dos navegadores do reino utilizarem o Calendário
+Tebryniano, a maioria dos povoados do
+interior do reino segue usando o método ancestral de contagem dos anos, de
+acordo com sua tradição: da nomeação à
+morte de seus Jarls. Assim, cada povoado
+específico tem um “calendário” próprio,
+que é reiniciado de tempos em tempos, e
+que é mantido em registro pelos Skalds
+da região, que geralmente levam consigo para outros povoados vizinhos, o que
+mantém certo entendimento entre os povoados mais próximos. Entre povoados
+mais distantes, ou para estrangeiros, isso
+pode soar extremamente confuso e desconexo. “Foi no décimo quarto ano de
+Agor, o Azul, dois anos antes de Barduk,
+o filho dele, sentar na cadeira de chefe.”
+Uma explicação assim situaria perfeitamente um Aesir, mas definitivamente
+manteria um estrangeiro em ignorância
+completa.
+As Terras Secas obviamente não
+usam nenhum calendário, apesar dos
+povos nômades da região seguirem um
+ciclo anual de migração. Eles, no entanto, não se interessam pela contagem de
+anos.
+Os anos de Cassiopéia têm 364 dias
+divididos em 13 meses de 28 dias que
+acompanham o ciclo lunar – cada mês começando com a lua crescente e terminado
+com a lua nova.
+*Com relação aos astros: De acordo
+com o Livro da Verdade, Hou criou o sol
+para dar aos artesãos uma medida de
+quanto eles deveriam trabalhar. Assim,
+quando Hou levanta seu candeeiro pela
+manhã, o artesão também levanta e se
+prepara para a jornada de trabalho, que
+só termina quando Hou descansa o candeeiro no fim da tarde e se prepara para
+se recolher. As três luas, por sua vez, são
+muito mais antigas e foram criadas pela
+própria Tríade Divina para manter o
+mundo organizado. Cada uma das três
+divindades moldou uma das luas: Mirah
+criou a lua itinerante que divide o ano em
+meses e ajuda a marcar o tempo; Denalla
+e Ellenis criaram, cada qual, uma das luas
+gêmeas, para que marcassem os ciclos da
+natureza e banhassem com luz a escuridão. 
+/* Meses do Ano na planilha=meses_do_ano.xlsx*\
+---
+**Breve História do Reino**
+Cerca de 4800 anos atrás é fundada a cidade de Gardóvia pelos primeiros
+Humanos que chegam à região vindos de
+Mankosh – onde agora existem as Terras
+Secas.
+Cerca de 4500 anos atrás um pequeno
+reino, cujo nome se perdeu no tempo, se estabelece onde hoje fica o Condado de Faendul.
+Cerca de 4000 anos atrás, um grupo
+de exploradores Elfos funda a cidade de
+Ambrook.
+As Terras Secas obviamente não
+usam nenhum calendário, apesar dos
+povos nômades da região seguirem um
+ciclo anual de migração. Eles, no entanto, não se interessam pela contagem de
+anos.
+Os anos de Cassiopéia têm 364 dias
+divididos em 13 meses de 28 dias que
+acompanham o ciclo lunar – cada mês começando com a lua crescente e terminado
+com a lua nova.
+Com relação aos astros: De acordo
+com o Livro da Verdade, Hou criou o sol
+para dar aos artesãos uma medida de
+quanto eles deveriam trabalhar. Assim,
+quando Hou levanta seu candeeiro pela
+manhã, o artesão também levanta e se
+prepara para a jornada de trabalho, que
+só termina quando Hou descansa o candeeiro no fim da tarde e se prepara para
+se recolher. As três luas, por sua vez, são
+muito mais antigas e foram criadas pela
+própria Tríade Divina para manter o
+mundo organizado. Cada uma das três
+divindades moldou uma das luas: Mirah
+criou a lua itinerante que divide o ano em
+meses e ajuda a marcar o tempo; Denalla
+e Ellenis criaram, cada qual, uma das luas
+gêmeas, para que marcassem os ciclos da
+natureza e banhassem com luz a escuridão.
+Cerca de 3500 anos atrás os Humanos e os Elfos se unem e fundam Abieren,
+a primeira cidade-fortaleza de Cassiopéia, para ajudar a conter o avanço da Legião – uma horda de Orcs e gigantes vindos das Terras Secas através das Terras
+Venenosas e das Montanhas de Cristal.
+Cerca de 2800 anos atrás é fundada
+a Hoste de Hadorn em Gardóvia, e em
+seguida são estabelecidos os Fortes de
+Miralda e Stafford pela Hoste.
+Cerca de 2200 anos atrás a Hoste
+de Hadorn com a ajuda de uma tropa de
+anões enviados de Dagothar força a Legião através das Montanhas de Cristal.
+Os Anões encontram as ruínas de uma
+cidade mineradora no local, e fundam ali
+Stord, prometendo guardar a passagem
+contra incursões vindas das Terras Secas.
+A Hoste volta-se na direção do Lago Distante e começa a exterminar os membros
+remanescentes da Legião na região onde
+eventualmente Ulrich se ergueria.
+Cerca de 2000 anos atrás ocorre A Grande Revoada
+Milhares de dragões despertaram de
+seu sono milenar e revoam por todos os continentes, destruindo cidades e escravizando
+seus habitantes. Depois de avançarem sobre
+Gaian e Ofidien, muitos dragões revoam
+sobre Cassiopéia e aniquilaram as cidades-
+-estado do continente, bem como causaram
+destruição massiva nos reinos estabelecidos.
+Muitos dos habitantes da região central do
+continente se refugiaram em reinos periféricos, principalmente Londérien e Dagothar,
+enquanto outros partiram em busca de exílio em Gaian ou Ofidien, criando alianças ou
+iniciando conflitos.
+1868 anos atrás, Dewoll, o Louco,
+governante de Gardóvia, faz um pacto
+com um dragão e aniquila Stafford, apenas para logo em seguida ser devorado
+pela fera.
+1852 anos atrás, Ektor de Gardóvia
+mata o dragão de Gardóvia e renomeia a
+cidade para Ektória.
+1692 anos atrás é fundada Ulrich.
+1672 anos atrás se
+inicia O Expurgo
+Nos pouco mais de quinhentos anos
+que se seguiram, os Humanos de Cassiopéia, refugiados nas terras anãs e élficas,
+se organizaram e partiram para reivindicar suas terras tomadas pelos dragões.
+Depois de muitas batalhas terríveis, com
+perdas tremendas, os Humanos conseguiram, finalmente, derrotar os dragões
+que dominavam as terras centrais. Estes,
+mortos ou derrotados, deixaram para trás
+seus milhares de escravos e ruínas dos
+antigos reinos, que serviriam de alicerce
+para a criação dos reinos de Cassiopéia
+como são conhecidos hoje. Muitos dos
+dragões sobreviventes fugiram para regiões isoladas, se escondendo em grandes cavernas e masmorras subterrâneas,
+onde criaram covis e passaram a agir de
+forma mais furtiva e sútil. Ainda hoje é
+possível encontrar dragões escondidos
+ou até atacando algumas cidades das regiões centrais do Grande Continente.
+1652 anos atrás, os primeiros exploradores voltam a Stord depois da Revoada, e encontram o local completamente
+livre da presença dracônica. Novos colonos rapidamente começam a rumar para
+a cidade.
+1614 anos atrás, a Hoste de Hadorn
+finalmente livra a Floresta dos Antigos
+dos Orcs, e inicia uma marcha para o sul,
+aniquilando o resto da Legião. Os Elfos
+remanescentes retornam para as ruínas
+de Ambrook, e liderados por Narat, um
+Elfo sobrevivente da violência da Legião,
+fundam ali uma nova colônia.
+1502 anos atrás, as cidades-estados
+ao redor de Ulrich – Stord, Miralda e Ektória – se aliam, e fundam o reino de Tebryn. Boren Strauss é coroado primeiro
+Rei de Tebryn, e inicia uma implacável
+caçada aos dragões remanescentes nas
+Montanhas de Cristal. Ulrich é rebatizada para Tebrynia.
+1492 anos atrás Boren Strauss envia
+emissários até Ambrook, e a cidade aceita
+se juntar ao recém-formado reino de Tebryn.
+1417 anos atrás, a Hoste de Hadorn
+funda as fortalezas de Daharma e Altéria,
+na extremidade oeste da Floresta dos Antigos, expandindo o território de Tebryn
+até o oeste do Mar do Comércio.
+1389 anos atrás, tropas de ocupação
+de Arkânia lideradas por Zannar chegam
+ao Vale do Dragão, onde constroem a
+imensa Fortaleza do Dragão.
+1372 anos atrás, um destacamento arkanita vai até o forte de Hadorn em
+Daharma e exige a rendição da fortaleza.
+Com a recusa da tropa tebryniana, se inicia, oficialmente, a guerra Grifo-Dracônica.
+1324 anos atrás, representantes de
+Tebryn viajam através da costa oeste de
+Cassiopéia, estabelecendo contato com os
+povoados da região e iniciam um processo de anexação. A fortaleza de Longard,
+ao redor da qual, eventualmente a cidade
+de Longuespera surgiu, é erguida como
+proteção contra o avanço das tropas arkanitas e também como marco da fronteira
+do reino de Tebryn.
+1315 anos atrás, o General Aiaha, filho de Arkan, inicia a construção de uma
+linha de fortalezas a norte do Rio da Fonte Luminosa. Ali ele reúne os maiores e
+mais habilidosos líderes de guerra arkanitas e inicia a Armada da Aurora, sediada no Forte da Avalanche.
+1104 anos atrás, Jorand Strauss, Regente de Tebryn, funda a Ordem da Espada de Mirah.
+1002 anos atrás, os Levent do Arquipélago das Três Irmãs entram em
+contato com Tebryn, iniciando o acordo
+comercial entre os dois reinos.
+836 anos atrás, a Hoste de Hadorn
+investe contra a Fortaleza do Dragão. As
+tropas arkanitas são derrotadas e Zannar
+escapa para a fortaleza de Aiaha.
+824 anos atrás, a Hoste de Hadorn
+dá início a uma investida maciça contra
+as fortalezas arkanitas às margens do Rio
+da Fonte Luminosa.
+819 anos atrás, as forças tebrynianas
+dominam as fortalezas arkanitas ao redor
+do Vale das Orquídeas. A Armada da Aurora, cujo contingente estava dividido entre
+Forte da Avalanche e Nior, nos dois extremos do reino, sofre pesadas perdas durante a queda do Forte da Avalanche, e Aiaha
+decide construir uma fortaleza para concentrar o poder da organização, dando início à construção do forte Garra do Dragão.
+744 anos atrás, as tropas tebrynianas terminam a reconstrução das fortalezas tomadas das forças arkanitas ao longo do Rio da Fonte Luminosa, e a Hoste
+de Hadorn reivindica essas fortalezas,
+criando uma nova linha de defesa contra
+as tropas arkanitas.
+713 anos atrás, as primeiras caravanas de Firas, vindos de Parband, conseguem atravessar as Terras Secas e atingem as montanhas de Cristal.
+666 anos atrás, Aiaha parte com a
+Armada da Aurora contra as fortalezas
+às margens do Rio da Fonte Luminosa.
+Apenas o Forte da Avalanche se mantém
+de pé após o ataque.
+602 anos atrás, enquanto a Armada
+da Aurora consegue subjugar as tropas
+da Hoste de Hadorn na Fortaleza do Dragão, uma força tebryniana liderada por
+Paladinos da Ordem de Mirah chega ao
+Forte da Avalanche e dali inicia um ataque às forças arkanitas na região.
+585 anos atrás, as forças arkanitas
+na região do Vale das Orquídeas, presas
+entre as forças da Hoste de Hadorn e da
+Espada de Mirah, são totalmente subjugadas e a ordem de Paladinos consegue
+derrotar o próprio Aiaha em sua fortaleza, depois de uma batalha feroz que durou mais de dois anos.
+557 anos atrás, o último foco das
+forças arkanitas no Vale do Dragão é derrotado, deixando a Fortaleza do Dragão
+– e as outras antigas fortalezas arkanitas
+na região – em ruínas.
+551 anos atrás, Brand von Strauss
+inicia a construção do Forte Clade no extremo mais oriental das Montanhas de
+Cristal. Ele emprega um círculo druídico
+que ergue a muralha externa da fortaleza
+em apenas um dia.
+542 anos atrás se
+inicia a Denállia
+Os quase quinhentos anos que se
+seguiram, conhecidos como Denállia –
+em referência à Deusa da Vida – foram de
+reconstrução, florescimento e consolidação de reinos, culturas e pactos em toda
+Cassiopéia.
+Durante esse período, os reinos de
+Cassiopéia se reinventam a partir dos
+eventos dos últimos 1500 anos desde a
+Grande Revoada, firmando suas fronteiras como são conhecidas hoje. As alianças entre Elfos, Humanos, Anões, Levent,
+Fira, Jubans e Metadílios foram se fortalecendo a medida que essas raças dividiram seu conhecimento e seus esforços
+na reconstrução e fortificação dos seus
+reinos e, ao final da Denállia, se tornaria
+quase impossível separar essas culturas
+de modo definitivo, já que todas possuem
+hábitos e costumes que foram lentamente
+sendo passados para as outras de forma
+orgânica e permanente.
+541 anos atrás, o humano Viliano
+Telbar explora o interior da Ilha da Prata
+junto com o elfo Denael. É a primeira vez
+que a ilha é explorada desde a Revoada
+dos Dragões. Os primeiros exploradores
+da ilha fundam ali uma pequena aldeia
+no mesmo ano e começam a investigar
+suas ruínas.
+540 anos atrás, Penard Telbar, junto
+com Denael, funda a Academia Argêntea
+sobre as ruínas de uma antiga fortaleza
+na Ilha da Prata.
+521 anos atrás, é considerado o Ano
+Um do Calendário Tebryniano.
+Ano 2: Daland van Strauss, filho de
+Brand, finaliza a construção do Forte Clade e entrega a fortaleza para a Ordem da
+Espada de Mirah.
+Ano 17: As caravanas de Parband
+fazem um tratado com Tebryn e fundam
+a guilda de comércio do Anel de Bronze,
+criando um fluxo de comércio constante
+entre os dois reinos, através das Terras
+Secas.
+Ano 148: A expedição de Mateo Elric chega ao Lago Distante.
+Ano 308: A cidade de Faendul, capital do condado de mesmo nome, cai
+vítima de uma misteriosa peste. Todos
+os habitantes que conseguiram fugir da
+cidade foram para cidades vizinhas, mas
+a misteriosa peste não se alastrou. O condado de Faendul ficaria sem capital pelos
+próximos 10 anos.
+Ano 317: Porto Tartaruga torna-se a
+capital do Condado de Faendul.
+Ano 378: A guilda do Anel de Bronze, estabelecida como a maior guilda de
+mercadores de Cassiopéia, muda sua
+sede para Altéria e passa a ser chamada
+Irmandade do Anel de Bronze.
+Ano 381: Os corsários na costa de
+Tebryn se reúnem criando os Lobos dos
+Mares, e rapidamente livram toda a costa
+do Mar do Comércio dos piratas locais,
+além de defender a costa contra incursões
+arkanitas.
+Ano 438: Robena Obrien casa-se
+com Ferath Esterlin, passando o controle
+do Condado de Gardóvia para a família
+Esterlin.
+Ano 445: Kirk van Strauss torna-se
+Regente de Tebryn.
+Ano 447: Fingal Mata-Dragão recebe o título de Conde e assume o Condado
+das Montanhas.
+Ano 449: Brando Telbar torna-se
+Reitor da Academia Argêntea e Conde
+da Ilha da Prata. 
+52 anos atrás (ano 468)
+chega ao fim a Denállia
+Depois de quase 500 anos de uma
+paz quase completa, a era conhecida como
+Denállia chegou ao fim em vários episódios violentos através de Cassiopéia. Apesar do assalto bem-sucedido de Diren às
+terras de Tebryn ser considerado o marco
+oficial do fim da Denállia, cerca de 50 anos
+atrás, eventos sangrentos em outras partes do continente ocorreram simultaneamente nessa mesma
+época, como o aumento da frequência e da
+violência dos ataques
+orcs às caravanas comerciais entre Tebryn
+e Parband, o surgimento de forças Naga organizadas em ataques
+às cidades de Braktar e
+Ektória na fronteira norte
+de Tebryn e o fracasso dos
+Lobos dos Mares em manter
+a costa norte de Tebryn livre dos
+ataques de piratas vindos da Ilha do Lagarto e de Arkânia.
+Subsequentemente, vários outros
+conflitos se iniciaram de forma abrupta
+através de Cassiopéia. Há uma grande
+preocupação com as relações entre Tebryn e o Arquipélago das Três Irmãs, já
+que a pirataria no Mar do Comércio tem
+atingido o reino dos Levent. Além disso,
+muitos generais tanto de Tebryn quanto
+de Parband começam a especular que
+os ataques das Naga, considerando suas
+estratégias e sua intensidade, podem significar que os exércitos da raça estejam
+sendo abastecidos por Ofidien através
+de uma rota naval direta com a costa do
+Grande Pântano do Leste. E enquanto
+Dagothar se recusa a enviar expedições
+àquela área, as relações ancestrais entre
+o reino dos Anões e Tebryn tem sofrido
+estremecimentos consideráveis.
+Ano 465: Fianis Haigh recebe o título de Conde e assume o Condado de
+Miralda.
+Ano 468: Diren torna-se membro
+do Conselho de Arkânia, e no mesmo
+ano inicia uma campanha para derrubar
+o Forte Clade.
+Ano 474: A Armada da Aurora inicia um cerco ao Forte Clade sob o comando de Diren e, com a fortaleza incapacitada por hordas de soldados, se inicia
+uma marcha de forças
+arkanitas em direção
+das terras tebrynianas.
+Ano 478: Depois
+de rechaçar as forças
+arkanitas, Kirk van
+Strauss liberta o Forte
+Clade de seu cerco e
+passa a ser chamado
+de Rei de Aço depois
+do imenso esforço de
+guerra que incitou para
+manter as fronteiras entre
+Tebryn e Arkânia.
+Ano 482: Honório van
+Strauss torna-se Regente de Tebryn.
+Ano 485: Morre Kirk van Strauss, o
+Rei de Aço.
+Ano 488: O Conde Rubert Esterlin
+II assume o Condado de Gardóvia.
+Ano 498: Gultan Toths assume o
+Condado de Faendul.
+Ano 502: A Condessa Vedra Ersgill
+assume o Condado do Dragão.
+Ano 507: O Conde Mikal Chanteur
+assume o Condado do Vale.
+Ano 508: A Condessa Ena Longard
+assume o Condado dos Segredos depois
+da morte do seu esposo, o Conde de Longuespera.
+Ano 516: Morre o Rei Honório van
+Strauss. Em seu lugar, sobre ao trono de
+Tebryn Rob van Strauss, seu filho mais
+jovem. 
+ebryn Hoje (Ano 521)
+Depois de um reinado de relativa paz, o falecimento de Honório van
+Strauss deixou para seu filho caçula um
+reino sólido e com boas relações com a
+maioria dos outros reinos de Cassiopéia.
+Rob vem ampliando as forças de guarda às caravanas vindas de Parband que
+passam pelas Terras Secas, enquanto
+as relações comerciais com Eishelm e o
+Arquipélago das Três Irmãs têm aumentado à segurança nas rotas marítimas
+no Mar do Comércio – que vem sendo
+ameaçadas cada vez mais por crescentes grupos de piratas. Negociações com
+Dagothar, pedindo auxilio com a defesa
+das fronteiras nortes do reino, tem sido
+frustrantemente negadas pelo Conselho
+dos Cem Clãs, o que tem abalado a fé de
+alguns regentes nos antigos pactos entre
+Tebryn e o reino dos Anões. Enquanto
+isso, as batalhas pelo controle da fronteira sul, com Arkânia, continua sem
+cessar. Com ambos os lados relativamente equilibrados, a região se mantém
+em uma paz relativa desde que Rob van
+Strauss subiu ao trono quatro anos atrás.
+Uma paz que, infelizmente, não tem
+muitas chances de continuar por muito
+tempo…
+---
+**Sistema político**
+Tebryn é uma monarquia que utiliza um sistema de meritocracia titular,
+isto é, bens e funções são garantidos por
+merecimento pessoal através de um título de nobreza. A maioria dos títulos é
+hereditária, mas em geral os herdeiros
+de nobres acabam por receber apenas títulos menores – geralmente de Cavaleiro
+– embora muitos deles ocupem o posto
+deixado por seus antecessores quando
+estes deixam o cargo, recebendo assim o
+título correspondente. Nobres raramente
+são despojados de seus títulos, mas em
+alguns casos excepcionais, quando este é
+considerado incompetente, ou que comprometa o reino de alguma forma, podem ver suas terras serem desapropriadas pelo Rei. Esse é um acontecimento
+incomum, e a maioria dos nobres é capaz
+de remontar a origem de seus títulos por
+várias gerações de antepassados.
+Esse sistema de governo feudalista é baseado frouxamente nos preceitos
+de Dagothar. O Rei é responsável pela
+manutenção das leis do reino com o auxílio de um senado, enquanto a organização civil e militar do reino é dividida
+em condados, que geralmente compreendem uma região ampla englobando uma
+metrópole e uma grande quantidade de
+terras produtivas – e selvagens – ao seu
+redor, incluindo também um número
+considerável de cidades e vilas. Condes
+tirânicos ou despóticos geralmente são
+derrubados pela população, e outro indivíduo – nomeado pelo Rei ou aprovado
+pelo mesmo devido à aclamação popular
+– é colocado no poder.
+Cada Conde é responsável por nomear – ou aprovar – Burgomestres, Magistrados e Alcaides para cada cidade
+dentro de seu condado. Novos Burgomestres, Magistrados e Alcaides costumam
+ser nomeados quando há uma mudança
+de liderança no condado, mas indivíduos
+particularmente competentes ou que tenham recebido as graças do novo Conde
+– ou do Rei – costumam ser mantidos no
+cargo. Além disso, cada Conde deve nomear um Regente para aconselhar o Rei
+e defender os interesses do seu condado
+junto ao senado.
+Cabe aos Burgomestres e Alcaides
+conhecerem as necessidades da comunidade na qual são lotados e levar suas
+considerações ao Conde, que reúne esses
+relatos e petições e leva ao conhecimento do Rei, geralmente através do Regente do condado. Apesar de esse processo
+ser, em teoria, demorado, os Condes
+possuem bastante independência dentro
+de seus condados para tomar quaisquer
+medidas que sejam consideradas relevantes – como aumentar ou diminuir tributos, renomear cargos militares e civis,
+reintegrar terras ou desalojar posseiros e
+aumentar ou diminuir efetivos militares,
+por exemplo, levando, posteriormente,
+essas medidas ao conhecimento do Rei. O
+Rei, por sua vez, pode desfazer qualquer
+decisão dessas – o que é bastante raro –
+e tomar decisões semelhantes relativas
+a qualquer condado do reino, apesar de,
+em geral, tomar decisões administrativas apenas com relação ao condado de
+Strauss, onde fica a capital.
+Apenas o Rei – e os Príncipes, quando o Rei não está no reino – podem conferir quaisquer títulos de nobreza dentro
+do reino. Apesar de Regentes e nobres
+poderem fazer indicações sobre quem
+merece ou não novos títulos, a decisão
+final é sempre conferida ao Rei.
+O senado é composto por cada um
+dos 11 regentes de Tebryn, os 8 Duques/
+Duquesas e o General da Hoste de Hadorn, além de 1 assento garantido para
+Priores da Ordem da Espada de Mirah,
+num total de 21 assentos. Eles são responsáveis por criar novas leis.
+*Títulos de Nobreza:
+Os títulos de Nobreza em Tebryn
+servem para identificar os líderes das
+comunidades do reino – desde o próprio Rei, que comanda o reino como um
+todo, quanto cada um dos seus auxiliares diretos, que comandam os Condados
+e os auxiliares destes, responsáveis pelas
+cidades. Cada um desses nobres é responsável pela manutenção da economia
+do reino, cobrando tributos, fazendo relatórios sobre movimentações de guildas
+e organizações para seus superiores e realizando tratados comerciais com outras
+comunidades. Alguns títulos de nobreza
+também são conferidos à parentes próximos do Rei e à filhos de nobres menores.
+Nobres só obedecem ordens de outros nobres cujo título seja mais importante – os títulos estão apresentados em
+ordem decrescente de importância, com
+o Rei sendo o título mais elevado na cadeia – e recebem tratamento especial caso
+cometam crimes (só podendo ser julgados por Magistrados e tendo direito à
+aposentos especiais quando são encarcerados, por exemplo).
+Rei/Rainha (Vossa Majestade) –
+Comanda o reino, a partir da Capital. O
+Rei atual é Rob van Strauss, filho mais
+novo do falecido Rei, Honório.
+Príncipe/Princesa (Vossa Alteza
+Real) – Sucedem o Rei/Rainha no comando do reino. Não há sucessores ao trono
+de Tebryn, já que Rob não tem filhos.
+Duque/Duquesa (Vossa Alteza) –
+Parentes próximos do Rei/Rainha (pais,
+tios, irmãos e primos em primeiro grau).
+Sendo um título conferido à família do
+Rei, não possuem funções administrativas, mas como ficam na linha de sucessão
+ao trono, costumam desempenhar funções
+militares ou de justiça para se prepararem
+caso precisem assumir o reino. Atualmente há três Duquesas e dois Duques em
+Tebryn: Nina van Strauss (Humana Paladina Cruzada 17), Capitã da Guarda de
+Tebrynia e irmã do Rei Rob, atualmente a
+sucessora direta ao trono; Arn van Strauss
+(Humano Sacerdote de Hadorn 14), Regente do Condado de Strauss e irmão do
+Rei Rob; Valsina van Strauss (Humana
+Barda 2), irmã do falecido Rei Honório e
+tia do Rei Rob; Vendal van Strauss (Humano Senescal 8), filho mais velho de Valsina e atual Barão de Kerrck; e Taliana van
+Strauss (Humana Espadachim Lanceira 7)
+filha mais nova de Valsina e Capitã dos
+Lobos dos Mares. Seus herdeiros recebem
+o título de Cavaleiro/Dama.
+Marquês/Marquesa (Vossa Excelência) – Responsáveis por comandar
+cada um dos anéis de Tebrynia e áreas vitais da administração do reino (comércio,
+relações exteriores, agricultura, pecuária
+e tesouro), além de representar o Rei/
+Rainha quando este não pode comparecer a um evento oficial. Seus herdeiros
+podem herdar o título ou, caso isso não
+aconteça, se tornar Cavaleiros/Damas.
+Conde/Condessa (Vossa Excelência ou Lorde/Leide) – Comandam um
+condado, a partir de uma metrópole.
+Barão/Baronesa (Vossa Senhoria
+ou Lorde/Leide) – Comandam cada uma
+das cidades do reino.
+Cavaleiro/Dama (Lorde/Leide)
+– Comandam vilas ou aldeias ou, mais
+comumente, prestam serviços militares
+a um nobre (guarda pessoal, campeão,
+líder de guarnição ou castelo). É bastante
+comum que um Cavaleiro também tenha
+algum título militar. De fato, a maioria
+dos Cavaleiros de Tebryn é composta por
+militares que receberam o título por feitos em nome do reino.
+*Títulos Militares:
+Os títulos Militares são empregados
+para distinguir os membros das organizações de defesa de Tebryn. Enquanto as
+patentes mais baixas são formadas pelos
+homens-de-armas das linhas de frente de
+defesa, as patentes mais elevadas indicam
+líderes de grupos desses combatentes.
+Militares obedecem ordens de outros militares de patente mais elevadas –
+os títulos estão apresentados em ordem
+decrescente de importância – e de qualquer um com um título de nobreza, e as
+vezes são colocados sob os serviços de
+membros da Justiça.
+Militares (inclusive aqueles que forem aposentados por qualquer motivo)
+recebem um soldo do reino, derivado da
+Talha e tem direito à utilizar os prédios
+militares espalhados pelo reino livremente. Títulos militares não são hereditários,
+embora os familiares diretos dos militares – cônjuges, pais e mães – recebam acolhimento em prédios militares se houver
+necessidade.
+General – Título do líder da Hoste
+de Hadorn, o exército oficial de Tebryn.
+Capitão/Capitã – Líder militar da
+capital ou de um Condado. Devem pertencer a uma das Ordens de Cavalaria de
+Tebryn.
+Alcaide/Alcaidina – Líder militar
+de uma metrópole, cidade ou vila.
+Escaleiro/Escaleira – Responsáveis
+por um porto.
+Alferes – Líderes de guardas a serviço de Capitães, Alcaides ou Escaleiros.
+Há múltiplos na capital e nas metrópoles,
+geralmente responsáveis por bairros ou
+regiões específicas. Cidades e vilas geralmente tem apenas 1 ou 2 Alferes.
+Aduaneiro/Aduaneira – Cobrador
+de tributos e líder de guarnições de fronteira.
+Soldado/Soldada – Guardas, membros da cavalaria ou da infantaria.
+*Títulos de Justiça:
+Os títulos de Justiça identificam os
+responsáveis pela criação, revisão e manutenção das leis em Tebryn. Eles são
+responsáveis por investigar crimes, prender criminosos e realizar julgamentos, e
+coletivamente chamados de juízes.
+Juízes obedecem os Nobres aos
+quais devem vassalagem e qualquer nobre com títulos mais importantes.
+Juízes recebem um soldo, derivado
+da Corveia, e sua entrada não pode ser
+barrada em nenhuma propriedade – militar, pública ou privada – dentro do reino
+(embora o abuso deste direito possa gerar
+afastamento do cargo). Títulos de justiça
+não são hereditários e juízes aposentados
+perdem seus benefícios e seu soldo é reduzido significativamente.
+Regente – Conselheiros do Rei.
+São nomeados por cada um dos Condes, e tem cada um, um assento no senado. São responsáveis pelo julgamento de nobres e Magistrados. Caso o Rei
+morra sem um sucessor, ou com um sucessor infante, cabe aos Regentes decidirem qual Duque/Duquesa deve subir
+ao trono ou, caso não haja essa possibilidade, nomear um Regente para liderar
+o reino até que se decida o próximo Rei
+(ou até que o infante tenha idade para
+ser coroado). Há 11 Regentes, 10 escolhidos por cada um dos Condes e 1 (o
+Regente de Tebrynia), escolhido pelo
+próprio Rei.
+Magistrado – Conselheiro de Marqueses, Condes e Barões. Responsáveis
+pelos julgamentos militares e de outros
+membros da justiça dentro de um condado.
+Burgomestre/Burgomestra – Responsáveis pelos julgamentos civis. Mantém uma metrópole, cidade, vila ou aldeia.
+Xerife – Responsável por investigar
+crimes e prender criminosos – geralmente contando com auxílio militar para isso.
+Há múltiplos na capital e nas metrópoles,
+geralmente responsáveis por bairros ou
+regiões específicas. Cidades e vilas geralmente tem apenas 1 ou 2 Xerífes. 
+---
+**Economia de Tebryn**
+O sistema monetário de Tebryn geralmente gira em torno do uso de moedas de metal para comprar e vender bens.
+Utilização de cartas de crédito é extremamente raro, e geralmente só ocorre entre
+nobres. Escambo ocorre ocasionalmente
+em vilas e regiões remotas (onde pode
+haver, inclusive, escassez de moedas),
+mas é bastante incomum em cidades
+maiores. Gemas podem ser utilizadas
+como forma de pagamento em alguns
+locais (particularmente nas Metrópoles e
+na Capital) mas via de regra elas precisam ser trocadas por moedas em uma joalheria – por uma taxa igual à 5% o valor
+total das gemas sendo vendidas, na maioria das cidades e nas metrópoles; na capital, esse serviço custa pelo menos 10% do
+custo total das joias. Joalherias também
+fazem conversões de moedas vindas de
+outros reinos, geralmente sem custos –
+mas conseguir moedas de outros reinos
+exige uma taxa de pagamento que vai de
+5% à 15% do valor trocado, dependendo
+da distância da joalheria com o reino em
+questão.
+Uma coroa tebryniana é uma grande moeda de cobre, que é, de longe, a
+moeda mais comum de encontrar em circulação no comércio. Há ainda mais três
+moedas oficiais no reino, a coroa de prata, que equivale a 10 coroas de cobre, a
+meia coroa, com miolo em prata e bordas
+de ouro, que equivale a 50 coroas de cobre, e a coroa real, feita de ouro, a menor
+e mais rara de ser encontrada em circulação, equivalendo a 100 coroas de cobre.
+Tebryn é um reino próspero e com
+uma boa qualidade de vida. Um trabalhador produz, em média, o equivalente
+à 50 coroas tebrynianas por mês, o que
+é mais que suficiente para ter uma vida
+tranquila. Graças ao grande comércio entre reinos, e a boa fama de Tebryn, sua
+moeda é uma das moedas mais fortes de
+Cassiopéia, vista em circulação até mesmo em algumas cidades de Gaian, além
+do oceano. É comumente aceito em todos
+os reinos da região central do grande continente.
+Tebryn cobra dois tributos separados, além de algumas taxas diversas.
+Tributos são cobrados por casa, não por
+indivíduo – uma família de cinco pessoas, morando na mesma casa, paga apenas
+uma Corveia e Talha, mesmo que mais de
+uma pessoa da família exerça algum trabalho remunerado. A Corveia é um tributo que serve para lidar com as despesas
+dos juízes e nobres do condado. Pode ser
+pago na forma de moeda ou bens de produção mensalmente, mas muitos nobres
+e juízes aceitam trabalhos realizados para
+si como forma de pagamento. A Corveia
+costuma ser branda, girando ao redor de
+2 à 5 moedas por mês, dependendo do
+condado. A talha é um tributo cobrado
+para manter os exércitos e deve ser pago
+mensalmente e em moeda. A Talha varia
+bastante de um Condado por outro, e enquanto em Miralda a Talha é de apenas
+1 moeda, no condado do Vale deve-se
+pagar 10 moedas pela Talha. Falha em
+pagar um tributo garante uma fiança, e o
+devedor entra na lista de crimes. Se sua
+fiança e seus tributos excederem o que
+o indivíduo é capaz de produzir em um
+mês de trabalho, sua casa é confiscada.
+Entre as taxas mais comuns estão
+a Formariage, que é uma taxa por casamento – ela aumenta se o casamento for
+fazer o cônjuge sair do Condado para ir
+para outro lugar, mas pode ser abrandada se o casal tiver filhos em comum.
+a Insubmissão, que é uma taxa paga
+quando um membro de uma casa deixa
+de estar vinculado à ela e cria uma nova
+casa no processo. A Libitina é uma taxa
+paga quando o chefe de uma casa – que
+é o responsável por pagar os tributos –
+falece e deve ser pago por quem assumirá os deveres da casa no lugar do chefe
+falecido.
+Pagamentos de tributos, taxas e
+fianças são mantidos por um aduaneiro
+à serviço de cada um dos Barões em um
+urbarium – um tomo com pelo menos
+duas cópias, uma delas sempre à disposição para ser consultado por qualquer
+cidadão.
+---
+**Religião e Magia**
+As organizações religiosas funcionam de forma independente dentro dessa cadeia hierárquica, e títulos religiosos
+não tem qualquer peso oficial na decisão
+do Rei ou dos Condes, mas em geral, líderes religiosos têm seus pedidos ouvidos –
+e geralmente atendidos – e muitas vezes
+são procurados como conselheiros.
+Para que uma determinada seita
+ou templo sejam considerados legítimos,
+eles devem conseguir aprovação direta
+do Rei. Da mesma forma, Ordens de Paladinos ou organizações militares ligadas
+a uma religião precisam de aprovação
+direta do Rei, e costumam ser supervisionadas pelos Capitães, Alcaides e/ou
+Cavaleiros do condado onde estão. Essa
+supervisão inicial costuma se transformar em apoio mútuo, e é muito comum
+que os líderes dessas organizações sejam
+nomeados Cavaleiros ou mesmo Barões,
+ou que recebam títulos civis ou militares.
+A Tríade Divina é a religião oficial
+de Tebryn, e a maioria dos Humanos
+segue seus preceitos, geralmente escolhendo uma das divindades do Panteão
+como seu patrono, dependendo de suas
+inclinações pessoais ou da atividade que
+desempenha. Há templos da Tríade em
+todas as metrópoles de Tebryn, sendo
+comum encontrar templos em cidades e
+mesmo vilas dentro do reino. Algumas
+metrópoles e cidades têm mais de um
+templo, geralmente dedicados a uma
+divindade específica amplamente seguida na região. Religiões oficiais de outros
+reinos podem erigir templos dentro de
+Tebryn, exceto aquelas dedicadas à Dragões e Primordiais – Pactos Infernais são
+considerados Traição contra o Reino e
+tratados de acordo, enquanto vinculação
+à religiões draconianas é considerado sacrilégio (assim como ataques contra instituições religiosas).
+Para que um conjurador místico
+possa trabalhar oficialmente para o reino,
+ele precisa estar ligado a uma das igrejas
+aprovadas pelo reino e não pode ter crimes no arquivo da capital (mesmo que já
+tenham sido saldados).
+Conjuradores arcanos geralmente
+são treinados na Academia Argêntea,
+na Ilha da Prata, apesar de algumas capitais terem academias arcanas menores – vinculadas e administradas pela
+Academia Argêntea. De fato, a Academia Argêntea é responsável por administrar todo o ensino arcano de Tebryn,
+e qualquer conjurador arcano que tenha
+intenção de trabalhar para o reino deve
+passar nos testes na Ilha da Prata. Existem conjuradores que mantém aprendizes e os ensinam em seus laboratórios,
+mas mesmo nesses casos, a menos que
+os aprendizes em questão pretendam
+manter laboratórios pessoais ao invés
+de trabalhar para o reino, eles devem
+se submeter aos testes da Academia Argêntea.
+Apesar da necromancia não ser explicitamente banida do reino – e ser estudada na Academia Argêntea, especificamente na sede de Kerrck, já que a Ilha
+da Prata impede estes estudos – utilizar
+magias em restos mortais de qualquer
+criatura é considerado Violação de Sepultura. Assim, a maioria dos Necromantes
+dentro de Tebryn se especializou em lidar
+com espíritos ou em magias necromânticas de ataque e defesa. Espíritos não são
+considerados indivíduos dentro do reino
+– mesmo que possam ser comprovadamente de habitantes enquanto eram vivos – e portanto não possuem qualquer
+direito legal, não podem ser utilizados
+como testemunhas em nenhum tipo de
+caso oficial (seja militar, de justiça ou de
+qualquer outra natureza) e manipular ou
+destruir essas criaturas não causa ofensas
+jurídicas. Em alguns locais, no entanto
+(particularmente em regiões onde a presença da Hoste de Hadorn é forte, como o
+Condado de Gardóvia) utilizar espíritos
+para qualquer tarefa pode ser considerado Violação de Sepultura ou mesmo Traição Contra o Reino.
+---
+**Crime e Castigo**
+Em Tebryn, as leis contra crimes são
+duras e geralmente levadas a cabo com
+rapidez. Originalmente, quando o reino
+foi unificado, acreditava-se que a ordem
+seria mais facilmente mantida se a população tivesse medo dos castigos rígidos
+aplicados. Embora alguns desses castigos
+tenham sido considerados brutos, a inclusão dos nobres nas mesmas linhas de
+punição dos plebeus (o que não era uma
+prática de todas as cidades-estados antes
+da composição do reino) fez com que a
+população como um todo percebesse que
+as leis eram tão justas quanto possível.
+Prisão e Julgamento – Quando um
+suspeito é capturado, ele é levado para o
+quartel da guarda ou chefatura mais próxima. Se responder à voz de prisão com
+violência, ele é automaticamente considerado perigoso e os oficiais têm permissão
+de executá-lo – embora seja bem mais comum que seja surrado até a inconsciência
+ao invés disso. Suspeitos capturados são
+julgados por um oficial adequado (Um
+Regente se for um nobre, um Magistrado
+caso seja um militar ou um Burgomestre
+na maioria dos casos) em conjunto com
+os oficiais que o tiverem prendido, preferencialmente na presença de um Paladino ou Sacerdote de Mirah ou Hadorn
+– o suspeito pode exigir a presença de um
+Paladino ou Sacerdote, caso nenhum esteja presente.
+O magistrado então pede os registros no nome do criminoso nos arquivos
+do Condado e da Capital, para saber se
+ele possui alguma sentença pendente.
+Isso geralmente é feito por um Escriba
+(Tomo das Muitas Línguas, página 41)
+com a Habilidade Mensagem Mágica
+(cada quartel ou chefatura em Tebryn e
+nas Metrópoles terá um à disposição, e a
+maioria das cidades terá pelo menos um
+desses escrivães para auxiliar a guarda),
+mas cidades pequenas e vilas podem
+não ter acesso à um, e terá que recorrer
+à outros meios de conseguir os registros
+– pássaros mensageiros são o meio mais
+comuns.
+Caso o suspeito seja capturado à
+noite ou preparativos especiais sejam
+necessários – como esperar por um Magistrado ou por um Sacerdote adequado
+para acompanhar o julgamento, ou caso
+a chefatura em questão não tenha um Escriba e precise utilizar um pássaro mensageiro para conseguir a ficha do suspeito – ele é encarcerado até que possa ser
+julgado. Caso nenhum preparativo especial seja necessário, ele é julgado imediatamente.
+Se for considerado culpado (tanto
+do crime atual quanto de qualquer crime
+pendente) é castigado da forma adequada. Novamente, caso sejam necessários
+preparativos especiais – o criminoso cometeu vandalismo, mas todos os pelourinhos estão ocupados, por exemplo – ele
+será aprisionado até que possa ser punido.
+Se ele for considerado inocente, ele
+recebe cura – geralmente mágica – para
+qualquer ferimento (cometidos ou não
+durante sua captura) e é liberado imediatamente, além de seu nome constar na lista de perdões oficiais durante o próximo
+pronunciamento dos crimes.
+Estrutura do Tribunal – Existem três
+instâncias judiciárias em Tebryn. A mais
+alta delas é o Conselho Real de Justiça,
+sediado na capital do reino, Tebrinia. Depois, cada metrópole possui um Conselho
+de Justiça do Condado. Por fim, as cidades
+costumam possuir um ou mais Conselho
+Regionais de Justiça, que atendem não só
+a cidade como as vilas ao redor.
+Cada Conselho é formado por
+três juízes: o Juiz de Sentença, o Juiz de
+Acusação e o Juiz de defesa. Os nomes
+podem parecer estranhos, mas devemos levar em conta que julgamentos em
+Drakon podem se valer de recursos mágicos, como paladinos e oráculos e todos
+os tribunais de Tebryn fazem uso desses
+elementos. Sendo assim, na maioria das
+vezes, não existem muitas dúvidas com
+relação à culpa do indivíduo. Nesse caso
+o Juiz de defesa julgará tentando ver o
+lado do acusado enquanto o juiz de acusação irá pleitear em favor da vítima, ficando a cargo do juiz de sentença decidir
+em favor de um ou de outro, ou chegar a
+um meio termo.
+A culpabilidade de um indivíduo
+pode ficar em dúvida quando houver
+dubiedade no crime, ele foi forçado pelas circunstâncias, estava fora de si, ou
+algo assim. Nesse caso os Juízes votam
+após o caso ser apresentado, e o veredicto
+com mais votos ganha. Isso normalmente significa que o Juiz de Sentença vai
+decidir, votando com a acusação ou defesa. Porém, existem casos raros em que
+ao apresentar o caso o juiz de acusação
+se convenceu da inocência, ou o de defesa se convenceu da culpa, mas o juiz de
+sentença não. Quando isso ocorre, apesar
+do juiz de sentença ser o voto contrário,
+como o veredicto recebeu dois votos ele
+é cumprido. O Juiz de sentença também
+arbitra em relação às apelações, é ele que
+determina se a disputa poderá ou não
+ser apelada a uma instância superior.
+Normalmente isso só é permitido se um
+dos juízes votar diferente, quando os três
+concordam, o assunto tende a morrer ali.
+Os crimes tendem a ser resolvidos
+pelo Burgomestre local, porém um indivíduo que se sinta injustiçado pode pedir por um Tribunal de Mirah, e é apenas
+nesse caso que a demanda chega à primeira instância. Como os burgomestres
+costumam também fazer uso de Paladinos e Oráculos, dificilmente um tribunal
+é chamado.
+Consequências – O nome do criminoso fica arquivado na chefatura. Crimes
+nunca prescrevem em Tebryn até que
+sejam saldados, e um criminoso capturado é castigado considerando-se todos
+os crimes que ele cometeu e que estejam
+pendentes.
+No início de Haidas e no início de
+Miradias, os nobres atendem ao pronunciamento oficial dos crimes da sua Metrópole. Esse pronunciamento ocorre de
+modo público, geralmente em uma praça
+central ou no pátio de alguma fortificação
+importante da metrópole. Nele, um magistrado lê todos os crimes ocorridos na
+metrópole, em ordem cronológica, desde
+o último pronunciamento oficial dos crimes – o pronunciamento conta com a data
+do crime, o nome do criminoso, o oficial
+que o julgou, os Sacerdotes que acompanharam o julgamento (se houverem), o crime cometido e a punição (bem como se ela
+já foi paga, ou, no caso de fianças e banimentos se ela ainda está em andamento).
+No dia seguinte, há um pronunciamento
+semelhante, listando todos os crimes ocorridos nas outras cidades do condado – o
+“pronunciamento da plebe”, como é conhecido, não costuma ser acompanhado
+por nobres. Durante estes pronunciamentos, qualquer cidadão presente pode apresentar, publicamente, pedidos de revisão
+da sentença, que são levados à cabo no dia
+seguinte aos pronunciamentos.
+Estes julgamentos públicos, são
+presididos pelo Regente do condado e na
+presença do próprio Conde e de pelo menos um Paladino (de qualquer ordem),
+um Sacerdote de Mirah e um Sacerdote
+de Hadorn (ou de Sarfion, no caso do
+Condado de Faendul). É muito comum,
+no entanto, que líderes sacerdotais e de
+ordens de Paladinos locais sejam convidados para acompanhar estes julgamentos, e eles dificilmente ocorrem sem que
+haja pelo menos cinco ou seis Sacerdotes
+e Paladinos auxiliando o Regente.
+Cada pedido de revisão é verificado se é aceitável (às vezes o reclamante
+só está se sentindo ultrajado com a sentença, mesmo sendo obviamente culpado
+pelo crime) e, se for, um novo julgamento
+é realizado no ato. O suplicante então se
+apresenta e explica porque sua sentença –
+ou a sentença de outra pessoa, em alguns
+casos – foi aplicada injustamente e merece
+revisão. Ele pode apresentar testemunhas
+– apesar de mais de uma testemunha ser
+considerado descortês – e quaisquer evidências físicas que desejar, mas o Regente
+exigirá que ele seja o mais conciso possível. Um Paladino da Espada de Mirah é
+muito bem-vindo nesses julgamentos já
+que muitos deles possuem o Código da
+Honestidade e podem facilitar bastante o
+processo, confirmando se o suplicante está
+dizendo a verdade ou não. Oráculos (Guia
+do Herói, página 40) podem ser extremamente valiosos também, já que podem não
+apenas saber se o suplicante diz a verdade
+como podem apresentar suas memórias
+para o Regente – de fato, em Faendul,
+Oráculos são sempre empregados em julgamentos, em conjunto com Paladinos.
+Se provas de que o criminoso foi
+punido de forma errônea forem apresentadas, ele recebe uma indenização adequada, seu registro é revisado para apontar que ele foi inocentado do crime e seu
+nome é colocado na lista de pedidos de
+perdões oficiais. Caso contrário, o nome
+do criminoso continua nos registros e
+nada é alterado.
+No dia seguinte ao julgamento
+público, segue-se uma lista de perdões
+oficiais – sem constar datas, crimes ou
+nomes de oficiais, apenas o do suspeito
+inocentado e se ele foi acusado injustamente, se seu crime foi perdoado ou se
+sua sentença anterior foi revisada.
+ Finalmente, qualquer cidadão presente pode pedir a revisão de crimes que
+tenham ocorrido nos pronunciamentos
+anteriores, o que ocorre da mesma forma
+dos crimes da lista atual. Feito isso, uma
+cópia do pronunciamento, constando dos
+nomes de todos os criminosos e de todos
+que receberam pedidos oficiais de perdão
+e enviada para o arquivo da metrópole, e
+uma segunda cópia é enviada para o arquivo central de Tebrynia
+No último dia de Miradias e Hadias, uma lista de crimes – e pedidos oficiais de perdão – é lido em Tebryn, mas
+esta lista não é interrompida por pedidos
+de revisão.
+Os arquivos de crimes e pedidos
+de perdão são públicos, e qualquer um
+pode pedir para verificar qualquer um
+deles – tanto os registros locais quanto os
+arquivos do Condado ou mesmo da Capital. Além disso, qualquer acusado de
+um crime (tendo já sido punido ou não)
+pode ir à capital, a qualquer momento,
+para pedir uma revisão de um caso junto
+a Ordem da Espada de Mirah. Estes julgamentos individuais são públicos, mas
+dificilmente têm audiência.
+*Sentenças: – As sentenças para a
+maioria dos crimes está prevista na Carta
+de Leis de Tebrynia – que pode ser consultada em qualquer biblioteca do reino.
+É trabalho dos magistrados encaixar crimes que não constem na lista em uma das
+categorias previstas, ou então entrar com
+um pedido para que um novo tipo de crime seja integrado à Carta de Leis.
+Os crimes mais comuns estão listados à seguir. Perceba que algumas dessas leis podem ter exceções dentro de um
+Condado ou em uma situação especial.
+Na Ilha da Prata não há restrições para
+a produção de itens com magias que afetem os mortos (embora sua venda ainda
+seja proibida), e qualquer cidadão dentro
+do Condado pode deixar uma nota junto
+à chefatura anunciando que, se morrer
+dentro do Condado, seu corpo pode ser
+utilizado pela Academia Argêntea. A Íris
+de Malta, por sua vez, pode pesquisar e
+produzir venenos, e pode até mesmo fornecer esses venenos para Ordens de Paladinos, para as igrejas de Tebryn e para a
+nobreza – e mesmo vendas para plebeus,
+embora ainda seja considerado crime, dificilmente gera julgamentos.
+Ataques armados contra um alvo,
+a menos que em legítima defesa, são considerados como assalto. Invasão de propriedade pública ou privada é considerado vandalismo. Produzir e vender itens
+proibidos no reino (venenos, tomos com
+magias que afetem os mortos) é considerado contrabando, assim como vender
+itens criados magicamente (através de
+magias ou itens mágicos, como a Cesta
+das Muitas Tortas, por exemplo). Armazenar ou vender cadáveres ou partes de
+cadáveres de Humanóides ou Centauros
+é considerado violação de sepultura. Tráfico de escravos é considerado como tortura. As punições para esses crimes, em
+geral, estão no quadro ao lado:
+*Pelourinho: – O criminoso é aprisionado de forma pública, amarrado à
+um mastro, preso em uma canga ou restrito por um coleira. O tipo de crime geralmente define a forma de pelourinho.
+Assassinato, roubo, assalto e vandalismo geralmente rende aprisionamento
+em um poste pelas mãos, de forma que
+as costas do criminoso fiquem expostas,
+já que essas sentenças também incluem
+chicoteamento. Desordem, fraude, contrabando, traição e adultério geralmente
+rendem uma coleira de metal ao redor do
+pescoço em uma haste alta, de modo que
+o criminoso não possa esconder o rosto.
+Estupro, tortura e violação de sepultura
+costumam ser punidos com uma canga,
+deixando o criminoso vulnerável à ataques não apenas no corpo mas no rosto,
+o que é bastante comum – e não é considerado crime. Criminosos condenados ao
+pelourinho são mantidos no local por um
+dia e uma noite inteiros.
+/*
+Roubo, assalto, vandalismo – pelourinho, chicoteamento e fiança.
+Desordem, adultério – pelourinho.
+Fraude, contrabando, Sonegação
+– Pelourinho e fiança.
+Sacrilégio, Traição contra o Condado – Pelourinho, chicoteamento e banimento.
+Violação de Sepultura – Pelourinho, chicoteamento, amputação e fiança.
+Tortura – Pelourinho, chicoteamento, amputação e banimento.
+Assassinato, Traição contra o
+Reino – Pelourinho, chicoteamento e
+morte por enforcamento.
+Estupro – Pelourinho, chicoteamento e morte por afogamento.
+*\
+*Chicoteamento: – O criminoso é chicoteado nas costas ou nádegas. Em geral,
+um criminoso é chicoteado até perder
+metade dos seus Pontos de Vida.
+*Banimento: – O criminoso tem todos
+os seus bens confiscados e é banido do
+Condado ou do reino. Este crime nunca
+prescreve, e caso seja encontrado novamente no Condado de onde foi banido, ele
+passa pela mesma punição novamente.
+*Fiança: – O criminoso paga à vítima
+uma quantidade de dinheiro igual ao item
+roubado, destruído ou fraudado, além
+de dinheiro equivalente à seis meses de
+trabalho da vítima (no caso de violação
+de sepultura, o próprio cadáver é considerado a vítima) – no caso de vandalismo, o custo do item destruído deve ser
+multiplicado por 10. Enquanto a fiança
+não for paga, o criminoso tem seu nome
+mantido no pronunciamento oficial de
+crimes (o que significa que, se cometerem
+outros crimes, serão punidos novamente pelo crime pelo qual estão pagando).
+Caso o criminoso não possa pagar a fiança estabelecida, ele deverá trabalhar para
+a vítima ou, caso a vítima recuse, para a
+cidade, que transfere o dinheiro para a vítima. Criminosos pagando finanças dessa
+forma precisam se apresentar diariamente à chefatura ou recaem no crime de sonegação com um valor de fiança igual ao
+valor que falta das sentenças anteriores.
+*Morte por enforcamento: – O criminoso é pendurado em uma forca com os
+braços presos, até que morra. Todos os
+bens do criminoso são confiscados pelo
+reino e um valor equivalente é pago à família da vítima (se houver).
+Morte por afogamento – O criminoso é submergido em água com os braços
+e pernas presas, até que morra. Todos os
+bens do criminoso são confiscados pelo
+reino e um valor equivalente é pago à vítima (ou a família dela).
+*Amputação: – O criminoso tem uma
+parte do corpo amputada e o ferimento
+é cauterizado para que não possa ser recolocada no lugar – é comum que o criminoso seja marcado em alguma parte
+visível do corpo, como na cabeça ou no
+rosto, para que seja facilmente reconhecido pelo seu crime. Torturadores e violadores de túmulos têm uma mão amputada enquanto escravagistas costumam ter
+um pé decepado.
+---
+**Organização populacional**
+*Capital: – Tebrynia é a morada do
+Rei, príncipes e da maioria dos Duques.
+É onde se reúne o Conselho dos Regentes
+e onde são criadas, revistas e expedidas
+leis. Apenas em casos excepcionais, a nomeação de nobres também ocorre em Tebrynia, geralmente diante do próprio Rei
+ou do Conselho de Regentes. As defesas
+da cidade são mantidas por um Capitão
+que lidera vários Alferes. A organização
+civil é mantida por um Magistrado e um
+Burgomestre (que reportam diretamente aos regentes) com o auxílio de vários
+mastins.
+*Metrópole: – Sede de cada um dos 10
+condados, excetuando-se o Condado de
+Strauss – a sede do Condado de Strauss
+é a própria capital do reino, Tebrynia.
+Cada metrópole é morada do Conde que
+rege aquele condado. Soldados são organizados por um Alcaide e vários Alferes.
+A organização civil é mantida por um ou
+mais Magistrados, com o auxílio de alguns Mastins.
+*Cidade: – Grande aglomerado populacional mantido por um Barão. Soldados são organizados por um Alcaide
+com o auxílio de um ou dois Alferes. A
+organização civil é mantida por um Burgomestre, com o auxílio de um ou dois
+Mastins.
+*Vila: – Aglomerado populacional
+médio, raramente possuem moradores
+nobres. Soldados são organizados por
+um Alferes, geralmente em conjunto
+com o Burgomestre. Algumas podem ter
+um Xerife, mas em muitos casos é o próprio Burgomestre quem lida com os crimes, com o auxílio da guarda da cidade.
+*Aldeia: – pequeno aglomerado populacional, geralmente sem organização
+estabelecida.
+**Condados**
+Tebryn é dividido em 11 condados,
+10 deles regidos por um Conde, enquanto o Condado de Strauss, onde fica a capital do reino, é comandado diretamente
+pelo Rei. A seguir as descrições detalhadas de cada um deles, incluindo a descrição de cada uma de suas Metrópoles,
+que servem de capital daquele Condado,
+além de cidades importantes em seu território.
+/*Verificar o livro de Tebryn pag 24: https://editorarunas.com.br/downloads/Mighty%20Blade%20-%20Drakon%20-%20Guia%20de%20Tebryn.pdf*\
+---

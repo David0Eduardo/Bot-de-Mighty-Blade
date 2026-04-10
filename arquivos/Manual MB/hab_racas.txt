@@ -1,0 +1,1090 @@
+Habilidades Raças
+
+---
+
+**Aesires**
+
+---
+/*
+Atributos Iniciais:
+Força 4
+Agilidade 2
+Inteligência 3
+Vontade 3
+Classes comuns:
+Bardo, Druida, Guerreiro, Patrulheiro e Rúnico.
+Habilidade Automática:
+--Vigor Nórdico--
+Habilidade (Característica) – Suporte
+Descrição: Você nasceu em uma região
+gelada, e os rigores climáticos de Eishelm tornaram você vigoroso e resiliente. Você é Resistente à Frio e não é afetado nem por efeitos de
+climas gelados nem por efeitos provenientes
+de danos por Frio (como Enregelamento). 
+*\
+---
+
+Habilidades Extras
+
+---
+--Berserkir--
+Habilidade (Característica) – Suporte
+Requisito: Fúria Bestial, Vontade 4
+Descrição: Você é um escolhido do
+Urso como seu protegido, e é amparado pela
+resistência dele quando evoca a Fúria Bestial.
+Enquanto estiver em Fúria Bestial, você fica
+Resistente à Corte, Resistente à Perfuração e
+Resistente à Contusão. Você não pode estar
+usando armaduras ou escudos para que essa
+Habilidade tenha efeito, já que o Urso espera
+que você considere a proteção dele acima de
+qualquer proteção mundana.
+Especial: Se você tiver um Espírito Animal que não seja o Urso, você não pode possuir
+esta Habilidade. Se você possuir esta Habilidade, você só pode escolher o Urso como seu Espírito Animal.
+---
+--Bravura Selvagem 1--
+Habilidade (Característica) – Suporte
+Descrição: Você confia mais nas suas
+habilidades naturais do que em armaduras
+para se defender. Quando não estiver usando
+armadura, você recebe +2 em sua Defesa.
+Quando escolhe essa Habilidade, você
+deve escolher se este será um bônus de Bloqueio ou Esquiva. Essa escolha é permanente e
+não pode ser mudada mais tarde.
+---
+--Bravura Selvagem 2--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Bravura Selvagem 1
+Descrição: Você veste sua bravura em batalha melhor do que alguns vestem armaduras. O
+Bônus Defesa conferido por Bravura Selvagem
+1 aumenta para +4 e você pode escolher se esse
+bônus será de Bloqueio ou Esquiva no início de
+cada um de seus turnos, como uma ação livre.
+---
+--Fúria Bestial--
+Habilidade (Característica) – Ação
+Mana: 30
+Descrição: Você foi tocado pelo espírito
+do Urso ou pelo espírito do Lobo, e pode invocar a fúria que provém do instinto de sobrevivência deles. Enquanto estiver neste estado
+você recebe Força +2 e fica imune a Efeitos
+de Medo. Este efeito dura até o final da batalha
+ou até que você fique dois turnos sem atacar.
+Você não pode estar em Fúria Bestial e Fúria
+de Batalha ao mesmo tempo.
+Especial: Se você tiver um Espírito
+Animal que não seja o Urso ou o Lobo, você
+não pode possuir esta Habilidade. Se você
+possuir esta Habilidade, você só pode escolher o Lobo ou o Urso como seu Espírito
+Animal.
+---
+--Potência--
+Habilidade (Característica) – Suporte
+Descrição: Você é mais forte e resistente do que a maioria dos indivíduos da sua raça.
+Você tem Força +1 e +5 Pontos de Vida.
+---
+--Robustez--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma constituição vigorosa para os padrões da sua raça.
+Você tem +5 Pontos de vida e rola +1d6 em
+testes de Força para resistir à fadiga, venenos
+e doenças.
+---
+--Ulfhednar--
+Habilidade (Característica) – Suporte
+Requisito: Fúria Bestial, Vontade 4
+Descrição: O Lobo considerou você um
+guerreiro digno, e ele lhe imbuirá de sua selvageria quando você evocar a Fúria Bestial, desferindo ataques muito mais violentos. O bônus
+de Força de Fúria Bestial passa a ser +4 e seus
+ataques desarmados causam +2 de dano. Você
+não pode estar usando armadura ou escudos
+para que essa Habilidade tenha efeito – já que
+o Lobo despreza a defesa em detrimento do
+ataque.
+Especial: Se você tiver um Espírito Animal que não seja o Lobo, você não pode possuir esta Habilidade. Se você possuir esta Habilidade, você só pode escolher o Lobo como seu
+Espírito Animal. 
+---
+
+**Anões**
+
+---
+/*
+Atributos Iniciais:
+Força 4
+Agilidade 2
+Inteligência 3
+Vontade 3
+Classes comuns:
+Guerreiro, Paladino, Sacerdote e
+Rúnico.
+Habilidade Automática:
+--Coração da Montanha 1--
+Habilidade (Característica) – Suporte
+Descrição: Sua constituição foi forjada
+nos subterrâneos agrestes e impiedosos, onde
+apenas os mais resistentes conseguem sobreviver. Você é imune a todos os venenos naturais
+e mágicos e rola +1d6 em testes para resistir à
+fadiga, doenças e quaisquer outros efeitos físicos. Além disso, sua Carga é calculada como se
+você tivesse Força +2.
+*\
+---
+
+Habilidades Extras
+
+---
+--Cabeça Dura--
+Habilidade (Característica) – Suporte
+Descrição: Você é extremamente teimoso e é muito difícil dissuadi-lo de uma opinião,
+intimidá-lo, controlar sua mente ou manipulá-
+-lo de qualquer forma. Você tem Vontade +1 e
+Determinação +2.
+---
+--Coração da Montanha 2--
+Habilidade (Característica) – Suporte
+Descrição: Você é ainda mais vigoroso
+e resistente que a maioria dos Anões. Você tem
++5 Pontos de Vida e é imune à todas as doenças de origem natural ou mágica e rola +1d6 em
+testes para resistir a quaisquer efeitos de fadiga
+ou outros efeitos físicos. Esse bônus se acumula com o bônus de Coração da Montanha 1.
+---
+--Duro como Pedra--
+Habilidade (Característica) – Suporte
+Descrição: Sua pele é mais grossa e resistente que a da maioria dos outros Anões.
+Você tem +10 Pontos de Vida e todos os danos
+que o personagem sofre são reduzidos em 1.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Estabilidade--
+Habilidade (Característica) – Suporte
+Descrição: Você gosta de ter os dois
+pés solidamente plantados no chão – e faz isso
+muito bem! Você sempre rola +1d6 em todos
+os seus testes de evitar quedas e manter o equilíbrio.
+---
+--Forjado à Fogo--
+Habilidade (Característica) – Suporte
+Descrição: Você passou muito tempo
+nas forjas ou nasceu abençoado por Hou com
+uma resistência inata ao fogo e seus malefícios.
+Você possui Resistência ao Fogo e sua visão e
+respiração não são afetadas por fumaça.
+---
+--Nascido nas Montanhas--
+Habilidade – Suporte
+Descrição: Você nasceu ou passou grande parte da sua vida em ambientes montanhosos. Você recebe +2 em seus testes ligados a
+locais rochosos e montanhosos – como escalar
+rocha (nua ou trabalhada), percepção e sobrevivência em áreas montanhosas, identificar animais dessas regiões, avaliar formações rochosas e pedras brutas ou trabalhadas (incluindo
+construções de pedra e pedras preciosas) e para
+trabalhar em pedra – seja artesanato, alvenaria
+ou joalheria.
+---
+--Raça Subterrânea--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado aos
+ambientes subterrâneos e se sente confortável
+neles. Quando estiver dentro de cavernas ou
+em ambientes subterrâneos, você ganha +1 em
+todos os testes. Você também consegue enxergar na completa escuridão, mas nessas condições não consegue distinguir cores. 
+---
+
+**Elfos**
+
+---
+/*
+Atributos Iniciais:
+Força 2
+Agilidade 4
+Inteligência 3
+Vontade 3
+Classes comuns:
+Druida, Mago, Patrulheiro, Sacerdote e Xamã.
+Habilidade Automática:
+--Benção de Lathellanis--
+Habilidade (Característica) – Suporte
+Descrição: A proteção de Lathellanis
+é evidente em você, assim como uma pálida
+sombra da astúcia da divindade da natureza.
+Você é imune à todas as doenças de origem
+natural ou mágica, Dreno de Energia e efeitos que causem Envelhecimento (de qualquer
+tipo ou origem). Além disso, Você rola +1d6
+em todos os seus testes de Inteligência para
+perceber e rastrear alvos.
+*\
+---
+
+Habilidades Extras
+
+---
+--Arborícola--
+Habilidade (Característica) – Suporte
+Descrição: Você passou muitos anos explorando as copas das árvores, e se sente à vontade entre os galhos. Você é automaticamente
+bem-sucedido em testes para escalar árvores e
+seu Deslocamento não é reduzido quando estiver se movimentando pelas copas das árvores.
+Você também recebe um bônus de +2
+em todos os seus testes para se mover em silencio, se esconder e se movimentar enquanto
+estiver em cima de uma árvore.
+---
+--Dom da Magia--
+Habilidade (Característica) – Suporte
+Descrição: Você é capaz de canalizar
+magias muito mais facilmente. As dificuldades
+de todas as Magia são diminuídas em 1 para
+você. Você também tem +5 Pontos de Mana.
+---
+--Herança Feérica---
+Habilidade (Característica) – Suporte
+Descrição: Você possui algumas características comuns aos seus ancestrais feéricos.
+Você é imune a qualquer efeito mental e efeito
+de medo além de perceber automaticamente ilusões. Você também ganha +5 Pontos de Mana.
+---
+--Intelecto Élfico--
+Habilidade (Característica) – Suporte
+Descrição: Seu raciocínio é veloz e objetivo. Você tem Inteligência +1 e +5 Pontos
+de Mana.
+---
+--Invisibilidade Natural--
+Habilidade (Característica) – Ação
+Requisitos: Herança Feérica
+Mana: 10
+Descrição: Você possui uma das habilidades mais características das fadas. Você é capaz de
+se mesclar à vegetação à sua volta, ficando invisível por até uma hora. É preciso estar em uma área
+com vegetação densa – um bosque, um jardim de
+topiarias ou uma estufa, por exemplo – e o efeito
+é cancelado se você deixar a área de vegetação,
+sofrer algum dano, atacar ou lançar uma magia.
+---
+--Luzes das Fadas--
+Habilidade (Característica) – Ação
+Requisitos: Herança Feérica
+Mana: 15
+Descrição: Você possui uma habilidade
+comum às fadas. Você pode criar até três pequenos globos de luz que ficam dançando pelo ar.
+Você pode comandá-los, mas eles não podem se
+afastar mais que três metros do você. Eles duram
+uma hora, mas você pode dispersá-los quando
+desejar. Os globos produzem iluminação igual
+à de uma tocha, e você pode realizar um ataque à distância para atingir os olhos de um alvo
+com um dos globos de luz (que se extingue no
+processo), deixando-o Distraído por 1 turno (ver
+Condições, pág. 169).
+---
+--Raça Florestal--
+Habilidade (Característica) – Suporte
+Descrição: Você se sente confortável e
+renovado quando está sob a proteção da vegetação. Quando estiver dentro de uma floresta,
+bosque ou selva você recebe +2 em todos os
+seus testes.
+---
+
+**Faens**
+
+---
+/*
+Atributos Iniciais:
+Força 2
+Agilidade 4
+Inteligência 3
+Vontade 2
+Classes comuns:
+Patrulheiro, Ladino, Mago.
+Habilidade Automática:
+--Constituição Feérica--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma constituição leve e um par de asas que lhe permitem
+voar. Você pode voar em qualquer direção
+(com o dobro da sua movimentação normal) e
+pode parar no ar. No entanto, suas asas precisam bater continua e velozmente, e você não
+pode planar nem permanecer no ar por mais do
+que uma hora antes de ter que descansá-las por
+pelo menos meia hora.
+Enquanto está voando, o bater das
+suas asas produzem um zumbido característico e facilmente audível, e é impossível para
+você se mover em silêncio enquanto voa.
+Especial: O dano de qualquer manobra de Encontrão usada em voo é duplicado
+(mas o dano da arma que você usar no Encontrão não é alterado, nem quaisquer outros
+possíveis efeitos de Encontrão).
+*\
+---
+
+Habilidades Extras
+
+---
+--Dom da Magia--
+Habilidade (Característica) – Suporte
+Descrição: Você é capaz de canalizar
+magias muito mais facilmente. As dificuldades
+de todas as Magias são diminuídas em 1 para
+você. Você também tem +5 Pontos de Mana.
+---
+--Herança Feérica--
+Habilidade (Característica) – Suporte
+Descrição: Você possui algumas características comuns aos seus ancestrais feéricos.
+Você é imune a qualquer efeito mental e efeito
+de medo além de perceber automaticamente ilusões. Você também ganha +5 Pontos de Mana.
+---
+--Invisibilidade Natural--
+Habilidade (Característica) – Ação
+Requisitos: Herança Feérica
+Mana: 10
+Descrição: Você possui uma das habilidades mais características das fadas. Você é
+capaz de se mesclar à vegetação à sua volta,
+ficando invisível por até uma hora. É preciso
+estar em uma área com vegetação densa – um
+bosque, um jardim de topiarias ou uma estufa,
+por exemplo – e o efeito é cancelado se você
+deixar a área de vegetação, sofrer algum dano,
+atacar ou lançar uma magia.
+---
+--Isnuu--
+Habilidade (Característica) – Suporte
+Descrição: Você nasceu com uma grande afinidade com a magia. Sua pele e seus cabelos são de tons esverdeados, e você pode selecionar Habilidades da lista do Feiticeiro como
+se fossem da sua Classe – desde que preencha
+os requisitos. Além disso, as dificuldades de todas as Magia são diminuídas em 1 para você.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Luzes das Fadas--
+Habilidade (Característica) – Ação
+Requisitos: Herança Feérica
+Mana: 15
+Descrição: Você possui uma habilidade
+comuns às fadas. Você pode criar até três pequenos globos de luz que ficam dançando pelo
+ar. Você pode comandá-los, mas eles não podem se afastar mais que três metros do você.
+Eles duram uma hora, mas você pode dispersá-los quando desejar. Os globos produzem
+iluminação igual à de uma tocha, e você pode
+realizar um ataque à distância para atingir os
+olhos de um alvo com um dos globos de luz
+(que se extingue no processo), deixando-o Distraído por 1 turno.
+---
+--Presença Real--
+Habilidade (característica) – suporte
+Descrição: Você é capaz de uma comunicação rudimentar – dentro das capacidades
+do animal – com qualquer Besta do tipo Artrópode, e é capaz de dar comandos simples
+que serão obedecidos prontamente, dentro
+das capacidades da criatura.
+Você também é automaticamente bem
+sucedido em testes de Força para resistir
+quando for afetado por qualquer Habilidade
+do tipo Característica de todas as criaturas
+do tipo Artrópode. Além disso, todas as suas
+Habilidades que envolvam criaturas do tipo
+Besta (Companheiro Animal, Convocar animais, Forma Animal e guardião da Natureza)
+passam a incluir criaturas dos tipos Artrópode.
+---
+--Voador Exímio--
+Habilidade (característica) – Suporte
+Requisitos: Força 3
+Descrição: Você praticou voos de longa duração, tendo passado muito tempo no ar,
+adquirindo uma resistência e habilidade incomum de voo. Você pode voar continuamente
+por até seis horas antes de precisar parar para
+descansar suas asas, e recebe Defesa +1 enquanto estiver voando (este é um Bônus de
+Esquiva). 
+---
+
+**Faunos**
+
+---
+/*
+Atributos Iniciais:
+Força 3
+Agilidade 3
+Inteligência 3
+Vontade 3
+Classes comuns:
+Bardo, Druida, Patrulheiro,
+Xamã.
+Habilidade Automática:
+--Patas com Cascos--
+Habilidade (Característica) – Suporte
+Descrição: Você possui fortes patas
+munidas de cascos resistentes. Você pode rolar +1d6 quando fizer testes de correr, saltar
+ou desviar de obstáculos, e seu Deslocamento é aumentado em 1. Além disso, se fizer ataques desarmados com seus cascos, seu dano
+será Força +2/Contusão.
+*\
+---
+
+Habilidades Extras
+
+---
+--Cascos Ágeis--
+Habilidade (Característica) – Suporte
+Descrição: Você é mais ágil e veloz do
+que a maioria dos Faunos. Você tem Agilidade +1, Deslocamento +1 e a distância dos seus
+saltos é aumentada em 1 metro.
+---
+--Flauta de Pã--
+Habilidade (Técnica) – Suporte
+Descrição: Você ouviu, tocou e dançou
+várias músicas ao redor de fogueiras com seu
+povo – e talvez com aqueles que você encontrou em suas andanças – e adquiriu uma imensa
+prática em vários estilos de instrumentos de sopro. Sempre que estiver usando uma flauta ou
+outro instrumento de sopro, a você recebe +2
+em seus testes para executar músicas (incluindo
+as Habilidades do tipo Música).
+---
+--Marrada--
+Habilidade (Característica) – Suporte
+Descrição: Você pode desferir um poderoso golpe com seus chifres. Este é um ataque desarmado que causa dano igual à Força
++2/Contusão. Caso use esse ataque com uma
+ação de Encontrão, o alvo precisa vencer um
+teste de Força (Dificuldade igual à sua Determinação +2) ou será derrubado.
+---
+--Patas Fortes--
+Habilidade (Característica) – Suporte
+Descrição: Você possui pernas mais fortes
+do que a maioria dos membros da sua raça. Você
+pode rolar +1d6 quando fizer testes de corrida,
+salto, evitar quedas, etc. Além disso, o dano dos
+seus ataques com cascos é aumentado em +2.
+---
+--Pintura Corporal--
+Habilidade – Suporte
+Descrição: Pinturas corporais são comuns entre os Faunos, utilizadas em rituais ou
+simplesmente como forma de expressão artística. Você deposita muita fé nos significados
+tradicionais das pinturas, ao ponto de conseguir se beneficiar dessa convicção quando estiver usando uma pintura.
+Sempre que estiver usando uma pintura corporal e que ela esteja completamente à
+mostra, você recebe um dos benefícios listados. Apenas uma pintura corporal pode ser
+usada por vez.
+Uma pintura corporal dura até você tomar banho – intencionalmente ou não! - ou
+dormir.
+Pintura de Caça: Realizada ao redor
+dos olhos e nas mãos. Você recebe +1 em
+seus testes ligados à visão e ataques à distância. Além disso, seus ataques à distância causam +1 de dano.
+Pintura de Guerra: Realizada nos
+braços, mãos e peito. Seus ataques corporais
+causam +2 de dano e você recebe Defesa +1
+(Este é um bônus de esquiva).
+Pintura de Oração: Realizada ao redor
+da boca e pescoço. Você recebe +2 em todos
+os seus testes ligados à sua voz e instrumentos
+musicais de sopro, incluindo interações sociais
+(como convencer ou mentir) e cantar ou usar
+instrumentos musicais de sopro (incluindo
+Habilidades do tipo Música).
+Pintura Ritual: Realizada no peito e no
+rosto. Você recebe +1 em todos os seus testes ligados à liguagem corporal (como dançar,
+seduzir ou detectar mentiras) e Habilidades do
+tipo Magia.
+Especial: A tintura necessária para a
+pintura é feita com materiais simples, facilmente encontrados na natureza (como folhas
+ou frutas trituradas, carvão e argila) e geralmente não tem custo, mas o Mestre pode exigir que o personagem gaste meia hora em busca dos materiais necessários e no preparo da
+tintura. O processo de aplicar a pintura demora cerca de 10 minutos, e exige sucesso num
+teste de Inteligência (Dificuldade 8) que pode
+ser realizado por você mesmo ou por alguém
+em quem você confia.
+---
+--Raça Florestal--
+Habilidade (Característica) – Suporte
+Descrição: Você se sente confortável e
+renovado quando está sob a proteção da vegetação. Quando estiver dentro de uma floresta,
+bosque ou selva você recebe +2 em todos os
+seus testes.
+---
+--Sentidos de Caçador--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma audição
+aguçada e uma visão treinada. Você rola +1d6
+em todos os seus testes de Inteligência para
+perceber e rastrear alvos.
+---
+
+**Firas**
+
+---
+/*
+Atributos Iniciais:
+Força 3
+Agilidade 3
+Inteligência 3
+Vontade 3
+Classes comuns:
+Espadachim, Feiticeiro, Paladino,
+Rúnico e Sacerdote.
+Habilidade Automática:
+--Habitante do Deserto--
+Habilidade (Característica) – Suporte
+Descrição: Você descende de um povo
+que enfrentou os rigores do deserto sem esmorecer. Você é Resistente a Fogo e pode passar até 5 dias sem precisar ingerir água. Além
+disso, você não é afetado por climas particularmente quentes ou áridos.
+*\
+---
+
+Habilidades Extras
+
+---
+--Chamas Internas 1--
+Habilidade (Característica) – Ação
+Mana: 10
+Descrição: A vontade de Hou incendeia
+seu coração e fortalece seu espírito. Você produz um enorme calor no interior do seu corpo
+que queima instantaneamente qualquer tipo de
+substância estranha (como venenos, álcool e infecções), removendo imediatamente efeitos de
+Enregelamento e cauteriza feridas abertas, cessando imediatamente efeitos de sangramento.
+---
+--Chamas Internas 2--
+Habilidade (Característica) – Ação
+Requisito: Chamas Internas 1
+Mana: 20
+Descrição: O Vigor de Hou incendeia
+seu espírito e encandece seu corpo. Você é
+capaz de produzir tanto calor em seu interior que se torna incandescente durante 1
+minuto, ficando Imune à Fogo (ou, se você
+já possui Imunidade à Fogo, você passa a absorver fogo, recuperando uma quantidade de
+Pontos de Vida iguais à qualquer quantidade
+de dano por fogo que sofreria). Além disso,
+qualquer um que toca-lo (ou que seja atingido por seus ataques desarmados) sofre dano
+igual à 6/Fogo.
+---
+--Cavaleiro Experiente--
+Habilidade (Técnica) – Suporte
+Descrição: Você passou muito tempo
+com animais de montaria e conhece seus hábitos, características e como lidar com eles. Você
+recebe +2 em todas as suas rolagens referentes à
+criaturas com as Habilidades Montaria e Paquiderme e recebe +2 em seus testes de ataque enquanto estiver montando uma dessas criaturas.
+---
+--Fulgurante--
+Habilidade (Característica) – Ação
+Descrição: Seus olhos são um reflexo
+do brilho de Hou que queima dentro de você.
+Você é capaz de enxergar normalmente no escuro, e não é afetado por efeitos que restrinjam
+a visão – como fumaça, poeira, areia, chuva,
+magias que causem cegueira, etc. No entanto,
+seus olhos sempre emitem um brilho considerável, e isso torna sua presença extremamente
+fácil de notar, principalmente no escuro. Você
+sempre realiza seus testes para se esconder
+como se fosse Inapto.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Mente Iluminada--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma clareza
+única de raciocínio. Você tem Vontade +1 e
++5 Pontos de Mana.
+---
+--Sopro de Fogo--
+Habilidade (Característica) – Ação
+Requisitos: Chamas Internas 1, Vontade 5
+Mana: 30
+Descrição: Você é capaz de externar o
+calor do seu corpo na forma de potentes labaredas. Todos que estiverem numa área até
+3 metros a sua frente sofrem dano igual à 20/
+fogo.
+---
+--Vigor do Deserto--
+Habilidade (Característica) – Suporte
+Descrição: Você não só se adaptou
+como se fortaleceu no calor escaldante do deserto. Você é Imune ao Fogo e não precisa beber líquidos para se hidratar – você retira umidade suficiente dos alimentos e nunca precisa
+ingerir água.
+---
+
+**Humanos**
+
+---
+/*
+Atributos Iniciais:
+Força 3
+Agilidade 3
+Inteligência 3
+Vontade 3
+Classes Comuns:
+Bardo, Espadachim, Feiticeiro,
+Guerreiro, Ladino, Mago, Sacerdote e
+Rúnico.
+Habilidade Automática:
+--Adaptabilidade--
+Habilidade (Característica) – Suporte
+Descrição: Você se adaptou ao ambiente em que cresceu ou à atividade que escolheu – ou precisou – desempenhar. Você
+tem +1 em qualquer um dos seus Atributos
+a sua escolha.
+*\
+---
+
+Habilidades Extras
+
+---
+--Assuntos Diversos--
+Habilidade (Característica) – Ação
+Mana: 30
+Descrição: Você estudou e praticou um
+pouco de tudo ao longo da sua vida. Você pode
+rolar +1d6 em um teste qualquer à sua escolha.
+---
+--Audácia--
+Habilidade (Característica) – Suporte
+Descrição: Você enfrenta ameaças e
+situações de perigo com entusiasmo. Sempre que estiver frente à uma situação de risco
+eminente – saltar entre duas bordas de um
+precipício, equilibrar-se em uma corda sobre um rio de lava, entrar em um combate
+ou qualquer situação em que você possa potencialmente perder a vida (ou pelo se ferir
+seriamente), você recupera imediatamente 10
+Pontos de Vida ou 10 Pontos de Mana, à sua
+escolha.
+Essa Habilidade só pode ser usada uma
+vez para cada situação de risco, e apenas quando o risco se apresentar – não depois da sua
+primeira ação em um combate ou depois de
+cair, por exemplo.
+---
+--Barganha--
+Habilidade (Característica) – Suporte
+Descrição: Você é um praticante das
+artes da negociação, oratória, retórica e sofisma. Você pode rolar +1d6 em todos os seus
+testes que envolvam comércio e outras negociações.
+---
+--Diversidade--
+Habilidade (Característica) – Suporte
+Descrição: Você focou seus esforços e
+interesse em uma ampla gama de atividades.
+Escolha um Atributo diferente do que escolheu
+para Adaptabilidade. Você tem +1 nesse Atributo.
+---
+--O Dobro ou Nada--
+Habilidade (Característica) – Reação
+Requisitos: Sorte
+Mana: 20
+Descrição: Você está acostumado à dar
+chance para sua sorte – às vezes, além do que
+seria considerado saudável. Quando falhar em
+um teste, você pode fazer o teste novamente,
+ignorando completamente o primeiro resultado. No caso de sucesso, além de passar no
+teste, qualquer efeito numérico proveniente do
+sucesso (dano causado por um ataque, duração
+de uma magia, PVs curados com uso de primeiros socorros, etc.) é dobrado. Mas se o teste
+for uma falha, ela deve ser considerada como
+uma falha crítica, com todos os seus possíveis
+efeitos numéricos dobrados. No caso de uma
+falha crítica nesse teste, o Mestre deve considerar que o fracasso foi uma falha crítica particularmente desastrosa – com efeitos limitados
+apenas pela sua imaginação sádica.
+Você só pode usar essa Habilidade uma
+vez por turno.
+---
+--Gregário--
+Habilidade (Característica) – Suporte
+Descrição: Você consegue compreender muito rapidamente as estruturas sociais de
+uma cultura e seus indivíduos e é capaz de fazer amigos em qualquer lugar. Depois de cinco
+minutos de conversa, a pessoa com quem você
+esteja interagindo – e que não seja obviamente
+hostil a você, como um captor ou um inimigo jurado – torna-se propensa a ajudá-lo. Essa
+Habilidade geralmente serve para colher informações gerais (apesar de segredos não serem
+possíveis de conseguir) ou pequenos favores –
+como ser apresentado a alguém ou conseguir
+uma cerveja de graça. Você também recebe +2
+em testes de seduzir, mentir, detectar mentiras
+ou qualquer outra interação social.
+---
+--Sorte--
+Habilidade (Característica) – Reação
+Mana: 10
+Descrição: Você está acostumado a contar com a sorte – e ela costuma lhe sorrir. Você
+pode rolar novamente um dado cujo resultado
+seja 1. Você só pode usar essa Habilidade uma
+vez por turno.
+---
+
+**Jubans**
+
+---
+/*
+Atributos Iniciais:
+Força 4
+Agilidade 2
+Inteligência 3
+Vontade 4
+Classes comuns:
+Paladino, Sacerdote e Guerreiro.
+Habilidade Automática:
+--Corpo Pesado--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma musculatura poderosa – e pesada. Você rola +1d6 em
+testes de para não ser derrubado e para realizar encontrões, mas é considerado Inapto em
+testes de natação, escalada e salto. Além disso,
+você precisa de uma ação de rodada completa
+para se levantar ao invés de uma ação de movimento, mas sua Carga é calculada como se
+você tivesse Força +2.
+*\
+---
+
+Habilidades Extras
+
+---
+--Fortaleza--
+Habilidade (Característica) – Suporte
+Descrição: Você é particularmente robusto e estoico. Você tem Resistência à Contusão e tem +5 Pontos de Vida.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Garras--
+Habilidade (Característica) – Suporte
+Descrição: Você treinou o uso de suas
+garras como ferramentas e armas. Você pode
+realizar ataques desarmados com suas garras,
+causando dano igual à Força+2/Perfuração.
+Suas garras também podem ser utilizadas para
+cortar cordas, panos e outros materiais com
+pouca dureza, e você recebe um bônus de +2
+em seus testes de escalar, agarrar e segurar.
+---
+--Imparável--
+Habilidade (Característica) – Reação
+Requisitos: Fortaleza, Vontade 5
+Mana: 20
+Descrição: Derrubar você permanentemente é uma tarefa bem difícil! Uma vez por
+combate, quando seus Pontos de Vida chegarem à zero, você ignora totalmente o dano que
+o derrubaria.
+---
+--Mordida Poderosa--
+Habilidade (Característica) – Ação
+Descrição: Você pode usar seus dentes
+para fazer um ataque desarmado. O dano da
+sua mordida é igual a Força +4/Corte.
+---
+--Robustez--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma constituição vigorosa para os padrões da sua raça. Você
+tem +5 Pontos de vida e rola +1d6 em testes de
+Força para resistir a fadiga, venenos e doenças.
+---
+--Rugido de Ahogr--
+Habilidade (Característica) – Ação
+Mana: 20
+Descrição: Você aprendeu a canalizar a
+fúria de Ahogr em um poderoso rugido. Todos
+os oponentes que estiverem a até 10 metros à
+sua frente devem fazer um teste de Vontade
+(Dificuldade igual à sua Determinação). Aqueles que falharem no teste ficam Amedrontados
+e Atordoados por 1 turno (ver Condições, pág.
+169).
+Um oponente só é afetado por esta habilidade uma vez por combate.
+Este é um efeito de Medo.
+---
+--Sentidos de Caçador--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma audição
+aguçada e uma visão treinada. Você rola +1d6
+em todos os seus testes de Inteligência envolvendo percepção.
+---
+
+**Levent**
+
+---
+/*
+Atributos Iniciais:
+Força 2
+Agilidade 3
+Inteligência 3
+Vontade 3
+Classes comuns:
+Druida, Espadachim, Sacerdote,
+Xamã.
+Habilidade Automática:
+--Asas Ancestrais--
+Habilidade (Característica) – Suporte
+Descrição: Você é imune a efeitos
+de envelhecimento e possui grandes asas e
+pode voar, precisando de um espaço igual
+à sua envergadura para pegar impulso antes
+de alçar voo (sua envergadura é duas vezes
+a sua altura). Quando estiver voando, você
+não pode parar no ar (mas pode planar) e seu
+deslocamento em voo é o dobro de seu deslocamento normal.
+Especial: O dano de qualquer manobra de Encontrão usada em voo é duplicado
+(mas o dano da arma que você usar no Encontrão não é alterado, nem quaisquer outros
+possíveis efeitos do Encontrão).
+*\
+---
+
+Habilidades Extras
+
+---
+--Asas Fortes--
+Habilidade (Característica) – Suporte
+Requisitos: Força 4
+Descrição: Você desenvolveu suas capacidades musculares de forma que ultrapassa
+os limites naturais dos outros Levent durante o
+voo. Você é capaz de parar no ar e não precisa
+pegar impulso para decolar, desde que tenha espaço suficiente para abrir as asas.
+Além disso, em manobras de Encontrão
+quando estiver voando, você recebe um bônus
+igual à sua Força para qualquer efeito relevante,
+incluindo danos e tentativas de derrubar oponentes, por exemplo.
+---
+--Contato com Espíritos--
+Habilidade (Característica) – Ação
+Mana: 5
+Descrição: Você pode se comunicar
+com os espíritos que estejam próximos. Você
+é capaz de ouvir e ver qualquer espírito num
+raio de 20 metros. Esse efeito dura 10 minutos.
+Você pode gastar 10 Pontos de Mana enquanto
+estiver sob o efeito dessa Habilidade para ser
+capaz de tocar espíritos por 1 minuto.
+---
+--Comunhão com Espíritos--
+Habilidade (Técnica) – Suporte
+Requisito: Contato com Espíritos
+Mana: 10
+Descrição: Enquanto estiver utilizando
+Contato com Espíritos, você pode tocar outro personagem que será capaz de ouvir e ver
+qualquer espírito num raio de 20 metros por 10
+minutos. Um personagem sob esse efeito pode
+gastar 10 Pontos de Mana para ser capaz de tocar espíritos por 1 minuto.
+---
+--Dançarino do Ar--
+Habilidade (Técnica) – Suporte
+Requisitos: Agilidade 5.
+Descrição: Você praticou voo com um
+entusiasmo incomum e aperfeiçoou enormemente suas perícias aéreas. Enquanto estiver
+voando, você recebe um bônus de +2 em testes de acrobacia, tentativas de realizar um encontrão, testes de movimento e qualquer outra
+manobra aérea. Este bônus também estende-se
+a sua Defesa (este é considerado um bônus de
+Esquiva).
+---
+--Mente Iluminada--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma clareza
+única de raciocínio. Você tem Vontade +1 e
++5 Pontos de Mana.
+---
+--Movimento Brusco--
+Habilidade (Característica) – Reação
+Requisitos: Dançarino do Ar
+Descrição: Você realiza um movimento
+veloz e potente com as suas asas para se deslocar rapidamente e escapar de um golpe iminente. Quando estiver voando e for atingido
+por um ataque, você pode anunciar que está
+realizando um movimento brusco, e perder a
+quantidade de dano que sofreria em Pontos de
+Mana ao invés de Pontos de Vida. Se estiver
+no chão, você só pode utilizar esta Habilidade
+contra ataques à distância.
+Você só pode usar esta Habilidade uma
+vez por rodada. Se um ataque causar mais dano
+do que você tem Pontos de Mana quando utilizar esta Habilidade, o dano excedente causará a
+perda normal de Pontos de Vida.
+---
+--Olhos de águia--
+Habilidade (Característica) – Suporte
+Descrição: Você possui olhos naturalmente potentes, com capacidades de percepção
+únicas. Você pode rolar +1d6 quando fizer testes que envolvam a visão, e consegue distinguir
+detalhes à uma distância em quilômetros igual
+à sua Inteligência. Você também consegue ver
+pobremente na escuridão, sendo capaz de distinguir vultos e formas, mas não detalhes específicos (como cores, inscrições ou fisionomias).
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+
+**Mahoks**
+
+---
+/*
+Atributos Iniciais:
+Força 5
+Agilidade 2
+Inteligência 2
+Vontade 3
+Classes comuns:
+Druida, Guerreiro e Rúnico.
+Habilidade Automática:
+--Pele de Pedra--
+Habilidade (Característica) – Suporte
+Descrição: Sua pele é composta por
+uma grossa camada de rocha que o tornam
+extremamente resistente e pesado. Você recebe +1d6 em todos os seus testes para evitar
+ser derrubado, resistir à doenças e venenos,
+empurrar ou segurar peso, mas é considerado
+Inapto em testes de escalar, saltar, correr ou
+se mover com agilidade. Você precisa de um
+turno inteiro para se levantar, ao invés de uma
+ação de movimento e para você é impossível
+nadar. Você não possui o sentido do tato, mas
+não sente desconforto por ambientes com
+condições climáticas hostis. Seus ataques desarmados causam dano igual a Força +2/Contusão e você tem Defesa +4 (Esse bônus de
+Defesa conta como Armadura). Além disso,
+sua pele tem as características de uma armadura Pesada, mas a conformação única da sua
+pele o impede de usar armaduras, e qualquer
+roupa precisa ser feita sob medida para você,
+custando duas vezes mais que o normal. 
+*\
+---
+
+Habilidades Extras
+
+---
+--Abraço de Pedra--
+Habilidade (Técnica) – Suporte
+Descrição: Você possui mãos fortes,
+acostumadas a agarrar e segurar com eficiência. Você recebe +2 em seus testes de agarrar,
+apertar, escalar e para resistir à tentativas de desarmá-lo. Além disso, quando apertar um alvo
+(veja Ações e Testes, na página 24) você causa
+2 pontos de dano adicionais.
+Esses bônus se acumulam com o bônus
+de Braços Extras.
+---
+--Braços Extras--
+Habilidade (Característica) – Suporte
+Descrição: Você possui um par de braços a mais. Estes braços podem ser utilizados
+para segurar itens - incluindo escudos e armas,
+permitindo que você utilize duas armas com a
+característica Duas Mãos ao mesmo tempo - e
+auxiliam em tentativas de segurar e agarrar com
+firmeza, oferecendo um bônus de +1 em seus
+testes de agarrar, apertar e escalar. Além disso,
+quando apertar um alvo você causa 2 pontos de
+dano adicionais. Esses bônus se acumulam com
+os bônus de Abraço de Pedra.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Estabilidade--
+Habilidade (Característica) – Suporte
+Descrição: Você gosta de ter os dois
+pés solidamente plantados no chão – e faz isso
+muito bem! Você sempre rola +1d6 em todos
+os seus testes de evitar quedas e manter o equilíbrio.
+---
+--Gregário--
+Habilidade (Característica) – Suporte
+Descrição: Você consegue compreender muito rapidamente as estruturas sociais de
+uma cultura e seus indivíduos e é capaz de fazer amigos em qualquer lugar. Depois de cinco
+minutos de conversa, a pessoa com quem você
+esteja interagindo – e que não seja obviamente
+hostil a você, como um captor ou um inimigo jurado – torna-se propensa a ajudá-lo. Essa
+Habilidade geralmente serve para colher informações gerais (apesar de segredos não serem
+possíveis de conseguir) ou pequenos favores –
+como ser apresentado a alguém ou conseguir
+uma cerveja de graça. Você também recebe +2
+em testes de seduzir, mentir, detectar mentiras
+ou qualquer outra interação social.
+---
+--Nascido nas Montanhas--
+Habilidade – Suporte
+Descrição: Você nasceu ou passou grande parte da sua vida em ambientes montanhosos.
+Você recebe +2 em seus testes ligados à locais
+rochosos e montanhosos – como escalar rocha
+(nua ou trabalhada), percepção e sobrevivência
+em áreas montanhosas, identificar animais dessas regiões, avaliar formações rochosas e pedras
+brutas ou trabalhadas (incluindo construções de
+pedra e pedras preciosas) e para trabalhar em pedra – seja artesanato, alvenaria ou joalheria.
+---
+--Pele Rochosa--
+Habilidade (Característica) – Suporte
+Descrição: Sua pele é mais espessa do
+que a da maioria dos outros Mahoks, seja esta
+uma característica inata sua ou por você estar
+apresentando os primeiros sinais de envelhecimento. Você é Resistente à Corte e tem +5
+Pontos de Vida. Além disso, sua pele adquire
+também as características de uma armadura Rígida (além da característica Pesada).
+---
+--Raça Subterrânea--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado aos
+ambientes subterrâneos e se sente confortável
+neles. Quando estiver dentro de cavernas ou
+em ambientes subterrâneos, você ganha +1 em
+todos os testes. Você também consegue enxergar na completa escuridão, mas nessas condições não consegue distinguir cores.
+---
+
+**Tailox**
+
+---
+/*
+Atributos Iniciais:
+Força 2
+Agilidade 4
+Inteligência 3
+Vontade 3
+Classes comuns:
+Bardo, Druida, Espadachim, Patrulheiro e Xamã.
+Habilidade Automática:
+--Pernas Vulpinas--
+Habilidade (Característica) – Suporte
+Descrição: Suas pernas são flexíveis e
+próprias para saltar, terminando em pés pequenos dotados de solas acolchoadas que permitem que você ande quase sem fazer sons.
+Você rola +1d6 quando fizer testes para saltar, correr e se mover em silêncio. Além disso,
+você tem Deslocamento +1 e a distância dos
+seus saltos é aumentada em 1 metro.
+*\
+---
+
+Habilidades Extras
+
+---
+--Astuto--
+Habilidade (Característica) – Suporte
+Descrição: Você é mais astuto que a
+maioria dos indivíduos da sua raça. Você tem
+Inteligência +1 e recebe +2 em todos os testes de Inteligência e Agilidade que envolvam
+percepção, mover-se em silêncio, camuflagem,
+furtar bolsos, e teste semelhantes.
+---
+--Audácia--
+Habilidade (Característica) – Suporte
+Descrição: Você enfrenta ameaças e
+situações de perigo com entusiasmo. Sempre que estiver frente a uma situação de risco
+eminente – saltar entre duas bordas de um
+precipício, equilibrar-se em uma corda sobre um rio de lava, entrar em um combate
+ou qualquer situação em que você possa potencialmente perder a vida (ou pelo se ferir
+seriamente), você recupera imediatamente 10
+Pontos de Vida ou 10 Pontos de Mana, à sua
+escolha.
+Essa Habilidade só pode ser usada uma
+vez para cada situação de risco, e apenas quando o risco se apresentar – não depois da sua
+primeira ação em um combate ou depois de
+cair, por exemplo.
+---
+--Contos da Estrada--
+Habilidade – Suporte
+Descrição: Através de várias histórias
+e canções contadas ao redor de fogueiras com
+viajantes que você encontrou em suas andanças, você acumulou um vasto conhecimento
+oral sobre inúmeros assuntos. Você rola +1d6
+quando fizer testes de Inteligência referentes
+a qualquer tipo de conhecimento, não importando o quão inacessível seja este conhecimento.
+---
+--Faro--
+Habilidade (Característica) – Suporte
+Descrição: Você possui um faro extremamente aguçado. Você rola +1d6 quando puder fazer testes que envolvam o faro, e pode
+perceber, detectar, rastrear e identificar pessoas
+e locais através dele. O Mestre pode realizar
+testes para ver se você consegue farejar mesmo
+quando você não estiver ativamente procurando odores específicos.
+---
+--Forma da Raposa--
+Habilidade (Característica) – Ação
+Requisito: Raça Florestal, Vontade 5
+Mana: 10
+Descrição: Você atingiu um estágio tão
+profundo de compreensão do Mtii’Ruah que se
+tornou capaz de assumir uma forma mais próxima da essência de Ellenis.
+Quando assume a forma de raposa, todos os itens que você estiver carregando são
+absorvidos pela nova forma (eles não oferecem
+nenhum bônus), mas estarão com você quando
+voltar à sua forma normal. apesar de continuar
+entendendo qualquer linguagem que conheça,
+você consegue se comunicar apenas com raposas e você não pode lançar magias, ativar itens
+mágicos, usar armas ou qualquer item que requeira as mãos. Na forma de raposa você recebe +2 em todos os testes que envolvam percepção, se esconder, mover-se em silêncio e saltar
+e seu Deslocamento é aumentado em 1. Esses
+bônus se acumulam com os bônus de Pernas
+Vulpinas. Além disso seu bônus automático de
+Defesa é 7 ao invés de 5 e você pode usar suas
+presas para desferir ataques de mordida que
+causam dano igual à Força +2/Corte.
+---
+--Raça Florestal--
+Habilidade (Característica) – Suporte
+Descrição: Você se sente confortável e
+renovado quando está sob a proteção da vegetação. Quando estiver dentro de uma floresta,
+bosque ou selva você recebe +2 em todos os
+seus testes.
+---
+--Visão Auditiva--
+Habilidade (Característica) – Suporte
+Descrição: Seus ouvidos são tão treinados e sensíveis que você não precisa usar seus
+olhos para se localizar. Você consegue perceber
+o tamanho e a localização aproximada dos objetos ao seu redor usando apenas a audição, e
+só é considerado cego se, além da sua visão, sua
+audição também for anulada de alguma forma.
+Quando estiver se guiando apenas pela audição
+você não é capaz de distinguir detalhes específicos (como cores, inscrições ou fisionomias).
+Você também pode rolar +1d6 quando fizer
+testes que envolvam a audição.
+---

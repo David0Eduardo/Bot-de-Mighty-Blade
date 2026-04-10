@@ -1,0 +1,507 @@
+Capítulo 3: Itens
+Neste capítulo serão apresentadas novas regras para itens de conjuração,
+criação de itens e encantamentos, além de uma lista com novos itens, que levam
+em consideração as regras desta seção.
+As regras de Complexidade Mágica e de Gemas de Conjuração são opcionais, e os Mestres e jogadores que queiram utilizá-las devem conversar com seus
+grupos para incluí-las em suas campanhas. Estas regras são independentes uma
+da outra, e um grupo pode utilizar apenas uma ou ambas simultaneamente.
+Perceba no entanto que que a maioria dos novos itens apresentados aqui
+(com exceção do Grimório das Pequenas Magias) utiliza a regra de Gemas de
+Conjuração, e portanto não devem ser incluídos se esta regra não estiver em
+vigor na campanha. 
+
+---
+**Registro e Complexidade Mágica**
+Itens com a Característica Registro podem conter magias inscritas neles.
+No Guia Básico não há limitações para o
+número de magias que podem ser registradas em um item. As regras a seguir
+adicionam novas mecânicas para definir
+quantas e quais magias podem ser escritas em um item com registro na forma
+de graus de complexidade mágica – e
+também o tempo necessário para Registrar uma Magia em um item adequado.
+Magias Básicas tem grau de complexidade 1. Magias Avançadas tem
+complexidade 2. Magias Finais tem complexidade 5. Magias de Caminhos tem 1
+grau de complexidade extra (então Magias básicas de Caminhos tem Complexidade 2, Magias Avançadas de Caminhos
+têm complexidade 3 e Magias Finais de
+Caminhos tem Complexidade 6).
+Cajados podem conter 5 graus de
+complexidade mágica. Cetros podem
+conter 3 graus e Grimórios e Missais
+podem conter 20 graus de complexidade mágica. Cajados e Cetros de qualidade alta podem conter 1 Grau de Complexidade de magia extra e se forem de
+qualidade obra-prima podem conter 2
+Graus de Complexidade extra. Grimórios e Missais sempre são considerados
+como livros de qualidade alta, e portanto não recebem benefícios por este nível
+de qualidade. No entanto, grimórios e
+missais de qualidade obra-prima podem conter 30 níveis de complexidade
+mágica. Uma folha de pergaminho ou
+velino pode registrar apenas 1 Grau de
+Complexidade mágica.
+Registrar uma Magia em um item
+com a característica Registro demora 1
+hora por grau de complexidade da mesma. No final desse período, o conjurador precisa fazer um teste de Inteligência (dificuldade igual à dificuldade da
+magia; se a magia tiver uma dificuldade variável, utilize a dificuldade mais
+baixa possível) – Itens que diminuam
+a dificuldade da conjuração de Magias
+não afetam a dificuldade de registrá-la,
+mas Habilidades do conjurador que diminuam a dificuldade das magias ou
+ofereçam bônus para conjuração afetam o teste de registro (embora a magia
+registrada vá manter sua Dificuldade
+normal). Se passar no teste, a Magia é
+registrada no item com sucesso. Se não
+passar no teste, a magia não é registrada e o espaço no qual estava tentando
+registrá-la estará arruinado – ou seja,
+uma quantidade de Graus de Complexidade (GC) mágica do item é gasto,
+mas nenhuma magia efetivamente está
+registrada ali.
+Escrita Cuidadosa: É possível diminuir a dificuldade de registro de uma
+magia através de uma escrita cuidadosa. Nesse caso, para cada meia hora a
+mais para registrar a Magia, a dificuldade do registro diminui em 2, cumulativamente, até uma dificuldade de
+registro mínima de 8 (isso não afeta a
+dificuldade de lançar a Magia a partir
+do item, apenas a dificuldade para registrá-la).
+/*
+**Escribas e Registro**
+A Habilidade Automática do
+Caminho Escriba, Escrivão (Tomo
+das Muitas Línguas, página 42), diminui o tempo para estudar magias
+em um item com Registro e também
+para escrever essas magias à metade (ou seja, meia hora para registrar
+cada grau de complexidade mágica,
+e um quarto de hora para reduzir a
+dificuldade em 2 se estiver utilizando Escrita Cuidadosa).
+Utilizar a Habilidade Pergaminho Mágico segue as mesmas regras
+de um registro descritas acima exceto no que diz respeito à Complexidade da Magia: cada pergaminho
+pode conter 1 única magia, independente de sua complexidade.
+Um Pergaminho Mágico geralmente custa o dobro do custo
+para registrar a magia contida nele
+– de acordo com as regras do Guia
+do Herói, página 70 “Comprando
+Magias”.
+*\
+/*
+**Tatuar Magia e Registro**
+A Habilidade dos Tohunga
+Tatuar Magia (Guia do Herói, Página 45) permite que eles registrem
+magias na sua pele. Em termos de
+regra, um personagem de tamanho
+médio é capaz de tatuar até 13 GC
+de magia em si próprio – ou apenas 10 se for de tamanho pequeno
+ou até 15 se for de tamanho Grande
+ou tiver Gigantismo – de forma que
+ainda possa ler essas magias.
+Em teoria, um personagem
+ainda pode ter o dobro dessa quantidade de graus de complexidade de
+magias tatuadas em seu corpo – por
+outro Tohunga – mas apenas outros
+conjuradores poderão lê-las.
+Cada Tatuagem que o Tohunga for tatuar em si mesmo ocupa o
+equivalente à 1 GC de magias – assim, um Astério que tenha tatuado
+em si mesmo Primeira Marca e Tribal de Poder só poderia tatuar 11
+GC de magia em seu corpo. 
+*\
+**Criando Itens de Registro**
+Para criar itens com a característica Registro, o artesão precisa simplesmente criar um item do tipo adequado
+(no caso de bordões e clavas) de qualidade mediana (com um resultado mínimo 10 no teste) ou, no caso de grimórios
+ou missais, conseguir um resultado 16
+ou maior para criar um item de qualidade alta, ao menos – de acordo com as
+regras de qualidade dos itens, no Guia
+do Herói, pág. 52. Grimórios e missais
+de qualidade normal são considerados
+cadernos comuns (veja a lista de itens
+novos, adiante), cujas falhas não permitem que se registrem magias. Bordões e
+clavas de qualidade alta podem conter
+mais níveis de complexidade de magias, mas apenas aqueles de qualidade
+baixa são tão defeituosos que não podem ser usados para registrar magias.
+Todos os itens de registro de qualidade obra-prima podem conter mais
+GC de magia – Para mais detalhes sobre
+os benefícios exatos, verifique Registro e
+Complexidade Mágica, acima.
+---
+**Regra Alternativa: Gemas de Conjuração**
+As regras a seguir, referentes à Gemas de Conjuração, foram criadas para
+substituir as regras normais de Itens de
+conjuração encontradas no Guia Básico e
+ambas NÃO SÃO compatíveis – apenas
+uma delas deve ser usada em uma campanha, nunca ambas. Essas regras tornam os
+itens de conjuração muito mais flexíveis (e
+poderosos, de certa forma), mas aumenta
+consideravelmente seu preço.
+No Guia Básico, os itens de conjuração possuem características distintas que
+afetam as magias conjuradas com a ajuda
+deles dependendo do formato do item.
+Essas características são mais ou menos
+arbitrárias, e podem causar confusão – afinal, porque uma adaga é um item de conjuração e uma espada curta, que é basicamente feita dos mesmos materiais, com as
+mesmas técnicas, e pode ter um tamanho
+muito semelhante, não é?
+As regras a seguir têm por intuito resolver essa questão da arbitrariedade dos
+itens de conjuração, delegando propriedades de conjuração à materiais especiais.
+Importante: Se o grupo optar por
+utilizar a regra de Gemas de Conjuração, o
+que confere características especiais a um
+item não é seu formato, mas sim o material do qual é composto. Assim, um artesão pode criar um item e adicionar uma
+gema específica em sua composição para
+lhe garantir características de conjuração.
+Características das Gemas
+Para que uma gema de conjuração
+transfira propriedades para um item,
+ela precisa ter pelo menos 200 gramas
+de peso (já lapidada) – o tamanho de
+um limão ou uma vela – mas exceder
+esse tamanho não confere qualquer
+propriedade extra ao item, e a maioria
+dos artesãos terá gemas de conjuração
+cortadas no tamanho adequado para
+serem usadas.
+Além disso, pelo menos metade da
+sua superfície precisa ser lapidada e se
+manter visível se for engastada em um
+item. Pedaços de pedra bruta, mesmo
+que sejam do material e tamanho adequados, não conferem características de
+conjuração, e se a gema estiver incrustada dentro do item ou se for coberta, o
+item não terá capacidades de conjuração
+além de Canalizador – ou seja, ele ainda
+pode ser usado para conjurar magias,
+mas não confere qualquer benefício à
+conjuração. O formato da lapidação não
+é relevante. Pode ser uma lapidação lisa,
+oval ou totalmente assimétrica. Uma
+gema lapidada dessa forma, sem estar
+engastada em um item, possui a Característica Canalizador e a característica
+específica de seu tipo – efetivamente
+sendo considerada uma orbe ou varinha, dependendo de seu formato.
+Apenas um tipo de gema de conjuração pode estar presente em um
+item para que suas características sejam
+transferidas. Se um item possuir dois
+ou mais tipos de gemas de tipos diferentes em sua composição, o item não
+terá capacidades de conjuração além
+de Canalizador – e várias gemas iguais
+num mesmo item não concedem qualquer benefício extra.
+Finalmente, embora gemas de
+conjuração possam ser inseridas em
+qualquer objeto, é importante observar
+que simplesmente portar o objeto não
+confere qualquer vantagem à conjuração; é necessário desenhar o Selo Místico ou Runa Arcana com o objeto que
+contenha a gema de conjuração. Assim,
+embora possam ser engastados em instrumentos musicais, escudos ou elmos,
+por exemplo, gemas de conjuração
+nesses itens dificilmente poderão ser
+usados com eficiência para desenhar
+Runas ou Selos – e por isso armas são
+os itens mais comuns de serem engastados com gemas de conjuração. Alguns
+instrumentos musicais (ou suas partes),
+como flautas, baquetas e arcos de violino, podem ser eficientes como itens de
+conjuração (ao contrário de hurdi-gurdis, alaúdes e tambores, por exemplo),
+e alguns deles podem ser encontrados
+com gemas engastadas. Bengalas, cetros e leques com gemas de conjuração
+são bastante comuns entre os nobres
+conjuradores.
+Qualquer item com uma gema
+incrustada recebe a característica Canalizador sempre que um conjurador
+se sintonizar com ele (e apenas um conjurador pode estar sintonizado à uma
+gema de cada vez; Se um segundo conjurador desenhar uma Runa Pessoal ou
+Selo Simples sobre a gema, nenhum deles será considerado sintonizado com
+ela). Além disso, dependendo do tipo
+de gema específica, o item recebe uma
+característica de conjuração específica
+adicional:
+Âmbar: confere Efúgio Mágico –
+Magias que recuperam Pontos de Vida
+conjuradas através deste item recuperam 5 Pontos de Vida a mais.
+Ametista: confere Azimute Mágico
+– A área de efeito da magia é aumentada em um valor em metros igual a vontade do conjurador. Magias que afetam
+um único alvo não são afetadas.
+Bismuto: confere Fuste Mágico –
+Magias têm a duração dobrada (magias
+cuja Runa ou Selo se dissipam imediatamente após os efeitos serem desencadeados não são afetadas).
+Coral: confere Fulcro Mágico – A
+dificuldade para resistir à efeitos da
+magia são aumentadas em 2.
+Jade: confere Cerne Mágico – Magias conjuradas através deste item custam 5 Pontos de Mana a menos.
+Obsidiana: confere Foco Mágico
+– Magias que causem dano ou perda
+de Vida conjuradas através deste item
+causam 6 pontos de dano extra ou acarretam na perda de 4 PVs a mais.
+Quartzo: confere Asseste Mágico
+– Magia conjuradas através deste item
+tem sua Dificuldade diminuída em 1.
+Todo item que tenha uma gema
+de qualquer tipo incrustada (dentro
+dos parâmetros descritos acima) recebe a característica Canalizador, mas
+apenas as gemas listadas conferem propriedades extras à conjuração – assim,
+por exemplo, uma espada curta com
+um Rubi engastado no punho pode ser
+usado para canalizar magias, mas não
+recebe qualquer característica de conjuração extra.
+/*
+**Ajustes de Preço**
+Dos quatro tipos de gemas de conjuração encontradas na lista, apenas
+duas delas aparecem no Guia do Herói com seus preços listados, o quartzo
+e o âmbar – embora o âmbar apareça na forma de pó, utilizado na produção de poções. Assim, se estiver utilizando a regra de Gemas de Conjuração,
+considere que todos os quatro tipos de gemas de conjuração, de tamanho e
+lapidação adequadas custam 90 moedas (o preço listado para o quartzo; considere que pó de âmbar é um subproduto da lapidação desse material, mas
+seu custo não é alterado). Assim, para saber o custo de um item de conjuração,
+simplesmente adicione 90 moedas ao custo do item utilizado como base – ou
+270 moedas se a gema tiver uma lapidação de qualidade alta ou 900 moedas
+se a gema for de qualidade obra-prima.
+Além disso, perceba que itens com a característica Canalizador, listados
+no Guia Básico, deixam de ter essa característica. Assim, o custo desses itens
+deve ser ajustado. Simplesmente reduza em 25 moedas o custo desses itens
+para saber seu novo preço (adagas e bordões passam a custar 25 moedas e
+clavas passam a custar 50 moedas). Obviamente, Grimórios, missais, orbes e
+varinhas continuam possuindo a característica Canalizador, de acordo com as
+regras encontradas acima.
+Finalmente, se o item for total ou quase totalmente feito de um material
+– como orbes, varinhas, símbolos sagrados e eventuais adagas, por exemplo –
+considere que o custo de fabricação do item em si será de 25 moedas, devido
+ao trabalho de precisão necessário. Esse preço também deve ser ajustado de
+acordo com a qualidade da lapidação – subindo para 75 moedas se o item
+tiver uma lapidação de qualidade alta ou 250 moedas para uma lapidação de
+qualidade obra-prima.
+Assim, o item de conjuração mais barato custará 115 moedas (90 moedas
+pela gema em sí, mais 25 moedas pelo trabalho de lapidação). Se for totalmente feito de gema e tiver uma qualidade alta, terá um custo total de 345 moedas
+(270 moedas pela lapidação básica mais 75 moedas pelo trabalho de lapidação
+no formato desejado). E se for totalmente feito de gema e tiver uma lapidação
+de qualidade obra-prima, custará 1.150 moedas. 
+*\
+**Criando Itens de Conjuração**
+Para criar itens de conjuração, o
+artesão precisa inicialmente de uma
+gema bruta do tamanho adequado
+– pelo menos 250 gramas de peso (o
+tamanho de um pêssego ou castiçal)
+que deve, então, ser lapidada de forma adequada (ficando então com 200
+gramas). Um ourives precisa que a
+lapidação resulte em um resultado
+mediano ou melhor (veja o Guia do Herói, página 52 para detalhes) já que
+gemas com qualidade baixa possuem
+falhas que impedem o fluxo de energias mágicas. Gemas cuja lapidação
+seja de qualidade alta ou obra-prima
+não oferecem qualquer benefício à
+conjuração, mas são requisitos para
+que possam ser encantadas posteriormente.
+Tendo a gema, o artesão então
+precisa produzir um item adequado,
+incorporando a gema em sua estrutura, de forma que ao menos metade da
+gema esteja lapidada e visível. A configuração da gema no item não é importante, e ela pode ser engastada no
+pomo de uma bengala, na guarda de
+uma espada, na ponta de um bordão
+ou pode até mesmo ser a maior parte
+do item – como uma adaga de jade,
+uma orbe de obsidiana ou um símbolo
+sagrado de âmbar, por exemplo.
+O receptáculo onde a gema será
+engastada também precisa ter uma
+qualidade ao menos mediana (itens de
+qualidade baixa vão apresentar falhas
+que farão com que a canalização seja
+impossível). Itens de qualidade alta
+ou obra-prima terão as características
+normais desses itens (bônus em testes
+ou dano, por exemplo, como descrito
+na página 53 do Guia do Herói) mas a
+qualidade do item não irá influenciar
+as capacidades de conjuração deste
+(assim, uma adaga de Quartzo obra-
+-prima recebe +1 em testes de ataque
+e +1 de dano, mas o Foco Mágico não
+é afetado de forma alguma) mas são
+requisitos para que possam ser encantadas posteriormente.
+Itens de Conjuração Mágicos
+Itens de conjuração incluem pedras incrustadas, e elas podem ser
+bastante frágeis – particularmente se
+forem criadas na forma de lâminas ou
+agulhas, apropriadas para varinhas ou
+adagas de gema. Graças a isso, muitos
+conjuradores procuram Artífices que
+possam criar itens de conjuração mágicos, muito mais confiáveis – geralmente
+encantamentos simples são escolhidos,
+já que a preocupação com a resistência
+conferida pelo encantamento em si é
+prevalente.
+Para que um item de conjuração
+possa ser transformado em um item
+mágico, tanto a gema de conjuração
+quanto o item no qual ela está incrustada (ou a qualidade da lapidação, no
+caso de orbes e varinhas) precisam ser
+de qualidade alta ou superior, o que
+pode afetar significativamente o preço
+do item. Se a gema e o item no qual ela
+está incrustada forem de qualidades diferentes, o item será considerado, para
+todos os efeitos de encantamento, como
+sendo da qualidade mais baixa entre os
+dois.
+Itens de Conjuração encantados
+geralmente recebem um encantamento
+extremamente simples, com custo 5 ou
+menor (Infravisão, Luz Mágica, Imantar,
+Magia do Estilista e Vitrificar são as magias mais comuns de serem utilizadas
+em itens de conjuração encantados).
+Encantamentos de dedicação (vejaabaixo) também costumam ser bastante populares. 
+---
+**Novos itens**
+Agenda/Caderno
+Raridade: Comum (15 moedas)
+Um simples maço de folhas de papiro costuradas com uma folha de velino na parte mais externa servindo de
+capa. Em geral são feitos com folhas de
+papiro que ficaram pequenas demais
+ou com defeitos e não podem ser utilizadas em mapas, grimórios, missais
+ou outros itens que exigem qualidade.
+Possuem em média 30 folhas (60 páginas). Não podem ser utilizados para registrar magias.
+Cachimbo
+Raridade: Comum (50 moedas)
+Feitos de madeira, pedra, barro
+ou osso, cachimbos se tornaram itens
+recreativos comuns em Cassiopéia, sendo inicialmente utilizados por Druidas
+como ferramenta para se conectar com
+as energias da natureza.
+Cachimbos podem ser utilizados
+como ferramenta por Druidas para realizar rituais (Veja o Guia Básico página 38 para detalhes). É necessário que
+o cachimbo esteja abastecido com fumo
+e que o Druida seja capaz de acendê-lo
+durante o ritual. Rituais druídicos realizados com o auxílio de um cachimbo
+reduzem as dificuldades das magias
+em 1 – cachimbos de qualidade alta
+reduzem as dificuldades das magias
+realizadas durante um ritual em 2, e
+cachimbos obra-prima reduzem a dificuldade das magias realizadas durante
+um ritual em 3 – cumulativamente com
+os redutores do ritual em si.
+Cajado Arcano
+Raridade: Comum (115 moedas)
+*Descrição: Um bordão com uma
+obsidiana incrustada em sua ponta, que
+confere Cerne Mágico à qualquer conjurador sintonizado à ele. Pode ser registrado com 5 graus de complexidade
+de magia.
+Cajado do Mago
+Raridade: Raro (950 moedas)
+*Descrição: Um bordão finamente
+decorado com um quartzo incrustado
+em sua ponta, que confere Foco Mágico
+à qualquer conjurador sintonizado à ele
+e, diante de um comando de voz, emite
+uma poderosa luminosidade que cega
+todas as criaturas à uma quantidade de
+metros ao seu redor igual à Determinação do seu portador.
+Encantamentos: Efeito [Explosão
+de Luz, 30 moedas] (Desígnio: Palavra de comando), Custo de Mana 375,
+dificuldade 16. Bordão de qualidade
+obra-prima [Corporal, Dano Força +6/
+Contusão, duas mãos, +1 nos testes de
+ataque, FN 1], quartzo de qualidade
+alta (520 moedas).
+Cetro Místico
+Raridade: Comum (130 moedas)
+*Descrição: Uma clava com um
+âmbar incrustado em seu pomo, que
+confere Efúgio Mágico Místico à qualquer conjurador sintonizado à ela. Pode
+ser registrado com 3 graus de complexidade mágica.
+Espada Rúnica
+Raridade: Rara (3.750
+moedas)
+*Descrição: Uma espada longa finamente decorada com uma guarda feita
+de uma peça de obsidiana
+com desenhos intrincados que concede Cerne
+Mágico a qualquer conjurador sintonizado à ela e,
+se estiver dentro da linha de
+visão dele, retorna para sua
+mão com um comando verbal. Finalmente, um conjurador sintonizado à espada
+pode abastecer o encantamento contido nela com 10
+Pontos de Mana para que
+ela cause 8 pontos de dano à
+mais por 1 minuto.
+Encantamentos: Efeito [Arma Fiel, 200 moedas]
+(Desígnio: Palavra de Comando; acesso: Runa Pessoal), custo de Mana 500; Dano
+(Carga; Acesso: Runa Pessoal), custo
+de Mana 1000, dificuldade 24. Espada
+longa obra-prima [dano Força+9/Corte
+ou Perfuração, +1 nos testes de ataque,
+FN 4(2)], obsidiana de qualidade alta
+(2020).
+Fumo
+Raridade: Comum (10 moedas)
+Substância relaxante e/ou alucinógena necessária para abastecer um
+cachimbo. Pode ser encontrado com
+facilidade e geralmente é vendido em
+pacotes suficientes para 20 usos
+Grimório das Pequenas Magias
+Raridade: Incomum (300 moedas)
+Um grimório de bolso criado
+pela Academia Argêntea. Cópias deste grimório sempre são de qualidade
+alta, não havendo cópias de qualidade
+Obra Prima à disposição para venda.
+Grimórios das Pequenas Magias sempre possuem capas de couro de cor
+púrpura, com um pequeno símbolo da
+Academia Argêntea no quadrante superior.
+Na primeira página do Grimório
+há uma pequena descrição da história
+da criação do item:
+“O Grimório das Pequenas Magias foi criado por Gwineth da Ilha
+da Prata no ano de 442 dos Registros
+Argênteos. O objetivo da diretora do
+Departamento de Ocultismo e Ofícios
+Elementais da Academia Argentea foi
+reunir magias simples para serem usadas por estudantes como parte do treinamento inicial dentro da Academia.
+Todas as magias neste Grimório são de
+propriedade da Academia Argêntea e
+não devem ser copiadas com o objetivo de serem comercializadas fora desta
+instituição.“
+Mesmo com este aviso, há versões
+deste grimório que foram criadas fora
+da Academia, embora na maioria dos
+casos, elas não são comercializadas – ao
+menos não por instituições legalizadas.
+É sabido, por exemplo, que os Corvos
+Negros possuem versões deste grimório (que contém apenas magias arcanas
+nele, além de algumas magias exclusivas) que são dados para membros antigos daquela instituição.
+Cópias oficiais deste livro possuem todas as magias da lista apresentada neste suplemento, além de algumas páginas em branco que podem ser
+utilizadas para registrar novas magias,
+com 10 graus de complexidade mágica
+à disposição.
+Grimório Flutuante
+Raridade: Raro (900 moedas)
+*Descrição: Um grimório (ou missal) que, com uma palavra de comando,
+flutua a até 1 metro ao redor do conjurador por até 1 hora e pode ser comandada à abrir em uma página específica
+como uma ação livre. O conjurador
+utilizando esse grimório em combate
+continua precisando de uma ação padrão para conjurar as magias contidas
+nele, mas fica com ambas as mãos livres
+quando faz isso. Pode conter 30 níveis
+de complexidade de magia.
+Encantamentos: Efeito [Suspender, 30 moedas] (Desígnio: palavra de
+comando), Custo de Mana 375, dificuldade 14. Grimório de qualidade obra-
+-prima (500 moedas).
+Orbe de Cristal
+Raridade: Incomum (190 moedas)
+*Descrição: Uma orbe de Quartzo perfeitamente esférica que concede
+Foco Mágico para qualquer conjurador
+sintonizado à ela.
+Punhal do Feiticeiro
+Raridade: Incomum (900 moedas)
+*Descrição: Uma adaga feita de
+obsidiana com finas decorações em
+bronze que emite um brilho alaranjado 
+quando alguma magia estiver presente ou for conjurada nas proximidades
+(uma quantidade de metros igual à Determinação do portador). Além disso,
+qualquer conjurador sintonizado à adaga recebe Cerne Mágico.
+Encantamentos: Efeito [Luz Mágica, 300 moedas] (Desígnio: Magia),
+Custo de Mana 250, dificuldade 18.
+Adaga de qualidade alta [Corporal,
+Dano Força +4/corte/Perfuração, Arremesso, +1 nos testes de ataque, FN 1],
+Jade de qualidade alta (345 moedas).
+Varinha da Precisão
+Raridade: Incomum (800 moedas)
+*Descrição: Uma varinha de jade
+finamente decorada que concede Asseste Mágico e Infravisão para qualquer
+conjurador cuja Runa Pessoal estiver
+desenhada sobre ela.
+Encantamentos: Efeito [Infravisão, 200 moedas] (Acesso, Runa Pessoal), Custo de Mana 250, Dificuldade 16.
+Varinha obra prima de Jade de qualidade alta (370 moedas).
+Varinha Dedicada
+Raridade: Incomum (500 moedas)
+*Descrição: Uma varinha de âmbar lapidado em formato espiralado
+que concede Efúgio Mágico para o conjurador à qual ela é dedicada.
+Encantamentos: Dedicada, Custo
+de Mana 200, Dificuldade 17. Varinha
+de qualidade alta de Jade de qualidade
+alta (300 moedas).
+---

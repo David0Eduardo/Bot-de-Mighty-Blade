@@ -1,0 +1,66 @@
+Capítulo 2: Regras
+Neste capítulo apresentaremos novas regras relacionadas à magia em geral e ao
+Grimório das Pequenas Magias, incluindo novas Habilidades – tanto Magias como
+Técnicas “metamágicas” – e um novo Antecedente para estudantes da Academia
+Arcana.
+
+---
+**Runas Pessoais e Selos Simples Expandidos**
+Selos Simples e Runas Pessoais
+são conjurações simples que
+podem ser realizadas por qualquer personagem com Conhecimento
+Arcano ou Conhecimento Místico, respectivamente. Estas Runas e Selos são
+simples de realizar, com dificuldade 8 e
+sem custo em mana.
+Embora possam ser úteis em diversas ocasiões por qualquer conjurador – como para marcar um objeto ou
+área como sendo posse de um conjurador ou uma instituição, ou mais comumente para se sintonizar à itens de conjuração – os Rúnicos utilizam as regras
+dessas conjurações menores com muito
+mais frequência do que outras Classes,
+já que precisam que seus itens estejam marcados com sua Runa Pessoal para que possam utilizar a
+maioria das suas Técnicas. A
+maioria dos outros conjuradores irá utilizar Selos Simples e
+Runas Pessoais quando encontrarem novos itens de conjuração
+(já que precisam estar sob o efeito de
+uma dessas magias para poderem ser
+considerados sintonizados ao personagem) mas raramente em outras
+ocasiões.
+As regras a seguir expandem
+o uso de Runas Pessoais e Selos
+Simples, adicionando novos benefícios relacionados a eles.
+Sinalização Mágica: Sempre que um item estiver marcado
+com sua Runa Pessoal ou com um Selo
+Simples da sua divindade, qualquer
+magia que você conjurar sobre ele terá
+sua dificuldade reduzida em 1. De forma semelhante, se conjurar magias cujo
+foco seja um local marcado com com sua
+Runa Pessoal ou com um Selo Simples
+desenhado por você – o que pode incluir
+Teleporte, Portal e Janela Mágica, por
+exemplo – a dificuldade também será
+reduzido em 1.
+Sintonizar Registro: Sempre que
+um item com a Característica Registro
+estiver marcado com sua Runa
+Pessoal ou com um Selo Simples
+da sua divindade, qualquer
+magia que você conjurar
+a partir dele terá sua
+dificuldade diminuída em 1 (esse modificador se acumula
+com o bônus de
+conjurar uma magia a partir de um
+item de registro e
+com itens com a característica Asseste
+Mágico). 
+---
+**Novas Magias**
+As magias listadas aqui estão presentes em todas as cópias do
+Grimório das Pequenas Magias.
+Estas magias não são consideradas como
+pertencendo a nenhuma Classe, e qualquer uma dessas magias que exija o desenho de uma Runa Arcana pode ser selecionada como uma Habilidade Geral por
+personagens com Conhecimento Arcano,
+enquanto qualquer magia que exija o desenho de um Selo Místico pode ser selecionada como uma Habilidade Geral por
+personagens com Conhecimento Místico.
+Estas Magias custam 30 moedas
+para serem copiadas individualmente,
+e este é o custo padrão para estas magias para todos os propósitos. 
+---

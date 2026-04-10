@@ -1,0 +1,352 @@
+Músicas
+
+À seguir você encontra uma lista de Músicas. Sempre que um jogador selecionar
+uma Habilidade para seu personagem que permita, explicitamente, que ele adquira uma
+Música, ele pode consultar a lista abaixo e selecionar qualquer Música para qual o personagem preencha os requisitos.
+Habilidades do tipo Música encontradas em qualquer Classe ou Habilidade não estão
+à disposição de nenhum personagem que não tenha acesso àquela lista de Habilidades específica, e não pode ser selecionada dessa forma, sendo necessário que seja adquirida como
+qualquer outra Habilidade.
+Sugerimos que um personagem das Classes Bardo ou Menestrel, ou que siga um dos
+Caminhos descritos neste livro, tenham uma lista de Músicas separadas de suas Habilidades, para facilitar sua consulta. 
+
+---
+
+Músicas Básicas
+
+---
+Canção da Provocação
+Música – Ação
+Mana: 20
+*Descrição: Você canta uma música ofenciva para seus adversários, deixando
+eles irritados e desconcentrados em combate.
+Escolha uma profissão, raça, cultura ou classe social. Todas as criaturas vivas do grupo
+selecionado a uma distância em metros de
+você igual à sua Determinação, e que puderem ouvir e entender essa Música, rolam um
+confronto de Vontade contra você. Aqueles
+que perderem o confronto ficam com -2 na
+Defesa enquanto você continuar a tocar essa
+Música.
+Este é um efeito mental.
+---
+Canção Desesperadora
+Música – Ação
+Mana: 20
+*Descrição: Você canta uma música
+que fala sobre a morte, destruição e derrotas dos seus adversários, instilando medo em
+seus corações. Escolha uma profissão, raça,
+cultura ou classe social. Todas as criaturas vivas do grupo escolhido a uma distância em
+metros de você igual à sua Determinação, e
+que puderem ouvir e entender essa Música
+por pelo menos 2 turnos, rolam um confronto de Vontade contra você. Aqueles que tiverem um resultado menor que o seu precisam
+usar sua ação de movimento para tentar se
+afastar de você enquanto você continuar a
+cantar essa Música.
+Este é um efeito de medo.
+---
+Canção do Triunfo
+Música – Ação
+Mana: 15
+*Descrição: Você canta uma música
+relembrando as vitórias do grupo e seus feitos mais memoráveis de modo à motivá-los.
+Você e todos os seus aliados a uma distância
+em metros de você igual à sua Determinação,
+e que puderem ouvir essa Música, recebem
++1 em todos os seus testes enquanto você
+continuar a cantar esta Música.
+*Especial: A partir do nível 5, o bônus
+nos testes passa a ser de +2 ao invés de +1.
+---
+Canção Exultante
+Música – Ação
+Mana: 15
+*Descrição: Você canta uma música
+enaltecendo os laços de amizade do grupo,
+aumentando sua moral. Você e todos os seus
+aliados a uma distância em metros de você igual à sua Determinação, e que puderem ouvir essa Música, recuperam Pontos de Vida
+por turno igual à sua Vontade, enquanto você
+continuar a cantar essa Música.
+---
+Canção de Ninar
+Música – Ação
+Mana: 15
+*Descrição: Você murmura um ritmo
+lento e compassado, que acalma a ponto de
+fazer quem a escuta cair no sono. Todas as
+criaturas vivas a uma distância em metros de
+você igual à sua Determinação, e que puderem
+ouvir essa Música, por 3 turnos (menos você)
+rolam um confronto de Vontade contra você.
+Aqueles que tiverem um resultado menor que
+o seu caem em um sono profundo por um número de minutos iguais à sua Determinação.
+Este é um efeito mental.
+---
+Canção de Poda
+Música – Ação
+Mana: 15
+*Descrição: Essa canção é usada por
+algumas comunidades tribais quando os recursos estão muito escassos, ou quando a
+população da tribo cresce demais. Você murmura um ritmo lento e compassado que induz alvos indefesos a um profundo estado de
+coma. Eles não irão despertar a menos que
+sofram dano, se permanecerem assim por um
+dia inteiro, irão parar de respirar gradativamente e morrer.
+Este é um efeito mental.
+---
+Melodia da Paixão
+Música – Ação
+Mana: 10
+*Descrição: Você toca um ritmo lento que desperta os sentimentos amorosos de
+todos. Enquanto estiver tocando esta música
+todos os seus aliados no mesmo ambiente
+que você recebem +2 em testes sociais. Além
+disso, enquanto estiver tocando essa Música,
+sempre que uma criatura que possa entendê-lo
+for atacar você, ela deve antes ter um resultado
+igual ou maior do que o seu em um confronto
+de Vontade – se tiver um resultado mais baixo, sua ação padrão só pode ser utilizada como
+uma ação de movimento nesse turno.
+---
+Melodia Dançante
+Música – Ação
+Mana: 20
+*Descrição: Você toca ritmos empolgantes acompanhado de uma canção simples
+– e geralmente repetitiva – que fazem com que
+todos que escutarem esta música sintam uma
+vontade incontrolável de dançar. Todas as
+criaturas vivas do tipo Humanoide e Esfinge
+a uma distância em metros de você igual à sua
+Determinação, e que puderem ouvir essa Música, rolam um confronto de Vontade contra
+você. Aqueles que tiverem um resultado mais
+baixo que o seu começarão a dançar incontrolavelmente, realizando todos os seus testes baseados em Agilidade como se fossem Inaptos
+e ficando com Deslocamento reduzido à metade (arredondado para cima) enquanto você
+continuar a tocar essa Melodia.
+Este é um efeito mental.
+*Especial: Personagens Sob efeito de
+alguma habilidade de dança são imunes a esse
+efeito.
+---
+Melodia Ensurdecedora
+Música – Ação
+Mana: 10
+*Descrição: Você toca e grita uma
+música tão alta e rápida que faz com que
+todos ao redor tenham dificuldades em
+ouvir. Enquanto estiver tocando essa Música, nenhuma outra Música ou efeitos que
+exijam que um alvo seja capaz de entender
+o que está sendo dito (Língua Afiada, Motivar, Voz de Comando, etc.) funciona em
+uma área ao seu redor igual à sua Determinação em metros. Além disso, é muito difícil
+se concentrar propriamente; todos os testes
+para conjurar magias têm sua dificuldade
+aumentada em +2 dentro da área de efeito
+dessa Melodia.
+---
+Melodia Evanescente
+Música – Ação
+Mana: 20
+*Descrição: Tocando uma canção
+aguda com uma melodia sobre tristeza e sofrimento, você faz com que seus inimigos
+percam a vontade de lutar. Todas as criaturas vivas a uma distância em metros de você
+igual à sua Determinação, e que puderem
+entender ouvir essa Música, precisam fazer um confronto de Vontade contra você.
+Aqueles com resultado mais baixo que o seu
+perdem 10 Pontos de Mana no começo de
+seus turnos.
+Este é um efeito de Medo.
+---
+Ritmo Retumbante
+Música – Ação
+Mana: 20
+*Descrição: Você produz um ritmo tão
+violento, que faz a terra tremer! Todos os que
+estiverem a uma quantidade de metros ao seu
+redor igual à sua Determinação (exceto você),
+devem fazer um teste de Agilidade (Dificuldade igual à sua Determinação), ou perderão
+o equilíbrio e cairão.
+---
+Ritmo de Marcha
+Música – Ação
+Mana: 5
+*Descrição: Você toca um compasso
+cadenciado, que faz com que seus aliados
+mantenham um ritmo cadenciado em suas
+ações. Enquanto tocar essa Música, todos os
+seus aliados que puderem ouvir a Música e
+estiverem realizando uma ação repetitiva –
+marchar, remar, forjar, varrer, içar – reduzem
+o tempo para realizar a ação em um quarto.
+Além disso, em combate, os aliados que puderem lhe ouvir recebem Deslocamento +2
+e +1 metro em seus alcances de salto, desde
+que se movimentem pelo menos 2 metros naquele turno.
+*Especial: Esta música pode ser mantida por até 10 minutos antes que você precise
+gastar o custo em Mana novamente.
+---
+Ritmo do Enjoo
+Música – Ação
+Mana: 20
+*Descrição: Você toca um ritmo perfeitamente desconexo e perturbador. Todas
+as criaturas vivas a uma distância em metros
+de você igual à sua Determinação, e que puderem lhe escutar, rolam um confronto de
+Vontade contra você no começo de cada um
+dos seus turnos, enquanto você continuar
+tocando. Aqueles que tiverem um resultado
+mais baixo do que você ficam Atordoados até
+o final da rodada. Qualquer um que obtenha
+3 resultados mais baixos que os seus em confrontos para resistir a esse efeito durante um
+mesmo combate ficarão tão enjoados que vomitarão, perdendo sua ação padrão naquele
+turno.
+---
+Ritmo do Repouso
+Música – Ação
+Mana: 0
+*Descrição: Você toca um ritmo simples e relaxante que permite que todos que
+o ouvirem repousem com serenidade e recobrem suas forças. Qualquer criatura viva a
+uma distância em metros de você igual à sua
+Determinação, e que puderem ouvir essa Música por pelo menos 5 minutos – mesmo que
+esteja dormindo, recupera o dobro de Pontos
+de Mana e de Pontos de Vida devido ao descanso por aquele período.
+Tocar Ritmo do Repouso é considerado descanso, e os efeitos dessa música também afetam você.
+---
+Ritmo dos Animais
+Música – Ação
+Mana: 10
+*Descrição: Escolha um tipo de Besta
+(Artrópode, Ave, Mamífero ou Réptil). Todas as criaturas do tipo escolhido a uma distância em metros de você igual ao dobro da
+sua Determinação, e que puderem ouvir essa
+Música, o seguirão enquanto você continuar
+a tocar. Os alvos não irão realizar qualquer
+ação além de se aproximar de você ou seguir
+você para onde for enquanto você continuar a tocar. Qualquer alvo deixa de estar sob
+efeito dessa Música se sofrer algum dano ou
+perda de vida, mas se você continuar a tocar
+essa Música, o alvo será afetado novamente
+no final do seu próximo turno.
+Criaturas com os temperamentos
+Servo e Protetor não o seguirão se isso for
+afastá-las da criatura que elas servem ou protegem, mas não irão realizar qualquer ação
+enquanto puderem lhe escutar. 
+---
+
+Músicas Avançadas
+
+---
+Canção da Sereia
+Música – Ação
+*Requisito: Nível 5
+Mana: 40
+*Descrição: Você canta uma música
+melancólica capaz de deixar aqueles que a escutam enfeitiçados. Todas as criaturas vivas a
+uma distância em metros de você igual à sua
+Determinação que puderem entender ouvir
+essa Música rolam um confronto de Vontade
+contra você a cada turno enquanto você continuar cantando. Alvos que tenham um resultado menor do que o seu não poderão realizar qualquer ação exceto tentar se aproximar
+de você enquanto você estiver cantando – ou
+ficar imóvel lhe observando se estiverem a 1
+metro ou menos de você ou não puderem se
+aproximar. Qualquer alvo deixa de estar sob
+efeito dessa Música se sofrer algum dano ou
+perda de vida.
+Enquanto estiver sob o efeito dessa
+Música, o alvo é considerado Desprevenido para
+todos os seus aliados – mas não para você.
+Este é um efeito mental.
+---
+Canção Hipnótica
+Música – Ação
+*Requisito: Nível 5
+Mana: 20
+*Descrição: Você canta uma canção
+insistente sobre um determinado assunto,
+criando uma compulsão naqueles capazes de
+ouvi-lá. Todas as criaturas vivas (exceto você
+e seus aliados) a uma distância em metros de
+você igual à sua Determinação, e que puderem entender essa Música, rolam um confronto de Vontade contra você a cada turno,
+enquanto você continuar cantando. Aqueles
+que tiverem um resultado mais baixo que o
+seu precisam gastar sua ação de movimento
+realizando a ação que você induziu. A ação
+induzida precisa ser uma ação realizável
+como uma ação de movimento (pular, rodar,
+deitar…) e se a criatura não puder realizar a
+ação por algum motivo, ela ignora este efeito
+completamente.
+Este é um efeito mental.
+---
+Canção Tenebrosa
+Música – Ação
+*Requisito: Nível 5
+Mana: 30
+*Descrição: Você canta uma música
+que fala sobre morte e sofrimento em um
+tom de profecia. Todas as criaturas vivas
+(exceto você e seus aliados ) a uma distância
+em metros de você igual à sua Determinação,
+e que puderem entender e ouvir essa Música, rolam um confronto de Vontade contra
+você a cada turno enquanto você continuar
+cantando. Aqueles que tiverem um resultado
+menor do que o seu se sentem nervosos e
+temerosos, e ficam com Determinação -2 e
+Amedrontados com relação à você até o final
+de seus turnos.
+Este é um efeito de Medo.
+---
+Melodia do Frenesi
+Música – Ação
+Mana: 20
+*Requisito: Nível 5
+*Descrição: Você toca um ritmo veloz
+enquanto canta uma música de guerra que
+inspira a violência em todos que a escutam.
+Todas as criaturas vivas a uma distância em
+metros de você igual à sua Determinação, e que puderem entender e ouvir essa Música, rolam um confronto de Vontade contra
+você a cada turno enquanto você continuar
+cantando. Aqueles que tiverem um resultado
+menor que o seu precisam realizar um ataque
+contra uma criatura durante seu turno – se
+não houver inimigos ao alcance, a criatura
+ataca um aliado, e se não houver qualquer
+criatura, ela ataca a si mesma! (nesse caso,
+não a teste apenas conte o dano diretamente). Todos os alvos que estiverem sob efeito
+dessa Música recebem +2 em seus testes de
+ataque corporal e -1 em seu Bloqueio e Esquiva.
+Este é um efeito mental.
+---
+Melodia Desconcertante
+Música – Ação
+*Requisito: Nível 5
+Mana: 30
+*Descrição: Você canta uma canção
+com tom jocoso e com uma melodia irritante, que prende a atenção dos ouvintes e não permite que eles se
+concentrem. Todas as criaturas
+vivas (exceto você e seus aliados) a uma distância em metros
+de você igual à sua Determinação, e que
+puderem entender e ouvir essa Música rolam
+um confronto de Vontade contra você a cada
+turno que você continuar cantando. Alvos
+que tenham um resultado menor do que o
+seu são considerados Distraídos até o final de
+seus turnos.
+Este é um efeito mental.
+---
+Ritmo da Fúria
+Música – Ação
+*Requisito: Nível 5
+Mana: 10
+*Descrição: Você toca um ritmo primitivo, que faz aflorar os instintos mais violentos nos seus aliados. Todos os seus aliados
+a uma distância igual à sua Determinação em
+metros desferem seus ataques com mais selvageria, causando +5 de dano enquanto você
+continuar a tocar essa música.
+Este é um efeito mental.
+---
+Ritmo do Coração
+Música – Ação
+*Requisito: Nível 5
+Mana: 30
+*Descrição: Se concentrando em um
+alvo, você começa a tocar um ritmo compassado. O alvo precisa ter um resultado igual
+ou maior do que o seu em um Confronto de
+Vontade, ou seu coração fica sincronizado
+com o ritmo que você está tocando. Enquanto mantiver essa Música, você pode, durante
+o seu turno, parar ou acelerar o ritmo, o que
+faz com que o alvo perca a ação de movimento do próximo turno e perca 20 Pontos de
+Vida – quando isso acontece, o alvo tem direito a um novo Confronto de Vontade para
+se livrar do controle da Música.
+---

@@ -1,0 +1,393 @@
+Capítulo 4 – Caminhos
+Caminhos são opções avançadas para personagens, que podem estar disponíveis para os jogadores dentro do
+cenário da Campanha se o Mestre considerar apropriado. Eles funcionam como uma espécie de Classe especializada,
+com uma pequena lista de Habilidades que podem ser selecionadas pelos personagens em conjunto com as Habilidades de Classe e Raça para criar combinações ainda mais diversificadas. Para adotar um caminho você precisa usar
+um ponto de evolução e se tornar um Aprendiz daquele caminho, além de cumprir os requisitos que este venha a ter,
+conforme explicado no Guia do Herói (pág. 21).
+
+---
+**Amoque**
+*Descrição:
+Amoques são guerreiros que se deixam levar pela fúria e se deleitam na destruição que ela causa. Embora Amoques
+sejam mais comuns em tribos selvagens
+ou bárbaras, alguns soldados de exércitos
+regulares se deixam tomar pela fúria de
+batalha e eventualmente desenvolvem um
+estilo de combate baseado em selvageria
+brutal em detrimento à disciplina militar
+no campo de batalha. Embora estes guerreiros geralmente não sejam confiáveis para
+fazerem parte de formações de batalha, eles
+são de grande valor em manobras de ataque – ou quando as formações defensivas
+não conseguem se sustentar.
+Amoques tendem a se juntar a tropas
+menos organizadas, como grupos de assalto, guerrilheiros e até mesmo batedores, já
+que estas tropas costumam ter uma organização menos regular, permitindo que eles
+utilizem sua fúria com menos moderação.
+No entanto, a maioria dos Amoques não
+faz parte de tropas regulares. A maioria
+deles será encontrada em grupos de mercenários, piratas, leões de chácara ou algum
+outro posto onde a força-bruta é o requisito
+mais importante.
+A maioria dos Amoques, no entanto,
+vai ser encontrada em locais onde treinamento militar não está à disposição, mas
+soldados ainda são necessários. De fato,
+eles são muito mais comuns entre grupos
+isolados, tribos nômades ou grupos de selvagens do que em ambientes mais civilizados.
+Amoques são conhecidos por sua
+impaciência e um estado constante de irritação quando não estão realizando tarefas
+que exigem esforço físico considerável, especialmente combate. A maioria deles também é extremamente competitiva, o que,
+combinado com sua impaciência e irritabilidade pode ser extremamente perigoso.
+No entanto, graças a essas características,
+eles também costumam ser extremamente
+eficientes quando estão focados em uma
+determinada tarefa, sempre dando o melhor de si e tentando provar o seu valor – ou
+a sua superioridade. 
+*Raças:
+Aesires são conhecidos por seus guerreiros furiosos, e embora a maioria deles tire sua força de uma ligação com os espíritos tradicionalmente ligados à Raça, há um
+bom número de Amoques entre eles. De
+fato, a maioria dos navegadores entre os
+Aesires que possuem capacidade de entrar
+em fúria é formada por Amoques, já que a
+maioria dos Berserkir e Ulfhednar preferem se manter em contato com sua cultura
+espiritual e nutre pouco desejo por sair de
+seu reino de origem.
+Entre os Orcs, Amoques são extremamente comuns, e a maioria dos guerreiros da Raça possui uma predisposição a entrar em fúria durante o
+combate. Quase todos os combatentes entre os Orcs das Terras Secas são furiosos, e uma
+boa parte deles é Amoque.
+Entre os Orcs Arkanitas e
+Parbani a predisposição
+para a fúria existe, mas geralmente é suplantada por
+uma disciplina militar mais
+comuns nestes reinos.
+Amoques também podem ser encontrados com
+frequência entre raças selvagens, principalmente entre os
+Centauros. Embora sejam menos inclinados à fúria do que
+os Centauros, muitos guerreiros
+Faunos também podem apresentar a fúria de batalha, e ainda é mais
+comum encontrar Amoques entre eles do
+que entre Raças mais civilizadas. Embora
+isso possa parecer estranho, considerando
+a cultura geral dos Gnolls, guerreiros furiosos também podem ser encontrados entre
+eles, geralmente em grupos onde o contato
+com outras Raças os tornou menos temerários e mais ousados.
+Entre as outras Raças, guerreiros
+furiosos são raros, e como reflexo disso,
+Amoques também, embora. Elfos e Metadílios são as únicas Raças de Cassiopéia
+entre as quais a existência de Amoques é
+completamente desconhecidas.
+---
+**Assassino**
+*Descrição:
+Os Assassinos matam por ouro. Diferente de mercenários e caçadores de recompensas, que podem ser enviados para
+trazer seus alvos vivos ou para produzir
+um cadáver (ou às vezes o fazem acidentalmente), o assassino não procura capturar,
+ferir, atrasar ou “mandar um recado” para
+o seu alvo. Ele só tem uma função: Matar.
+Embora alguns matadores de aluguel utilizem táticas diversificadas para
+eliminar seus alvos, usando venenos ingeríveis, disparos de pontos imperceptíveis
+ou até mesmo magia, um Assassino prefere
+o método mais direto e pessoal. Ele gosta
+de ter certeza de que o seu alvo está morto, de fato, e o único meio de ter certeza é ver a vida se esvaindo do corpo do alvo. Os
+Assassinos gostam de verificar com seus
+próprios olhos que o alvo está, de fato, bem
+morto. Por conta disso, Assassinos desdenham armas de distância, magia e alquimia
+como método de eliminação de alvos, e embora possam empregar esses subterfúgios
+para auxiliar a cumprir suas missões, sempre dão preferência a armas brancas para
+terminar com um alvo – afinal, mesmo uma
+flecha entre os olhos ou uma bola de fogo
+pode deixar o alvo com um suspiro de vida
+que pode ser utilizado por um Sacerdote
+para evitar que o alvo morra. Uma decapitação, por outro lado, não pode ser curada.
+A maioria dos Assassinos dá valor à
+discrição com o intuito de pegar seus alvos
+com a guarda baixa. O método empregado
+para isso varia bastante, no entanto. Alguns
+deles preferem táticas de desorientação utilizando magias ou alquimia para desnortear seus alvos antes de atacá-los, enquanto
+outros preferem estudar sistematicamente
+seus alvos para pegá-los em momentos vulneráveis e há Assassinos que simplesmente
+tentarão se aproximar silenciosamente de
+seus alvos na primeira oportunidade possível, geralmente utilizando o manto da
+noite como cobertura. A paciência também
+é uma arma muito utilizada pelos Assassinos, já que a preparação para o ataque, o
+estudo do alvo, ou a simples espera pelo
+momento certo para atacar são ferramentas
+tão importantes como uma espada afiada.
+Embora Assassinos às vezes sejam
+empregados como uma ferramenta política,
+isso é raro, já que em geral métodos mais
+sutis – como fazer uma morte parecer um
+acidente ou deixar evidências que levem a
+pistas falsas – não são o tipo de atuação que
+se espera de um Assassino. 
+Além disso, nem todos os Assassinos
+trabalham como matadores de aluguel.
+Muitos deles se tornam matadores eficientes para lidar com ameaças específicas ou
+para levar a cabo juramentos de vingança.
+E embora a ocupação geralmente seja vista como maligna, há um bom número de
+Assassinos que emprega suas habilidades
+para o bem de um grupo ou nação. Os Sabres Flamejantes são um grupo de Assassinos de Parband que se orgulham de terem
+eliminado muitos líderes de tribos Orcs e
+terem feito com que grupos enormes
+debandassem sem causar maiores inconvenientes, enquanto
+os Dunmharfoir são um grupo
+de elite escolhidos entre os
+patrulheiros de Ambrook
+utilizados na eliminação de
+criaturas específicas que lideram grupos de monstros
+perigosos dentro da Floresta do Antigos, como líderes
+de tribos selvagens, vampiros ancestrais ou mesmo
+Druidas enlouquecidos. 
+*Raças:
+Humanos, Elfos e Firas
+são as Raças que produzem
+mais Assassinos. Eliminar alvos
+de forma limpa e eficiente é visto,
+entre essas Raças, como uma espécie
+de arte refinada, e suas culturas consideram que os Assassinos são um mal necessário, já que muitas vezes uma única morte
+pode evitar batalhas, guerras e cercos – que
+tendem a custar números consideráveis de
+vidas.
+Os Metadílios e os Tailox contam com
+alguns Assassinos famosos também, já que
+a jovialidade, empatia e gentileza atribuída
+a essas Raças lhes oferece um disfarce extremamente convincente.
+Entre os Gnolls, Assassinos são
+considerados como grandes heróis, sendo capazes de eliminar – ainda que indiretamente – vários oponentes com apenas um golpe. Eles prezam a astúcia e a
+ardileza necessárias para se tornar um
+Assassino.
+Não se tem notícias de um Juban,
+Astério ou Mahok Assassinos. A cultura
+dessas Raças vai diametralmente contra a
+ideia de Assassinatos, prezando pela honra, retidão e principalmente simplicidade, o que os torna absolutamente
+incapazes (alguns diriam que por
+falta de refinamento) para se
+tornarem Assassinos.
+Entre as outras Raças, Assassinos são raros, mas não totalmente desconhecidos. 
+---
+**Avantesma**
+*Descrição:
+Avantesmas são mortais que foram
+afetados por energias necromânticas e
+desenvolveram um vínculo com o plano
+espiritual. Seus corpos ficaram permanentemente infundidos com energias necromânticas, o que lhes confere algumas características semelhantes às de mortos-vivos, além de uma capacidade inata de canalizar
+energias espirituais de formas inusitadas,
+geralmente ligadas ao frio.
+A conexão deles com as energias espirituais ainda é um mistério para a maioria
+dos estudiosos, e embora seja necessário
+passar por algum tipo de contato com energias necromânticas, nem todos aqueles que
+são afetados por estas energias desenvolvem esta conexão com o plano espiritual.
+Embora a maioria dos Avantesmas
+sejam gerados por acidente, geralmente
+envolvendo encontros com um Necromante ou morto-vivo, existem casos de Necromantes que usam seus poderes em si próprios na tentativa de criar a distinta ligação
+que os Avantesmas possuem com o plano
+espiritual, enquanto alguns registros indicam que Necromantes também utilizam
+esta mesma tática para criar guarda-costas
+e campeões mais eficientes, utilizando magias específicas em seus aliados.
+Não raro, aqueles que lidam constantemente com Necromantes e mortos-vivos se
+tornam Avantesmas, e existem relatos de muitos Xamãs, Sacerdotes de Hadorn, Mirah e Paladinos ligados a essas divindades que exibem
+as características comuns de um Avantesma.
+*Raças:
+Não existem Raças mais ou menos
+propensas a se tornar Avantesma, já que
+em geral esse Caminho é trilhado por aqueles que tiveram encontros (intencionais ou
+acidentais) com necromantes e mortos-vivos. Humanos, sendo a Raça mais numerosa de Cassiopéia, também detém o maior
+número de Avantesmas, mas não devido a
+uma inclinação específica, e sim à simples
+questões de chance. 
+Não existem Raças mais ou menos
+propensas a se tornar Avantesma, já que
+em geral esse Caminho é trilhado por aqueles que tiveram encontros (intencionais ou
+acidentais) com necromantes e mortos-vivos. Humanos, sendo a Raça mais numerosa de Cassiopéia, também detém o maior
+número de Avantesmas, mas não devido a
+uma inclinação específica, e sim à simples
+questões de chance.
+---
+**Aziago**
+*Descrição:
+Aziagos são conjuradores que canalizam energias dos planos inferiores para
+causar efeitos maléficos em seus alvos. Eles
+se especializaram em minar as forças dos
+seus inimigos, drenando seu vigor, reduzindo sua vontade ou restringindo sua percepção.
+Embora lidem diretamente com magia infernal, Aziagos não são, necessariamente, infernalistas. Eles não precisam possuir nenhum Pacto – embora muitos
+conjuradores que possuem Pactos utilizem a ligação criada com seu patrono para
+canalizar energias infernais, tornando-se
+Aziagos. No entanto, alguns conjuradores arcanos decidem estudar a canalização
+das energias infernais simplesmente para
+ampliar seu arsenal mágico, mesmo que
+não tenham qualquer intenção de realizar
+pactos com criaturas infernais, enquanto
+outros se tornam Aziagos para combater
+outros infernalistas de forma mais eficiente.
+Independente dos motivos que levem
+um conjurador a se tornar um Aziago, conjurar Maldições é considerado como um
+ato vil em qualquer cultura de Cassiopéia,
+e aqueles capazes de fazê-lo são considerados como Cultistas.
+É importante observar, também, que
+canalizar energias infernais é extremamente prejudicial, e conjuradores que não sejam
+Aziagos ou possuam Pactos têm dificuldades em conjurar Maldições de forma eficiente. Além disso, conjurar uma maldição
+pode atrair a atenção de criaturas infernais,
+o que pode ter resultados desastrosos.
+*Raças:
+Humanos são a Raça mais inclinada à
+procura pelos usos de Maldições, tanto por
+uma curiosidade natural quanto por uma
+busca de poder intrínseca de sua cultura.
+Além deles, as Naga, cuja cultura revolve
+ao redor da adoração de uma entidade infernal, também se tornam Aziagas com frequência.
+Entre as outras Raças, Aziagos são
+extremamente raros, já que, assim como no
+caso dos Cultistas, trilhar esse Caminho é
+uma decisão extremamente pessoal que vai contra todos os ditames normais de suas
+culturas.
+É interessante observar, no entanto,
+que, independente da Raça, conjuradores
+dedicados à Sarfion e Mirah tendem a se
+tornar Aziagos com alguma frequência. Entre os seguidores de Sarfion, isso geralmente
+é devido a uma curiosidade inata, enquanto que entre os seguidores de Mirah é uma
+questão de estar mais preparados para lidarem com Cultistas e Infernais. Em ambos os
+casos, ingressar nesse Caminho geralmente é uma escolha feita com intuitos defensivos (como a imunidade a Maldições e a capacidade de remover
+maldições de outros) mais do
+que ofensivos (embora as magias dos Aziagos sejam muito
+mais eficientes contra infernais), e embora estes Aziagos dedicados a celestiais
+sejam plenamente capazes
+de conjurar Maldições, existem pouquíssimos registros
+de isso ter sido feito.
+---
+**Cultista**
+*Descrição:
+Cultistas são mortais, que, por algum
+motivo, procuraram um Demônio para fazer um pacto. As motivações que levam um
+mortal a fazer um pacto – e destinar sua
+alma ao inferno, no processo – variam, mas
+normalmente envolvem vingança, poder ou
+riqueza de forma rápida e eficiente. Outros
+são atraídos pela simples possibilidade de
+chegarem ao inferno em uma posição privilegiada, já que, até onde se sabe, um mortal 
+que tenha feito um Pacto com um demônio
+terá um lugar mais alto na hierarquia infernal do que um mortal que simplesmente
+chegue lá por suas ações em vida. Se um
+mortal sabe que seu estilo de vida o levará
+para o inferno, porque não fazer um pacto e
+tornar sua existência naquele plano ao menos um pouco mais confortável?
+A maioria dos Cultistas é formada por
+indivíduos profundamente traumatizados,
+sociopáticos ou mesmo psicopatas. Em geral
+eles não possuem ligações sentimentais exceto aquelas abastecidas por ódio, medo, inveja ou amargor, e costumam ter uma visão
+distorcida sobre o mundo e as pessoas nele
+– incluindo eles próprios. Alguns se consideram fracos e inadequados e procuram poder
+na forma de Pactos, enquanto outros se consideram muito importantes e realizam Pactos
+para conseguir o poder que eles consideram
+que os fará serem reconhecidos como devem.
+Muitos Cultistas se reúnem em pequenas cabalas que adoram um mesmo Primordial, geralmente tramando ações que
+aumentarão o poder da entidade, ativamente caçando Sacerdotes e outros devotos
+– ou mesmo outros Cultistas, em alguns casos – ou simplesmente procurando outros
+potenciais seguidores para seu mestre. É
+muito comum que cabalas possuam um ou
+mais Demônios em seu meio, agindo como
+messias do Primordial cultuado pela cabala.
+Essas cabalas geralmente começam pequenas, mas à medida que se tornam maiores e
+mais ousadas, passam a chamar a atenção
+das autoridades – ou aventureiros – e não
+costumam sobreviver por muito tempo,
+mas geralmente causam estragos consideráveis durante sua existência. Membros sobreviventes podem procurar outras cabalas
+para ingressar ou passam a agir sozinhos, geralmente buscando vingança sobre aqueles que os atacaram.
+Cultistas seguem uma mecânica um
+pouco diferente de outros Caminhos. Eles
+possuem algumas Habilidades em comum,
+que podem ser selecionadas por qualquer
+Cultista, mas também possuem uma lista de
+Habilidades exclusivas para cada um dos
+Pactos existentes. Após a descrição das Habilidades Básicas e Avançadas comuns a todos
+os Cultistas, estão listados os efeitos de cada
+um dos Pactos, e então uma lista de Habilidades exclusivas para Cultistas que
+fizeram aquele Pacto. 
+*Raças:
+te, a Raça que mais
+possui Cultistas – e também
+a única que não considera
+esta prática como tabu ou
+crime, já que sua cultura revolve ao redor da adoração
+de uma entidade infernal,
+Glycon.
+Humanos também são
+conhecidos pela procura por
+Pactos, devido à intrínseca ambição de sua natureza e de uma
+cultura extremamente voltada
+para a conquista de poder pessoal.
+Entre as outras Raças, Cultistas
+são relativamente raros, e as culturas de
+Cassiopéia em geral – mesmo em Arkânia
+– consideram que o pacto com criaturas infernais é considerado um crime hediondo. 
+---
+**Sanguíneo**
+*Descrição:
+Sanguíneos são conjuradores arcanos que se especializaram em manipular
+sangue, músculos e ossos de seus alvos
+– vivos ou mortos. Graças a uma experiência de quase morte causada por um
+ferimento particularmente cruel, alguns
+Conjuradores arcanos desenvolvem uma
+capacidade inata de compreender os fluxos de energia contidos nos tecidos e fluidos das criaturas vivas, e eles se tornam
+capazes de manipular estes fluxos de forma semelhante ao controle sobre energias
+elementais extradimensionais que os conjuradores arcanos geralmente conseguem
+realizar. 
+Essa manipulação dos fluxos das
+energias de criaturas vivas é considerada
+antinatural e mal vista pela maioria dos
+conjuradores – Arcanos e Místicos – embora indivíduos mais inescrupulosos ignorem essa noção e se utilizem das capacidades dos Sanguíneos quando tiverem a
+chance – não apenas como um Caminho,
+mas ao encontrar as Magias deles escritas
+em itens de Registro. Alguns Conjuradores mais curiosos também podem estudar
+estas magias e geralmente concordam
+que elas podem ser particularmente úteis
+contra mortos-vivos, utilizando elas apenas contra essas criaturas quando a oportunidade aparece. De fato, considerando
+que a maioria dos Feiticeiros e Rúnicos
+não possuem capacidades ofensivas para
+lidarem diretamente com essas criaturas,
+as Magias desenvolvidas pelos Sanguíneos costumam ser vistas como uma adição
+bem-vinda em seus arsenais – mas apenas os mais desesperados ou amorais utilizam estas magias contra criaturas vivas.
+Sanguíneos em si são bastante raros,
+já que, além de circunstâncias incomuns
+sejam necessárias para um Conjurador
+conseguir se tornar suficientemente conectado aos fluxos de energia necessários
+para que isso seja possível, a maioria deles simplesmente não vai estar interessada em explorar essa situação a ponto de
+trilhar este caminho. Necromantes são a
+óbvia exceção à regra, já que, em geral,
+eles costumam ser indivíduos marginais
+na maioria das vezes. As magias desenvolvidas pelos Sanguíneos, no entanto,
+podem ser encontradas em algumas bibliotecas de magia, já que o tópico sempre despertou o interesse de arcanistas ao
+longo de toda Cassiopéia.
+*Raças:
+Não existe uma Raça mais inclinada
+a se tornar um Sanguíneo do que os Humanos. Eles são curiosos por natureza, e
+formam a maioria dos Feiticeiros, Rúnicos e – principalmente – Necromantes de
+Cassiopéia. Embora Rúnicos e Feiticeiros
+sejam comuns entre outras Raças, a maioria deles não se interessa em explorar este
+Caminho, considerando sua possível capacidade de lidar com os fluxos de
+energia dos corpos de seres vivos
+mais como um inconveniente do
+que como uma opção a ser explorada. Isso é particularmente verdade entre os Anões e
+Mahoks, que não se sabe terem dado origem a nenhum
+Sanguíneo.
+Entre os Firas e Aesires, entre os quais Rúnicos são bastante comuns,
+as chances de um Sanguíneo são altas, já que entre
+estas Raças, ser um Rúnico
+não é apenas uma questão
+de estar interessado nas características intrínsecas das
+Runas que permitem a criação
+de itens mágicos – como é mais
+comum entre os Anões – mas
+sim as proezas marciais e a glória
+de batalha que uma vida como Rúnico
+permitem. Graças a isso, muitos deles se
+tornam combatentes de linha de frente,
+o que os tornam mais inclinados a sofrerem as experiências de quase morte que
+permitem que um arcanista se torne um
+Sanguíneo.
+Há um número considerável de Sanguíneos entre os Elfos, também, que são inclinados a usarem magia e possuem números grandes suficientes de Feiticeiros para
+que os acidentes que causam o surgimento
+de um Sanguíneo ocorra.
+Entre as outras Raças de Cassiopéia,
+Sanguíneos são extremamente raros, e entre muitas Raças eles são completamente
+inexistentes – os Jubans, Centauros e Astérios possuem pouca afinidade com magia
+arcana e sua cultura os manteria longe deste Caminho de qualquer forma. 
+---

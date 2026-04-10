@@ -1,0 +1,335 @@
+Capítulo 3 – Classes
+ Apresentamos a seguir três novas Classes: Dracomantes, conjuradores místicos sintonizados aos Dragões e às energias elementais, infames por formarem o corpo clerical da Aurora
+dos Dragões, a religião oficial de Arkânia; Necromantes, conjuradores arcanos senhores dos
+mortos-vivos e manipuladores das energias espirituais; e Senescais, nobres e políticos (vilões
+por natureza…) especialistas em inspirar e organizar grupos de aventureiros em suas jornadas.
+Enquanto os Necromantes sempre foram uma Classe nas versões anteriores do sistema,
+os Dracomantes foram promovidos de um Caminho para uma Classe completa, enquanto os
+Senescais foram desenvolvidos inicialmente como uma Classe voltada para PDMs que desempenhem funções administrativas, como Burgomestres, Condes, Magistrados e Conselheiros,
+mas acabou caindo nas graças dos jogadores.
+Estas três Classes são indicadas para PDMs, geralmente na forma de antagonistas ou
+suporte para um grupo de aventureiros, mas podem ser utilizadas por jogadores experientes. 
+
+---
+**Dracomante**
+*Descrição:
+Dracomantes são conjuradores místicos que canalizam as energias dos planos elementais através de sua devoção
+aos dragões – o que faz com que eles não
+possam adorar outras entidades, impedindo que se tornem aprendizes de outras Classes de conjuração mística, assumam Dogmas ou realizem Pactos.
+A maioria dos Dracomantes é ligada à Aurora dos Dragões, um culto
+religioso fundado em Arkânia séculos
+atrás e que se concentra na ideia de que
+os dragões, e não as divindades exteriores, devem ser adorados e seus exemplos seguidos. Seu corpo de crença gira
+ao redor de que a sabedoria, majestade
+e poder dos dragões os tornam os líderes ideais para as raças mortais, além
+do fato dos dragões estarem, em termos
+planares, mais próximos aos mortais
+e, portanto serem menos alienígenas à
+mentalidade de seus acólitos.
+A crença da Aurora dos Dragões é
+o centro dos poderes de um Dracomante, e eles se tornam mais poderosos através do entendimento não só da natureza
+dracônica, mas também das origens dos
+Planos Elementais de onde os dragões
+se originaram – ou, segundo alguns,
+que foram originados do poder dos dragões – e de um estreitamento com as
+energias desse plano e seus habitantes.
+Os Dracomantes estudam intensamente
+sobre a natureza do Plano Elemental e
+das criaturas dracônicas encontradas no
+Plano Material e costumam realizar expedições para qualquer Nexo Dracônico
+que descubram – o que às vezes os faz
+invadirem territórios de criaturas perigosas ou reinos hostis. Graças a essa
+devoção e estudo constantes, os Dracomantes são capazes não apenas de manipular as energias elementais, mas também adquirir características dracônicas
+ou ainda serem abençoados com aliados
+dracônicos que os auxiliam em sua busca pelo conhecimento sobre a natureza
+elemental.
+Embora a maioria dos Dracomantes seja encontrada em Arkânia, há cultos semelhantes em algumas partes de
+Ofidien e Gaian, e mesmo em Cassiopéia,
+Dracomantes solitários, sem qualquer ligação com a Aurora dos Dragões podem
+ser encontrados – geralmente tendo tido
+contato com algum nexo dracônico ou,
+mais raramente, com um dragão de fato.
+Aqueles Dracomantes que não são membros da Aurora dos Dragões podem ser
+confundidos com Druidas – defendendo nexos dracônicos em regiões ermas
+– Feiticeiros – desempenhando pesquisas e experimentos sobre a natureza do
+plano elemental – e, às vezes, até mesmo
+Xamãs – como campeões tribais. De fato, sabe-se que há alguns Dracomantes trabalhando na Academia Argêntea, não
+apenas nas áreas de ocultismo e teologia, mas também no estudo dos portais
+para os planos elementais.
+A Aurora dos Dragões é uma religião
+originária de Arkânia, e embora existam
+templos isolados dela em locais afastados
+do reino, seus seguidores são considerados como Cultistas na maioria dos reinos
+de Cassiopéia – exceto pelo Arquipélago
+das Três Irmãs e em Eishelm. Dracomantes
+solitários podem ser tolerados em algumas
+partes de Cassiopéia, mas quase sempre
+serão vistos com desconfiança – principalmente se possuírem companheiros ou características dracônicas.
+*Raças:
+A grande maioria dos Dracomantes
+é formada por humanos, mas há um bom
+número de Draganos entre eles
+também. Em Arkânia,
+alguns poucos Elfos
+também se tornam
+Dracomantes, assim como uma pequena quantidade
+de Astérios e Orcs.
+Outras Raças não
+possuem status de
+cidadãos em Arkânia, e considerando a cultura escravagista do
+reino, possuem não apenas poucas
+chances de entrar em contato com a
+Dracomancia, mas também pouco
+desejo de fazê-lo.
+Dracomantes de fora de
+Arkânia, que não façam parte
+da Aurora dos Dragões, podem pertencer a praticamente qualquer Raça. Eles
+são notoriamente raros, e embora hajam
+alguns Aesires, Orcs e
+até mesmo alguns Anões que tenham se
+tornado Dracomantes em seus respectivos
+reinos natais, não se tem nenhum registro
+de Dracomantes de quaisquer outras Raças – mesmo porque, a própria filosofia
+dos Dracomantes difere bastante da maioria das culturas de Cassiopéia. 
+*Companheiro Dragão:
+Diferentemente de Companheiros
+Animais, Companheiros Dragões não são
+criaturas naturais atraídas para o auxílio
+do personagem, mas sim criaturas de origem elemental criadas a partir da capacidade de canalização do Dracomante – mas,
+diferente dos elementais, possuindo uma
+consciência própria. Em síntese, um Companheiro Dragão é a materialização de uma
+pequena porção da essência de um Dragão
+do plano Elemental e não é considerado
+um Dragão verdadeiro. Devido a isso, seu
+sangue, escamas e outras partes não servem como componentes para poções, forja
+ou outras manufaturas – qualquer
+parte removida de um Companheiro Dragão reverte para
+a energia elemental correspondente (Fogo,
+Gelo, Relâmpago) e se
+dissipam sem causar
+qualquer dano ou deixar qualquer traço de si
+para trás. Obviamente,
+isso também se aplica ao
+corpo de um Companheiro Dragão que seja morto. Além disso,
+Companheiros Dragões não precisam comer e embora precisem
+dormir para serem considerados
+descansando (e, portanto recuperar PVs e PMs) não precisam dormir por
+qualquer outro motivo.
+Um Companheiro Dragão se desenvolve a partir de um Ovo Elemental, que é
+a forma inicial que um Dracomante consegue conjurar ao tentar aglutinar energias
+elementais ao redor da ideia de uma essência dracônica. As características desses
+itens estão descritas na Habilidade Companheiro Dragão 1.
+Conforme aumenta seu conhecimento sobre a natureza dos dragões elementais, um Dracomante consegue transmutar o Ovo Elemental em um pequeno
+dragão, que, mais tarde, pode se desenvolver em uma grande fera dracônica – à
+medida que o personagem seleciona Companheiro Dragão 2, 3 e 4.
+Tanto para conjurar um Ovo Elemental quanto para transmutar um Ovo
+Elemental em um Companheiro Dragão,
+o Dracomante precisa realizar um pequeno ritual que varia de acordo com o elemento ao qual ele está sintonizado. Apenas um ritual pode ser realizado por dia,
+e, portanto, se o Companheiro Dragão
+tiver sido morto, serão precisos dois rituais separados – um para conjurar o Ovo
+Elemental e outro para transmutar o Ovo
+no Companheiro Dragão. Se o personagem possuir Companheiro Dragão 3 e 4,
+seu Companheiro Dragão será conjurado
+com todas as características adequadas, e
+não são necessários múltiplos rituais separados.
+Nenhum teste ou gasto de Mana
+é necessário para realizar os rituais, mas
+dependendo das condições específicas, o
+Dracomante pode precisar realizar testes
+para não sofrer danos ambientais – desidratação, enregelamento, possíveis doenças… Isso não atrapalha o ritual a menos
+que o Dracomante fique exausto ou perca
+os sentidos de alguma forma.
+Dragões do Fogo: O ritual de conjuração consiste em acender um braseiro
+sob o sol do meio dia (o que exige um dia
+ensolarado de céu sem nuvens) e, durante uma hora, se concentrar nas energias
+elementais, transmutando as brasas em
+um Ovo Elemental. Caso o ritual seja feito para transmutar o Ovo Elemental em
+um Companheiro Dragão, o Ovo deve ser
+colocado sobre as brasas acesas, e o ritual
+procede da mesma forma.
+Dragões do Gelo: O ritual de conjuração consiste em, à meia noite, imergir
+em um corpo natural de água até estar
+coberto pelo menos até o pescoço e, durante uma hora se concentrar nas forças
+elementais, que congelaram a água em
+um Ovo Elemental. Caso o ritual seja feito
+para transmutar o Ovo Elemental em um
+Companheiro Dragão, o Ovo deve ser totalmente submerso na água, e o ritual procede da mesma forma.
+Dragões do Relâmpago: O ritual
+de conjuração consiste em segurar um
+punhado de metal – de qualquer tipo
+– a céu aberto durante uma tempestade e, durante uma hora, se concentrar
+nas energias elementais, transmutando
+o metal em um Ovo Elemental. Caso o
+ritual seja feito para transmutar o Ovo
+Elemental em um Companheiro Dragão,
+o Ovo deve ser mantido entre as mãos
+do Dracomante, e o ritual procede da
+mesma forma. 
+---
+**Necromante**
+*Descrição:
+Necromantes são os mestres absolutos das energias espirituais. Eles se dedicam ao entendimento do Plano Espiritual e
+das barreiras entre as dimensões da mesma
+forma como os Feiticeiros e Rúnicos estudam as energias e a ligação com os planos
+elementais. Suas habilidades vão desde
+criar, controlar e fortalecer mortos-vivos,
+passando pela capacidade de invocar e comandar espíritos, absorver a energia vital
+de criaturas vivas e manipular as energias
+necromânticas criando efeitos tanto defensivos como ofensivos eficientes.
+Necromantes geralmente estão rodeados de objetos que lembram a morte, e são
+particularmente afeitos de locais considerados sombrios – como cemitérios, tumbas e
+necrotérios – onde realizam suas pesquisas
+e por vezes adquirem matéria prima para
+experiências. A maioria deles também costuma trabalhar e viver isolada de outras
+criaturas vivas, às vezes por opção, às vezes por necessidade, às vezes por imposição. Devido a essas características, Necromantes são mal vistos como frios, egoístas
+e geralmente, malignos – e, de fato, muitos
+Necromantes demonstram essas características. O poder que as energias necromânticas fornecem é certamente sedutor
+e, para a maioria, corruptor, já que oferece
+uma grande quantidade de possibilidades
+para manipular, destruir e distorcer, o que
+pode tornar seus usuários insensíveis ou
+até mesmo cruéis. Por outro lado, porém,
+um bom número de Necromantes de dedica à preservação dos locais onde os mortos
+repousam, não permitindo que essas mesmas forças que controlam corrompam tais
+locais, e muitos deles se tornam estudiosos
+dos mortos-vivos e espíritos no intuito de
+combatê-los com mais eficiência.
+Muitos seguidores de Mirah, Hadorn e Ahogr se tornam Necromantes
+justamente para manter os preceitos dogmáticos dessas divindades no que diz
+respeito a honrar os mortos, combatendo
+necromantes malignos e proteger cemitérios e câmaras mortuárias. Ainda, muitos
+Necromantes (particularmente entre os
+seguidores de Sarfion) se dedicam ao estudo de conhecimento ancestral contactando espíritos para guiar seus estudos e
+pesquisas, muitas vezes empreendendo
+missões em busca de conhecimentos lembrados apenas pelo mortos.
+*Raças:
+Humanos são, com certeza, a raça
+que mais conta com Necromantes – tanto
+vilões cruéis como sábios espiritualizados
+e caçadores de mortos-vivos. É dito que o
+horror ao desconhecido e as incertezas que
+permeiam a mente dos Humanos, particularmente com relação à morte é responsável por esse fenômeno, enquanto outros teorizam que a busca inescrupulosa por
+poder é o que leva a maioria dos Humanos
+para esse caminho – mesmo quando eles se
+tornam necromantes benevolentes.
+Levents, que possuem uma ligação
+intrínseca com o plano espiritual, também
+se tornam necromantes com frequência,
+geralmente focando nas capacidade ligadas a espíritos da Classe.
+Os Hamelins, quase sempre rodeados de imundície e afeiçoados aos locais
+evitados por outras raças, muitas vezes se
+tornam Necromantes, geralmente se especializando mais no controle e manipulação
+de mortos-vivos como forma de defenderem suas ninhadas ou resguardar seu meio
+de vida.
+Finalmente, os Goblins são conhecidos por uma grande quantidade de Necromantes, geralmente especializados em
+Mortos-Vivos e usando seus poderes para
+intimidar e coagir as comunidades onde
+vivem para que lhe prestem favores – e geralmente aterrorizando comunidades vizinhas no processo.
+As Naga e os Aesires, cujas culturas
+não possuem tabus relacionados à necromancia, podem, às vezes, se tornar Necromantes, embora entre os Aesires
+isso não seja uma prática comum.
+Membros de outras Raças raramente tem interesse pela necromancia,
+e são raros os Necromantes de
+quaisquer outras Raças.
+---
+**Senescal**
+*Descrição:
+Senescais são administradores, conselheiros e estrategistas que utilizam seu
+carisma, inteligência, conhecimento e determinação para organizar instituições
+e pessoas de forma eficiente. Embora
+alguns Senescais sejam negociantes isolados, trabalhando na administração de
+pequenos empreendimentos – como uma
+taverna, um pequeno barco comercial ou
+um bazar – a maioria deles procura atuar
+em posições onde serão capazes de lidar
+com grandes grupos de pessoas direta
+ou indiretamente, como na administração de vilas, cidades e guildas. Muitos
+Senescais são líderes eficientes, enquanto
+outros preferem agir como conselheiros
+ou administradores, onde suas capacidades também são efetivas. Um Mastim
+que seja um bom guerreiro será eficiente
+quando trabalha à frente de seus homens,
+mas um Mastim capaz de aconselhar e
+disciplinar seus soldados terá um grupo
+mais organizado e eficiente. De forma
+semelhante, portar-se de forma austera e
+competente pode ser tão proveitoso para
+a moral de um grupo quanto demonstrar
+bravura e sagacidade diante de adversidades – às vezes até mais.
+Senescais não lideram necessariamente pelo exemplo. Eles sabem tirar o
+melhor de cada indivíduo em sua área de
+atuação específica, direcionando-os para
+que melhorem suas próprias capacidades
+para que adicionem ao grupo de forma
+efetiva ao invés de fazer com que todos se
+foquem em melhorar uma área específica
+de atuação para a qual nem todos podem
+ter o talento necessário.
+Essa capacidade de tirar o melhor de
+cada indivíduo torna os Senescais extremamente eficientes em grupos de aventureiros. Embora seja pouco comum um
+Senescal se aventurar, alguns deles podem
+até mesmo fazer dessa a carreira de suas vidas. Enquanto por um lado Senescais com
+treinamento militar possam desejar uma
+experiência diferente para aplicar suas táticas e melhorar suas capacidades como um
+todo, muitos nobres treinados para se tornarem administradores acabam ouvindo o
+chamado da aventura – e descobrem que
+suas habilidades podem, realmente, ser
+eficientes para manter grupos de aventureiros com moral alto e uma organização
+eficiente dentro e fora de combate.
+Sua influência e contatos também
+fazem deles excelentes para encontrar as pessoas certas para
+serviços que o grupo precise
+– ou para descobrir pistas
+sobre o paradeiro de alvos
+que o grupo esteja procurando.
+A maioria dos Senescais que se aventuram, no
+entanto, fazem isso por
+um curto espaço de tempo. A maioria acaba se
+aborrecendo com as longas
+viagens, as infindáveis explorações de masmorras e os
+encontros com mortos-vivos,
+bestas e outras criaturas contra as quais suas capacidades têm
+pouca eficiência. É muito mais comum,
+no entanto, que aventureiros aposentados se tornem Aprendizes de Senescal
+para afiar suas capacidades de administrar os bens que conseguiram ao longo de
+suas aventuras.
+*Raças:
+Senescais são bastante comuns
+entre todas as raças civilizadas. Humanos, Elfos e Anões, que não apenas são
+as Raças mais numerosas de Cassiopéia, mas possuem civilizações muito
+antigas e uma cultura que gira ao redor
+da obtenção e administração de recursos produzem um enorme número de
+Senescais.
+Astérios, Firas e Levent por sua vez
+têm uma inclinação para a ordem e a organização, e há um bom número deles que se
+tornam Senescais. Jubans, cuja divindade
+padroeira é ligada a lei e à justiça, tem uma
+tendência a se tornarem bons Senescais, e
+um bom número de membros deles pode
+ser encontrado em Parband.
+Finalmente, Metadílios são
+conhecidos por produzirem
+bons Senescais. Como são naturalmente sociáveis e gostam de civilidade e ordem
+– e do conforto que elas
+produzem – se tornam Senescais com frequência.
+Embora, ao contrário de
+outras raças, eles prefiram administrar pequenos grupos ao invés de
+grandes comunidades.
+Muitos fazendeiros e artesãos Metadílios são Senescais, não apenas trabalhando em seus negócios, mas
+também organizando aqueles
+ao seu redor de modo a tornar
+suas fazendas e oficinas muito
+mais eficientes. Apesar de produzirem um grande número de Senescais,
+essa é raça cujos membros da Classe menos têm inclinação a se aventurar – eles
+se tornam administradores eficientes
+pelo conforto que isso traz, não por uma
+necessidade social ou cultural, como
+acontece com outras raças.
+As demais raças têm pouca inclinação para seguir essa Classe, por falta
+de organização social bem estabelecida –
+como é o caso de Orcs, Mahoks, Tailox
+e Hamelins – ou por um desprezo geral pelo conceito de organização social em
+culturas que prezam mais a liberdade e a
+individualidade – como acontece entre os
+Aesires, Faens, Faunos e Centauros.
+---

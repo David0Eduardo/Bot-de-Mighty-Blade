@@ -1,0 +1,857 @@
+Caminhos:
+
+---
+
+**Arconte**
+
+--
+/*
+*Requisito:
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Inteligência 4
+• Ter sido aceito como Irmão da
+Ordem da Espada de Mirah.
+*Habilidade Automática:
+--Autoridade Legal--
+Habilidade (Característica) – Suporte
+*Descrição: Você foi imbuído pelo Reino
+para executar a lei e punir a transgressores. Ao
+determina sentenças e arbitrar disputas sua palavra só pode ser questionada por outro Arconte
+ou por um Nobre, e se ela foi tomada dentro de
+um tribunal, com a anuência de outros Arcontes
+(ver pág. 19), ela só pode ser questionada por
+um tribunal acima do seu.
+Você recebe um símbolo sagrado especial, que pode ser verificado por qualquer um
+com Detectar Magia, que serve para comprovar
+sua autoridade – além de não poder ser separado de você. Você também não pode ser preso
+ou questionado por ninguém menos que outro
+Arconte ou alguém com um título militar ou de
+nobreza enquanto estiver no seu reino.
+*Especial: Se o personagem cometer algum ato que contradiga o Código da Justiça ou o
+Dogma da Justiça (dependendo de qual dos dois
+o personagem possua), o símbolo sagrado especial imediatamente se rompe e passa a emanar
+um lamúrio constante; você perde a capacidade
+de usar Punições e o símbolo só poderá ser restaurado depois que você for julgado pelo crime
+que tiver cometido
+*\
+---
+
+Habilidades Básicas
+
+---
+--Austeridade--
+Habilidade (Característica) – Suporte
+*Requisito: Código da Honestidade
+*Descrição: Sua integridade e retidão são tão inabaláveis que é impossível para
+outros influenciarem suas decisões. Você é imune a efeitos
+mentais (mas não Ilusões ou
+efeitos de Medo) e tentativas
+de influenciar sua opinião com
+persuasão e manipulação.
+---
+--Código da Honestidade--
+Habilidade (Característica) – Suporte
+*Descrição: Você sempre
+cumpre suas promessas, não importa quão difícil isso seja, e preza
+a verdade acima de tudo, emanando
+uma aura de honestidade que deixa desconfortáveis aqueles que escondem a verdade.
+Você sempre saberá quando alguém estiver
+mentindo. Nem sempre omitir é mentir, depende
+das intenções da pessoa que está omitindo. Mentir é passar informações erradas propositalmente.
+---
+--Mastim--
+Habilidade (Característica) – Suporte
+*Descrição: Você está acostumado a lidar
+com criminosos e raramente se deixa enganar ou
+amedrontar. Você tem Determinação +2 e recebe +1d6 em todos os Confrontos e testes para
+resistir a tentativas de persuasão e intimidação,
+perceber mentiras e resistir a efeitos mentais.
+---
+--Punição da Escuridão--
+Habilidade (Característica) – Ação
+Mana: 30
+*Descrição: Usada para punir espiões e pervertidos, esta é uma pena mais comum nas regiões
+de fronteira ou para prisioneiros de guerra, por deixá-los mais fáceis de controlar. Tocando em um
+alvo, você faz com que ele fique Cego por 1 turno.
+Se o alvo estiver Indefeso, você determina uma duração para o efeito – até no máximo uma quantidade de meses igual à sua Determinação.
+---
+--Punição da Execução--
+Habilidade (Característica) – Ação
+*Requisito: Punição da Clemência
+Mana: 15
+*Descrição: Tocando sobre um alvo
+você faz com que, se ele ficar sem
+Pontos de Vida dentro de um período de Horas igual à sua Determinação, ao invés de ficar Por um Fio,
+ele morra imediatamente – e seu
+espírito é enviado para o plano
+espiritual imediatamente, sem
+chances de que ele se torne uma
+Sombra. Além disso, o corpo e
+o espírito de um alvo morto
+sob efeito dessa Punição não
+podem ser alvos de magias ou
+efeitos necromânticos.
+*Especial: Se utilizada sobre
+um Espírito, ele será imediatamente destruído.
+---
+--Punição do Silêncio--
+Habilidade (Característica) – Ação
+Mana: 20
+*Descrição: Usada para punir crimes menores, normalmente relacionados a difamação ou outras
+formas de mentira (como o perjúrio). Tocando
+em um alvo, você faz com que ele fique mudo
+por uma quantidade de turnos igual à sua Vontade. Se o alvo estiver Indefeso, você determina
+uma duração para o efeito – até no máximo uma
+quantidade de meses igual à sua Determinação.
+O alvo ainda pode grunhir e gritar, mas
+não consegue formular palavras coerentes.
+---
+--Punição do Suplício--
+Habilidade (Característica) – Ação
+Mana: 20
+*Descrição: Tocando em um alvo e vencendo um Confronto de Vontade contra ele,
+você faz todos os seus músculos se contraírem e travarem, deixando-o Paralizado por 1 turno Se
+o alvo tiver um resultado maior do que o seu no
+teste de Vontade, ele fica Distraído por 1 turno.
+*Especial: Se executada sobre um alvo
+indefeso, ele não tem direito ao confronto de
+Vontade e a duração pode ser extendida para
+até a Vontade do conjurador em horas.
+---
+
+Habilidades Avançadas
+
+---
+--Juiz--
+Habilidade (Característica) – Ação
+*Requisito: Nível 5, Mastim.
+Mana: 25
+*Descrição: Você é muito bom em extrair
+a verdade de seus interlocutores. Quando tiver detectado uma mentira, você pode ordenar ao alvo
+que diga a verdade. O alvo realiza um teste de
+Vontade (dificuldade igual à sua Determinação) e
+se falhar ele deve, imediatamente, contar a verdade
+dentro dos seus conhecimentos (o alvo não pode
+modificar nenhum fato nem suprimir nenhuma
+informação que souber). Além disso, o alvo também fica Amedrontado em relação a você por um
+número de minutos igual à sua Vontade.
+Este é um efeito mental.
+---
+--Punição do Açoite--
+Habilidade (Característica) – Ação
+*Requisito: Nível 5, Punição do Suplício
+Mana: 25
+*Descrição: Tocando em um alvo e vencendo um confronto de Vontade contra ele,
+você faz com que ele seja imediatamente tomado por fortes dores em todo corpo que duram
+por 1 minuto, como se estivesse sendo chicoteado – você escolhe um número de chibatadas que serão infligidas durante este tempo, até
+o máximo de 60 (um por turno); o alvo ficará
+Distraído por toda a duração do efeito, além
+de perder 1 Ponto de Vida para cada chibatada
+aplicada ao longo do efeito. Se o alvo tiver um
+sucesso mais alto do que você no confronto de
+Vontade, as dores serão muito menos incômodas, mas o alvo ainda será considerado Distraído, embora não sofra perda de Pontos de Vida.
+*Especial: Se executada sobre um alvo
+indefeso, ele não tem direito ao confronto de
+Vontade.
+---
+--Punição da Amputação--
+Habilidade (Característica) – Ação
+*Requisito: Nível 5, Punição da Escuridão
+Mana: 30
+*Descrição: Tocando um membro de
+uma criatura viva que esteja Indefesa você faz
+com que aquele membro vire cinzas deixando
+apenas um cotoco no lugar. Você pode definir
+uma quantidade de tempo máxima igual à sua
+Vontade em anos durante a qual, se o membro for regenerado de alguma forma, você se
+tornará imediatamente ciente que a Punição foi
+interrompida, qual a duração que ainda restava
+e qual a direção e distância do alvo em relação
+à você no momento em que essa Punição tiver
+sido interrompida.
+---
+--Punição do Exílio--
+Habilidade (Característica) – Ação
+*Requisito: Nível 5
+Mana: 40
+*Descrição: Tocando em um alvo, você
+define uma quantidade de tempo de no máximo sua Determinação em anos. Durante este
+tempo, enquanto o alvo estiver em uma região
+geográfica definida por você (uma Metrópole,
+Condado ou mesmo o Reino de Tebryn são os
+mais comuns) ele é assolado por dores terríveis
+que o deixam Distraído e faz com que ele perca
+10 Pontos de Vida e Mana por minuto.
+Você pode estabelecer uma quantidade
+de tempo em dias igual à, no máximo sua Vontade para que este efeito tenha início – dando
+tempo, assim, para que o alvo possa deixar a
+área definida, caso esteja dentro dela. 
+---
+
+Habilidade Final
+
+---
+--Punição da Confissão--
+Habilidade (Característica) – Ação
+*Requisito: Nível 10, Punição do Silêncio
+Mana: 60
+*Descrição: Tocando em um alvo e
+vencendo um confronto de Vontade contra
+ele, você faz com que ele recite, em detalhes,
+todos os crimes – ações que ele saiba que para
+você sejam considerados crimes, mesmo que
+ele próprio não os considere dessa forma –
+que ele tenha cometido que não tenham sido
+julgados. Se o alvo tiver um resultado mais
+alto do que o seu no confronto de Vontade,
+ele não será obrigado a confessar seus crimes,
+mas se tentar falar qualquer outra coisa, não
+será capaz de produzir palavras coerentes –
+esse efeito dura por um número de minutos
+igual à sua Determinação.
+*Especial: Se o alvo estiver Indefeso,
+ele não tem direito ao Confronto de Vontade.
+---
+
+**Argênteo**
+
+---
+/*
+*Requisito:
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Inteligência 5
+• Teleporte 1
+*Habilidade Automática:
+--Aporte--
+Habilidade (Característica) – Suporte
+*Descrição: Você possui um conhecimento considerável sobre Magias e efeitos
+sobrenaturais dedicados a mover criaturas e
+objetos. Telecinese e Caminhada Mágica (ou
+qualquer Magia que tenha uma dessas magias
+como Requisito mesmo que retroativamente)
+tem sua dificuldade diminuída em 2 para você
+e custam 5 Pontos de Mana a menos para
+conjurar. Além disso, a dificuldade para um
+alvo resistir aos efeitos dessas magias é sempre aumentado em 2 quando você as conjura.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Analisar Magia--
+Habilidade (Técnica) – Suporte
+*Requisito: Detectar Magia
+*Descrição: Concentrando-se nos fluxos
+de energia mágica como uma ação de rodada
+completa, você é capaz de entender seus efeitos com precisão. Desenvolvida para lidar com
+portais especificamente, essa técnica é extremamente útil para compreender o funcionamento
+de itens mágicos e de magias conjuradas para
+funcionarem como armadilhas mágicas.
+Você é capaz de dizer exatamente há quanto tempo o item/Runa/Selo foi criado, por
+quanto tempo ainda irá durar, quanto de
+Mana foi gasto para produzi-lo e quais
+seus efeitos exatos – incluindo quaisquer possíveis gatilhos necessários
+para ativá-lo ou se ele está ligado
+a alguma outra Runa ou Selo (e
+nesse caso onde se encontra esta
+outra Runa ou Selo).
+---
+--Empurrão Cinético--
+Habilidade (Magia) – Ação
+*Requisito: Telecinésia
+Mana: 15
+Dificuldade da Magia: 13
+*Descrição: Desenhando uma
+Runa Arcana entre você e um
+alvo, você faz com que ele seja
+projetado em linha reta um número de metros igual à Vontade do
+conjurador. Se o alvo atingir uma
+superfície sólida ou outra criatura
+no trajeto que foi projetado, ele (e
+qualquer criatura que atinja no trajeto) sofre dano como se tivesse caído aquela
+distância. O alvo empurra tudo o que atingir no
+trajeto, que só será interrompido se o alvo atingir
+um objeto que não possa ser empurrado – como
+uma parede ou árvore. Além disso, no final do
+trajeto em que foi projetado, o alvo (e qualquer
+criatura que ele tenha atingido no trajeto) precisa
+vencer um teste de Agilidade (Dificuldade igual à
+Determinação do conjurador) ou cairá.
+Essa Runa Arcana se dissipa assim que
+seus efeitos forem desencadeados.
+*Especial: Criaturas com as Habilidades
+Combate Gigante ou Colosso são empurrados
+apenas um número de metros igual à metade da
+Vontade do Conjurador (arredondado para baixo).
+---
+--Permutação Instantânea--
+Habilidade (Magia) – Ação
+*Requisito: Teleporte 1
+Mana: 30
+Dificuldade da Magia: Varia
+*Descrição: Desenhando uma Runa
+Arcana entre você e um alvo, você é teleportado para a posição em que o alvo ocupa ao
+mesmo tempo em que o alvo é teleportado
+para o local que você está. Se por algum motivo o alvo ou não couber na área onde você
+está (e vice-versa), esta magia falha automaticamente.
+Se o alvo for uma criatura, a Dificuldade
+dessa magia será igual à Determinação do alvo.
+Se o alvo for um objeto, a Dificuldade será igual
+ao peso do objeto em quilos, dividido por 5 (arredondado para baixo).
+Essa Runa Arcana se dissipa assim que
+seus efeitos forem desencadeados.
+---
+--Runa de Localização--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: 10
+*Descrição: Você pode desenhar uma
+Runa Arcana em um item com a Característica Registro. Esta Runa fica ligada ao local
+geográfico em que você se encontra quando
+a conjura, e se torna um “atalho mágico” para
+o local. Você pode conjurar uma magia locomoção (Teleportar Objeto, Portal, Levitar,
+etc.) sobre esta Runa, indo para o local onde
+ela foi desenhada. A magia de locomoção
+conjurada sobre essa Runa custa metade dos
+Pontos de Mana normais para se a duração
+for menor do que o tempo necessário para
+chegar ao local, ela irá durar pelo tempo da
+viagem – mas será imediatamente dissipada
+se o personagem parar ou desviar da direção
+da Runa de Localização.
+Essa Runa Arcana é permanente, mas, se
+a superfície onde ela foi escrita for danificada o
+efeito se perde.
+---
+--Teleportar Objeto--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: 10
+*Descrição: Desenhando uma Runa Arcana sobre um objeto, você pode teleportá-lo
+para um local que conheça. O local de destino
+pode ser uma localização geográfica (“Sobre a
+escrivaninha do meu quarto”, por exemplo),
+um recipiente capaz de conter o objeto e que
+tenha sua Runa Pessoal gravada nele (“para
+dentro da minha mochila”) ou até um aliado
+(“para a mão do Guerreiro”). Se teleportar o
+objeto para dentro de um objeto marcado com
+sua Runa Pessoal ou para um aliado, você não
+precisa saber onde o local de destino está. O
+objeto afetado pode ter uma FN máxima igual
+à Inteligência do conjurador.
+Essa Runa Arcana se dissipa assim que
+seus efeitos forem desencadeados.
+---
+--Teólogo--
+Habilidade (Característica) – Suporte
+*Descrição: Você é capaz de interpretar perfeitamente os significados por trás de
+magias místicas contidas em qualquer missal.
+Sempre que conseguir estudar uma Magia
+Mística contida em um item com a característica Registro, você será capaz de conjurar
+aquela Magia sem qualquer penalidade. Além
+disso, se você puder atender aos requisitos
+daquela Magia, você pode aprendê-la como
+se ela estivesse na lista de Habilidades da sua
+Classe. 
+---
+
+Habilidades Avançadas
+
+---
+--Área de Anti-Magia--
+Habilidade (Magia) – Ação
+*Requisito: Nível 5
+Mana: 60
+Dificuldade da Magia: 16
+*Descrição: Desenhando uma Runa Arcana no solo, você cria uma área esférica de
+magia morta cujo raio é igual à sua Vontade em
+metros. Dentro desta área é impossível conjurar Magias, e todos os efeitos de itens mágicos
+ficam inativos enquanto eles estiverem dentro
+dessa área, e o mesmo ocorre com qualquer
+construto. Além disso, qualquer morto-vivo
+com a Habilidade Mente Vazia, elementais ou
+qualquer criatura que tenha sido invocada que
+entrem na área são imediatamente destruídos.
+Essa área de magia morta persistirá até o
+próximo nascer do sol.
+Essa Runa Arcana se dissipa assim que
+seus efeitos forem desencadeados. 
+---
+--Arremesso Cinético--
+Habilidade (Magia) – Ação
+*Requisito: Nível 5, Empurrão Cinético.
+Mana: 25
+Dificuldade da Magia: 15
+*Descrição: Desenhando uma Runa Arcana
+sobre um alvo, você o arremessa no ar a uma altura
+igual à sua Determinação. O alvo (e qualquer criatura atingida por ele) sofre o dano apropriado pela
+altura que cair (causando essa mesma quantidade
+de dano em qualquer criatura que atingir). Além
+disso, quando atingir o solo, o alvo (e qualquer criatura que ele tenha atingido) precisa vencer um teste
+de Agilidade (Dificuldade igual à Determinação do
+conjurador) ou cairá. Você pode utilizar essa Magia
+sobre si mesmo ou sobre um aliado, para alcançar
+uma área elevada. Nesse caso, diminua a Vontade
+do alvo da Dificuldade da Magia e o alvo não sofre
+dano nem chance de queda.
+*Especial: Criaturas com as Habilidades
+Combate Gigante ou Colosso são arremessadas
+a uma altura igual à metade da Determinação do
+Conjurador (arredondado para baixo). No entanto,
+elas causam quatro vezes o dano de queda que sofrerem em qualquer criatura sobre a qual caiam (se
+estas não tiverem as Habilidades Combate Gigante
+ou Colosso).
+---
+--Conjurador Especialista: [Magia]--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Você domina a conjuração
+de uma Magia de forma magistral. Quando
+seleciona esta Habilidade, você deve selecionar uma Habilidade do tipo Magia que você já
+possua OU que você possa aprender. A magia
+deve ter pelo menos uma Habilidade do tipo
+Magia como requisito. Se você não tiver aquela Habilidade, você agora é capaz de conjura-la
+e recebe um bônus de +2 em seus testes para
+fazê-lo. Além disso, você recebe um bônus de
++1d6 para conjurar quaisquer magias que sejam
+Requisito da magia selecionada.
+---
+--Porta Oculta--
+Habilidade (Magia) – Ação
+*Requisito: Nível 5, Sala Oculta.
+Mana: 20
+Dificuldade da Magia: 14
+*Descrição: Desenhando uma Runa Arcana sobre uma porta, você cria um acesso permanente para a sua Sala Oculta. A porta em que você
+desenhar esta Runa aparece numa das paredes da
+sua Sala Oculta, e sempre que você abrir a porta
+por dentro da Sala Oculta, você sairá pela porta
+marcada. Assim que a porta for fechada, no entanto, ela não levará mais para a Sala Oculta – ou
+seja, ela serve para sair da Sala Oculta em um lugar
+fixo, mas não serve de entrada de emergência.
+Você pode ter um número de Portas
+Ocultas igual à sua Inteligência.
+Essa Runa Arcana é perene.
+---
+--Sala Oculta--
+Habilidade (Magia) – Ação
+*Requisito: Nível 5
+Mana: 30
+Dificuldade da Magia: 16
+*Descrição: Desenhado uma Runa Arcana no ar, você cria um portal que o levará
+para uma pequena sala de 10 metros de profundidade, 10 metros de largura e 10 metros de
+altura. As paredes são indestrutíveis, brancas e
+lisas como vidro. Este é um plano paralelo exclusivamente seu, e você pode utilizá-lo como
+quiser, usando-o como depósito, biblioteca ou
+laboratório, por exemplo – mas terá que adquirir o que quiser que esteja dentro dele. O portal
+permanecerá aberto enquanto você quiser, e
+você pode fechá-lo à vontade quando estiver
+dentro da sala – ele sempre se abrirá no último
+local onde você abriu ele pela última vez.
+A sala possui ar ilimitado, e a luz dentro
+dela é sempre semelhante à de um dia nublado, mas você pode usar outras fontes de luz –
+como lampiões ou tochas – para torná-la total
+ou parcialmente melhor iluminada.
+Essa Runa Arcana é perene enquanto o
+portal estiver aberto. Se você estiver dentro da
+sala e o portal estiver fechado, a Runa continuará ativa, mas estará dentro da sala – e, portanto
+não pode ser detectada pelo lado de fora.
+---
+
+Habilidade Final
+
+---
+--Mestre Telecinético--
+Habilidade – Suporte
+*Requisito: Nível 10, Teólogo
+*Descrição: Você possui um controle
+profundo sobre Magias dedicados a mover
+criaturas e objetos. Você pode conjurar Telecinese e Caminhada Mágica (ou qualquer Magia
+que tenha uma dessas magias como Requisito
+mesmo que retroativamente) como uma ação
+de movimento ao invés de uma ação padrão.
+---
+
+**Cruzado**
+
+---
+/*
+*Requisito:
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Vontade 4
+• Dogma (Habilidade)
+Habilidade Automática:
+--Força Divina--
+Habilidade (Característica) – Suporte
+*Descrição: Você coloca toda sua vontade em seus golpes. Sempre que acertar um
+ataque corporal, some sua Vontade ao dano
+daquele ataque.
+*Especial: Essa Habilidade não tem
+efeito em criaturas que possuam um Dogma.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Ataque Fervoroso--
+Habilidade (Técnica) – Ação
+Mana: 20
+*Descrição: Você pede pela inspiração
+de sua divindade para desferir um golpe preciso. Você pode fazer um ataque corporal que
+ignora o bônus de Atributo da Defesa do alvo
+e, se acertar, causa um dano adicional igual à
+sua Determinação.
+*Especial: Essa Habilidade não
+tem efeito em criaturas que possuam
+um Dogma.
+---
+--Contos da Estrada--
+Habilidade – Suporte
+*Descrição: Através
+de várias histórias e canções
+contadas ao redor de fogueiras com viajantes que você
+encontrou em suas andanças, você acumulou um vasto conhecimento oral sobre
+inúmeros assuntos. Você rola
++1d6 quando fizer testes de
+Inteligência referentes a qualquer tipo de conhecimento, não
+importando o quão inacessível
+seja este conhecimento.
+---
+--Vontade da Lei--
+Habilidade – Suporte
+*Descrição: Você possui uma mentalidade tão rigidamente ordeira que é muito difícil
+manipulá-lo ou fazê-lo mudar de idéia. Você
+tem Determinação +2 e recebe +2 em todos
+os testes e confrontos para resistir a tentativas
+de manipulação, intimidação, efeitos mentais e
+efeitos de medo.
+---
+--Vontade Sobrenatural--
+Habilidade – Suporte
+*Descrição: Você possui uma incrível
+resistência a efeitos sobrenaturais e influência
+mental. Você tem Determinação +2 e recebe
++1d6 em todos os seus Confrontos contra criaturas dos tipos Amaldiçoado, Infernal, Espírito
+e Morto-vivo e em qualquer teste para resistir a
+qualquer efeito desse tipo de criatura.
+---
+
+Habilidades Avançadas
+
+---
+--Expurgo Elemental--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5
+Mana: 25
+*Descrição: Você canaliza a energia
+de sua divindade através de sua arma em um
+ataque inescapável. Quando ativar esta Habilidade, selecione um tipo de dano elemental (Frio, Fogo ou Eletricidade). Este golpe
+causa uma quantidade de dano extra do tipo
+selecionado igual à sua Determinação. Mesmo se o golpe errar o dano elemental ainda
+atinge o alvo – a menos que o ataque seja
+uma falha crítica.
+*Especial: Essa Habilidade não tem efeito em criaturas que possuam um Dogma.
+---
+--Seguir em Frente--
+Habilidade (Característica) – Suporte
+*Requisito: Nível 5
+*Descrição: Sua vontade o mantém lutando mesmo quando outros já teriam caído.
+Sempre que você estiver Por um Fio, você se
+mantém consciente, e pode fazer uma ação padrão por turno. Você é considerado Atordoado
+até conseguir recuperar pelo menos 1 Ponto de
+Vida, e ainda precisará receber primeiros socorros – ou passar em um teste de Vontade – para
+não morrer depois de uma quantidade de minutos igual à sua Vontade – e você ainda morrerá
+se sofrer qualquer dano enquanto estiver nessa
+condição.
+---
+--Vontade Inabalável--
+Habilidade (Característica) – Suporte
+*Requisito: Nível 5
+*Descrição: Sempre que você for alvo de
+qualquer Habilidade que o fizer perder Pontos
+de Mana, você nega todos os efeitos daquela
+Habilidade, automaticamente. Além disso, você
+gasta 5 Pontos de Mana a menos para usar qualquer Habilidade – até um custo mínimo de 5
+Pontos de Mana.
+---
+
+Habilidade Final
+
+---
+--Golpe Justo--
+Habilidade – Reação
+*Requisito: Nível 10
+Mana: 30
+*Descrição: Sempre que realizar um
+ataque corporal contra uma criatura, você
+pode mudar o resultado de um dos dados
+para 6.
+*Especial: Essa Habilidade não tem
+efeito em criaturas que possuam um Dogma.
+---
+
+**Estrige**
+
+---
+/*
+*Requisito:
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Inteligência 4
+• Ter destruído pelo menos 1 criatura sobrenatural (Amaldiçoado, Demônio, Espírito ou Morto-vivo).
+Habilidade Automática:
+--Caça Sobrenatural--
+Habilidade (Característica) – Suporte
+*Descrição: Você recebe +2 em todas
+as suas rolagens relativas a criaturas dos tipos Amaldiçoado, Infernal, Espírito e Morto-vivo. Você também causa +3 de dano em
+todos os seus ataques contra essas criaturas. 
+*\
+---
+
+Habilidades Básicas
+
+---
+--Imunidade Sobrenatural--
+Habilidade – Suporte
+*Descrição: Seu corpo possui uma resistência incrível a maldições. Você é imune a doenças mágicas e maldições, e recebe +1d6 para
+resistir a doenças naturais e venenos naturais
+mágicos.
+---
+--Sabedoria Sobrenatural--
+Habilidade – Suporte
+*Descrição: Você recebe +1d6 em seus
+testes de conhecimento sobre maldições, criaturas dos tipos Amaldiçoado, Infernal, Espírito
+e Morto-vivo. Esse bônus também se aplica a
+testes para perceber e rastrear essas criaturas.
+---
+--Semelhança Cadavérica--
+Habilidade – Ação
+*Descrição: Seu corpo é capaz de baixar
+o batimento cardíaco, respirar muito lentamente e ficar de olhos abertos por até 1 hora. Você
+pode se manter nesse estado por uma quantidade de horas igual à sua Vontade, mas se entrar em combate ou realizar alguma Habilidade
+do tipo Ação ou Reação o efeito é cancelado
+imediatamente – você também pode cancelar
+esse efeito a qualquer momento se desejar.
+Enquanto estiver nesse estado, você é virtualmente indistinguível de um cadáver (ou zumbi, dependendo da situação) e recebe +1d6 em
+seus testes de camuflagem, mas fica Vulnerável
+à Frio.
+---
+--Sentidos de Caçador--
+Habilidade (Característica) – Suporte
+*Descrição: Você possui uma audição
+aguçada e uma visão treinada. Você rola +1d6
+em todos os seus testes de Inteligência para
+perceber e rastrear alvos.
+---
+--Sexto Sentido--
+Habilidade – Suporte
+*Descrição: Você é capaz de sentir a presença de qualquer criatura dos tipos Amaldiçoado, Infernal, Espírito ou Morto-vivo que se
+aproxime de você a uma distância em metros
+igual à sua Determinação.
+---
+--Vontade Sobrenatural--
+Habilidade – Suporte
+*Descrição: Você possui uma incrível
+resistência a efeitos sobrenaturais e influência
+mental. Você tem Determinação +2 e recebe
++1d6 em todos os seus Confrontos contra criaturas dos tipos Amaldiçoado, Infernal, Espírito
+e Morto-vivo.
+---
+
+Habilidades Avançadas
+
+---
+--Matador Sobrenatural--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Sempre que acertar um ataque corporal em criaturas dos tipos Amaldiçoado, Infernal, Espírito e Morto-vivo, some sua
+Vontade ao dano daquele ataque. Além disso,
+você recebe +2 em todas as suas rolagens relacionadas a essas criaturas.
+---
+--Perceber Corrupção--
+Habilidade – Suporte
+*Requisito: Nível 5, Sexto Sentido.
+*Descrição: Criaturas sobrenaturais não
+são capazes de esconder sua natureza de você.
+Sempre que você estiver diante de uma criatura
+amaldiçoada, um morto-vivo, Infernal ou espírito, você é capaz de perceber a natureza sobrenatural daquela criatura imediatamente, mesmo
+que ela esteja disfarçada, transformada ou sob
+algum efeito ilusório – incluindo qualquer forma de invisibilidade. Você também é capaz de
+perceber automaticamente quaisquer mentiras
+que tais criaturas digam.
+---
+--Quebrar a Defesa Sombria--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5
+Mana: 10
+*Descrição: Você é capaz de atravessar
+as defesas sobrenaturais de seus alvos. Sempre que causar dano em um alvo, você pode
+ignorar quaisquer Resistências à Dano que
+aquela criatura possua – se o alvo tiver Imunidade à Dano, considere que ela tem apenas
+Resistência àquele tipo de dano. Além disso,
+seus acertos críticos causam dano dobrado
+mesmo em criaturas imunes a danos críticos
+– como mortos-vivos com a Habilidade Corpo Vazio.
+---
+--Sentido de Alerta--
+Habilidade – Reação
+*Requisito: Nível 5, Sentidos do Caçador.
+*Descrição: Seus sentidos são sobrenaturalmente afiados e seu sono é extremamente
+leve. Você nunca é considerado Surpreso ou
+Desprevenido e recebe +2 em suas rolagens
+de Iniciativa. Além disso, se você estiver dormindo ou desacordado, você desperta imediatamente se for atacado, rolando sua Iniciativa
+– e se tiver um resultado maior do que o do
+atacante, pode agir antes dele.
+---
+
+Habilidade Final
+
+---
+--Banir a Perversão--
+Habilidade – Reação
+*Requisito: Nível 10, Quebrar a Defesa Sombria.
+Mana: 20
+*Descrição: Sempre que realizar um
+ataque corporal contra criaturas dos tipos
+Amaldiçoado, Infernal, Espírito ou Morto-
+-vivo, você pode declarar que aquele ataque
+foi um sucesso decisivo automático. Você
+deve declarar o uso desta Habilidade antes de
+realizar sua rolagem de ataque. 
+---
+
+**Lanceiro**
+
+---
+/*
+*Requisito:
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Força 3
+• Sem Escapatória (Habilidade)
+Habilidade Automática
+--Manter a Linha--
+Habilidade (Técnica) – Reação
+*Descrição: Você sabe como utilizar o
+alcance de uma arma de haste com eficiência.
+Sempre que estiver utilizando uma arma de
+haste e um oponente que esteja à distância de
+haste ou além dela se aproximar à distância
+corpo-a-corpo, você pode imediatamente realizar um ataque corporal normal contra ele
+*\
+---
+
+Habilidades Básicas
+
+---
+--Contra-Carga--
+Habilidade (Técnica) – Suporte
+*Descrição: Sempre que você estiver empunhando uma arma de haste e um adversário
+realizar uma manobra de encontrão contra você,
+considere que Manter a Linha causa um dano
+extra igual à FN da arma que você estiver empunhando e, se o ataque acertar, o alvo deve ser
+bem sucedido em um teste de Força (dificuldade igual à sua Determinação mais
+a FN da arma que você estiver
+utilizando) ou fica Paralisado
+(Veja Condições na página 169
+do Guia Básico) por 1 turno.
+---
+--Derrubar--
+Habilidade (Técnica) – Ação
+Mana: 10
+*Descrição: Faça um ataque
+corporal usando uma arma de
+haste. Se acertar, o alvo sofre
+o dano normal do ataque e
+deve fazer um teste de Agilidade (dificuldade igual à sua Determinação mais a FN da arma
+que você estiver empunhando)
+ou será derrubado.
+---
+--Empunhadura Flexível--
+Habilidade (Técnica) – Suporte
+*Requisito: Combater com Duas Armas 1
+*Descrição: Você sabe como utilizar armas de haste em combate próximo de forma
+eficiente – e sabe aproveitar o tamanho de armas pouco tradicionais como se fossem armas
+de haste. Sempre que estiver utilizando uma
+arma de haste, você pode reduzir o alcance da
+arma para Corpo-a-corpo e considerar o cabo
+da arma como uma segunda arma. Considere
+que o cabo de uma arma de haste tem FN igual
+à metade da FN da arma (arredondando para
+baixo) e causa dano igual à Força +5/Contusão. Você pode mudar o modo como vai empunhar a arma no começo de cada um dos seus
+turnos, como uma ação livre.
+Além disso, você passa a considerar bordões, cajados e claymores como tendo alcance
+de haste para todos os propósitos.
+---
+--Manter à Distância--
+Habilidade (Técnica) – Ação
+Mana: 10
+*Descrição: Você pode atacar recuando,
+anulando os contra-ataques do oponente. Você
+realiza um ataque corporal normal e recua três
+metros como parte dessa ação, e o oponente
+não pode utilizar nenhuma Habilidade do tipo
+Reação contra você nesse turno. Esse recuo
+não conta para calcular seu Deslocamento no
+turno– assim, você pode recuar três metros
+como parte desse ataque e ainda utilizar uma
+Ação de Movimento para se deslocar normalmente.
+*Especial: Você precisa ter pelo menos 3
+metros de espaço atrás de si para poder utilizar
+essa Habilidade. 
+---
+
+Habilidades Avançadas
+
+---
+--Acuar--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Sempre que você estiver
+usando uma arma de haste e o seu oponente
+não, ele é considerado Desprevenido contra
+você.
+---
+--Fique Longe--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Manter à Distância.
+*Descrição: Sempre que você fizer um
+ataque devido a uma Habilidade do tipo Reação e estiver usando uma arma de haste, você
+recebe +2 no teste de ataque e no dano do
+ataque.
+---
+--Virar o Jogo--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5, Contra-Carga.
+*Descrição: Se um oponente não for
+paralisado por sua Contra-Carga, você recebe
+um bônus de Defesa igual à sua Inteligência
+contra o ataque de encontrão (este é um bônus
+de esquiva ou bloqueio, à sua escolha). Além
+disso, se esse ataque de encontrão errar, você
+pode imediatamente utilizar Manter à Distância
+como uma Reação contra o oponente. 
+---
+
+Habilidade Final
+
+---
+--Mestre da Lança--
+Habilidade (Técnica) – Suporte
+*Requisito: Empunhadura Flexível
+*Descrição: Você sabe exatamente
+onde – e como – acertar com uma arma de
+haste com máxima eficiência. Enquanto você
+estiver usando uma arma de haste para fazer
+ataques corporais, você adiciona metade de
+sua Inteligência ao resultado das suas rolagens de ataque. Você também adiciona uma
+quantidade extra de dano igual ao seu valor
+de Inteligência em todos os seus danos com
+armas com alcance de Haste – mesmo que
+esteja empunhando ela corpo-a-corpo.
+---

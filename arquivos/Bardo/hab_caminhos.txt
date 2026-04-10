@@ -1,0 +1,1524 @@
+Caminhos:
+
+---
+
+**Trovador**
+
+---
+/*
+Requisito
+Para seguir este Caminho, você precisa preencher os seguintes Requisitos:
+- Eloquente (Habilidade)
+- Vontade 5
+Habilidade Automática
+--Inspiração--
+Habilidade (Técnica) – Suporte
+*Descrição: Enquanto você mantiver
+suas músicas, você inspira seus aliados cada
+vez mais. Você fornece um bônus de +1 em
+todos os testes de seus aliados para cada turno em que mantiver uma Música, a partir do
+segundo turno, até um máximo de +6. Este
+efeito termina se você for interrompido ou
+trocar de música.
+Fora do combate, essa Habilidade fornece um bônus de +1 (ou +2 se você for de
+Nível 5 ou mais) – mas você pode utilizá-la
+mesmo se estiver usando a ação de Tocar Instrumentos Musicais, ao invés de uma Música.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Inspirar Coragem--
+Habilidade (Característica) – Ação
+*Requisito: Presença Inspiradora
+Mana: 20
+*Descrição: Você reforça a determinação de um aliado através de palavras
+inspiradoras. Aquele aliado recupera imediatamente 20 Pontos de Vida e quaisquer
+efeitos de Medo que o estiver afetando são
+removidos.
+Este efeito não pode ser utilizado em
+você mesmo.
+---
+--Língua Afiada--
+Habilidade (Técnica) – Ação
+*Requisito: Eloquente
+Mana: 10
+*Descrição: Você possui uma língua
+ferina e um talento especial para insultar seus
+adversários. Escolha um inimigo do tipo Humanoide ou Esfinge. Você faz uma série de
+comentários jocosos ou degradantes
+sobre ele. Faça um Confronto de
+Vontade contra o alvo. Se você tiver um resultado igual ou maior
+do que o alvo e se ele for capaz
+de entendê-lo, ele ataca você
+em detrimento de qualquer
+outro alvo, e é considerado
+Desprevenido para todos os
+seus aliados – mas não para
+você.
+Este é um efeito
+mental.
+---
+--Panache--
+Habilidade (Característica) –
+Suporte
+*Requisito: Língua Afiada
+*Descrição: Você possui uma
+bravura petulante e uma confiança inabalável nas suas próprias habilidades. Enquanto não estiver usando armadura, você recebe +1 na Defesa
+para cada 2 pontos de Vontade.
+Esse é um bônus de Esquiva.
+---
+--Presença Inspiradora--
+Habilidade (Característica) – Suporte
+*Descrição: Você inspira confiança em
+seus aliados com sua mera presença. Todos os
+seus aliados, mas não você, recebem Determinação +2 e +1 em todos os seus testes enquanto você estiver dentro do seu alcance de
+visão. Esses benefícios deixam de ter efeito se
+você ficar desacordado por qualquer motivo.
+---
+--Um Bom Conselho 1--
+Habilidade (Característica) – Ação
+Mana: 20
+*Descrição: Você incentiva um aliado
+com palavras de encorajamento sobre as aptidões dele. Aquele aliado recebe +1 sua Determinação e em todos os seus testes por 1 hora.
+---
+
+Habilidades Avançadas
+
+---
+--Inspirar Confiança--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5, Inspirar Coragem
+Mana: 10
+*Descrição: Você é capaz de relaxar e encorajar seus aliados até mesmo
+nas situações mais complicadas. Quando
+um aliado tentar realizar um teste social
+e você estiver tocando uma música, você
+pode fazer com que ele receba +1d6 em
+seus testes sociais.
+Você só pode utilizar esta habilidade
+uma vez por Rodada.
+---
+--Restaurar Ânimo--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Inspirar Coragem.
+Mana: 20
+*Descrição: Suas palavras inspiram e
+restauram o fôlego e a determinação de todos os seus aliados! Todos os seus aliados,
+exceto você, que possam lhe ouvir e que estejam a uma distância em metros até à sua
+Vontade, imediatamente recuperam uma
+quantidade de Pontos de Mana igual à sua
+Determinação.
+---
+--Um Bom Conselho 2--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Um Bom Conselho 1.
+Mana: 40
+*Descrição: Você incentiva um aliado
+exultando suas capacidades de modo excepcional. Aquele aliado recebe +2 em sua determinação e em todos os seus testes por 1
+hora.
+---
+--Vocalização Perfeita--
+Habilidade (Característica) – Suporte
+*Requisito: Nível 5
+*Descrição: Sua voz é ótima para cantar e declamar, não precisando fazer esforços
+para que todos lhe ouçam. Você consome 5
+Pontos de Mana a menos em todas as habilidade do tipo Grito, Rugido e Músicas do tipo
+Canção.
+---
+
+Habilidade Final
+
+---
+--Trilha Sonora--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 10, Língua Afiada
+*Descrição: Enquanto você mantém
+suas Músicas, você faz com que seus inimigos
+se sintam pressionados cada vez mais. Você
+impõe uma penalidade de -1 em todos os testes de seus inimigos para cada turno em que
+mantiver uma Habilidade do tipo Música, até
+um mínimo de -6. Este efeito termina se você
+for interrompido ou trocar de Música.
+Fora do combate, essa Habilidade impõe uma penalidade de -1 (ou -2 se você
+for de nível 5 ou mais) – mas você pode utilizá-la mesmo se estiver usando a ação de
+Tocar Instrumentos Musicais, ao invés de
+uma Música.
+---
+
+**Skald**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+precisa preencher os seguintes Requisitos:
+- Grito de Guerra 1 (pág. 24)
+- Força 5
+Habilidade Automática
+--Poeta Guerreiro--
+Habilidade (Técnica) – Reação
+*Descrição: Você aprendeu no campo
+de batalha que o melhor jeito de uma conversa é com os punhos. Sempre que você estiver
+tocando em uma música e uma criatura se
+aproximar de você em alcance corporal, você
+pode realizar um Grito ou Rugido contra ela.
+Além disso, sempre que você utilizar uma habilidade do tipo Grito ou Rugido, você pode
+se movimentar uma quantidade de metros
+igual à metade da sua Agilidade (arredondado
+para baixo).
+Você só pode utilizar esta habilidade
+contra um mesmo alvo uma vez por turno.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Combate com Duas Armas 1--
+Habilidade (Técnica) –
+Suporte
+*Descrição: Você treinou
+para usar duas armas em combate de forma eficiente. Você pode
+fazer um ataque para cada arma que
+estiver segurando, desde que pelo menos
+uma delas tenha uma FN igual à metade (ou
+menos) do que a Força do seu personagem.
+*Especial: Se você utilizar uma Habilidade de
+Ação, seus efeitos se aplicam a apenas um dos
+seus ataques – mas você ainda pode fazer um
+ataque normal com a outra arma no mesmo
+turno, antes ou depois de utilizar a Habilidade
+de Ação.
+---
+--Golpe Inspirador--
+Habilidade (Técnica) – Reação
+Mana: 15
+*Descrição: Quando você derrota seus
+inimigos, faz isso de maneira sensacional!
+Sempre que você derrotar um oponente,
+você pode fazer uma demonstração de vitória que inspira seus aliados. Todos os seus
+aliados que puderem lhe ver imediatamente
+recuperam uma quantidade de Pontos de
+Vida e Mana iguais à sua Vontade.
+---
+--Grito Ensurdecedor--
+Habilidade – Ação
+Mana: 10
+*Descrição: Você solta
+um grito tão alto e poderoso, que atordoa a todos na
+sua frente. Todas as criaturas
+em uma área de 10 metros à
+sua frente ficam Atordoadas
+por um número de turnos
+igual à sua Vontade.
+---
+--Grito Estilhaçador--
+Habilidade – Ação
+*Requisito: Grito Ensurdecedor
+Mana: 20
+*Descrição: Seu agudo é tão
+poderoso, que você pode direcionar um grito capaz de romper vidros, cristais e tímpanos!
+Tudo e todos em até 10 metros à
+sua frente sofrem dano igual a 10/
+Corte. Criaturas com Corpo Amórfico,
+objetos inanimados e estruturas que sejam
+atingidas por esse grito, sofrem o dobro do
+dano.
+---
+--Grito Retumbante--
+Habilidade – Ação
+*Requisito: Grito Ensurdecedor
+Mana: 20
+*Descrição: Você solta um grito tão
+poderoso, que faz a terra tremer! Todos os
+que estiverem à uma quantidade de metros
+à sua frente igual à sua Força devem fazer
+um teste de Agilidade (Dificuldade igual à
+sua Determinação) ou perderão o equilíbrio
+e cairão. 
+---
+--Percusionista Imparável--
+Habilidade (Técnica) – Suporte
+*Requisito: Golpe Inspirador
+*Descrição: Você sabe fazer músicas
+batendo em seus inimigos! Você pode usar
+sua ação padrão para realizar um ataque corporal desarmado e manter uma Música em
+seus turnos. Enquanto você atacar seus inimigos, eles são considerados instrumentos de
+percussão
+---
+
+Habilidades Avançadas
+
+---
+--Combate com Duas Armas 2--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Combate com
+Duas Armas 1.
+*Descrição: Como Combate com
+Duas Armas 1, mas você pode usar duas armas com a mesma FN.
+*Especial: Se você utilizar uma Habilidade de Ação, seus efeitos se aplicam a apenas um dos seus ataques – mas você ainda
+pode fazer um ataque normal com a outra
+arma no mesmo turno, antes ou depois de
+utilizar a Habilidade de Ação.
+---
+--Coração da Batalha--
+Habilidade (Característica) – Reação
+*Requisito: Nível 5
+*Descrição: Quando sofrer algum
+dano proveniente de um ataque, Magia, ou
+Música, você recupera 5 Pontos de Mana.
+Você só pode usar esta Habilidade uma
+vez por turno.
+---
+--Grito Triturador--
+Habilidade – Ação
+*Requisito: Nível 5, Grito Estilhaçador
+Mana: 35
+*Descrição: Você é capaz de emitir um
+grito ressonante capaz de vibrar rocha, metal
+– e ossos! – até que rachem. Tudo e todos
+em até 10 metros à sua frente sofrem dano
+igual a 24/Contusão. Criaturas com Corpo Amórfico, objetos inanimados e estruturas
+que sejam atingidas por esse grito sofrem o
+dobro do dano.
+---
+
+Habilidade Final
+
+---
+--Grito Obliterador--
+Habilidade – Ação
+*Requisito: Nível 10, Grito Triturador
+Mana: 50
+*Descrição: Você emite um grito tão
+estrondoso e alto que é capaz de arremessar
+todos para longe! Tudo e todos que estiverem
+em um raio igual à até 10 metros ao seu redor
+sofrem dano igual a 40/Contusão e devem
+realizar um teste de Agilidade (Dificuldade
+igual à sua Determinação). Caso fracassem,
+os alvos são arremessados uma quantidade de
+metros igual à sua Força. Criaturas com Corpo Amórfico, objetos inanimados e estruturas que sejam atingidas por esse grito sofrem
+o triplo do dano.
+---
+
+**Sátiro**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+precisa preencher os seguintes Requisitos:
+- Língua Afiada (pág. 24)
+- Inteligência 5
+Habilidade Automática
+--Língua Vorpal--
+Habilidade (Técnica) – Suporte
+*Descrição: Você refinou sua língua
+ferina e técnicas de insulto a ponto de conseguir proferi-los de forma praticamente instintiva. Você é capaz de utilizar Língua Afiada
+como uma ação livre uma vez por rodada – e
+não está mais restrito a 5 palavras quando for
+falar como uma Ação Livre. 
+*\
+---
+
+Habilidades Básicas
+
+---
+--Chamado do Sofista--
+Habilidade (Técnica) – Ação
+Mana: 15
+*Descrição: Você tem um talento bem
+exercido para provocar e manter discussões
+desnecessárias por muito tempo. Faça um
+teste de Vontade. Todas as criaturas que 
+puderem entendê-lo e possuírem uma Determinação menor ou igual ao seu resultado
+ficarão Distraídas enquanto você gastar uma
+ação de movimento por turno para manter
+a discussão acontecendo. Este efeito cessa
+imediatamente se o alvo sofrer algum dano
+ou perda de Vida – mas não perda de Mana.
+Você pode parar a discussão a qualquer momento, mas ela é interrompida imediatamente se você ficar Atordoado, Distraído,
+Enregelado.
+Este é um efeito mental.
+---
+--Devastação Emocional--
+Habilidade (Técnica) – Reação
+*Descrição: Sempre que necessário você consegue colocar
+uma pitada a mais de sarcasmo,
+ódio, desprezo ou seja lá qual
+for a emoção necessária para
+afetar de forma mais profunda
+o ego de seus ouvintes. Sempre que afetar uma criatura
+com um efeito mental, você
+pode reduzir a Determinação
+do alvo em um total igual a
+metade de sua Vontade (arredondada para cima) enquanto
+durar o efeito mental original.
+---
+--Humorista Lacônico--
+Habilidade (Característica) –
+Suporte
+*Descrição: Você aprendeu a ler as emoções dos outros tão
+bem ,que se tornou resistente à tentativas
+de manipular seu próprio humor. Você tem
+Determinação +2 e recebe +1d6 em todos
+os testes e confrontos para resistir efeitos
+que afetem sua mente – como perceber se
+você está mentindo, tentativas de sedução,
+efeitos mentais e efeitos de medo.
+---
+--Palavra Tóxica--
+Habilidade (Técnica) – Reação
+*Requisito: Devastação Emocional
+*Descrição: Suas palavras não são verdadeiramente venenosas, apesar de suas vítimas muitas vezes discordarem. Sempre que
+afetar um alvo com Devastação Emocional,
+ele fica fisicamente enjoado e desgastado,
+perdendo uma quantidade de Pontos de Vida
+igual à sua Vontade por turno enquanto durar o efeito da habilidade original.
+---
+--Papagaio--
+Habilidade (Técnica) – Suporte
+*Descrição: Você possui uma grande facilidade para entender os maneirismos e vozes
+das criaturas e culturas com as quais tem contato. Graças a isso, você consegue imitar qualquer som ou voz que tenha ouvido, assim como
+a postura e os gestos de seus falantes,
+recebendo +2 em testes e confrontos sociais (incluindo Técnicas e
+Músicas, e o cálculo de sua Determinação para estes efeitos), e
++1d6 para se disfarçar.
+---
+--Um Péssimo Comentário--
+Habilidade (Técnica) – Ação
+Mana: 15
+*Descrição: Você
+faz uma piada ruim, trocadilho enfadonho ou apenas
+um comentário de mau gosto
+que atrai brevemente o ódio de
+qualquer um capaz de alcançá-lo
+naquele momento. Faça um teste de
+Vontade. Todas as criaturas capazes de
+entendê-lo (exceto seus aliados, que já devem estar acostumados com seu senso de humor) que possuam uma Determinação menor
+ou igual ao seu resultado e estejam em alcance
+corporal, ou segurando algum objeto que possa
+ser arremessado com aptidão, devem realizar
+um ataque inapto contra você que causa apenas
+metade do dano (arredondado para baixo), e ficarão Distraídas até o fim de seu próximo turno.
+Além disso, quaisquer criaturas que o tenham
+conseguido atingir também estarão Desprevenidas
+até o fim de seu próximo turno.
+Este é um efeito mental.
+---
+
+Habilidades Avançadas
+
+---
+--Charada Obtusa--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5
+Mana: 35
+*Descrição: Você profere uma charada
+capaz de desestabilizar qualquer um. Todas
+as criaturas capazes de ouvi-lo e entender o
+que você diz devem ser bem-sucedidas num
+teste de Inteligência (dificuldade igual à sua
+Determinação) ou ficarão Paralisadas até o final de seu próximo turno – quando podem
+repetir o teste, reduzindo em 2 a dificuldade
+anterior, cumulativamente. Sempre que falha
+no teste, a criatura volta a ficar Paralisada até
+o final de seu próximo turno ou até que sofra
+dano ou perda de Vida – o que cessa o efeito
+imediatamente.
+Seus aliados já estão acostumados, e
+recebem +2 nos testes para resolver a charada – e se falharem, só ficarão Paralisado por
+1 turno, descartando a charada em seguida.
+Este é um efeito mental.
+---
+--Imitação Zureta--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Papagaio
+Mana: 30
+*Descrição: Ao invés de utilizar apenas
+sua língua afiada para insultar uma criatura,
+você faz uma imitação debochada de sua voz,
+sotaque, gestos, etc, para que os aliados desta
+também parem para rir dela. Faça um confronto de Vontade contra todas as criaturas
+inimigas, tendo uma delas como alvo de sua
+imitação. Se você tiver um resultado igual ou
+maior do que o alvo ele ataca você em detrimento de qualquer outro alvo, e é considerado Desprevenido para todos os seus aliados
+– mas não para você. Além disso, quaisquer
+aliados do alvo que não obtiverem um resultado maior do que o seu começarão a rir,
+ficando Distraídos enquanto você mantiver a
+imitação como uma ação padrão. Você pode
+parar a imitação a qualquer momento, mas
+ela é interrompida imediatamente se você for
+Derrubado, ficar Atordoado, Enregelado, Distraído
+ou Paralisado.
+Este é um efeito mental.
+*Especial: Você não pode utilizar Língua Afiada na mesma rodada em que esta habilidade.
+---
+--Língua de Nove Caudas--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5
+Mana: 20
+*Descrição: Seus insultos são elaborados de forma precisa para ofender a nível pessoal, mas ditos de forma genérica o
+suficiente para servir a múltiplas criaturas.
+Escolha uma profissão, raça, cultura, classe
+social, ou qualquer grupo ao qual possa se
+referir com palavras. Faça um confronto de
+Vontade contra todas as criaturas deste grupo que puderem entendê-lo, e todas as que
+obtiverem um resultado menor ou igual ao
+seu o atacarão em detrimento de qualquer
+outro alvo, sendo consideradas Desprevenidas
+para seus aliados – mas não para você.
+Este é um efeito mental, e equivalente
+à Língua Afiada para quaisquer benefícios.
+---
+
+Habilidade Final
+
+---
+--Satiricon--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 10, Imitação Zureta
+*Descrição: Você é um mestre do escárnio e deboche, adorado por todos, exceto
+os alvos de suas piadas. Você consegue ser
+entendido a um nível primordial, recebendo
++2 em sua Determinação, e em todos os seus
+testes sociais e nos testes e Confrontos de
+suas habilidades de efeito mental. Além disso,
+todas as suas habilidades ignoram resistências
+e imunidades a efeitos mentais e são capazes
+de afetar criaturas normalmente incapazes de
+entendê-lo, como animais ou pessoas com as
+quais não compartilhe um idioma.
+*Especial: Criaturas de Mente Vazia
+ainda são imunes a suas habilidades mentais.
+---
+
+**Orador**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+precisa preencher os seguintes Requisitos:
+- Conhecer ao menos uma Melodia
+- Dogma (Guia Básico, pág, 142)
+Habilidade Automática
+--Sermão--
+Habilidade (Técnica) – Ação
+*Descrição: Conversando com uma
+pessoa por pelo menos 10 minutos, você é
+capaz de cativá-la e trazer-lhe as boas novas.
+A pessoa que ouvi-lo recebe +1 em todos os
+seus testes por uma hora e recupera imediatamente uma quantidade de Pontos de Vida e
+Mana igual à sua Determinação.
+Você só pode utilizar esta habilidade
+uma vez por dia na mesma pessoa.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Entusiasmar Fiéis--
+Habilidade (Técnica) – Suporte
+*Descrição: Você sabe
+como entusiasmar seus colegas
+e sabe como diverti-los com
+seus sermões.
+No final de
+cada turno em
+que você estiver utilizando uma habilidade
+do tipo Melodia, todos
+os seus aliados (exceto você) que estejam a
+uma distância em metros igual à sua Determinação e sejam capazes de
+entendê-lo recuperam 5
+Pontos de Vida.
+*Especial: Aliados
+que possuírem a Habilidade Dogma recuperam 10 Ponto de Vida ao invés
+de 5.
+---
+--Incógnita do Destino--
+Habilidade (Técnica) – Reação
+Mana: 10
+*Descrição: Suas músicas são algo que
+muda a vida das pessoas fazendo elas trilharem caminhos nunca antes vistos. Enquanto
+estiver tocando uma Melodia, você pode rolar novamente um dado cujo resultado tenha
+sido 1.
+Esta Habilidade só pode ser utilizada
+uma vez por turno.
+*Especial: Todos os seus aliados que
+possam ouvir sua Melodia também recebem
+esse benefício.
+---
+--Pregar a Palavra--
+Habilidade (Técnica) – Ação
+*Requisito: Eloquente
+Mana: 10
+*Descrição: Você sabe muito bem
+como utilizar sua lábia e convencimento
+para atrair seus fiéis. Faça um confronto de Vontade contra um alvo
+que você consiga ver. Se você tiver um resultado igual ou maior
+do que o alvo e se ele for capaz de entendê-lo, ele ficará
+Atordoado por um número de
+turnos igual à sua Vontade.
+Além disso, se o alvo possuir um Pacto ou Sintonia
+Dracônica, ele também ficará Distraído por 2 turnos.
+Este é um efeito mental.
+---
+--Solicitar Doações--
+Habilidade (Técnica) – Suporte
+*Descrição: Você é um pedinte excepcional fazendo com que todos caiam
+em sua lábia enquanto
+declama algo. Você recebe +2 em seus testes para
+Declamar, e recebe o dobro de moedas ao
+fazê-lo.
+---
+
+Habilidades Avançadas
+
+---
+--Alegrar Palcos--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Entusiasmar Fiéis
+*Descrição: Quando você começa a
+tocar, multidões se unem só para lhe escutar, se empolgando cada vez que você toca
+uma nota. Enquanto estiver mantendo uma
+Musica do tipo Melodia, todos recebem Determinação +2 e recebem +1d6 para evitar
+ser derrubado, evitar ser agarrado e apertado,
+e para a tentativas de desarmá-lo.
+---
+--Bater de Palmas--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Entusiasmar Fiéis
+*Descrição: Suas músicas são cativantes, fazendo com que todos à sua volta interajam com sua música. Enquanto estiver
+mantendo uma Música do tipo Melodia, você
+recebe +2 em seu Bloqueio e Esquiva contra
+alvos que estiverem lhe ouvindo. Além disso,
+todos os conjuradores que estiverem dentro
+dessa área têm as Dificuldades das suas magias aumentadas em +2.
+---
+--Pregação da Fé--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Pregar a Palavra
+Mana: 30
+*Descrição: Concentrando-se em uma
+pessoa, você é capaz de repreendê-la por todos os seus atos. Faça um confronto de Vontade contra um alvo que consiga ver. Se você
+vencer e se o alvo for capaz de entendê-lo,
+este perde imediatamente uma quantidade
+de Pontos de Mana igual sua Determinação
+e fica Distraído por 2 turnos. Além disso, se o
+alvo possuir um Pacto ou Sintonia Dracônica, ele ficará Paralisado por 2 turnos ao invés
+de Distraido.
+Este é um efeito mental.
+---
+--Orientação Mística--
+Habilidade (Característica) – Suporte
+*Requisito: Nível 5
+*Descrição: Você aprimorou seu discurso e oratória motivacionais, e consegue
+fazê-lo constantemente! A sua orientação
+mística – o seu sermão – recupera uma quantidade de Pontos de Vida e Mana iguais ao
+dobro da sua Determinação, e pode ser utilizado uma vez a cada duas horas na mesma
+pessoa.
+---
+
+Habilidade Final
+
+---
+--Melodia Evangelizadora--
+Habilidade (Música) – Ação
+*Requisito: Nível 10, Pregação da Fé
+Mana: 80
+*Descrição: Você toca uma melodia
+fervorosa e empolgante, que faz todos a sua
+volta cantarem junto a sua música. Todos
+que escutarem sua música devem realizar um
+Confronto de Vontade contra você, aqueles
+que tiverem um resultado menor do que o
+seu soltam suas armas e começam a entrar
+no ritmo da sua música, perdendo sua Ação
+Padrão durante seu próximo turno. Caso tenham um resultado igual ou maior do que o
+seu, eles ficam Distraídos por um número de
+turnos igual à sua Vontade.
+Personagens que possuam Pacto ou
+Sintonia Dracônica recebem um redutor
+igual à sua Vontade em todos os testes enquanto você estiver tocando esta música.
+Este é um efeito mental.
+*Especial: Personagens que possuam
+Dogma não são afetados por esta Música.
+---
+
+**Metaleiro**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+precisa preencher os seguintes Requisitos:
+- Grito de Guerra 1 (pág. 24)
+- Força 5
+Habilidade Automática
+--Sensação do Palco--
+Habilidade (Característica) – Suporte
+*Descrição: Você adora se exibir para
+uma multidão! Sempre que estiver diante de
+um grupo com pelo menos 10 indivíduos – seja
+uma plateia, seus aliados ou um bando de inimigos! – você recebe +2 em todos os seus testes
+relacionados à tocar instrumentos musicais (incluindo o uso de Músicas) e Determinação +2. 
+*\
+---
+
+Habilidades Básicas
+
+---
+--Amplificadores--
+Habilidade (Técnica) – Suporte
+*Requisito: Guerreiro de Aço 1
+*Descrição: As placas de sua armadura amplificam os sons das suas
+Músicas! Enquanto estiver utilizando uma Armadura com a Característica Pesada, todas as dificuldades para
+resistir à efeitos de seus Gritos e Músicas são
+aumentadas em +2. Além disso, todos os
+seus Gritos, Músicas e Rugidos que causam
+dano passam a causar uma quantidade extra
+de dano igual à Defesa + Redução de Dano
+de sua armadura.
+---
+--Reforçar os Graves--
+Habilidade (Técnica) – Reação
+Mana: 10
+*Descrição: Sempre que estiver mantendo um Ritmo ou Melodia e uma criatura se
+aproximar de você, até uma distância máxima
+de sua Determinação em metros, você pode
+adicionar algumas notas a mais em sua música
+para dissuadi-lo. O alvo sofre imediatamente
+uma quantidade de dano igual à sua Vontade/
+Contusão e precisa realizar um teste de Vontade (Dificuldade igual a sua Determinação).
+Se falhar, o alvo fica Atordoado por 1 turno e
+perde o Deslocamento restante do seu turno.
+Você pode usar
+esta Habilidade uma
+vez por rodada.
+---
+--Deslizar pelo Palco--
+Habilidade (Técnica) – Reação
+*Requisito: Evasão
+Mana: 10
+*Descrição: Sempre que você
+estiver mantendo uma Música e for alvo de um ataque,
+você pode tentar esquivar
+enquanto mantêm a Música tocando – e faz isso com
+estilo! Você desliza sobre os
+joelhos, podendo se mover
+metade do seu Deslocamento total (arredondado
+para baixo) e recebendo
++2 na sua Defesa contra
+aquele ataque (este é um
+bônus por posicionamento e não pode
+ser ignorado ou reduzido).
+Você pode utilizar esta Habilidade 1
+vez por turno.
+---
+--Guerreiro de Aço 1--
+Habilidade (Característica) – Suporte
+*Descrição: Você está acostumado a
+usar armaduras pesadas. Você considera a
+FN de qualquer armadura com a Característica Pesada como tendo FN-1 para todos os
+propósitos. Além disso, quando estiver utilizando uma armadura Pesada, a redução de
+dano oferecida pela armadura é dobrada.
+---
+--Mestre das Notas--
+Habilidade (Técnica) – Reação
+Mana: 10
+*Descrição: Sempre que você fizer um
+teste que envolva contar histórias, entreter uma
+plateia, cantar ou tocar instrumento musicais
+(incluindo Habilidades do tipo Música), você
+pode rolar novamente um dos dados. Você
+pode escolher com qual dos resultados vai ficar.
+Você só pode usar esta Habilidade 1
+vez por turno.
+---
+--Solo--
+Habilidade (Técnica) – Suporte
+*Requisito: Mestre das Notas
+*Descrição: Quando você começa a tocar, é praticamente impossível fazer você parar! Enquanto estiver mantendo uma Música,
+você fica imune a efeitos que o deixariam
+Atordoado, Distraído, Paralisado e Enregelado.
+Além disso, você pode selecionar uma
+Música para a qual preencha os requisitos.
+Esta escolha é permanente e não pode ser
+alterada mais tarde.
+---
+
+Habilidades Avançadas
+
+---
+--Focar nos Refrões--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Solo
+*Descrição: Você mantém sua música
+ritmada, melhorando a concentração de seus
+aliados. Enquanto estiver mantendo uma
+Música, todos os seus aliados recebem Determinação +2 e ficam imunes a efeitos que
+os deixariam Distraídos.
+Além disso, você pode selecionar uma
+Música para a qual preencha os requisitos.
+Esta escolha é permanente e não pode ser
+alterada mais tarde.
+---
+--Guerreiro de Aço 2--
+Habilidade (Característica) – Suporte
+*Requisito: Nível 5, Guerreiro de Aço 1
+*Descrição: Você está extremamente
+acostumado a usar armaduras pesadas e se
+sente confortável quando verga uma. Você
+considera a FN de Qualquer armadura com a
+Característica Pesada como tendo FN-1 para
+todos os propósitos. Além disso, se alguma
+Habilidade ou situação anularem seu bônus
+de Defesa de Armadura, você ainda recebe
+metade do seu bônus normal (arredondado
+para cima) enquanto estiver utilizando uma
+armadura com a característica Pesada (este
+efeito também se aplica à redução de dano
+oferecida pela armadura).
+A redução de FN se acumula com a
+redução fornecida por Guerreiro de Aço 1.
+---
+--Virtuoso--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Mestre das Notas
+*Descrição: Você treinou exaustivamente até se tornar um mestre no uso de
+instrumentos musicais. Você rola +1d6 em
+todos os testes envolvendo tocar instrumentos musicais (incluindo Habilidades do tipo
+Música).
+---
+
+Habilidade Final
+
+---
+--Hino de Guerra--
+Habilidade (Música) – Ação
+*Requisito: Nível 10, Reforçar os
+Graves
+Mana: 30
+*Descrição: Você embala o campo
+de batalha com uma música sobre guerra,
+sacrifício e vitória, inspirando seus aliados
+e aterrorizando seus inimigos! Enquanto se
+mantiver tocando essa Música, todos os seus
+aliados que puderem lhe ouvir ficam imunes
+a efeitos de Medo. Além disso, uma vez por
+turno, você pode direcionar uma poderosa
+onda de som contra uma criatura que esteja
+a até sua Determinação em metros de distância. Essa onda sonora causa uma quantidade
+de dano igual à sua Determinação/Contusão.
+*Especial: Esta Música é considerada uma Canção, um Ritmo e uma Melodia
+para todos os propósitos.Este é um efeito de
+Medo.
+---
+
+**Gótico**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+precisa preencher os seguintes Requisitos:
+- Músico Fúnebre (pág. 24)
+- Ter sido afetado por pelo menos
+um efeito de Dreno de Energia.
+Habilidade Automática
+--Teatro da Tragédia--
+Habilidade (Característica) – Suporte
+*Descrição: Você compreende que
+muitas das decisões tomadas por um indivíduo vêm de seus impulsos mais instintivos,
+tanto quanto de suas angústias e inseguranças, e é capaz de se conectar com os outros
+através desses mecanismos – enquanto se
+tornou algo narcotizado a eles. Você tem
+Determinação +2 e recebe +2 em todos os
+seus testes sociais – ou +1d6 se o alvo estiver
+Amedrontado ou Distraído.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Esta Carcaça Mortal--
+Habilidade (Característica) - Suporte
+*Descrição: Você percebe a efêmera
+existência mortal, e desenvolveu uma sutil
+sensibilidade em relação àqueles que já sucumbiram à ela. Você pode ver, ouvir e tocar criaturas do tipo Espírito ou com
+a Habilidade Corpo
+Intangível, e ignora
+quaisquer Resistências ou Imunidades a dano
+que elas tiverem.
+---
+--Melodia Letárgica--
+Habilidade (Música) – Ação
+Mana: 20
+*Descrição: Você toca uma música lenta e arrastada, que torna as criaturas
+que a escutem desanimadas e apáticas.
+Todas as criaturas vivas a uma distância em metros de você igual à sua
+Determinação que puderem ouvir
+essa Música rolam um Confronto
+de Vontade contra você. Aqueles
+que tiverem um resultado mais
+baixo que o seu têm seu Deslocamento reduzido à metade
+(arredondado para cima) e não
+podem utilizar ações que exijam movimentação como parte
+delas – como correr, dançar (incluindo Dança das Espadas) e
+realizar encontrões (ou Habilidades que exijam a realização
+de encontrões).
+Este é um efeito mental.
+---
+--Necromanto--
+Habilidade (Técnica) – Ação
+*Requisito: Esta Carcaça Mortal
+*Descrição: As sombras ao seu redor se
+materializam na forma de um manto aterrorizante. Enquanto o Necromanto estiver materializado, você recebe +1d6 em seus testes em
+tentativas de Intimidação – mas é considerado
+Inapto em todos os seus outros testes sociais.
+Você pode conjurar o Necromanto
+como uma ação livre, e pode mantê-lo pelo
+tempo que desejar.
+---
+--Sabedoria Sobrenatural--
+Habilidade (Técnica) – Suporte
+*Descrição: Você recebe +1d6 em seus
+testes de conhecimento sobre maldições, criaturas dos tipos Amaldiçoado, Infernal, Espírito e Morto-vivo. Esse bônus também se aplica
+a testes para perceber e rastrear essas criaturas.
+---
+--Semelhança Cadavérica--
+Habilidade – Ação
+*Descrição: Seu corpo é capaz de baixar
+o batimento cardíaco, respirar muito lentamente e ficar de olhos abertos por até 1 hora. Enquanto estiver nesse estado, você é virtualmente
+indistinguível de um cadáver (ou zumbi, dependendo da situação) e recebe +1d6 em seus testes de camuflagem, mas fica Vulnerável ao Frio.
+Você pode se manter nesse estado por
+uma quantidade de horas igual à sua Vontade,
+mas se você entrar em combate ou realizar
+alguma Habilidade do tipo Ação ou Reação
+o efeito é cancelado imediatamente – você
+também pode cancelar esse efeito a qualquer
+momento como uma ação livre. 
+---
+
+Habilidades Avançadas
+
+---
+--Epitáfio--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5
+Mana: 10
+*Descrição: Quando uma criatura é
+derrotada, você declama uma pequena frase
+descrevendo – geralmente de forma sarcástica ou denigrante – a derrota dela, o que
+provoca calafrios de seus inimigos enquanto
+estes vislumbram a própria derrota. Todos
+os inimigos que forem capazes de ouvir (e
+entender) o epitáfio imediatamente perdem
+uma quantidade de Pontos de Vida e Pontos
+de Mana igual à sua Vontade.
+Este é um efeito de medo.
+---
+--Espiral do Vazio--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Esta Carcaça Mortal
+Mana: 20
+*Descrição: Você sabe como sintonizar
+brevemente um alvo ao Limiar, permitindo
+que ele seja capaz de ouvir as lamúrias de morte dos espíritos ao redor. O alvo fica Enregelado
+e precisa fazer um teste de Vontade (Dificuldade igual à sua Determinação). Se falhar, o
+alvo perde uma quantidade de Pontos de Vida
+e Pontos de Mana iguais a sua Determinação.
+---
+--Evanescência--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Necromanto
+Mana: 30
+*Descrição: Enquanto estiver sob efeito de Necromanto, você pode ativar essa Habilidade para receber os benefcícios de Corpo
+Intangível (veja detalhes na caixa em destaque).
+Este efeito dura por uma quantidade
+de minutos igual à sua Determinação – mas
+você pode desativá-lo a qualquer momento
+como uma ação livre. Se o efeito terminar enquanto você estiver dentro de algum material
+sólido, você é expelido para fora e sofre dano
+igual a 30/Contusão.
+[
+**Corpo Intangível**
+Você não tem peso, pode voar ao seu
+Deslocamento normal em qualquer direção e
+atravessar objetos sólidos. Você pode materializar partes do seu corpo, permitindo que
+você ataque ou conjure magias, e é Imune à
+Corte, Perfuração e Contusão (Magias que
+causem danos desses tipos, no entanto, afetam você normalmente).
+Além disso, você pode ver, ouvir e tocar criaturas do tipo Espírito ou com a Habilidade Corpo Intangível, e ignora quaisquer
+Resistências ou Imunidades a dano que elas
+tiverem.
+]
+---
+--Marcha Fúnebre--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Suas músicas sempre são
+pesadas e carregadas de sentimentos funestos. Enquanto estiver mantendo uma Música,
+todas as criaturas com Determinação menor
+do que a sua (exceto Aliados) ficam Amedrontadas em relação à você.
+Este é um efeito de medo
+---
+
+Habilidade Final
+
+---
+--Romance Alquímico--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 10, Marcha Fúnebre
+Mana: 60
+*Descrição: Sua conexão com a escuridão lhe torna extremamente amedrontador
+– ou estranhamente atraente – para aqueles
+ao seu redor. Faça um teste de Intimidação
+contra um alvo que você consiga ver. Se o
+alvo tiver sucesso, ele será considerado Distraído por um número de turnos igual à sua
+Vontade – enquanto estiver Distraído por este
+efeito, ele não poderá atacar você. Se o alvo
+falhar no teste, ele perde uma quantidade de
+Pontos de Vida e Pontos de Mana igual a sua
+Determinação e ficará Amedrontado com relação a você por um número de turnos igual
+à sua Vontade. Enquanto estiver Amedrontado por este efeito, o alvo não poderá utilizar
+Habilidades que consumam Mana.
+Este é um efeito de medo.
+---
+
+**Dançarino**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+precisa preencher os seguintes Requisitos:
+- Atletismo (Guia Básico, pág. 16)
+- Agilidade 3
+- Vontade 3
+Habilidade Automática
+--Dançarino Irrefreável--
+Habilidade (Característica) – Suporte
+*Descrição: Você se tornou um dançarino incrível e lendário, onde ninguém consegue prever seus passos de dança. Você recebe
++2 em seus testes de dança e tem +1d6 para
+resistir a efeitos que o impeçam de continuar
+se movendo (Constringido, Derrubado, Amedrontado, etc.).
+*\
+---
+
+Habilidades Básicas
+
+---
+--Compasso--
+Habilidade (Característica) – Suporte
+*Descrição: Enquanto você escutar uma
+Música quando estiver dançando, você recebe
++2 em todos os seus testes – exceto para conjurar Magias. Além disso, se escolher resistir aos
+efeitos de uma Música, você recebe +1d6 em
+seus Confrontos para não ser afetado por ela.
+---
+--Dança das Espadas 1--
+Habilidade (Técnica) – Ação
+Mana: 30
+*Descrição: Você pode entrar em um
+fluxo incessante de movimentos fluidos e vigorosos. Enquanto estiver neste estado, você
+recebe Agilidade +2 e recebe +1d6 em seus
+testes de dança. Este efeito dura até 5 minutos ou até que você pare, ou seja alvo de um
+efeito que o impeça de continuar se movendo
+continuamente (Constringido, Derrubado, Amedrontado, etc.).
+---
+--Dança dos Sete Véus--
+Habilidade (Técnica) – Reação
+*Descrição: Você dança em um ritmo sensual e encantador. Enquanto estiver
+dançando, você pode escolher 1 criatura viva
+que esteja à uma distância em metros igual
+a sua Determinação e que esteja vendo você
+dançar. Você pode realizar uma tentativa de
+sedução contra aquela criatura. Se a criatura
+ficar amigável em relação a você, ela ficará
+Desprevenida em relação a todas as outras criaturas, mas não com relação à você.
+Esse efeito cessa imediatamente se o
+alvo sofrer algum dano e ele fica imune aos
+efeitos dessa Habilidade até que tenha recuperado Pontos de Mana por descanso.
+---
+--Haka--
+Habilidade (Técnica) – Ação
+Mana: 10
+*Descrição: Você dança em um ritmo
+que motiva seus aliados e intimida seus oponentes. Como uma ação de rodada completa,
+você realiza uma dança que adiciona +1 em
+todos os seus testes e no dos aliados que puderem ver você – e no turno em que ativar
+esta Habilidade, remova todos os efeitos de
+Medo que estiverem afetando os seus aliados.
+Você pode manter essa Dança como uma
+ação de movimento em turnos subsequentes,
+mas seu Deslocamento será considerado apenas metade enquanto faz isso.
+Você não pode usar esta Habilidade se
+estiver sob qualquer efeito de Medo.
+Este é um efeito mental.
+*Especial: Se mais de um personagem
+possuir esta Habilidade e realizar esta ação ao
+mesmo tempo, o personagem com Vontade
+mais alta realizando o Haka faz um confronto
+de Vontade contra todos os oponentes que
+puderem ver o grupo dançando – adicione
++1 no seu teste para cada personagem realizando o Haka. Oponentes com um resultado mais baixo que o seu neste teste ficarão
+Distraídos por um número de turnos igual ao
+número de personagens realizando o Haka. 
+---
+--Requebrado--
+Habilidade (Técnica) – Suporte
+*Descrição: Enquanto estiver dançando, você recebe +2 em seu deslocamento –
+exceto para calcular seu Deslocamento de
+Corrida ou de Encontrões. Além disso, você
+pode substituir seu bônus de Agilidade na
+Esquiva por seu valor de Deslocamento enquanto estiver dançando.
+---
+--Dança das Ruas--
+Habilidade (Técnica) – Suporte
+*Descrição: Você aprendeu a seguir
+um ritmo totalmente imprevisível, deixando
+seus oponentes confusos sobre como acertá-lo. Enquanto você estiver dançando você
+recebe +2 na Esquiva e caso você seja alvo de
+uma magia a dificuldade dela aumenta em 1
+---
+
+Habilidades Avançadas
+
+---
+--Dança das Espadas--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Dança das Espadas 1.
+*Descrição: Quando entra em combate, seu fluxo de movimentos pode criar um
+estado de hipnose autoinduzido, produzindo
+efeitos quase sobre-humanos de agilidade,
+velocidade e foco. Sempre que estiver usando
+Dança das Espadas, você recebe um acréscimo de +2 na sua Agilidade (acumulado com
+o bônus de Dança das Espadas 1) e em sua
+Determinação.
+Este efeito dura enquanto durar o efeito de Dança das Espadas 1.
+---
+--Dança da Guerra--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5, Dança das Espadas 1.
+Mana: 10
+*Descrição: Se estiver sob efeito de
+uma Técnica de Dança, adicione seu Bônus
+de Dança ao teste do ataque.
+---
+--Dança do Ventre--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Dança dos Sete
+Véus
+Mana: 20
+*Descrição: Você aprendeu a dançar
+de um jeito tão chamativo e sedutor que todos ficam admirados pela sua dança. Faça um
+teste de dança. Todas as criaturas vivas que
+puderem ver você dançar têm que realizar
+um teste de Vontade (dificuldade igual ao seu
+resultado no teste de dança). Aqueles que falharem nesse teste ficarão Distraídos enquanto
+puderem ver você dançando.
+Esse efeito cessa imediatamente se o
+alvo sofrer algum dano, e ele fica imune aos
+efeitos dessa Habilidade até que tenha recuperado Pontos de Mana por descanso.
+*Especial: O custo em Mana desta
+ação só é gasto quando você realizar seu teste
+de Dança, e dura enquanto você se mantiver
+dançando – o que consome uma ação de movimento.
+---
+--Dançarino Experiente--
+Habilidade (Característica) – Suporte
+*Requisito: Nível 5, Compasso
+*Descrição: Você sabe muito bem
+como mexer seu corpo em um ritmo fora de
+série. Sempre que realizar um teste de dança, você recebe +2 em seus testes de dança e
+para resistir a efeitos que o impeçam de continuar se movendo continuamente (Constringido, Derrubado, Amedrontado, etc.).
+---
+--Lambada--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Requebrado
+Mana: 20
+*Descrição: Enquanto você estiver
+dançando, você pode realizar um rodopio e
+desferir um potente golpe no alvo. Enquanto
+estiver dançando, realize um ataque corporal
+com um bônus igual a sua Vontade. Se acertar, este ataque causa um dano adicional igual
+à quantidade de metros que você se deslocou neste turno antes de desferir este golpe, e o
+alvo fica Atordoado por 1 turno.
+*Especial: Se o alvo estiver sob efeito
+de alguma Música quando for atingido por
+este golpe, ele ficará Paralisado por 1 turno ao
+invés de Atordoado. Se ele tiver resistido a algum efeito de Música que ainda estiver ativo
+na área, ele passa a sofrer os efeitos daquela
+Música como se tivesse falhado no teste.
+---
+
+Habilidade Final
+
+---
+--Dança das Lâminas--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 10, Dança das Espadas 1.
+*Descrição: Quando entra em combate, seu fluxo de movimentos cria um estado
+de hipnose autoinduzido, produzindo efeitos
+sobre-humanos de agilidade, velocidade e
+foco. Sempre que você estiver usando Dança
+das Espadas, você recebe um acréscimo de
++2 na sua Agilidade e em sua Determinação.
+Além disso, Dança das Espadas pode ser ativada como uma Reação sempre que você se
+deslocar.
+---
+
+**Cortesão**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+precisa preencher os seguintes Requisitos:
+- Eloquente (pág. 23)
+- Vontade 5
+Habilidade Automática
+--Figura Deslumbrante--
+Habilidade (Característica) – Suporte
+*Descrição: Você cuida bem da sua
+aparência e sempre se mantém atento ao que
+atrai aqueles à sua volta. Você tem Determinação +2, nunca é considerado Inapto em
+testes sociais e ignora quaisquer redutores ao
+seduzir criaturas de outras raças.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Apunhalar pelas Costas--
+Habilidade (Técnica) – Suporte
+*Descrição: Após ser
+bem-sucedido em um teste
+de sedução, enquanto o alvo
+permanecer amigável em relação a você ele também é
+considerado Desprevenido em
+relação a você.
+Além disso, sempre
+que realizar um ataque em alvo específico em uma criatura Desprevenida,
+a defesa do alvo é aumentada em +2 ao invés
+de +4.
+---
+--Beijo Sufocante--
+Habilidade (Técnica) – Ação
+*Requisito: Chega Mais
+*Descrição: Seus beijos produzem
+efeitos que beiram o sobrenatural. Faça uma
+tentativa de sedução contra uma criatura adjacente. Se for bem-sucedido, você e o alvo
+são considerados Paralisados até o começo de
+seu próximo turno.
+---
+--Chega Mais--
+Habilidade (Técnica) – Reação
+*Descrição: Se um oponente que está
+adjacente a você tentar se afastar, você pode
+fazer uma tentativa de sedução contra ele. Se
+for bem-sucedido, ele não poderá se deslocar
+neste turno e será considerado Desprevenido
+para todos os seus aliados, mas não você, até
+o final de seu próximo turno.
+---
+--Dança dos Sete Véus--
+Habilidade (Técnica) – Reação
+*Descrição: Você dança em um ritmo sensual e encantador. Enquanto estiver
+dançando, você pode escolher 1 criatura
+viva que esteja a uma distância em metros
+igual a sua Determinação e que esteja vendo você dançar. Você pode realizar uma
+tentativa de sedução contra aquela criatura. Se a criatura ficar amigável em relação
+a você, ela estará Desprevenida em relação a
+todas as outras criaturas, mas não com relação à você.
+Esse efeito cessa imediatamente se o
+alvo sofrer algum dano e ele fica imune aos
+efeitos dessa Habilidade até que tenha recuperado Pontos de Mana por descanso.
+---
+--Reação Desesperada--
+Habilidade (Técnica) – Reação
+Mana: 10
+*Descrição: Se você não consegue seduzir alguém, coisas ruins acontecem. Sempre que você falhar num teste de Sedução
+contra uma única criatura, você pode imediatamente realizar um ataque corporal normal
+contra ela.
+---
+
+Habilidades Avançadas
+
+---
+--Beijo da Luxúria--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5, Beijo Sufocante
+*Descrição: Sempre que você terminar seu turno beijando uma criatura viva, ela
+perde uma quantidade de Pontos de Mana
+igual a sua Determinação enquanto você
+recupera a metade (arredondado para cima)
+desse total.
+---
+--Incitar Briga--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5
+Mana: 20
+*Descrição: Você não precisa sujar
+suas mãos. Quando duas ou mais criaturas
+estiverem amigáveis em relação a você por
+seus sucessos em testes de Sedução, você
+pode incitá-las a brigar entre si.
+Este efeito dura um minuto ou até
+que apenas um dos alvos não esteja Por um
+Fio.
+Este é um efeito mental.
+---
+--O Amor Dói--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5, Apunhalar Pelas
+Costas
+Mana: 15
+*Descrição: Escondendo sua arma
+até o último segundo, você realiza um
+ataque corporal contra um alvo que esteja amigável devido a um teste de sedução
+bem-sucedido, ignorando qualquer bônus
+de Bloqueio ou Esquiva e causando o dobro de dano.
+---
+--Tomara que Caia--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Dança dos Sete
+Véus
+Mana: 20
+*Descrição: Você faz uma dança sedutora para atrair os olhos de todos! Faça um
+teste de dança. Todas as criaturas vivas que
+puderem ver você dançar têm que realizar
+um teste de Vontade (dificuldade igual ao seu
+resultado no teste de dança). Aqueles que falharem nesse teste soltam suas armas e ficam
+Desprevenidos enquanto verem você dançando.
+Esse efeito cessa imediatamente se o
+alvo sofrer algum dano, e ele fica imune aos
+efeitos dessa Habilidade até que tenha recuperado Pontos de Mana por descanso.
+*Especial: O custo em Mana desta
+ação só é gasto quando você realizar seu teste de Dança, e dura enquanto você puder se
+manter dançando – o que consome uma ação
+de movimento.
+---
+
+Habilidade Final
+
+---
+--Beijo da Morte--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 10, Beijo da Luxúria
+Mana: 60
+*Descrição: Seus beijos são tão sedutores que são capazes de (literalmente) matar. Escolha uma criatura amigável devido a
+um teste de sedução bem-sucedido que você
+tenha realizado contra ela. Faça um teste de
+Sedução contra o alvo. Se for bem-sucedido,
+você pode fazer um Confronto de Vontade
+enquanto beija o alvo. Se você tiver um resultado maior, ele será considerado imediatamente Por um Fio. Se o alvo tiver um resultado maior do que o seu, ele imediatamente
+perde uma quantidade de Pontos de Vida e
+Pontos de Mana iguais à sua Determinação –
+e ele não será mais considerado amigável em
+relação a você. 
+---
+
+**Charlatão**
+
+---
+/*
+Requisitos
+Para seguir este Caminho, você
+precisa preencher os seguintes Requisitos:
+- Não seguir Códigos ou Dogmas
+- Eloquente (pág. 23)
+- Vontade 4
+Habilidade Automática
+--Desilusão--
+Habilidade (Técnica) – Ação
+*Descrição: Você é capaz de implantar
+crenças em qualquer indivíduo que possa entendê-lo, bastando para isso alguns instantes
+de conversa. Faça um confronto de Vontade
+contra um alvo. Se tiver um resultado mais
+alto do que o do alvo, você implanta nele
+uma Desilusão. Se o alvo tiver um resultado
+igual ou maior ao seu no teste, ele não poderá
+ser afetado por esta Habilidade por 1 hora.
+Uma Desilusão é uma crença (minimamente justificável) que não altera de forma
+direta o comportamento daqueles afetados.
+Você pode convencer alguém de que um aliado é na verdade um espião; de que a última
+bebida que ele consumiu estava envenenada e
+só você possui o antídoto; que ele é capaz (ou
+incapaz) de derrotar o melhor guerreiro da
+região; de que alguém insultou sua honra; etc.
+Um alvo só pode ter uma Desilusão
+implantada de cada vez, que deixa de afetá-lo
+apenas caso seja provada falsa.
+Este é um efeito mental.
+*\
+---
+
+Habilidades Básicas
+
+---
+--Distração--
+Habilidade (Técnica) – Ação
+*Requisito: Eloquente
+Mana: 10
+*Descrição: Você é capaz de usar sua
+oratória para chamar a atenção de um alvo
+para você e confundi-lo no processo. Você
+escolhe uma criatura que esteja a uma distância em metros igual à sua Vontade e que
+seja capaz de compreender o que você diz.
+Aquela criatura precisa passar em um teste de
+Inteligência (Dificuldade igual à sua Determinação) ou ficará Distraída por 1 turno.
+Esse é um efeito mental.
+---
+--Gregário--
+Habilidade (Característica) – Suporte
+*Descrição: Você consegue compreender muito rapidamente as estruturas sociais de
+uma cultura e seus indivíduos e é capaz de fazer amigos em qualquer lugar. Depois de cinco
+minutos de conversa, a pessoa com quem você
+esteja interagindo – e que não seja obviamente
+hostil a você, como um captor ou um inimigo
+jurado – torna-se propensa a ajudá-lo. Essa
+Habilidade geralmente serve para colher informações gerais (apesar de segredos não serem
+possíveis de conseguir) ou pequenos favores
+– como ser apresentado a alguém ou conseguir
+uma cerveja de graça. Você também recebe +2
+em testes de seduzir, mentir, detectar mentiras
+ou qualquer outra interação social.
+---
+--Não é Nada de Mais--
+Habilidade (Técnica) – Reação
+Mana: 15
+*Descrição: Quando uma ou mais criaturas capazes de entendê-lo forem afetadas
+por um efeito que provoque condições negativas, você pode imediatamente convencê-lo
+que não é nada de mais, permitindo que o alvo
+ignore 1 Condição – Exceto Indefeso e Paralisado. Em combate, esse efeito dura por 1 minuto, enquanto fora de combate dura até 1 hora.
+Cada criatura só pode ignorar uma
+Condição dessa forma. Se outro uso desta
+Habilidade for utilizada no mesmo alvo, o
+primeiro efeito deixa de funcionar.
+Este é um efeito mental.
+---
+--Perjuro--
+Habilidade (Técnica) – Suporte
+*Descrição: É praticamente impossível
+dizer se você está mentindo ou não, já que
+você aprendeu a questionar qualquer verdade considerada factual. Criaturas capazes de
+perceber mentiras automaticamente precisam
+fazer testes normalmente para perceber suas
+mentiras, e contra criaturas que não tenham
+esse tipo de habilidade, você recebe +1d6
+para mentir. Além disso, por ter tido uma 
+crença poderosa em uma verdade superior,
+você é muito bom em perceber a convicção
+nas palavras dos outros, e também recebe
++1d6 para detectar mentiras.
+---
+
+Habilidades Avançadas
+
+---
+--Apontar Culpado--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5
+Mana: 15
+*Descrição: Você possui um talento natural para apontar culpados
+– verdadeiros ou não. Quando
+uma criatura a uma quantidade
+de metros de você igual à sua
+Determinação for alvo de um
+ataque, Magia, Música ou
+efeito, faça um confronto
+de Vontade contra a Inteligência do alvo. Se você
+tiver um resultado mais
+alto do que o alvo, você
+pode apontar um culpado dentro do campo de visão dele. O
+alvo irá atacar a criatura apontada em detrimento de qualquer outra
+criatura – mesmo que seja
+um aliado! – até que ele ou o
+culpado apontado estejam Por um
+Fio ou que alguma outra criatura lhe
+cause dano.
+O alvo é considerado Desprevenido para
+você e todos os seus aliados, exceto se um
+deles for o culpado apontado.
+Este é um efeito mental.
+---
+--Foi só um Arranhão--
+Habilidade (Técnica) – Reação
+*Requisito: Nível 5, Não é nada de mais
+Mana: 20
+*Descrição: Quando alguém capaz de
+ouvi-lo é afetado por um ataque ou habilidade que cause dano, você pode imediatamente
+convencê-lo de que foi só um arranhão, ignorando o dano sofrido. Ao final do combate, este dano será aplicado normalmente,
+exceto se o alvo já estiver Por um Fio. Fora de
+combate, o dano pode ser ignorado por uma
+quantidade de minutos igual à sua Vontade.
+Cada criatura só pode ignorar uma
+fonte de dano dessa forma. Se outro uso desta Habilidade for utilizada no mesmo alvo, o
+primeiro efeito deixa de funcionar, e a criatura imediatamente sofre o dano que tinha
+ignorado.
+Este é um efeito mental.
+---
+--Persuadir--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Gregário.
+Mana: 20
+*Descrição: Dando uma ordem direta a um alvo, você
+o induz a realizá-la antes
+mesmo que ele seja capaz
+de racionalizar o que está
+fazendo. Você escolhe
+uma criatura que esteja
+a uma distância em metros igual à sua Vontade
+e que seja capaz de compreender o que você diz, e
+lhe dá um comando. Aquela
+criatura precisa passar em um
+teste de Vontade (Dificuldade
+igual à sua Determinação) ou realiza
+o comando imediatamente.
+O comando deve poder ser realizado
+como uma Ação Livre ou como uma Ação
+de Movimento, e não pode ter mais do que
+uma palavra por ponto de Vontade que você
+tiver (“largue a espada”, “deite no chão”, “corra para longe de mim”). Se o comando disser
+respeito a ações involuntárias do alvo ou se for
+contra suas crenças ou sua segurança (“durma”, “se jogue pela janela”, “empurre o Rei do
+parapeito”) o alvo é automaticamente bem-sucedido no teste. O alvo realiza a ação imediatamente, mas esta habilidade não tem efeito
+depois disso – assim, um alvo que seja comandado a deitar-se no chão pode se levantar no
+próximo turno, enquanto um alvo comandado
+para correr para longe pode se aproximar novamente na sua próxima ação.
+Este é um efeito mental
+---
+--Trapaceiro Impecável--
+Habilidade (Característica) – Suporte
+*Requisito: Nível 5, Eloquente.
+*Descrição: Você está acostumado a
+enganar e mentir, e seu raciocínio se tornou
+tão condicionado a extrapolar situações rapidamente que até ler (ou mesmo dominar) sua
+mente é mais difícil! Sua Inteligência é considerada o dobro em Confrontos para tentar
+esconder ou dissimular a verdade, e para calcular sua Determinação contra efeitos mentais – mas não efeitos de medo.
+---
+
+Habilidade Final
+
+---
+--Desilusão Profunda--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 10, Foi só um Arranhão
+*Descrição: Você é um mestre da manipulação, recebendo +1d6 em seus testes sociais. Além disso, você pode afetar um mesmo alvo com uma quantidade de Desilusões
+igual à metade da sua Vontade (arredondada
+para cima). Finalmente, um alvo afetado por
+uma de suas Desilusões confrontado com a
+verdade deve obter um resultado maior do
+que sua Determinação num teste de Inteligência para deixar de acreditar nela. Se o alvo
+falhar três vezes em reconhecer a verdade, a
+desilusão estará internalizada até sua morte.
+---

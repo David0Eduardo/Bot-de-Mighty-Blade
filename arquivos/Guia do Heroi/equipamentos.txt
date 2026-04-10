@@ -1,0 +1,1964 @@
+Capítulo 4 – Equipamentos
+Apresentamos aqui regras para criar, manter e modificar itens mundanos
+– como armas, armaduras, kits de arrombamento, roupas, etc. Assim como regras
+para a criação de poções e itens mágicos, tanto com relação à sua natureza quanto
+à sua fabricação.
+
+---
+**ITENS MUNDANOS**
+Itens mundanos são todos os itens sem
+propriedades mágicas que podem ser produzidos a partir de simples trabalho braçal
+– apesar de muitos deles exigirem conhecimento teórico (técnico ou empírico), ou pelo
+menos um esquema de construção.
+*MATÉRIA PRIMA:
+O primeiro passo para construir um
+item é conseguir a matéria prima. A matéria prima de um item geralmente pode ser
+comprada pela metade do preço do item
+a ser construído. Se o jogador quiser – ou
+precisar – adquirir a matéria prima diretamente da natureza, apresentamos a seguir
+as regras para isso.
+Matéria prima de origem animal –
+couro, chifres, cola, gordura, lã, etc. – pode
+ser adquirida através de caça (Guia Básico,
+página 25) ou através do abate de gado domésticos. A maioria da matéria prima de
+origem animal precisa ser processada antes de poder ser usada – couro precisa ser
+curtido, lã precisa ser lavada e fiada, cola
+precisa ser cozida, por exemplo. Processar
+material de origem animal leva em média
+de três à sete dias, dependendo do material
+específico. Esse processo não exige testes;
+ou o personagem sabe como processar a
+matéria prima ou ele não sabe. Se o personagem tem algum bônus para caçar ou rastrear, é um Druida, Patrulheiro ou Xamã,
+[ou Aprendiz dessas Classes] ou possui
+Dogma: Discipulo da Natureza, considere
+que ele sabe como processar matéria prima
+de origem animal.
+Matéria prima de origem vegetal –
+madeira, sisal, resina, vime, algodão, etc.
+– pode ser adquirida usando-se as regras
+de forragem (Encontrar Abrigo/Forragear, Guia Básico página 26). A maioria dos
+materiais de origem vegetal estão prontos
+para serem usados no momento que são extraídos, embora alguns deles precisem ser
+processados antes de poderem ser usados
+– algodão precisa ser fiado, resina precisa
+ser seca para se tornar látex, sisal precisa
+ser desfiado e torcido para fazer cordas,
+por exemplo. A maioria desses processos
+é simples e não requer muito tempo para
+ser concluído – um ou dois dias no máximo.
+Qualquer personagem capaz de processar
+materiais de origem vegetal.
+Matéria prima de origem mineral –
+metal, hulha, gemas, enxofre, argila, etc. –
+precisam ser encontrados antes de serem
+extraídos. Encontrar um veio do material
+desejado é o primeiro passo – e o mais difícil. Apesar de Cassiopéia ser, em geral, um
+continente rico em veios de metais, pedras
+e outros materiais preciosos, é virtualmente
+impossível encontrar um veio desses materiais simplesmente por inspeção visual do
+terreno, já que a maioria deles é subterrâneo. Assim, é necessário ter uma idéia de
+onde o tipo de material específico pode ser
+encontrado e escavar o terreno em busca
+de veios. Em termos de regras, é necessário um teste de Inteligência (dificuldade 16)
+para procurar por jazidas do material na
+área escolhida. Essa inspeção leva um dia
+inteiro, e se a rolagem for um sucesso, um
+veio do material procurado é encontrado
+na área.
+Materiais preciosos – ouro, prata ou
+gemas – só são encontrados na área com
+um sucesso decisivo no teste. Como inspecionar uma área em busca de um material
+é parte técnica e parte sorte, a Habilidade
+Sorte (ou outras Habilidades que alterem
+resultados de um teste, como O Dobro ou Nada ou Interferir no Fluxo, por exemplo)
+podem ser aplicadas à este teste.
+Uma falha crítica significa que o personagem acredita ter achado uma jazida do
+material procurado na área, e precisa gastar pelo menos um dia inteiro explorando a
+“jazida” para perceber que não há nada de
+valioso ali.
+Tendo encontrado o material, é necessário extraí-lo. Há dois métodos de fazer
+isso: Garimpagem ou mineração.
+Garimpagem é simplesmente o desbaste do terreno ao redor do veio durante a
+extração. É um método mais rápido e simples, mas limita a quantidade de material
+que pode ser extraído, dependendo da profundidade da jazida. Exige apenas uma pá,
+picareta ou outra ferramenta de escavação.
+Garimpando, um personagem deve fazer
+um teste de Força por dia de trabalho. Para
+materiais comuns (hulha, sílica e argila) o
+resultado indica a quantidade em quilos do
+material que é extraído. Para a maioria dos
+outros materiais o resultado do teste deve
+ser dividido por 10 para chegar à quantidade do material que é extraído. Para os
+materiais raros (ouro, prata ou gemas) o resultado do teste indica uma quantidade de
+pepitas encontradas. Uma pepita pode ser
+lapidada em uma gema ou, no caso de ouro
+e prata, podem ser fundidas na quantidade
+equivalente à uma moeda do material adequado. Uma jazida é considerada esgotada
+depois de ser garimpada por uma quantidade de dias igual à Inteligência do garimpeiro. Para extrair mais material do veio é
+necessário minera-lo.
+ A Mineração é feita cavando-se o terreno ao longo do veio, para extrair o máximo possível de material. É mais demorado
+e exige uma certa engenharia, mas permite
+extrair toda a jazida. Além das ferramentas
+para abrir a mina, é necessário empregar
+escoras para manter o túnel estável além
+de itens de iluminação para trabalhar no
+interior da mina. Minerando, o personagem extrai a mesma quantidade de minério
+explicada acima por semana, já que precisa cavar ao redor do veio, aplicar escoras e
+remover o excesso de sedimento de dentro
+da mina, mas é possível extrair todo o material da jazida – o que geralmente significa
+algumas centenas de quilos. Em geral, uma
+jazida pode ser minerada por uma quantidade de anos igual à Inteligência do mineiro antes de se esgotar totalmente.
+Há um terceiro método de extração
+de material, raramente utilizado por qualquer Raça exceto pelos Elfos. A garimpagem de aluvião é realizada catando-se
+materiais que se soltaram previamente de
+um veio. Esse tipo de garimpagem precisa
+ser feita à céu aberto e exige o uso apenas
+de uma peneira. A garimpagem de aluvião
+exige um teste de Inteligência ao invés de
+Força (já que é muito mais um trabalho de
+percepção do que de força ou resistência)
+e apenas um teste pode ser feito em cada
+jazida encontrado. Se quiser extrair mais
+material, o garimpeiro deve proceder para
+garimpagem convencional ou mineração.
+A maioria dos materiais de origem
+mineral precisam ser processados em uma
+forja, e apenas ceramistas, ferreiros, ourives
+e mecânicos (veja as descrições das áreas
+de produção, à seguir) são capazes de fazer
+isso.
+*PROJETO E EXECUÇÃO:
+Qualquer artesão capaz de produzir
+um determinado item é capaz de desenhar
+seu projeto. Em geral, projetos só são feitos
+para obras muito específicas (como esculturas, entalhes e equipamentos personalizados) ou muito complexas (como armas
+de cerco, armadilhas mecânicas e fortificações). Um projeto exige um teste de Inteligência para ser desenhado (dificuldade 10
+para a maioria dos itens, 14 para itens personalizados ou 18 para itens complexos).
+Qualquer qualquer artesão será capaz de
+entender e seguir um projeto, produzindo
+assim uma cópia idêntica a do original.
+A maioria dos artesãos realiza seus
+trabalhos sem nenhum projeto, no entanto.
+Mesmo um item personalizado geralmente
+é descrito apenas verbalmente para o artesão (“um tambor com o desenho de uma
+águia no couro”, “uma espada com o brasão de Tebryn na guarda” ou “uma caixa
+com uma dançarina em alto-relevo na tampa” por exemplo) e os detalhes específicos
+são deixados ao encargo do artesão.
+Tendo a matéria prima necessária (e
+o projeto, se for o caso), o próximo passo
+é construir o item. Em Drakon, há basicamente oito áreas de produção de itens:
+Alvenaria: Alvenéus sabem como trabalhar pedras, cerâmica e argamassa para
+erguer, fortificar, reparar e manter edificações. Além de pedra bruta, um alvenel precisa de ferramentas de alvenaria.
+Estruturas de alvenaria dependem
+do tamanho e da complexidade para serem
+finalizados, geralmente consumindo uma
+quantidade de dias igual à um décimo de
+seu custo em moedas para ser produzido.
+Esse tempo é dividido pelo número de alvenéus trabalhando na fabricação da estrutura. Consertos em construções de pedra
+consomem um tempo e recursos que variam de acordo com as extensões dos estragos – geralmente metade do tempo e material necessário para produzi-los. Testes de
+alvenaria sempre são baseados em Força.
+Arte: Em Drakon, são considerados
+artistas aqueles artesãos capazes de reproduzir ou criar imagens sobre uma superfície plana. Assim sendo, desenhistas, pintores, gravuristas, calígrafos e tatuadores
+são considerados artistas. Artistas também
+sabem como preparar papiros, velino e telas onde seu trabalho será realizado. Além
+da matéria prima (tecido, ripas e placas de
+madeira, polpas ou fibras vegetais, couro,
+etc.) para preparar as superfícies onde irão
+trabalhar, artistas precisam de acesso à um
+estúdio equipado (formas, prensa, escrivaninha, poltronas, e cavalete) e de um kit de
+escrita.
+Uma página de brochura, uma tatuagem, 10 folhas de velino ou 20 folhas de
+papiro podem ser produzido com um dia
+inteiro de trabalho (mas velino e papiro
+precisam secar por um dia depois de prontos para poderem ser utilizados). Murais,
+afrescos, pinturas e desenhos ou tatuagens
+particularmente detalhados dependem do
+tamanho e da complexidade, variando de
+2 dias a 1 mês. A maioria dos itens de arte
+não podem ser concertados e precisam ser
+refeitos. Testes de arte podem ser baseados
+em Inteligência ou Vontade (o que for mais
+alto).
+Cerâmica: Vidreiros e ceramistas são
+especialistas em fabricar itens de barro,
+cerâmica e vidro, desde tijolos usados em
+alvenaria, passando por frascos e garrafas
+até vitrais e esculturas. Enquanto a produção de vidro envolve a fundição da matéria-prima (feldspato e calcário) e depois a
+escultura desse material no formato desejado, itens de cerâmica são produzidos com
+o processo inverso: Eles são moldados na
+forma desejada e depois levados ao fogo.
+Além da matéria prima, um ceramista precisa de acesso à uma forja equipada (fornalha, bigorna e carvão, hulha ou lenha para
+manter a fornalha funcionando) e instrumentos de cerâmica.
+Quinze tijolos, uma dúzia de garrafas
+ou duas dúzias de frascos podem ser produzidos com um dia inteiro de trabalho.
+Vitrais e esculturas dependem do tamanho
+e da complexidade, variando de um dia a
+um mês. A maioria dos itens de cerâmica
+não podem ser concertados e precisam ser
+refeitos. Testes de cerâmica podem ser baseados em Agilidade ou Inteligência (o que
+for mais alto).
+Correaria: O talabarteiro é especialista em fabricar itens de couro e tecido, desde
+o curtimento e fiação até a manufatura de
+roupas e armaduras. Além de couro ou tecido, um talabarteiro precisa de um conjunto
+de instrumentos de costura.
+Uma peça de roupa pode ser produzido com um dia inteiro de trabalho.
+Fundas, plumbatas, armaduras de couro e
+mantos pesados levam uma quantidade de
+dias igual à sua FN para serem produzidos.
+Consertar um item desses leva a metade do
+tempo e consome metade do material necessário para produzi-lo. Testes de correaria podem ser baseados em Agilidade ou
+Inteligência (o que for mais alto).
+Engenharia: Engenheiros são peritos
+na invenção e produção de estruturas e objetos complexos como armadilhas, navios,
+pontes levadiças e armas de cerco. Engenheiros não trabalham diretamente na produção dos itens que criam, mas sim desenhando um projeto e supervisionando sua
+execução, fazendo uso de outros artesãos
+para produzir a estrutura projetada. Engenheiros podem produzir projetos para itens
+de qualquer área de produção, mas não recebem benefícios para produção direta de
+um item.
+Entalhe: O Entalhador é especialista
+em fabricar e consertar itens intrincados de
+madeira, desde esculturas e gravuras, passando por instrumentos musicais até arcos
+e bestas. Entalhadores também sabem fazer
+formas para itens pequenos de ferro fundido – como pontas de flecha e e chumbos de
+prodd. Além da madeira apropriada, um
+entalhador precisa de um conjunto de instrumentos de talha.
+Conjuntos de 20 flechas, virotes ou
+balas podem ser produzidos com um dia
+inteiro de trabalho. Arcos, Bestas, Prodds,
+fundas, plumbatas, clavas, bordões, escudos, armaduras de couro e mantos pesados
+levam uma quantidade de dias igual à sua
+FN para serem produzidos. Instrumentos
+musicais levam 5 vezes sua FN em dias
+para serem produzidos. Gravuras e esculturas dependem do tamanho e da complexidade, variando de 1 dia a 1 mês. Consertar um item desses leva a metade do tempo
+e consome metade do material necessário
+para produzi-lo. Testes de entalhe podem
+ser baseados em Força ou Agilidade (o que
+for mais alto).
+Ferraria: Ferreiros são artesãos especializados em trabalhar metais. Eles podem refinar metal bruto, inclusive produzindo ligas metálicas (como bronze ou aço)
+e trabalhar peças de metal em ferramentas,
+utensílios, armas e armaduras. Além do
+metal a ser utilizado (e cabos para machados, martelos, armas de haste, azagaias e
+tridentes, se necessário), um ferreiro precisa de acesso à uma forja equipada (fornalha, bigorna e carvão, hulha ou lenha para
+manter a fornalha funcionando) além de
+instrumentos de forja.
+Um conjunto de ferraduras, uma ferramenta (pá, enxada, serrote, etc.), utensílio (panela, tesoura, faca, etc.), um saco de
+pregos, 40 pontas de flecha ou 20 balas de
+funda podem ser produzidos com um dia
+inteiro de trabalho. Armas e armaduras
+levam uma quantidade de dias igual à sua
+FN para serem produzidas. Consertar um item de metal leva a metade do tempo e
+consome metade do material para produzi-
+-lo. Testes de Ferraria sempre são baseados
+em Força.
+Marcenaria: Carpinteiros conhecem
+as especificidades de cada tipo de madeira e sabem como prepará-las para produzir
+itens sólidos e funcionais, como cabos de
+armas e ferramentas, veículos terrestres e
+edificios de madeira (chalés, muros e paliçadas). Além da madeira apropriada um
+carpinteiro precisa de pregos e um conjunto de instrumentos de talha.
+Conjuntos de 40 hastes de flechas ou
+virotes ou conjuntos de 5 cabos para armas
+ou ferramentas podem ser produzidos com
+um dia inteiro de trabalho. Clavas, bordões
+e escudos levam uma quantidade de dias
+igual à sua FN para serem produzidos. Estruturas e veículos dependem do tamanho
+e da complexidade, geralmente consumindo uma quantidade de dias igual à um décimo de seu custo em moedas para ser produzido. Esse tempo é dividido pelo número
+de carpinteiros trabalhando na fabricação
+do item. Consertos em construções de madeira consomem um tempo e recursos que
+variam de acordo com as extensões dos estragos – geralmente metade do tempo e material necessário para produzi-los. Testes de
+Marcenaria sempre são baseados em Força.
+Mecânica: Mecânicos são artesãos
+especializados em produzir máquinas portáteis – como relógios, cadeados e caixas
+de música – além de terem conhecimentos
+sobre armadilhas, fechaduras e outros itens
+mecânicos. A mecânica é muito semelhante
+à ferraria em muitos sentidos, por trabalhar
+principalmente com metais como matéria-
+-prima, mas utiliza um método de produção diferente, que envolve medições precisas para suas peças e, via de regra, metais
+fundidos que são moldados em formas, ao
+invés de serem dobrados pelo uso direto
+de martelo. Além do metal a ser utilizado,
+um mecânico precisa de acesso à uma forja
+equipada (fornalha, bigorna e carvão, hulha ou lenha para manter a fornalha funcionando), instrumentos de forja e de instrumentos de precisão.
+Um número de chaves igual à Inteligência do mecânico podem ser produzidas
+com um dia de trabalho, enquanto cadeados
+e fechaduras podem ser produzidos com 3
+dias de trabalho, e caixas de música, relógios
+e outros itens mais complexos precisam de
+pelo menos uma semana para ficarem prontos. Armadilhas levam um tempo variável
+para serem produzidas, e regras específicas
+sobre sua fabricação podem ser encontradas
+no Guia do Vilão. Consertar um item mecânico leva a metade do tempo e consome metade do material para produzi-lo. Testes de
+mecânica podem ser baseados em Agilidade
+ou Inteligência (o que for mais alto).
+Ourivesaria: Ourives são artesãos especializados em trabalhar metais e pedras
+preciosas. Eles podem refinar metal bruto,
+inclusive produzindo ligas metálicas (como
+bronze ou latão) e lapidar pedras brutas
+em jóias. Ourives, diferente de ferreiros,
+trabalham metais fundindo-os e utilizando
+formas para dar-lhes forma, e trabalham os
+itens na bigorna apenas para alisar ou adicionar detalhes ao trabalho. Além do metal
+ou pedra a ser utilizado, um ourives precisa
+de acesso à uma forja equipada (fornalha, bigorna e carvão, hulha ou lenha para manter
+a fornalha funcionando) além de instrumentos de forja e instrumentos de precisão.
+Um saco de pregos, um conjunto de
+40 pontas de flecha ou 20 balas de funda
+podem ser produzidos com um dia inteiro
+de trabalho. Pedras podem ser lapidadas à
+uma quantidade igual à Inteligência do ourives por dia. Joias complexas (como um colar de pedras, engastes de metais preciosos
+em uma armadura ou joias feitas sob medida) demoram uma quantidade de tempo
+variável, dependendo da complexidade
+do trabalho – geralmente 1 dia para cada 5
+moedas do preço final do item. Consertar
+um item de metal leva a metade do tempo e
+consome metade do material para produzi-
+-lo. Testes de ourivesaria sempre são baseados em Inteligência. 
+*RESULTADO:
+Tendo a matéria-prima, ferramentas
+e tempo necessário para produzir o item,
+o artesão faz o teste de produção adequado. Se o artesão gastar o dobro do tempo
+necessário para produzir o item, ele recebe
+um bônus de +2 em seu teste. Compare o
+resultado da rolagem com a tabela abaixo
+para verificar a qualidade do item:/*equipamentos.xlsx*\
+Para consertar um item não é necessário nenhum teste. Se o item não pode ser
+consertado, o artesão pode optar por destruí-lo e utilizá-lo como matéria prima – geralmente no caso de um item de qualidade
+baixa devido à uma rolagem particularmente ruim ou de itens de arte ou cerâmica,
+que normalmente não podem ser consertados. Um item destruído dessa maneira, fornece em média metade da matéria-prima
+necessária para produzi-lo. 
+*AVALIAÇÃO:
+ um item de um tipo que possa produzir ou de um tipo semelhante em forma,
+função ou material (ferreiros podem avaliar itens de ourivesaria, entalhadores podem avaliar itens de marcenaria, carpinteiros podem avaliar itens de alvenaria, por
+exemplo). Testes de avaliação são sempre
+realizados com Inteligência, e exige que o
+artesão examine o item por pelo menos 1
+minuto antes de realizar a rolagem. Com
+um resultado igual à 10 (ou mais) o artesão é capaz de dizer qual a qualidade do
+item (baixa, mediana, alta ou obra-prima)
+e se ele já precisou ser consertado ou se
+foi modificado. Com um resultado 14 (ou
+mais) ele é capaz de dizer quantas pessoas
+trabalharam no item, seja na sua fabricação ou em possíveis modificações posteriores, e também se o item foi feito no tempo normal ou se gastou o dobro do tempo
+para realizar a fabricação ou alguma modificação posterior. Com um resultado 18
+(ou maior) o artesão é capaz de dizer se o
+item possui alguma propriedade mágica e
+suas características gerais (qual o tipo de
+encantamento do item) mas não suas propriedades exatas (quais os efeitos do item
+ou magias e limitações usadas no seu encantamento).
+*QUALIDADE DOS ITENS:
+Nas tabelas de itens do Guia Básico todos os itens listados são considerados
+comuns, de qualidade mediana. Porém um
+personagem pode querer itens de qualidade diferente – ou pode produzir um item
+de qualidade acima ou abaixo da média. As
+regras a seguir explicam os modificadores
+entre as diferentes qualidades dos itens.
+Nos mercados de vilas e aldeias todos
+os itens encontrados serão de qualidade mediana – ou, as vezes, baixa. Itens de qualidade alta só serão encontrados nos mercados
+de cidades ou metrópoles, e obras primas só
+estarão disponíveis em lojas de reputação renomada – em metrópoles, via de regra.
+Qualidade Baixa: esses itens são de segunda mão, ou mal feitos. Sempre que forem
+usados o Mestre deve rolar um teste contra dificuldade 12, se for bem sucedido o item quebra e precisa ser consertado. Armas causam 1
+pontos de dano a menos e armadura tem Defesa -1. Custam a metade do valor listado.
+Qualidade Mediana: nenhuma característica especial.
+Qualidade Alta: Produzidos com materiais de primeira qualidade e por artesão
+competentes. Itens de alta qualidade oferecem um bônus de +1 nas rolagens adequadas – armas tem +1 nos testes de ataque, ferramentas de ladrão +1 nos testes para abrir
+fechaduras, kits de cura +1 nos testes de Primeiros socorros, instrumentos musicais +1
+nos testes para realizar músicas, etc – e armaduras de qualidade alta tem FN -1 (mas a FN
+de uma armadura será sempre no mínimo 1).
+Custam o triplo do preço listado.
+Obra-prima: esses itens foram trabalhados com o maior cuidado e requinte,
+pelos maiores mestres do ramo. Verdadeiras
+relíquias que ficam na família por anos e anos
+sem perder a qualidade. Além dos benefícios
+listados em Qualidade alta, armas causam 1
+ponto de dano a mais e armaduras e escudos tem Defesa +1. Outros itens (como instrumentos musicais, ferramentas de ladrão e
+kits de escalada, por exemplo) que não sejam
+armas oferecem um bônus de +2 nas suas
+rolagens adequadas, ao invés de +1. Custam
+dez vezes o preço listados.
+Especial: Itens Canalizadores nunca
+oferecem bônus ou correm risco de quebrar
+pelo uso ao serem usados para conjurar Magias, independentemente de sua qualidade.
+Assim, um punhal de qualidade baixa não
+teria chances de quebrar se o personagem
+que o estiver empunhando conjurar uma
+magia através dele, nem uma clava de qualidade alta forneceria qualquer bônus para
+um personagem conjurar uma Magia através dela, por exemplo.
+*EQUIPAMENTOS DE MATERIAIS DIFERENTES:
+Armas e armaduras em Cassiopéia geralmente são feitos de aço, mas podem ser
+fabricados com materiais diferentes – que
+lhes conferem características especiais. Em
+geral, apenas armas e armaduras se beneficiam de materiais diferentes do normal, mas
+instrumentos musicais, jóias e containers
+podem ser produzidos desses materiais por
+motivos estéticos. Os materiais a seguir podem ser aplicados à qualquer item, utilizando o modificador de preço indicado à seguir.
+Itens de materiais diferentes podem
+ser de qualidades diferentes – exceto quando o contrário for explicitamente dito na
+descrição do material. Aplique todos os
+modificadores por material e qualidade ao
+item, quando aplicável.
+Assim, uma espada longa obra-prima de prata fria receberia +1 para rolagens
+de ataque (qualidade alta) e causaria +2 de
+dano (+1 por prata fria e +1 por obra-prima).
+O preço dos itens deve ser calculado
+pelo material e depois pela qualidade. Assim, a espada acima custaria 3.500 moedas
+– 175 multiplicado por 2 (prata fria) multiplicado por 10 (obra-prima).
+*DESCRIÇÃO DOS MATERIAIS:
+Nome: o nome do material.
+Custo: o modificador a ser aplicado
+ao custo básico de itens feitos do material.
+Dano: o modificador de dano a ser
+aplicado à armas do material.
+Normal: Nenhum modificador é aplicado à armas feitas do material.
+Defesa: o modificador do tipo adequado de defesa (armadura no caso de armaduras ou bloqueio no caso de escudos)
+a ser aplicado à armaduras e escudos do
+material.
+Normal: Nenhum modificador é aplicado à armas feitas do material.
+FN: o modificador de Força Necessária a ser aplicado à itens feitos do material
+(mas a FN de uma arma, armadura ou escudo será sempre no mínimo 1).
+Normal: Nenhum modificador é aplicado à itens feitos do material.
+Peso: o modificador a ser aplicado ao
+peso básico de itens feitos do material.
+Normal: Nenhum modificador é aplicado à itens feitos do material.
+Tempo de Produção: o tempo normal
+de fabricação do item.
+Normal: o item é produzido no tempo
+normal (geralmente, 1 dia por ponto
+de FN; veja a descrição na descrição
+da área de produção adequada, acima).
+Especial: qualidades especiais que
+devem ser aplicados à itens feitos do material.
+-*AÇO ANÃO:
+Aço anão, um metal de um cinza escuro, muito próximo a cor do chumbo, é
+muito mais resistente do que aço normal,
+mas menos flexível. A técnica de fabricação desta liga só é conhecida pelos anões,
+e envolve uma cuidadosa mistura de metais raros ao ferro. Itens desse material são
+encontrados quase sempre em tamanho
+adequado para Anões, e ajustes nessas peças precisam ser feitos com ferreiros que tenham aprendido seu ofício em Dagothar ou
+Stord. Armaduras de aço anão são um pouco mais resistentes, enquanto armas tem
+um pouco mais de área de impacto. Armaduras simples, escudos pequenos e armas
+de haste de aço anão são extremamente raras, mas todos os outros tipos de armas e
+armaduras são fáceis de serem encontrados
+em comunidades anãs.
+/*
+Armas Corporal de Aço Anão
+Custo: uma vez e meia o custo normal
+Dano: +1
+FN: Normal
+Peso: um quarto maior
+Tempo de Produção: Uma quantidade de
+dias igual a uma vez e meia a FN.
+Armaduras e Escudos de Aço Anão
+Custo: uma vez e meia o custo normal
+Defesa: +1
+FN: Normal
+Peso: Normal
+Tempo de Produção: Uma quantidade de
+dias igual a uma vez e meia a FN. 
+*\
+-*BRONZE:
+Não sendo tão resistente quanto o ferro e bem mais caro, o bronze é muito pouco
+utilizado como matéria-prima na fabricação
+de armas e armaduras – sendo, no entanto,
+bastante utilizado em engastes e enfeites de
+armas e armaduras feitas para a nobreza. No
+entanto, entre os Anões, Fira e Jubans, armas
+e armaduras de bronze são apreciadas, geralmente com propósitos ritualísticos. Armas
+de bronze podem ,muito raramente, ser encontradas entre os Naga, que tem apreciação
+pela aparência desse metal, e entre os elfos,
+que têm menos uso para bronze como moeda
+do que outros reinos. Armas de corte feitas
+de bronze ficam cegas muito rapidamente, e
+precisam ser afiadas com regularidade.
+Armas e armaduras de bronze nunca
+podem ser de qualidade obra-prima. 
+/*
+Arma Corporal de Bronze
+Custo: Três vezes o custo normal
+Dano: -1
+FN: +1
+Peso: um terço maior
+Tempo de Produção: 1 dia para cada 2 de FN.
+Especial: armas de Contusão feitas de bronze causam dano normal. Armas de bronze sempre
+entortam como resultado de uma falha crítica no
+teste de ataque, além de quaisquer outros efeitos.
+Armaduras e Escudos de Bronze
+Custo: Três vezes o custo normal
+Defesa: Normal
+FN: +1
+Peso: um terço maior
+Tempo de Produção: 1 dia para cada 2
+de FN.
+*\
+-*CRISOL:
+Quando os Fira chegaram á Cassiopéia,
+eles começaram a experimentar com os vários
+tipos de metais que encontraram na região.
+Como resultado, eles desenvolveram o Aço
+Crisol, uma liga de ferro com rocha ignea da
+região do vulcão Yasgaroth fundido à temperaturas altíssimas. O resultado é um metal
+mais flexível e com um característico padrão
+de linhas no metal depois de polido. Como
+esse aço só é feito em Parband, onde armaduras de couro são preferidas às de metal,
+os ferreiros que trabalham esse aço preferem
+fazer armas com ele – cimitarras, sabres e alabardas sendo as mais comuns – ao invés de
+armaduras, que raramente são encontradas à
+venda, sendo feitas apenas sob encomenda.
+Sendo muito mais resistente e flexível, o aço
+crisol permite fazer armas mais leves, mas
+tão eficientes quanto as armas feitas com outras ligas metálicas. Armas de aço crisol são
+apreciadas em toda Parband, particularmente pelos Fira e Tailox – que preferem armas
+mais leves e balanceadas – e pelos Jubans, que
+apreciam enormemente os padrões do metal.
+Crisol nunca pode ser de qualidade
+baixa. Uma rolagem entre 7 e 9 na produção
+de um item de crisol fria resulta em um item
+de aço de qualidade mediana para todos os
+propósitos. 
+/*
+Armas Corporal de Crisol
+Custo: duas vezes o custo normal
+Dano: Normal
+FN: -1
+Peso: um terço menor
+Tempo de Produção: Uma quantidade de
+dias igual ao dobro da FN. 
+Armaduras e Escudos de Crisol
+Custo: Duas vezes o custo normal
+Defesa: Normal
+FN: -1
+Peso: Um quarto menor
+Tempo de Produção: Uma quantidade de
+dias igual a uma vez e meia a FN. 
+*\
+-*DRAKONITE:
+Um metal opaco de matiz vermelho
+escuro, Drakonite é, de longe, o mais raro
+e cobiçado metal usado para a fabricação
+de armas. Drakonite é fabricado de forma
+similar ao aço comum, com a adição de sangue de dragão em sua composição. Apesar
+do sangue de algumas criaturas dracônicas
+– como hidras e serpentes marinhas – ser
+as vezes usado no lugar de sangue dos dragões verdadeiros, tanto os ferreiros quanto
+os usuários das armas resultantes dirão que
+o resultado não é exatamente o mesmo. Experiências com sangue de kanidraco, wyverns e outras formas inferiores de criaturas dracônicas já foram feitas, mas até onde
+se sabe, apesar de um metal com um leve
+matiz avermelhado, nenhuma característica especial é exibida.
+Drakonite é um metal extremamente
+resistente, apesar de ser tão flexível quanto
+aço comum. Ele é considerado por muitos
+como sendo indestrutível, e, de fato, mesmo lascar um item de drakonite exige um
+esforço sobrehumano. Drakonite pode ser
+quebrado depois de ser congelado à temperaturas realmente baixas, ou pode derreter
+se for submerso em magma, mas fogo, frio
+ou qualquer outro tipo de pressão terão
+pouco efeito sobre o metal. Considerando
+isso, armas de drakonite que porventura
+tenham sido danificadas dificilmente poderão ser restauradas. Ainda assim, mesmo
+armas danificadas ainda podem encontrar
+altos preços no mercado, uma vez que mesmo uma espada longa com metade da lâmina faltando ainda pode ser tão eficiente
+quanto uma espada longa comum – e nunca precisará ser afiada!
+Armas de Drakonite não podem, normalmente, ser produzidas por apenas um
+único ferreiro. O metal precisa ser coberto
+em sangue de dragão, depois dobrado, repetindo-se o processo até que todo o metal
+tenha uma coloração uniforme – o que normalmente exige entre 20 e 30 dobras. Como
+o metal endurece á medida que mais sangue de dragão é adicionado ao metal, cada
+dobra leva mais tempo para ser realizada
+do que a anterior, geralmente exigindo horas nas últimas dobras. E como depois de
+esfriado o metal simplesmente não pode
+mais ser trabalhado por meios normais, o
+trabalho precisa ser contínuo.
+/*
+Arma Corporal de Drakonite
+Custo: Cinquenta vezes o custo normal
+Dano: Duas vezes o valor normal de dano
+à ser somado à Força
+FN: Normal
+Peso: Normal
+Tempo de Produção: FN x 10 dias.
+Armaduras e Escudos de Drakonite
+Custo: Cinquenta vezes o custo normal
+Defesa: Duas vezes o valor normal de Defesa
+FN: Normal
+Peso: Normal
+Tempo de Produção: FN x 10 dias. 
+*\
+-*FERRO:
+Além de enferrujar facilmente, ferro
+é menos flexível do que aço, o que o torna mais quebradiço. Armaduras de ferro
+precisam ser mais grossas para resistirem
+a golpes tão bem quanto o aço, e isso as
+torna pesadas. Armas de ferro podem ser
+facilmente encontradas em praticamente
+qualquer vila de Cassipéia – sendo uma
+alternativa mais fácil e rápida de fabricar, elas são mais baratas e, portanto, populares
+entre aldeões. Armas de ferro são sempre
+simples e sem requinte, próprias para trabalho, e não exibição.
+Armas e armaduras de ferro nunca
+podem ser de qualidade obra-prima. 
+/*
+Arma Corporal de Ferro
+Custo: Metade
+Dano: Normal
+FN: +1
+Peso: uma vez e meia o peso normal
+Tempo de Produção: 1 dia para cada 2
+de FN
+Especial: Armas de ferro sempre quebram
+como resultado de uma falha crítica no teste de
+ataque, além de quaisquer outros efeitos.
+Armaduras e Escudos de Ferro
+Custo: Metade
+Defesa: Normal
+FN: +1
+Peso: um terço maior
+Tempo de Produção: 1 dia para cada 2
+de FN.
+*\
+-*KRANEIA:
+Kraneia é uma árvore nativa da Floresta dos Antigos, muito utilizada para
+a fabricação de arcos. Apesar de sua utilização em arcos, no entanto, ela é muito
+prezada para fazer armas corporais. Se
+for seca de forma apropriada, a madeira
+de kraneia torna-se extremamente dura,
+rígida e resistente, características excelentes para a fabricação de armas brancas. De
+fato, kraneia é a única madeira que consegue ser talhada de forma que, quando
+seca, seja capaz de cortar quase tão bem
+quanto lâminas de metal. Além de muito
+apreciada por Elfos, Centauros, Faunos e
+Faens, armas de kraneia (particularmente espadas) são extremamente populares
+entre marinheiros, já que não enferrujam
+e boiam.
+Kraneia nunca pode ser de qualidade
+baixa. Uma rolagem entre 7 e 9 na produção de um item de kraneia resulta em um
+item de madeira de qualidade mediana
+para todos os propósitos. 
+/*
+Arma Corporal de Kraneia
+Custo: Uma vez e meia o custo normal
+Dano: -1
+FN: -1
+Peso: Normal
+Tempo de Produção: Normal
+Arcos de Kraneia
+Custo: uma vez e meia o custo normal
+Dano: +1
+FN: Normal
+Peso: Normal
+Tempo de Produção: Normal
+*\
+-*MADEIRA:
+Entre os Elfos – tanto em Londérien
+quanto na Floresta do Antigos – madeira
+é o material mais comum para produção
+de armas. Apesar de preferirem armas tradicionalmente feitas de madeira – arcos,
+bordões e clavas – não é incomum entre os
+Elfos criar versões de outras armas feitas de
+madeira. Lanças e azagaias totalmente feitas de madeira são bastante comuns, assim
+como espadas e martelos.
+/*
+Arma Corporal de Madeira
+Custo: Metade
+Dano: -2
+FN: -1
+Peso: Normal
+Tempo de Produção: Normal
+Especial: Versões de madeira de armas
+que normalmente causam dano por Corte causam
+dano por Contusão ao invés disso. 
+*\
+-*PRATA FRIA:
+Prata fria é uma liga de ferro com um
+tipo de prata que ocorre apenas no extremo
+norte de Cassiopéia, e portanto geralmente
+é extraída e trabalhada pelos Aesires. Essa liga metálica, de um cinza claro e extremamente brilhante é um pouco mais resistente
+e flexível do que outras ligas de aço, e os
+Aesires aproveitam essas características do
+material para fazer armas com superfícies
+de impacto maiores do que aquelas de aço
+normal e armaduras com placas mais finas
+e leves – muito apreciadas por Elfos e Levents.
+Prata Fria nunca pode ser de qualidade baixa. Uma rolagem entre 7 e 9 na produção de um item de prata fria resulta em
+um item de aço de qualidade mediana para
+todos os propósitos. 
+/*
+Armas Corporal de Prata Fria
+Custo: Duas vezes o custo normal
+Dano: +1
+FN: Normal
+Peso: Normal
+Tempo de Produção: Uma quantidade de
+dias igual a uma vez e meia a FN.
+Armaduras e Escudos de Prata Fria
+Custo: Duas vezes o custo normal
+Defesa: Normal
+FN: -1
+Peso: Um quarto menor
+Tempo de Produção: Uma quantidade de
+dias igual a uma vez e meia a FN. 
+*\
+-*PRATA E OURO:
+Armas e armaduras nunca são
+feitos de ouro ou prata, por serem
+flexíveis demais, e se tornam inúteis rapidamente. Armas desses
+materiais são confeccionadas apenas quando são itens produzidos
+especificamente para serem encantadas, já que um encantamento deixa o
+item muito mais resistentes. Itens de qualidade alta ou obra-prima, no entanto, costumam ser engastadas com estes materiais
+em pequenas quantidades. Ouro e prata
+são mais comumente usados para produzir
+instrumentos musicais (normalmente de
+sopro), adornos (como símbolos sagrados)
+e itens de conjuração (especificamente varinhas e punhais).
+Armas e armaduras de prata e ouro
+tem as mesmas características daquelas feitas
+de bronze, e, além disso, a cada golpe, uma
+arma de prata ou ouro perde 1 ponto de dano
+máximo devido à desfigurações no metal, e a
+cada golpe que sofre, uma armadura de prata
+ou ouro perde 1 ponto de bônus de armadura, devido à desfigurações no metal.
+Itens de prata custam 5 vezes seu custo normal. Itens de ouro custam 10 vezes
+seu custo normal. 
+*ATACANDO E DESTRUINDO ITENS:
+Estruturas e itens inanimados são,
+via de regra, alvos fáceis – mesmo um
+item pequeno como um frasco de poção
+ou adaga, se estiverem parados, são bastante fáceis de atingir. Eles podem, no entanto, ser difíceis de destruir. Enquanto
+um frasco de poção pode ser facilmente
+destruído com um simples soco ou mesmo uma queda de cima de uma mesa, o
+mesmo certamente não poderia ser dito
+de uma adaga. Para simular isso, cada
+item tem uma Defesa baseada
+em seu tamanho, uma redução de dano baseada no
+material do qual é constituído e uma quantidade
+de Pontos de Vida baseados em sua espessura.
+Objetos miúdos (até 50 centímetros de tamanho na sua
+maior dimensão) têm Defesa 7.
+Objetos pequenos (entre 50 cm e 1,5
+metros de tamanho) tem Defesa 6. Objetos
+médios (entre 1,5 e 2,5 metros na sua maior
+dimensão) têm Defesa 5. Objetos grandes
+(entre 2,5 e 4 metros) tem Defesa 4, e objetos gigantes (mais do que 4 metros) tem defesa
+3. Se o item estiver em movimento (caindo
+ou rolando ladeira abaixo, por exemplo) o
+Mestre deve rolar 1d6 e somar o resultado
+à Defesa do objeto. Se o objeto tiver sido arremessado por alguém, a Defesa do objeto é
+somada ao teste de ataque do personagem
+que arremessou o item.
+Exemplo: Para saber a dificuldade
+para um personagem pegar um barril de
+1 metro de altura rolando por uma ribanceira, o Mestre rola 1d6 e soma 6 (a Defesa
+normal de um objeto pequeno), chegando à
+um resultado entre 7 e 12. Para atingir uma
+flecha no ar, a dificuldade seria o teste de
+ataque do arqueiro somado à 7 (a Defesa
+normal de objetos miúdos).
+A tabela a seguir mostra a Redução
+de Dano (RD), Resistências e Vulnerabilidades de um item. A Resistência a [Dano]
+e a Vulnerabilidade à [Dano] funcionam
+exatamente como descrito no Guia Básico
+(página 173). A RD de um material é um
+valor que deve ser ignorado de cada ataque feito contra o objeto. Essa redução de
+dano deve ser aplicada depois de calculados os danos devido à Resistências e Vulnerabilidades.
+/*equipamentos.xlsx*\
+Dano por frio causa muito pouco dano
+em objetos inanimados – praticamente todos
+os materiais são Resistentes à Frio. No entanto, frio pode ser aplicado à um item de modo
+à congelá-lo. Um objeto inanimado que sofra
+um ataque que cause pelo menos 50 pontos
+de dano por frio (desconsiderando RD e Resistência) é considerado congelado. Um item
+congelado fica quebradiço, e perde Resistência à danos físicos (Corte, Contusão e Perfuração) e recebe Vulnerável à Contusão. Esse
+efeito dura 6 rodadas, ou até que o item sofra
+dano por Fogo, o que ocorrer primeiro.
+Pedra e vidro não são afetados por
+essa regra. Drakonite, apesar de não sofrer dano por Frio, é afetado por essa regra.
+Finalmente, os Pontos de Vida de um
+item inanimado ou estrutura dependem
+de sua espessura. Um material tem uma
+quantidade de PVs igual à metade de sua
+RD para cada 5 centímetros de espessura.
+Materiais sem RD tem 2 PVs para cada 5 cm
+de espessura.
+/*
+Descrição dos Itens Mundanos
+Item: O nome mais comum do item.
+Peso: O peso em quilos do item.
+Custo: O custo em moedas do item.
+Descrição: Descrição dos itens e suas características, quando houver.
+*\
+*Tabela de Jóias e Materiais Preciosos:
+Os preços das gemas apresentadas nessa tabela são para pedras já polidas e de tamanho apropriado para serem engastadas em itens. Gemas brutas custam um terço dos preços listados. Gemas
+de tamanhos maiores são raras e seus custos devem ser ajustados de acordo pelos Mestres. As jóias e
+adornos apresentados na lista são de aço e não tem pedras incrustadas. Para equipamentos de materiais
+diferentes veja as regras descritas a partir da página 54. Para itens incrustados com gemas, adicione os
+preços listados individualmente, e calcule a qualidade dos itens antes de adicionar o preço das gemas. 
+/*equipamentos.xlsx*\
+Partes de Armaduras: A peça peitoral de
+uma armadura pode ser produzida separadamente
+do conjunto pela metade do preço. O custo das
+outras peças de uma armadura (grevas, manoplas,
+braceletes, elmo, etc.) pode ser produzida separadamente do conjunto completo por um preço
+igual à um décimo do custo total daquela armadura. Produzir apenas uma peça de uma armadura
+pode ser necessário para repor uma parte perdida
+ou para produzir itens mágicos específicos.
+*Tabela de Instrumentos de Artesanato:
+Itens utilizados por artesãos para realizar suas tarefas, incluindo conjuntos completos e itens individuais para reposição. Sem os instrumentos adequados, é impossível para um artesão realizar suas tarefas.
+/*equipamentos.xlsx*\
+---
+**ITENS MÁGICOS**
+Para que um Artífice encante propriamente um item são necessárias três
+etapas: o projeto, onde o Artífice decide
+qual item irá encantar e quais efeitos colocará no item; a preparação, que consiste
+em preparar tanto o item quanto o local
+onde será realizado o encantamento e, finalmente, o ritual de encantamento propriamente dito.
+*O PROJETO:
+A parte mais fundamental de criar
+um item é decidir, exatamente, como será
+seu funcionamento. Esta é a parte mais demorada de todo o processo, e pode levar
+semanas ou meses para ser concluída, enquanto o Artífice decide qual item será usado, quais Magias serão necessárias, quais as
+Runas mais apropriadas e o modo preciso
+de desenhá-las e quanto de energia será necessário investir.
+Antes de tudo é necessário escolher
+o item á ser encantado. Para poder ser encantado, um item precisa ser de qualidade
+alta ou, preferencialmente, obra-prima –
+Itens de qualidade regular ou baixa simplesmente não conseguem reter as energias arcanas e se desintegram a medida
+que são energizados. Um item de qualidade alta fará a dificuldade do encantamento ser aumentado em +2. Além disso, se o
+item não tiver sido criado especialmente
+para o ritual – o que inclui gravar Runas
+específicas no item a medida que ele é
+produzido e escolher cuidadosamente os
+materiais mais adequados para o encantamento – a dificuldade do encantamento
+é aumentada em +2. Esses modificadores
+são cumulativos.
+Em seguida é necessário decidir qual
+encantamento (ou encantamentos) serão
+imbuídos no item. Há, basicamente, 5 tipos de encantamentos que podem sem
+imbuídos em um item: Dano, Defesa, Efeito, Bônus e Conjuração. Cada um desses
+encantamentos exige uma Habilidade específica (indicada entre parênteses ao lado
+do tipo de encantamento) por parte do Artífice. Cada encantamento contém possíveis variações que exigirão outras Magias
+para serem executados, como será explicado na descrição de cada tipo de encantamento. O Artífice precisa ter a Habilidade
+específica para realizar o encantamento,
+mas não precisa ter as Magias necessárias
+para as variações, podendo utilizar essas
+Magias através de um item com a característica Registro.
+Dano (Enfeitiçar Arma 1): Aumenta o dano causado pelo item. Aumento de
+dano pode ser usado para melhorar o dano
+que a arma já faz, ou, como uma variação,
+adicionar um tipo de dano elemental (Fogo,
+Frio ou Eletricidade) o que exige que o Artífice utilize uma Magia que cause o tipo de
+dano pretendido (como Inflamar para dano
+por fogo, por exemplo). O custo para cada
++1 de dano é igual à 5 Pontos de Mana, até
+um máximo igual à 2 vezes a Vontade do
+Artífice (um Artífice com Vontade 4 pode
+adicionar até +8 de dano à uma arma, a um
+custo de 40 Pontos de Mana, por exemplo).
+Este efeito pode ser usado em um item que
+não seja uma arma (como um anel ou um
+broche), fazendo com que o efeito de dano
+afete os ataques desarmados do personagem – mas não à armas que ele empunhe.
+Apenas um tipo de dano pode ser adicionado à um item.
+Defesa (Enfeitiçar Armadura): Adiciona um bônus à uma das defesas (Armadura, Bloqueio, Esquiva ou Determinação). Um item que normalmente forneça um bônus de Defesa (geralmente armaduras e escudos) só pode ter aquele tipo de
+defesa aumentado. Armas podem receber
+encantamentos que aumentem Bloqueio,
+e quaisquer itens que possam ser vestidos
+(como roupas ou jóias) podem ser encantados com Esquiva ou Determinação. O
+custo para cada +1 de defesa é igual à 10
+Pontos de Mana, até um máximo igual à
+metade da Vontade do Artífice (um Artífice com Vontade 4 pode adicionar até +2
+de defesa em um item, a um custo de 20
+Pontos de Mana, por exemplo). Como uma
+variação, o encantamento pode tornar o
+usuário do item Resistente ou Imune à um
+tipo de dano (Corte, Perfuração, Contusão,
+Fogo, Frio ou Eletricidade), o que exige
+que o Artífice utilize uma Magia que ofereça resistência ou imunidade àquele tipo
+de dano (como Resistência Elemental ou
+Corpo Fechado). Resistência à dano custa
+10 Pontos de Mana e Imunidade à dano
+custa 50 Pontos de Mana. Um item só pode
+aumentar uma defesa e só pode oferecer
+resistência ou imunidade à um tipo de
+dano – mas ele pode ter um bônus em uma
+defesa e resistência ou imunidade à dano
+ao mesmo tempo.
+Efeito (Soldar Magia): Adiciona o
+efeito de uma Magia ao item. Apenas Magias que façam efeito sobre o próprio usuário (como Manto Crepitante) ou sobre o
+item encantado (como Arma Fiel) podem
+ser encantadas em itens. O efeito da magia
+segue todas as regras normais descritos
+na Magia em questão, desconsiderando
+seus Requisitos, Custo, Dificuldade e duração (que serão permanentes). Assim, o
+personagem pode criar um anel que deixa
+seu usuário invisível quando colocado no
+dedo, usando Invisibilidade, ou então permitir que o usuário de uma capa voe ao
+vestí-la, usando Levitar. O custo em Pontos de Mana do encantamento será igual
+ao custo normal da Magia à ser colocada
+no item.
+Bônus (Dom do Artífice): Um bônus
+em um Atributo ou na rolagem de uma
+determinada tarefa. O custo para cada +1
+de bônus no Atributo é igual à 20 Pontos
+de Mana, até um máximo igual à metade
+da Vontade do Artífice (um Artífice com
+Vontade 4 pode adicionar até +2 em um
+bônus de Atributo em um item, a um custo de 40 Pontos de Mana, por exemplo).
+O custo para cada +1 em uma rolagem
+específica (utilize os exemplos de testes
+listados a partir da página 23 do Guia Básico como referência) é igual à 5 Pontos
+de Mana, até um máximo igual à 2 vezes
+a Vontade do Artífice (um Artífice com
+Vontade 4 pode adicionar até +8 em um
+teste, a um custo de 40 Pontos de Mana,
+por exemplo). Um item só pode aumentar um Atributo ou oferecer um bônus em
+um tipo de teste.
+Conjuração (Conjurar Objeto): O
+item conjura outro item com um determinado comando. O Artífice precisa do item
+que será conjurado além do item que será
+encantado (para criar uma cesta que conjura uma torta sempre que sua tampa é
+aberta, além da cesta o Artífice precisa de
+uma torta). A qualidade do item à ser conjurado não influencia na dificuldade do
+ritual. Apenas 1 item pode ser conjurado
+de cada vez, e o Artífice pode escolher que
+o item conjurado seja levemente diferente
+do item usado – a torta conjurada pela cesta poderia ter qualquer sabor, por exemplo. Este efeito custa 10 Pontos de Mana.
+Como uma variação, o Artífice pode criar
+itens com espaços internos maiores do que
+os externos, o que exige que o Artífice utilize uma Magia de Teleporte ou Portal. Em
+todos os casos, o item extra a ser conjurado
+é consumido durante o processo de encantamento.
+*Limitações:
+Para produzir itens com propósitos
+específicos, ou simplesmente tornar mais
+rápido o tempo de produção de um item,
+um Artífice pode reduzir o custo em Mana
+do encantamento adicionando restrições
+ao efeito do encantamento. O Artífice pode
+colocar quantas limitações desejar no item,
+mas o custo em Mana final do encantamento será no mínimo igual à um quarto do seu
+valor original. Há quatro tipos de limitações (acesso, desígnio, prazo e carga) explicados À seguir:
+Acesso: O item só pode ser usado
+por um tipo de criatura, somente mediante uma determinada situação ou precisa de
+uma palavra de comando específica para
+funcionar. Limitar a apenas um grupo inteiro de criaturas (Humanóides, Esfínges,
+Trogloditas ou Bestas) não tem efeito sobre o custo do encantamento. Se o item só
+funciona quando usado por uma família
+de criaturas (mamíferos, répteis, mortos-
+-vivos ou draconianos), em uma situação
+ou condição comum (o item só funciona
+no escuro, durante o dia, em alto mar, debaixo d’água) ou mediante uma palavra de
+comando, o custo do encantamento é reduzido em um quarto. Se o item só funciona
+com um tipo específico de criaturas (ogros,
+mahoks, vampiros, conjuradores ou Paladinos, por exemplo), criaturas com uma
+determinada característica (como ‘criaturas
+voadoras’ – que possuem as Habilidades
+Asas Pesadas, Asas Leves, ou estejam sob o
+efeito de uma magia que as faz voar) ou em
+situações pouco comuns ou raras (o item
+só funciona sob a luz direta do sol, quando
+está chovendo, durante um eclípse), o custo
+final do item é reduzido à metade.
+Desígnio: O item só funciona contra
+um tipo de criatura. Siga as mesmas diretrizes de Acesso, acima. Se o item só funciona
+contra objetos inanimados, o custo em Mana
+do encantamento é reduzido à metade.
+Prazo: O encantamento funciona
+durante um determinado tempo – ou funciona uma vez, se tiver um encantamento
+de invocação – e depois precisa do mesmo
+tempo para se recarregar, durante o qual
+o encantamento fica inativo. Se o prazo de
+recarga for de 1 hora ou mais, o custo de
+Mana do encantamento é reduzido à metade. Se o prazo de recarga for entre 1 minuto
+e 1 hora, o custo em Mana do encantamento
+é reduzido em um quarto. Prazos de recarga menores do que 1 minuto não alteram
+o custo do encantamento. Note que mesmo
+estando com seu encantamento inativo, o
+item ainda será considerado um item mágico para todos os efeitos.
+Carga: O encantamento só funciona se
+for abastecido pelo Mana de seu portador, ficando ativo por 1 minuto (ou conjurando um
+objeto, no caso de encantamentos de conjuração) e depois fica inativo até ser abastecido
+novamente. Se o custo em Mana para ativar
+o efeito for de 30 Pontos de Mana ou mais, o
+custo do encantamento será reduzido à metade. Se o custo em Mana para ativar o efeito
+for entre 10 e 25 Pontos de Mana, o custo do
+encantamento será reduzido em um quarto.
+Note que mesmo estando com seu encantamento inativo, o item ainda será considerado
+um item mágico para todos os efeitos.
+Tendo decidido qual ou quais encantamentos (incluindo limitações) o item encantado terá, o Artífice então calcula o custo
+total de Mana a ser usado durante o ritual
+de encantamento, e qual será a dificuldade
+do mesmo. A Dificuldade do encantamento
+será igual à 11 +2 para cada encantamento,
++1 para cada 5 Pontos de Mana de custo das
+magias encantadas no item (se a magia a ser
+encantada no item tiver custo zero, ele passa
+a ter custo de Mana 5), além dos possíveis
+modificadores pelo item em sí (+2 se for um item de qualidade alta e +2 se não for um
+item produzido especialmente para o encantamento). Assim, encantar uma túnica pesada obra-prima que foi feito especialmente
+para o receber um encantamento de Defesa de Armadura +2 (20 Pontos de Mana) e
+Resistência à Frio (10 Pontos de Mana) teria
+dificuldade 21 (11 +4 por serem 2 encantamentos, +6 por serem necessários 30 Pontos
+de Mana em encantamentos no total). O custo final para encantar o item será igual à 100
+vezes o custo de todas as magias a serem encantadas no item (no caso acima, 3.000 Pontos de Mana).
+O artífice leva um número de dias igual
+à Dificuldade do encantamento para preparar o projeto. O Artífice precisa dedicar pelo
+menos 8 horas do seu dia ao projeto, mas este
+trabalho não precisa ser contínuo. Assim, no
+exemplo acima, o Artífice precisa de 21 dias
+para concluir o projeto. Ele pode trabalhar
+no projeto por uma semana, se aventurar por
+algumas semanas e voltar ao projeto para finaliza-lo depois de mais 14 dias de trabalho.
+No final de cada semana (ou fração) trabalhando no projeto, o Artífice deve fazer um
+teste de Inteligência (usando a dificuldade do
+encantamento) para determinar se o projeto
+está adequado. Este teste deve ser realizado
+também sempre que o Artífice retoma um
+projeto que tenha deixado de lado por mais
+de uma semana. Se for bem sucedido no teste,
+ele inicia os preparativos da próxima semana.
+Se falhar no teste, terá de gastar uma semana
+para encontrar onde cometeu o erro, fazendo
+um novo teste. Se em algum momento ele
+tiver uma falha crítica, ele faz algum cálculo
+que arruína todo o projeto, e terá que iniciar
+o projeto novamente. Se tiver um sucesso crítico, ele tem uma epifania durante o trabalho,
+e avança uma semana inteira no trabalho –
+considere que o Artífice teve dois sucessos
+consecutivos e que uma semana do trabalho
+do projeto foi poupada.
+Preparação Minuciosa: A dificuldade
+do teste pode ser diminuída aumentando
+o tempo necessário para concluir o projeto em 1 dia para cada -1 na dificuldade.
+Assim, usando o exemplo anterior, para
+diminuir a dificuldade do teste de 21 para
+12, o Artífice adicionaria 9 dias ao tempo
+necessário para concluir o projeto, para um
+total de 30 dias – o que exigiria 5 testes (no
+7º, 14º, 21º, 28º e finalmente 30º dias) para
+que o projeto fosse concluído. Preparação
+Minuciosa não afeta de forma alguma a
+dificuldade de encantamento de um item –
+mas veja Energização Minuciosa, adiante.
+*A PREPARAÇÃO DO ENCANTAMENTO:
+Tendo finalizado o projeto, o Artífice
+precisa então preparar o ritual, traçando
+um círculo com desenhos específicos baseados no propósito do encantamento, deixando à mão todas as magias que virão de
+tomos e posicionando o item a ser encantado no centro do círculo em uma posição
+segura, para que não haja risco dele ser movido ao longo do processo de encantamento. Ele deve, então, conjurar sobre o item
+a Magia Criar Talismã e em seguida cada
+uma das outras Magias necessárias para o
+encantamento do item (pelo seu custo em
+Mana e dificuldade normais). Este processo
+geralmente demora apenas 1 dia, mas caso
+as Magias necessárias consumam muito
+Mana e o Artífice não seja capaz de conjurá-las todas de uma vez, o processo pode se
+extender por tanto tempo quanto seja necessário, desde que não seja interrompido
+por mais do que 1 dia inteiro. Não há testes
+necessários para a preparação do encantamento além dos testes para Conjurar todas
+as Magias usadas no encantamento. Falhas
+Críticas na conjuração das Magias não causam efeitos colaterais ao processo de encantamento, apenas exigindo que o Artífice
+precise tentar conjurar as Magias novamente. Da mesma forma, sucessos críticos não
+oferecem benefícios além do normal durante a preparação do encantamento. 
+*O ENCANTAMENTO:
+Com a preparação concluída, é hora
+de finalizar o processo, encantando o item
+e lhe conferindo suas capacidades mágicas.
+O Artífice precisa estar absolutamente concentrado neste trabalho durante pelo menos 8 horas a cada dia e não pode interromper o encantamento por mais do que 1 dia
+ou o processo será perdido. O encantamento também será arruinado se o item sendo
+encantado for tocado por uma criatura ou
+movido de sua posição. Em qualquer um
+dos casos, o Artífice terá que realizar a preparação para o encantamento novamente e
+reiniciar o processo do início.
+Verifique a quantidade de Mana necessária para produzir o item, e divida (arredondando para cima) essa quantidade
+pelo total de Pontos de Mana do Artífice.
+Isso indicará quantos dias serão necessários
+para que toda a Mana necessária seja imbuída no item. Ao final de cada sessão de
+encantamento, o Artífice estará esgotado,
+sem nenhum Ponto de Mana – mas pode
+recuperar seu Mana normalmente. Esse
+processo não pode ser acelerado com o uso
+de poções de Mana, gastando Pontos de
+Vida no lugar de Pontos de Mana através
+do uso de Conhecimento Místico ou outros
+meios para aumentar o rendimento diário
+do Artífice.
+No final de cada semana (ou fração)
+trabalhando no encantamento, o Artífice
+deve fazer um teste de Vontade (usando
+a mesma dificuldade calculada no Projeto,
+antes de qualquer redução por Preparação
+Minuciosa) para determinar se o encantamento está sendo propriamente energizado. Se for bem sucedido no teste, o encantamento está estável e ele pode prosseguir.
+Se falhar no teste, terá de gastar mais uma
+semana para estabilizar a energia do encantamento, fazendo um novo teste. Se em
+algum momento ele tiver uma falha crítica, ele não consegue manter a energização
+coerente, e todo o encantamento se perde
+– mas quaisquer materiais ainda poderão
+ser reutilizados. Se tiver um sucesso crítico,
+ele mantém um estado de concentração tão
+absoluto durante aquela semana que consegue energizar o encantamento com o dobro da eficiência – considere que o Artífice
+teve dois sucessos consecutivos, e que ele
+avançou 2 semanas no processo de encantamento do item.
+Energização Minuciosa: A dificuldade do teste pode ser diminuída aumentando a quantidade de energia a ser acumulada
+no encantamento, reduzindo a dificuldade
+em -1 para cada dia a mais que o encantamento for prolongado. Assim, ainda usando o exemplo anterior, se o Artífice tiver 90
+Pontos de Mana, ele precisaria de 34 dias
+(3.000 divididos por 90 resulta em 33.33
+arredondado para cima, 34) realizando 5
+testes com dificuldade 21 para concluir o
+encantamento. para diminuir a dificuldade
+do teste de 21 para 10, o Artífice adicionaria
+11 dias ao tempo necessário para concluir o
+encantamento, para um total de 45 dias – o
+que exigiria 6 testes (no 7º, 14º, 21º, 28º, 35º,
+42º e 45º dias) para que o encantamento fosse concluído.
+Depois de encantado, um item é considerado como tendo as mesmas resistências de um item de drakonite (veja Atacando e Destruindo Itens, na página 58),
+independente do material do qual é feito.
+No entanto, se sofrer qualquer quantidade
+de dano, o encantamento contido no item
+se perde imediatamente.
+*DESCRIÇÃO DOS ITENS MÁGICOS:
+Nome: O nome mais comum do item
+mágico.
+Raridade: a disponibilidade geral do
+item no comércio.
+• Incomum: pode ser encontrado em
+lojas especializadas em itens mágico,
+quase sempre. Inclui itens que podem ser encantados com Habilidades Básicas.
+• Raro: Encontrado apenas em lojas
+especializados das grandes cidades,
+às vezes. Inclui itens que podem ser
+encantados com Habilidades Avançadas.
+Logo após a raridade, entre parênteses, está o custo médio do item mágico, em
+moedas. O custo de um item é calculado
+somando a quantidade de Mana necessária no encantamento (depois de calcular
+quaisquer limitações) convertido em moedas, adicionando o custo do item encantado – e qualquer outro item necessário
+para a produção do item, no caso de item
+com encantamentos de conjuração – além
+do custo de qualquer Magia variante necessária para encantar o item. Esse valor
+pode variar (normalmente para mais) dependendo das magias necessárias para encantar o item e quão raro um artífice é no
+cenário de jogo.
+Descrição: A descrição do item, seu
+encantamento e funcionamento específicos.
+Encantamento: A descrição do encantamento, incluindo o tipo (Dano, Defesa, Efeito, Bônus ou Conjuração), magias
+extras necessárias (incluíndo seu custo,
+quando aplicável), limitações (quando
+aplicável), dificuldade (sem modificadores de Preparação/Energização Minuciosa), custo em Mana e itens mundanos
+utilizados (incluindo o custo em moedas
+desses itens).
+Amuleto Holdan
+Raridade: Raro (600 moedas)
+Descrição: Um amuleto com o símbolo
+de uma divindade (geralmente Sarfion) engastado
+em ambos os lados. O usuário pode conjurar uma
+Magia sobre o item deixando seus efeitos armazenados. A magia pode ser conjurada a qualquer
+momento como uma ação padrão, sem necessidade de testes ou gasto em Mana. Apenas uma
+Magia pode ficar armazenada no amuleto, e se o
+usuário remover o amuleto, a magia armazenada
+se dissipa.
+Encantamento: Efeito [Encantar Talismã], (acesso: apenas conjuradores). Dificuldade
+16, Custo de Mana 500, Símbolo Sagrado de qualidade alta (75 moedas).
+Amuleto dos Mortos
+Raridade: Incomum (2.250 moedas)
+Descrição: Um amuleto com um crânio
+em baixo relevo em um dos lados e o símbolo
+de uma divindade (geralmente Denalla) do outro.
+Qualquer morto-vivo, demônio ou espírito que
+estiverem a uma distância em metros igual à Determinação do usuário perdem 10 Pontos de Vida
+e 10 Pontos de Mana no final de cada um dos seus
+turnos. Criaturas afetadas que tenham Mente Vazia perdem todos os seus Pontos de Vida e Mana.
+Mortos-vivos destruídos devido à esse efeito voltam a ser cadáveres inanimados e não poderão ser
+reanimados. Demônios destruídos por este efeito
+são enviados de volta ao inferno e não podem sair
+de lá por 1 ano. Espíritos destruídos por este efeito
+são permanentemente dissipados.
+Encantamento: Efeito [Exorcismo, 200
+moedas]. Dificuldade 17, Custo de Mana 2.000,
+Símbolo Sagrado obra-prima (250 moedas).
+Anel da Invisibilidade
+Raridade: Incomum (2.500 moedas)
+Descrição: Um anel simples de prata
+que, quando colocado no dedo de uma criatura,
+a torna – assim como todas as suas posses –
+invisível.
+Encantamento: Efeito [Invisibilidade
+1, 300 moedas]. Dificuldade 19, Custo de Mana
+2.000, anel de prata de qualidade alta (180 moedas).
+Arco de Ghlasaglais
+Raridade: Incomum (2.700 moedas)
+Descrição: Um arco élfico de kraneia particularmente eficiente contra criaturas em vôo.
+Além do bônus de ataque +1 (por ser de qualidade alta) e +1 de dano (por ser de kranéia) este arco
+recebe +2 nos testes para atingir criaturas com as
+características Asas Leves, Asas Pesadas ou que
+estejam sob efeito de uma magia que a faça voar
+(como as Magia Levitar ou Asas Celestiais, por
+exemplo) e +4 de dano contra essas criaturas.
+Encantamento: Dano, bônus (Desígnio:
+criaturas voadoras). Dificuldade 20, Custo de
+Mana 1.500, Arco recurvo de kranéia de qualidade
+alta (1.125 moedas)
+Bolsa do Espaço Infinito
+Raridade: Incomum (3.400 moedas)
+Descrição: Apesar do nome, este embornal de couro tem um espaço interno de 2 metros
+cúbicos (1 metro de largura, 1 de altura e 2 de
+profundidade). Independente do que estiver guardado dentro do embornal, ele sempre parece estar vazio – e o peso dos itens em seu interior é
+ignorado.
+Encantamento: Conjuração [Teleporte
+1.300 moedas]. Dificuldade 21, Custo de Mana
+3.000, embornal de qualidade alta (60 moedas),
+caixa grande (10 moedas).
+Botas da Furtividade
+Raridade: Incomum (4.000 moedas)
+Descrição: Um par de botas altas de couro
+que abafam o som dos passos do usuário e tornam sua imagem levemente turva em áreas sombrias. O usuário recebe +4 em suas rolagens de
+mover-se em silêncio e ocultar-se/camuflar-se.
+Encantamento: Bônus. Dificuldade 25,
+Custo de Mana 4.000, botas de qualidade alta (30
+moedas).
+Cesta das Infinitas Tortas
+Raridade: Incomum (500 moedas)
+Descrição: Esta cesta de madeira simples
+com bonitos entalhes emana um delicioso cheio
+de torta. 1 vez a cada hora, seu portador pode
+abrir a cesta e encontrará lá dentro uma torta de
+um sabor aleatório (role na tabela abaixo).
+1d6 Sabor da Torta
+1 Nozes
+2 Baunilha
+3 Morango
+4 Maçã
+5 Limão
+6 Cereja
+Encantamento: Conjuração (Prazo). Dificuldade 14, Custo de Mana 500. Cesta obra-prima
+(20 moedas), uma torta (3 moedas)
+Cinto da Força
+Raridade: Raro (4.000 moedas)
+Descrição: Um cinto de couro com uma
+fivela decorada com uma Runa Arcana que concede +2 de Força para seu usuário.
+Encantamento: Bônus. Dificuldade 21,
+Custo de Mana 4.000. Cinto obra-prima (10 moedas).
+Coroa da Inteligência
+Raridade: Raro (4.200 moedas)
+Descrição: Um diadema de aço com uma
+gema incrustada (geralmente um quartzo) que
+concede +2 de Inteligência para seu usuário.
+Encantamento: Bônus. Dificuldade 23,
+Custo de Mana 4.000. Diadema de qualidade alta
+incrustada com quartzo (180 moedas).
+Corrente da Vontade
+Raridade: Raro (4.500 moedas)
+Descrição: Uma fina corrente de ouro que
+concede +2 de Vontade para seu usuário.
+Encantamento: Bônus. Dificuldade 23,
+Custo de Mana 4.000. Corrente de ouro de qualidade alta (600 moedas).
+Espada Vingadora
+Raridade: Incomum (4.500 moedas)
+Descrição: Uma claymore cuja empunhadura possui engastes em ouro e a guarda ostenta o
+Selo Místico de uma divindade (geralmente Ahogr
+ou Mirah). Além do bônus de ataque +1 e +1 de
+dano (por ser obra-prima), esta espada causa +6
+de dano em mortos-vivos, demônios e fantasmas.
+Encantamento: Dano (Desígnio: criaturas
+malignas). Dificuldade 15, Custo de Mana 2.000.
+Claymore obra-prima (2.500 moedas).
+Grevas de Chutar Goblins
+Raridade: Incomum (3.000 moedas)
+Descrição: Um par de grevas de bronze
+de tamanho anão exibindo goblins em alto relevo.
+Os ataques desarmados do portador causam +20
+de dano contra goblins.
+Encantamento: Dano (desígnio: Goblins,
+Acesso: Anões). Dificuldade 20, Custo de Mana
+2.500. Grevas de bronze de qualidade alta (540
+moedas)
+Espelhos Mensageiros
+Raridade: Incomum (950 moedas)
+Descrição: Um par de espelhos de prata que, à uma ordem de comando, transmitem
+imagens e sons do que estiver diante do outro
+espelho. Este efeito dura 10 minuto, e depois
+de usado só pode ser reativado depois que 10
+minutos tenham se passado. Quando o efeito
+de um dos espelhos é acionado, ele funciona
+em ambos os itens ao mesmo tempo.
+Encantamento: Efeito [Janela Mágica, 300 moedas] (prazo, acesso). Dificuldade
+14, Custo de Mana 500. Um par de espelhos
+de prata obra-prima (150 moedas).
+Lança Matadora de Dragões
+Raridade: Incomum (6.000 moedas)
+Descrição: Esta lança de ponta denteada apresenta runas em idioma dracônico ao
+longo do cabo. Além do bônus de ataque +1
+e +1 de dano (por ser obra-prima), esta lança
+causa +20 de dano contra dragões verdadeiros.
+Encantamento: Dano (Desígnio:
+Dragões. Dificuldade 23, Custo de Mana
+5.000. lança obra-prima 1.000 moedas).
+Luvas da Agilidade
+Raridade: Raro (4.000 moedas)
+Descrição: Um par de luvas de pelica muito
+fina que concede +2 de Agilidade para seu usuário.
+Encantamento: Bônus. Dificuldade 21,
+Custo de Mana 4.000. Luvas de couro obra-prima
+(30 moedas).
+Machado do Gelo
+Raridade: Incomum (3.000 moedas)
+Descrição: Um machado de aço anão gelado ao toque. Além do bônus de ataque +1 (por
+ser de qualidade alta) e +1 de dano (por ser de aço
+anão) este machado causa um dano adicional igual
+à 4/gelo em cada ataque bem sucedido.
+Encantamento: Dano [Rajada de Gelo,
+250 moedas]. Dificuldade 19, custo de mana
+2.000. Machado de batalha de aço anão de qualidade alta (675 moedas)
+Manto da Proteção
+Raridade: Incomum (3.000 moedas)
+Descrição: Um manto de tecido leve que
+volita e esvoaça de forma sobrenatural quando o
+usuário é atacado, atrapalhando os golpes direcionados contra ele, o que concede um bônus de
++3 na esquiva de quem estiver trajando o manto.
+Encantamento: Defesa. Dificuldade 21,
+custo de Mana 3.000. Capa de qualidade alta (9
+moedas).
+Túnica do Norte
+Raridade: Incomum (3.700 moedas)
+Descrição: Uma túnica pesada que mantém
+seu usuário aquecido mesmo nos climas mais gelados. O usuário recebe um bônus de Armadura de
++2 (além do bônus de +2 da túnica pesada obra-
+-prima) e sofre apenas metade de dano por frio.
+Encantamento: Defesa [Resistência Elemental, 200 moedas]. Dificuldade 21, Custo de
+Mana 3.000. Túnica Pesada obra-prima (500 moedas).
+*Comprando Magias:
+Os preços de tomos e outros itens de conjuração com a característica Registro apresentados no Guia Básico (página 165) consideram que
+o item não tem qualquer Magia escrita neles. No
+entanto, é possível encontrar tomos com magias
+escritas, assim como é possível contratar Conjuradores (tipicamente aqueles que possuem lojas
+de itens mágicos) para escrever Magias em tomos.
+O preço de uma Magia será igual à 200 moedas para Magias básicas e 500 moedas para Magias avançadas. Além disso, adicione 50 moedas
+ao custo para cada outra Habilidade que aquela
+Magia tiver como Requisito.
+Por exemplo: Inflamar teria custo 200, por
+ser uma Magia básica sem Requisito, enquanto Arco
+Voltaico custaria 450 moedas, por ser uma Magia
+básica com 5 Requisitos (Telecinésia, Levitar, Teleporte 1, Eletricidade Estática e Relâmpago 1).
+Se a Magia for exclusiva de um Caminho,
+o custo básico da Magia será de 300 moedas para
+magias básicas e 700 moedas para Magias avançadas.
+---
+**ITENS ABENÇOADOS**
+Itens abençoados são objetos encantados
+diretamente por uma Divindade. O tipo mais
+comum de item abençoado é criado quando,
+diante de uma grande necessidade, demonstração de devoção, ato de bravura ou sacrifício
+em seu nome, uma Divindade imbui um objeto com uma pequena parcela de seus poderes.
+Esses itens geralmente servem à um propósito
+específico, e refletem isso em suas características
+mágicas (como um anel de proteção contra mortos-vivos abençoado enquanto um devoto protegia uma vila de uma invasão de zumbis, por
+exemplo). Itens abençoados podem ser criados pelo Mestre em situações que ele considerar apropriadas, como recompensas diante
+de ações particularmente notáveis dos
+jogadores em defesa de suas divindades
+ou como parte de pilhagens que incluam
+posses de PdMs que tenham sido agraciados
+com esses itens - talvez como reconhecimento
+por um sacrifício nobre.
+O exemplo mais conhecido desse tipo
+de item é a Lâmina de Jorand, uma espada longa usada por Jorand Van Strauss, o rei de Tebryn responsável pela fundação da Ordem da
+Espada de Mirah. Reza a lenda que a própria
+Mirah apareceu diante de Jorand no momento
+em que ele sagrava os primeiros paladinos da Ordem, tocando a espada e concedendo-lhe seus poderes. A espada
+torna seu portador imune à todos os
+efeitos mentais e efeitos de medo e
+permite que ele veja através de ilusões, incluindo
+invisibilidade de todos os tipos. A espada também impede que qualquer um que a esteja tocando diga qualquer coisa além da verdade absoluta
+- o que a torna particularmente útil durante os
+julgamentos presididos pela Ordem.
+O segundo tipo de item abençoado é muito mais raro – e poderoso. Artefatos, como são
+conhecidos, são itens abençoados que são criados
+diretamente por uma Divindade. Alguns deles
+possuem propósitos específicos, mas a maioria
+possui imensos poderes ou gamas enormes de
+poderes menores. Até onde se sabe, há apenas
+um artefato ligado a cada Divindade de Drakon,
+além da Mighty Blade que, segundo se sabe,
+foi criada pelo eforço conjunto da própria Tríade Divina. Artefatos não devem
+ser colocados em uma campanha de modo
+leviano, pois eles geralmente são poderosos demais e criarão problemas de equilíbrio no jogo
+se estiverem sendo empunhados por um personagem de um jogador. Eles podem servir, no
+entanto, como centro de uma trama de uma
+campanha (ou de um arco de aventuras).
+A Lâmina de Jorand é o símbolo do Juiz
+supremo de Tebryn, o líder da Ordem da Espada de Mirah, título que pertencia ao rei Honório Van Strauss. Depois da sua morte, no entanto, um novo Juiz Supremo
+ainda não foi escolhido, e a espada
+tem sido usada pela ordem apenas
+durante julgamentos importantes.
+---
+**POÇÕES**
+Poções são preparados alquímicos
+que produzem efeitos diversos. As poções
+são divididas em duas categorias, Básicas e
+Avançadas, e cada uma dessas categorias é
+dividida em quatro tipos: Venenos, Antídotos, Elixires e Extratos.
+Poções básicas: são aquelas produzidas por meio da mistura de elementos
+naturais – folhas, frutos, raízes e minerais
+mundanos, e geralmente usam dois ou
+três componentes diferentes misturados
+de forma específica, mas não requerem
+muito mais do que simples conhecimento
+enciclopédico em seu preparo – isso é, saber qual quantidade de que componentes
+devem ser misturados e de que forma. Poções básicas têm efeitos menos impressionantes do que as poções avançadas, mas
+são mais simples e rápidas de produzir,
+além de terem componentes mais comuns
+– e portanto mais baratos e mais fáceis de
+encontrar.
+Poções avançadas: são criadas utilizando-se componentes raros e com propriedades mágicas (muitas vezes tendo que ser
+produzidos por conjuradores ou retirados
+de criaturas perigosas) misturados aos ingredientes das poções simples produzindo
+efeitos muito mais impressionantes. Mas
+além dos componentes raros (e perigosos)
+os processos de criação dessas poções são
+sempre mais complexos e demorados, podendo exigir dias para o preparo adequado.
+Venenos: são poções que produzem
+efeitos tóxicos com o intuito de enfraquecer, desabilitar ou as vezes matar o alvo. A
+maioria dos venenos pode ser administrada por via oral, mas seus efeitos são sempre
+mais eficientes se entrarem em contato direto com a corrente sanguínea do alvo. Em
+termos de regras, um veneno ingerido por
+via oral demora um minuto para fazer efeito, enquanto se for injetado no alvo – usando-se uma seringa ou, mais comumente,
+uma arma envenenada – faz efeito a partir
+do próximo turno do alvo.
+Antídotos: são poções que eliminam os
+efeitos de Venenos ou de outros males (como
+doenças). Eles são considerados tanto Venenos quanto Elixires para propósitos de regras
+– assim, um personagem com bônus para fazer Venenos recebe esse bônus com relação
+à Antídotos, da mesma forma que um personagem com modificadores para fazer Elixires, e modificadores que se apliquem tanto
+à Venenos quanto à Elixires se acumula. De
+forma semelhante aos Venenos, elas podem
+ser aplicadas tanto de forma oral quanto intravenosa, mas seus efeitos são sempre imediatos, como no caso dos Elixires.
+Elixires: são poções usadas para restaurar o corpo e o espírito. Elas devem
+sempre ser administradas por via oral, não
+fazendo efeito de nenhuma outra forma, e
+sua ação é imediata – ocorrendo a partir do
+próximo turno do alvo.
+Extratos: são poções de efeitos diversos que não são produzidas para terem
+efeitos diretos sobre criaturas vivas, podendo ter os mais variados usos. Cada extrato
+possui um método de uso específico, explicado em sua descrição.
+*COMPONENTES DA POÇÃO:
+Produzir uma poção é um processo
+que exige três etapas definidas: A escolha
+da poção à ser preparada, a aquisição dos
+componentes necessários e finalmente a
+preparação de fato da poção.
+A primeira parte, escolher a poção à
+ser criada vai depender do conhecimento
+do personagem sobre poções. Via de regra,
+um personagem com a Habilidade Herbalismo conhece os princípios do funcionamento da maioria dos ingredientes comuns
+usados em poções básicas, e é capaz de extrapolar receitas que não conhece para conseguir um resultado bem próximo ao desejado. Em termos de regras, um personagem
+com a Habilidade Herbalismo conhece as
+receitas para produzir todas as poções básicas, exceto aquelas com componentes
+Raros e Muito Raros, um personagem com
+a Habilidade Alquimia Básica conhece as
+receitas de todas as poções básicas e um
+personagem com a Habilidade Alquimia
+Avançada conhece todas as receitas para
+todas as poções.
+Tendo decidido qual poção deseja criar, o alquimista deve conseguir seus
+componentes. Ele pode conseguir estes ingredientes de duas formas: Comprando ou
+procurando. Dependendo da raridade do
+item, comprar um componente pode exigir
+apenas alguns minutos e um punhado de
+moedas em qualquer zona de comércio ou
+pode levar várias horas de conversas com
+diversos apotecários até chegar à alguém
+que tenha o componente à disposição.
+Se decidir comprar os componentes
+necessários para a poção, verifique a raridade para definir onde o item pode ser encontrado e depois o preço para saber quanto, em média, é cobrado pelo componente
+no mercado – o preço listado é para uma
+quantidade do componente suficiente para
+uma poção. Se o jogador quiser – ou precisar – adquirir os componentes diretamente
+da natureza, veja a seção Matéria Prima, na
+página 47, acima. 
+*DESCRIÇÃO DOS COMPONENTES:
+Nome: o nome mais comum do componente.
+Custo: o custo de mercado do componente.
+Raridade: a disponibilidade geral do
+componente no comércio.
+• Comum: pode ser encontrados em
+comércios de vilas e cidades maiores, sempre.
+• Incomum: pode ser encontrado em
+boticas ou outros estabelecimentos especializados em itens mágicos e poções, quase
+sempre.
+• Raro: Encontrado apenas em laboratórios de conjuradores e alquimistas das
+grandes cidades, as vezes.
+• Muito Raro: Não é encontrado à
+venda.
+Aquisição: define como conseguir o
+ingrediente fora do mercado, contendo o
+método de aquisição e a área onde o item
+pode ser encontrado.
+• Caça: O componente é parte de uma
+criatura que deve ser caçada.
+• Forrageamento: o componente
+pode ser forrageado na natureza.
+• Garimpo: O componente precisa ser
+garimpado.
+O número entre parênteses é a dificuldade para encontrar o animal ou planta
+na natureza. Este número já está calculado
+de acordo com as regras de caça (Guia Básico, pag 25) e forrageamento (Guia Básico,
+pag 26). Aplique apenas modificadores de
+acordo com o clima, quando houver.
+/*equipamentos.xlsx*\
+*CRIANDO UMA POÇÃO:
+Tendo em mãos os ingredientes necessários, é hora de produzir a poção em
+questão. Há seis processos para produzir
+uma poção (Infusão, Maceração, Tintura,
+Tisana, Fermentação e Destilação), descritos à seguir. Um personagem com a Habilidade Herbalista conhece os cinco primeiros
+processos para criar poções, mas é necessário Alquimia Básica para ser capaz de realizar uma Destilação corretamente. Infusões
+e Tisanas são os processos mais comuns de
+todos, utilizados para produzir chás e preparar café. A Fermentação também é amplamente utilizada na produção de vinhos
+e cervejas – mas nesse caso, o processo geralmente leva entre 1 e 20 semanas. Destilação é comum entre alquimistas para a
+produção de álcool etílico, necessário para
+a preparação de algumas poções e também
+amplamente utilizado na limpeza dos laboratórios. A maioria dos alquimistas também prefere usar água destilada em suas
+poções, mas isso não é uma regra. É possível produzir bebidas alcoólicas através do
+processo de Destilação, mas o procedimento é bastante incomum em Cassiopéia.
+Destilação: é um processo pelo qual
+um fermentado tem o álcool etílico separado
+da mistura através da ebulição. O fermentado
+é fervido em um frasco de vidro, e o vapor
+resultante passa através de um condensador
+que separa a água (que retorna para o frasco) e um segundo recipiente, onde o álcool se
+condensa. O processo leva cerca de 6 horas.
+Fermentação: é feita a partir de matérias primas com origem vegetal que possuem altos índices de frutose (geralmente
+frutas). O ingrediente é macerado e então
+fervido, e posteriormente deixado para
+descansar por no mínimo 3 dias.
+Infusão: é o mais simples dos processos para preparar poções, bastando imergir
+os ingredientes em água fervente por cerca
+de meia hora e em seguida coando a solução resultante.
+Maceração: é feita moendo os ingredientes, e em seguida misturando o resultado à água deixando-os descansar por cerca
+de uma hora. Após coada, a solução está
+pronta para ser usada.
+Tintura: é um preparado em que os
+ingredientes são misturados em álcool etílico e então fervidos até que o álcool evapore por completo (cerca de meia hora). O
+resultado é misturado à água fervente por
+mais meia hora e então deixado para descansar por mais uma hora, estando então
+finalmente pronto para ser coado e usado.
+Tisana: consiste em adicionar os ingredientes em água e ferver a mistura por
+cerca de uma hora num recipiente tapado.
+Após esse tempo retira-se o recipiente do
+fogo, deixando descansar ainda tapado por
+mais duas horas. Após coada, a solução
+está pronta para ser usada.
+Cada poção tem descrito quais desses processos precisam ser realizados para
+produzir a poção, em ordem, além da dificuldade para cada passo, logo depois dos
+componentes necessários para cada processo. Assim, um Elixir de Mana, cujos ingredientes são erva dos passos e cogumelo vermelho (Tisana 10) leva cerca de 3 horas para
+ficar pronta, desde que o alquimista passe
+em um teste de Inteligência com Dificuldade 10. Já um Extrato Regenerativo exige três
+testes separados: o primeiro utiliza Erva dos
+Passos e flor de isura (Infusão 12), depois de
+meia hora para a Infusão estar pronta (e sucesso no teste), junta-se folha de oliveira e
+uma tarântula (Fermentação 14), o que leva
+mais três dias. Se o segundo teste for um
+sucesso, pode-se terminar a poção adicionando-se um coração de grifo (Tintura 16) o
+que exige mais um teste e mais 2 horas, para
+finalmente a poção estar pronta.
+Se um teste para realizar uma poção
+com vários processo falha, todos os ingredientes usados são perdidos, mas os ingredientes para os processos posteriores (que
+não foram feitos ainda) podem ser aproveitados. Assim, no exemplo do Extrato
+Regenerativo acima, uma falha no segundo
+processo significa que a flor de isura, a erva
+dos passos, a folha de oliveira e a tarântula
+são perdidas, mas o coração de grifo não.
+ No caso de um sucesso crítico em qualquer processo da produção de uma poção
+– considerando que os outros processos envolvidos também sejam sucessos pelo menos
+normais – significa que duas doses da mesma
+poção são produzidas. Esse bônus é cumulativo: se houverem dois sucessos decisivos
+durante a produção, três doses de poção são
+produzidos, e no improvável caso de 3 sucessos decisivos serem obtidos, então o alquimista terá produzido 3 doses da poção!
+Uma falha crítica significa que a poção se torna uma poção do caos (ver caixa
+de destaque na próxima página) – mas não
+há como identificar isso até que a poção seja
+consumida. A menos que o próprio alquimista tenha um sucesso crítico num teste
+para identificar a poção, ele considera que
+aquela poção funciona exatamente como
+planejado. Outro alquimista pode identificar a poção normalmente (precisando apenas de um sucesso para identificar que a
+poção deu errado). Por este motivo, a maioria dos alquimistas trabalha acompanhado
+de pelo menos um ajudante.
+*DESCRIÇÃO DAS POÇÕES:
+Nome: O nome mais comum da poção.
+Raridade: a disponibilidade geral da
+poção no comércio.
+• Comum: pode ser encontrados em
+comércios de vilas, cidades e grandes
+metrópoles, sempre.
+• Incomum: pode ser encontrado em
+bóticas ou outros estabelecimentos
+especializados em itens mágicos e poções, quase sempre.
+• Raro: Encontrado apenas em laboratórios de conjuradores e alquimistas das grandes cidades, as vezes.
+• Muito Raro: Não é encontrado à
+venda.
+• Ilegal: Encontrado apenas no
+mercado negro, em cidades e metrópoles.
+Logo após a raridade, entre parênteses, está o custo médio da poção,
+em moedas. O preço médio de uma
+poção é igual a 2 vezes seu custo de
+produção, em média. Poções ilegais
+costumam ter um preço entre 3 e 10
+vezes maior do que o custo de produção.
+Ingredientes: Os ingredientes necessários para produzir a poção. Após os ingredientes, entre parênteses, estará listado
+o processo necessário para criar a poção e
+sua dificuldade para aquela poção específica. Veja o item Criando uma Poção, acima,
+para mais detalhes.
+/*
+Poção do Caos
+Raridade: Raro
+Descrição: Essa poção é criada quando um Alquimista tem uma falha crítica
+ao produzir uma poção. Independente
+da poção desejada, a poção terá o efeito
+listado na tabela, apenas. Role 2d6 e verifique o efeito da poção na tabela a seguir.
+Alguns efeitos são aleatórios e devem ser
+decididos pelo Mestre (geralmente usando uma tabela criada especificamente
+para verificar o efeito). Estes efeitos são
+permanentes e só podem ser revertidos
+com um Antídoto Universal.
+Resultado Efeito
+2 - Seus dedos se tornam tentáculos e
+todas as tarefas que exijam o uso das
+mãos são feitos como se você fosse
+Inapto.
+3 - Um de seus Atributos é reduzido
+em -2.
+4 - Você não consegue mais falar, apenas produzir o som de um animal aleatório.
+5 - Você perde todos os pêlos do corpo.
+6 - Seu corpo inteiro fica coberto de pelos de uma cor aleatória.
+7 - Seus olhos adquiriem a aparência
+dos olhos de um animal aleatório.
+8 - Todos os seus pelos mudam para
+uma cor aleatória.
+9 - Você fica surdo por conta de plantas
+que começam a brotar de seus ouvidos.
+10 - Você desenvolve uma cauda de um
+animal aleatório.
+11 - A cor da sua pele muda para uma
+cor aleatória.
+12 - Você se transforma em um pequeno animal aleatório.
+Especial: Se um personagem beber
+uma Poção do Caos enquanto está sob um
+dos efeitos acima, ignore efeitos iguais rolando novamente na tabela.
+*\
+*POÇÕES BÁSICAS:
+Antídoto básico
+Raridade: Comum (50 moedas)
+Ingredientes: Folha de eucalipto, erva dos
+passos (Infusão 8)
+Descrição: Esta poção esverdeada de gosto e cheiro adocicados remove todos os efeitos de
+venenos naturais da criatura que a beber.
+Antídoto Cola-Carne
+Raridade: Comum (50 moedas)
+Ingredientes: Folha de Eucalipto, Raiz de
+Carvalho, Tarântula (Maceração 8)
+Descrição: Essa pasta esverdeada com
+cheiro amadeirado e gosto travante deve ser aplicada diretamente sobre um ferimento, o que remove infecções naturais e efeitos de sangramento
+do alvo.
+Elixir da Restauração
+Raridade: Incomum (150 moedas)
+Ingredientes: Flor de isura, erva dos passos, cogumelo vermelho (Tisana 13)
+Descrição: Esse líquido grosso de cor
+amarelo leitoso não tem cheiro e tem um sabor
+levemente adocicado. Uma criatura viva que a beber recupera, imediatamente, 30 Pontos de Vida e
+30 Pontos de Mana.
+Elixir de Cura
+Raridade: Comum (50 moedas)
+Ingredientes: Flor de isura, erva dos passos (Infusão 10)
+Descrição: Essa poção opaca de cor avermelhada não tem gosto nem cheiro. Uma criatura viva que a beber recupera, imediatamente, 30
+Pontos de Vida.
+Elixir de Mana
+Raridade: Comum (100 moedas)
+Ingredientes: erva dos passos, cogumelo
+vermelho (Infusão 10)
+Descrição: Essa poção de cor azul intensa não tem gosto nem cheiro. Uma criatura viva
+que a beber recupera, imediatamente, 30 Pontos
+de Mana. 
+Elixir do Dragão Branco
+Raridade: Ilegal (250 moedas)
+Ingredientes: Pó de obsidiana, Erva da lua
+(Maceração 12), veneno de cobra (Tintura 13)
+Descrição: Esta poção tem um tom azulado e está sempre gelada. Quando uma criatura
+viva beber este elixir, ela se torna capaz de disparar um sopro de frio que causa dano igual à 20/
+frio em tudo e todos a até 10 metros à sua frente.
+A poção deixa de ter efeito depois de 1
+minuto ou depois que o personagem disparar o
+sopro – o que acontecer primeiro.
+Elixir do Dragão Vermelho
+Raridade: Ilegal (250 moedas)
+Ingredientes: Enxofre, rabo de salamandra (Tintura 12), veneno de cobra (Destilação 13)
+Descrição: Esta poção tem um tom amarelado e está sempre morna. Quando uma criatura viva beber este elixir, ela se torna capaz de
+disparar um sopro de fogo que causa dano igual
+à 20/fogo em tudo e todos a até 10 metros à sua
+frente.
+A poção deixa de ter efeito depois de 1
+minuto ou depois que o personagem disparar o
+sopro – o que acontecer primeiro.
+Extrato Ácido
+Raridade: Raro (500)
+Ingredientes: Pó de âmbar, tarântula (Tintura 12), veneno de planta assassina (Destilação
+14)
+Descrição: Essa poção normalmente é colocada em frascos redondos para facilitar o seu
+arremesso. Quando o frasco se rompe, o líquido
+verde se espalha sobre o alvo dissolvendo tudo
+numa área de 1 metro, causando a perda de 20
+Pontos de Vida, imediatamente. Criaturas atingidas pelo extrato têm direito à um teste de Agilidade (Dificuldade 10) para sofrerem apenas metade
+da perda de Pontos de Vida. Criaturas com Mente
+Vazia não têm direito à este teste. Se a criatura
+passar no teste, considere que seus itens não foram afetados. Como essa poção afeta todos os
+objetos que cubra, bloquear o frasco não evita
+seus efeitos – ignore o bônus de bloqueio E armadura do alvo. Todos os itens afetados pela poção
+ficam inutilizados, exceto itens de aço que, apesar
+de não serem destruídos, ficam extremamente enfraquecido (eles passam a ser considerados itens
+de qualidade baixa).
+Essa poção não tem efeito sobre vidro,
+cristal, cerâmica e pedra.
+Extrato Congelante
+Raridade: Incomum (250 moedas)
+Ingredientes: Enxofre, erva da lua (Tintura 12)
+Descrição: Este líquido viscoso de cor
+branco leitosa não tem cheiro e emite um vapor
+frio constante em contato com o ar. O líquido
+rapidamente congela tudo o que cobrir, até um
+máximo de 200 litros de líquido ou 200 quilos
+de material sólido. Esse extrato pode ser usado
+para criar uma camada de gelo grosso (cerca de 5
+centímetros) e extremamente escorregadio numa
+área circular com um raio de 2 metros se for jogado contra o chão. Qualquer criatura sobre essa
+superfície precisa fazer um teste de Agilidade (Dificuldade 10) sempre que realizar um ataque, se
+mover ou tentar se levantar. Uma falha nesse teste
+significa que o personagem cai.
+Se usado contra uma criatura, o alvo deve
+fazer um teste de Agilidade (dificuldade 10) ou
+será coberto pelo líquido, ficando enregelado
+(veja o Guia Básico página 171 para detalhes).
+Extrato da Resistência à Eletricidade
+Raridade: Raro (150 moedas)
+Ingredientes: Azeviche, tarântula (Maceração 12), raiz de carvalho (Tisana 12)
+Descrição: Um líquido amarelo fosco borbulhante, com a tampa lacrada com cera. Quando
+o lacre é removido, o líquido evapora engolfando
+a criatura ou objeto com até 3 metros de tamanho, aderindo à superfície e conferindo um leve
+matiz amarelado. A criatura ou objeto afetado recebe Resistência à Eletricidade por 1 hora.
+Extrato da Resistência ao Fogo
+Raridade: Incomum (150 moedas)
+Ingredientes: Rabo de Salamandra, tarântula (Maceração 12), raiz de carvalho (Tisana 12)
+Descrição: Um líquido azul escuro borbulhante, com a tampa lacrada com cera. Quando o
+lacre é removido, o líquido evapora engolfando a criatura ou objeto com até 3 metros de tamanho,
+aderindo à superfície e conferindo um leve matiz
+azulado. A criatura ou objeto afetado recebe Resistência à Fogo por 1 hora.
+Extrato da Resistência ao Frio
+Raridade: Raro (150 moedas)
+Ingredientes: Erva da lua, tarântula (Maceração 12), raiz de carvalho (Tisana 12)
+Descrição: Um líquido vermelho claro
+borbulhante, com a tampa lacrada com cera.
+Quando o lacre é removido, o líquido evapora
+engolfando a criatura ou objeto com até 3 metros de tamanho, aderindo à superfície e conferindo um leve matiz avermelhado. A criatura ou
+objeto afetado recebe Resistência ao Frio por 1
+hora.
+Extrato Explosivo Menor
+Raridade: Incomum (250 moedas)
+Ingredientes: pó de obsidiana, Enxofre,
+rabo de salamandra (Maceração 12)
+Descrição: Este líquido alaranjado e viscoso deve ser bem lacrado em um frasco, normalmente contendo um aviso de perigo. Se o
+frasco se romper (ou for exposto a chamas por
+mais de um minuto), a poção entra em combustão violentamente, causando dano igual à 10/
+fogo em tudo e todos que estiverem à até 3 metros do frasco.
+Veneno da Lentidão
+Raridade: Ilegal (250 moedas)
+Ingredientes: veneno de escorpião, asa de
+morcego, folha de garraka (Infusão 10)
+Descrição: Este veneno consiste em uma
+pasta amarela de com cheiro e gosto pimentosos
+e tem um efeito mais potente se o alvo estiver
+em atividade. O alvo precisa realizar um teste de
+Força (dificuldade 10). Se falhar, o alvo perde
+3 pontos de vida por turno, por um minuto. Se
+o personagem estiver descansando durante este
+tempo, no entanto, essa perda é reduzida para
+apenas 1 ponto de vida por turno. Se passar no
+teste, o personagem perde apenas 3 Pontos de
+Vida imediatamente, e o veneno não surte mais
+efeitos.
+Esse veneno é considerado natural.
+Veneno da Verdade
+Raridade: Incomum (150 moedas)
+Ingredientes: Cogumelo vermelho, folha
+de eucalipto, erva dos passos (Tintura 14)
+Descrição: Esse veneno tem cor esbranquiçada e leitosa e seu gosto é doce. O alvo torna-se
+incapaz de mentir durante 30 minutos. A criatura pode omitir informações, mas para isso precisa
+passar em um teste de Vontade (dificuldade 10).
+ Esse veneno é considerado natural.
+Veneno Paralisante
+Raridade: Ilegal (500 moedas)
+Ingredientes: Erva da lua, folha de garraka (Maceração 12)
+Descrição: uma pasta esverdeada de gosto
+muito amargo. O alvo sentirá uma breve e terrível
+dor muscular, e precisa realizar um teste de Vontade (dificuldade 10). Se passar, o personagem realiza
+todos os seus testes como se fosse Inapto por 2 turnos. Se falhar, o alvo fica Paralisado por 2 turnos.
+Este veneno é considerado natural.
+Veneno Sonífero
+Raridade: Comum (150 moedas)
+Ingredientes: Cogumelo vermelho, flor
+de isura (Infusão 12)
+Descrição: Essa poção transparente não
+tem gosto, mas é levemente travante. O alvo ficará sonolento e se não passar em um teste de
+Força (dificuldade 10) cairá em um sono profundo. O alvo é considerado Indefeso pelo primeiro
+minuto de sono (não podendo ser acordado de
+forma alguma) e depois permanecerá dormindo
+por 8 horas se não for interrompido, mas poderá
+ser acordado normalmente.
+Este veneno é considerado natural.
+*POÇÕES AVANÇADAS:
+Antídoto Avançado
+Raridade: Incomum (150 moedas)
+Ingredientes: Folha de eucalipto, Flor de
+Isura, trevo de quatro folhas (Infusão 12)
+Descrição: Esta poção de uma cor verde
+leitosa tem gosto e cheiro adocicados remove todos os efeitos de venenos naturais e mágicos da
+criatura que a beber.
+Antídoto Universal
+Raridade: Incomum (300 moedas)
+Ingredientes: Folha de eucalipto, pó de
+pirita (Tintura 12), flor de isura, trevo de quatro
+folhas (Tisana 14)
+Descrição: Esta poção de cor dourada
+sem cheiro ou gosto remove todos os efeitos de
+venenos naturais e mágicos, doenças naturais e
+mágicas e efeitos de sangramento da criatura que
+a beber.
+Elixir da Agilidade
+Raridade: Raro (1000 moedas)
+Ingredientes: Flor de Isura, folha de oliveira (Maceração 12), flor de argúsia (Tisana 16)
+Descrição: Esta poção tem uma tonalidade levemente azulada. O personagem que beber a
+poção recebe Agilidade +3 por 1 hora.
+Elixir da Força
+Raridade: Raro (2000 moedas)
+Ingredientes: Flor de Isura, folha de oliveira (Maceração 12), Coração de Grifo (Tisana
+16)
+Descrição: Esta poção é viscosa e vermelha como sangue. O personagem que beber a poção recebe Força +3 por 1 hora.
+Elixir da Inteligência
+Raridade: Raro (600 moedas)
+Ingredientes: Cogumelo vermelho, folha
+de oliveira (Maceração 12), ossos de Hidra (Destilação 16)
+Descrição: Esta poção é transparente
+como água, mas possui um cheiro adocicado. O
+personagem que beber a poção recebe Inteligência +3 por 1 hora.
+Elixir da Restauração Maior
+Raridade: Incomum (260 moedas)
+Ingredientes: Flor de isura, erva dos passos, cogumelo vermelho, trevo de quatro folhas
+(Tisana 16)
+Descrição: Esse líquido grosso de cor
+amarelo leitoso tem cheiro e sabor levemente
+adocicados. Uma criatura viva que a beber recupera, imediatamente, 50 Pontos de Vida e 50
+Pontos de Mana.
+Elixir da Velocidade
+Raridade: Incomum (1600 moedas)
+Ingredientes: Olho de Basilisco, flor de
+isura (Tintura 16), flor de Argusia (Tisana 16)
+Descrição: Esta poção de cor verde leitosa
+garante à quem bebe-la uma ação padrão a mais
+por turno, durante 1 minuto.
+Elixir da Vontade
+Raridade: Raro (500 moedas)
+Ingredientes: Cogumelo vermelho, folha
+de oliveira (Maceração 12), dente de dragão (Tintura 16)
+Descrição: Esta poção tem a aparência e
+cheiro de cerveja – e um teor alcoólico apenas um
+pouco mais baixo. O personagem que beber a poção recebe Vontade +3 por 1 hora.
+Elixir de Cura Maior
+Raridade: Incomum (180 moedas)
+Ingredientes: Flor de isura, erva dos passos, trevo de quatro folhas (Infusão 14)
+Descrição: Essa poção opaca de cor avermelhada tem gosto e cheiro levemente adocicado.
+Uma criatura viva que a beber recupera, imediatamente, 50 Pontos de Vida.
+Elixir de Mana Maior
+Raridade: Incomum (220 moedas)
+Ingredientes: Cogumelo vermelho, erva
+dos passos, trevo de quatro folhas (Infusão 14)
+Descrição: Essa poção de cor azul intensa
+tem gosto e cheiro levemente cítricos. Uma criatura viva que a beber recupera, imediatamente, 50
+Pontos de Mana.
+Elixir dos Deuses
+Raridade: Muito Raro
+Ingredientes: cogumelo vermelho, folha
+de oliveira, flor de isura (Maceração 15), flor de
+argúsia, coração de grifo (Tisana 16), osso de hidra, dente de dragão (Tintura 18)
+Descrição: Esta poção espessa, de cor
+vermelho-sangue, tem cheiro e sabor semelhantes à um licor. O personagem que beber a poção recebe +3 em todos os seus Atributos por
+1 hora.
+Extrato do Retorno
+Raridade: Incomum (750 moedas)
+Ingredientes: Olho de Basilisco, pó de
+pirita (Maceração 14), asa de morcego, Enxofre
+(Tisana 14)
+Descrição: Um líquido fosco de uma cor
+vermelho escura que, quando exposto ao ar, irrompe em uma nuvem de faíscas. Uma criatura viva
+pega pela núvem de faíscas é teleportada imediatamente para o último local em que dormiu.
+Esse elixir pode afetar até 3 criaturas,
+mas elas precisam estar, literalmente, abraçadas
+- perceba que cada uma delas retornará para o
+último local em que ela própria dormiu pela última vez.
+Uma criatura que queira evitar os efeitos da
+poção tem direito à um teste de Vontade (Dificuldade
+12). Se passar no teste, ela não sofre nenhum efeito.
+Extrato Explosivo Maior
+Raridade: Ilegal (700 moedas)
+Ingredientes: pó de obsidiana, Enxofre
+(Maceração 14), rabo de salamandra (Tintura 14)
+Descrição: Este líquido alaranjado e viscoso deve ser bem lacrado em um frasco, normalmente contendo um aviso de perigo. Se o
+frasco se romper ou for exposto a chamas, uma
+grande explosão causa dano igual à 30/fogo em
+tudo e todos que estiverem à até 5 metros do
+frasco.
+Extrato Regenerativo
+Raridade: Raro (2.000 moedas)
+Ingredientes: Erva dos Passos, flor de isura (Infusão 12), folha de oliveira, tarântula (Fermentação 14), coração de grifo (Tintura 16)
+Descrição: Essa poção tem a cor esverdeada, seu gosto é amargo, extremamente desagradável. Derramada sobre um ferimento de onde uma
+parte do corpo foi decepada, a parte perdida pode
+ser recolocada no lugar, imediatamente voltando
+a funcionar normalmente e removendo todos os
+efeitos de sangramento do alvo. Se a parte decepada tiver sido perdida ou destruída, a poção remove todos os efeito de sangramento do alvo e a
+parte perdida regenera lentamente (Dedos, olhos,
+língua, orelhas ou qualquer outra parte pequena
+cresce novamente em 1 hora. Um pé ou mão leva
+cerca de 6 hora, e um membro demora 1 dia para
+crescer completamente). Esse extrato só funciona
+em criaturas vivas, e só tem efeito em ferimentos
+que ainda não tenham cicatrizado.
+Veneno Potente
+Raridade: Ilegal (500 moedas)
+Ingredientes: Tarântula, folha de garraka
+(Maceração 12), veneno de escorpião, veneno de
+planta assassina (Tintura 14)
+Descrição: Uma pasta negra, de gosto ácido
+e cheiro forte. O alvo precisa realizar um teste de
+Força (dificuldade 12). Se falhar perde 5 pontos de
+vida por turno, por 1 minuto. Se passar no teste, o
+alvo perde apenas 5 Pontos de Vida imediatamente,
+e o veneno não surte mais efeitos.
+Esse veneno é considerado mágico.
+Veneno Torturante
+Raridade: Ilegal (900 moedas)
+Ingredientes: Erva da lua, folha de garraka (Maceração 12) veneno de planta assassina,
+veneno de escorpião (fermentação 14)
+Descrição: uma pasta esverdeada com cheiro e gosto ácido. O alvo é consumido por dores
+e contrações musculares severas e precisa realizar
+um teste de Vontade (dificuldade 12). Se passar, o
+alvo tem -2 em todos os seus testes por 1 hora. Se
+falhar, o alvo realiza todos os seus testes como se
+fosse Inapto por 1 hora.
+Este veneno é considerado mágico.
+Veneno Real
+Raridade: Ilegal (5000 moedas)
+Ingredientes: Raiz de mandrágora, flor de
+isura (Maceração 14), veneno de escorpião, folha
+de garraka (Tisana 15)
+Descrição: Esse veneno sem cor nem
+cheiro e de sabor levemente apimentado faz
+com que a vítima sofra um ataque cardíaco fulminante. O alvo deve fazer um teste de Força
+(dificuldade 12). Se passar no teste, o alvo perde
+imediatamente 10 Pontos de Vida e sofre um redutor de -2 em suas rolagens por uma rodada.
+Se falhar, o alvo perde 60 Pontos de Vida e -
+se sobreviver - fica paralisado até o final do seu
+próximo turno.
+Esse veneno é considerado mágico.
+---

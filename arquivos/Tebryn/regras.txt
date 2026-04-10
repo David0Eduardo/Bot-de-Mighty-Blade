@@ -1,0 +1,233 @@
+Capítulo 3 – Regras
+Apresentamos aqui novos Antecedentes e Habilidades Gerais comuns para personagens tebrynianos. Os Antecedentes seguem as mesmas regras apresentadas no Guia do Herói (página 8),
+enquanto as novas Habilidades Gerais possuem regras específicas, detalhadas adiante, na página 102.
+Alguns dos Antecedentes dessa sessão são mais recomendados para PDMs, mas podem ser
+selecionados por jogadores para seus personagens.
+
+---
+**Antecedentes**
+Os Antecedentes a seguir seguem
+as mesmas regras apresentadas no Guia
+do Herói, e sua função é apresentar novas
+opções para os jogadores. Os Antecedentes
+aqui apresentados são relativamente comuns em Tebryn, e, portanto próprios para
+o uso de personagens nativos do reino. 
+**Cartógrafo/Cartógrafa**
+*Descrição: Você é um cartógrafo
+habilidoso, tendo conhecimento prático
+e teórico na manufatura de topografias e
+desenho de mapas. Talvez você tenha trabalhado com grupos de exploradores ou
+navegadores, ou talvez tenha aprendido
+sozinho – por necessidade ou por vocação – a desenhar mapas. O que importa é
+que você sabe porduzir mapas de modo
+acurado e seu trabalho é valorizado por
+grupos de exploração e expedicionários,
+tanto em terra quanto no mar.
+*Requisito: Inteligência 4.
+Benefícios: Você recebe a Habilidade Cartografia (Veja a página 81 para
+mais detalhes).
+Equipamento Extra: Bússola, Kit de
+Cartografia (Pena, frasco de tinta, régua e
+compasso), 5 folhas de velino – algumas
+com mapas parciais que começou a desenhar.
+**Curandeiro/Curandeira**
+*Descrição: Você possui habilidades
+de cura consideráveis, tendo estudado
+sob a tutela de algum médico ou curandeiro. Talvez você tenha trabalhado
+como médico de campo de um exército,
+ordem de cavalaria ou grupo mercenário,
+ou talvez você tenha sido aprendiz de um
+curandeiro tribal, ou mesmo estudado
+medicina em alguma corte ou escola nas
+grandes metrópoles do reino.
+O fato é que, onde quer que tenha
+aprendido sobre como curar ferimentos
+em uma emergência, você é muito bom
+nisso!
+*Requisito: Inteligência 4
+Benefícios: Você recebe a Habilidade Médico de Campo (Veja página 95
+para detalhes).
+Equipamento Extra: Um kit de
+Cura.
+**Escudeiro/Escudeira**
+*Descrição: Você passou boa parte
+de sua infância e adolescência dentro dos
+muros do Forte da Espada de Mirah, em
+um dos quartéis da Hoste de Hadorn ou
+sob a tutela de um Cavaleiro. Talvez você
+seja filho de um nobre que deseja ter um
+filho defendendo o reino, talvez seus pais
+sejam mercadores em ascensão e desejem
+o prestígio de ter um filho em uma Ordem
+de Cavalaria, ou talvez você seja filho de
+camponeses de Tebrynia que desejavam
+um futuro diferente para seu descendente.
+Escudeiros servem como pajens,
+aprendem sobre teologia, sobre a história
+de Tebryn e dos reinos vizinhos, recebem
+instruções em áreas de filosofia e tática e
+também treinamento militar tanto em estratégia quanto em combate singular.
+Talvez você esteja buscando se tornar membro da Ordem na qual passou
+seus anos, ou talvez já tenha se tornado
+membro. Talvez você tenha concluído
+seu tempo de aprendizagem e decidido
+não continuar na Ordem, ou talvez tenha falhado em ser admitido. Apesar da
+maioria dos Escudeiros de Ordens de Cavalaria se tornar membro da Ordem, alguns se cansam do confinamento e disciplina e desejam a liberdade de errar pelo
+mundo, enquanto outros aceitam que,
+apesar de sua aprendizagem na Ordem,
+seu coração está em outra atividade.
+*Requisito: Vontade 3.
+Benefícios: Escudeiros recebem +1
+em todos os seus testes relacionados à conhecimento de qualquer tipo e em todos
+os seus ataques corporais quando estiverem empunhando uma arma – esse bônus
+não se aplica a combate desarmado. 
+Equipamento Extra: Uma Tabarda
+com o símbolo da Ordem ou brasão da
+família que você serve – ou serviu.
+**Ex-Escravo/Ex-Escrava**
+*Descrição: Você passou boa parte de
+sua vida como um escravo. Talvez seus pais
+tenham sido escravos e você tenha nascido
+sem sua liberdade, talvez você tenha sido
+preso e condenado a trabalhar para pagar
+sua pena ou talvez você simplesmente tenha tido que trabalhar para outros em um
+regime de semiescravidão para pagar saldar uma dívida. Talvez você tenha sido
+capturado por tropas arkanitas e forçado a
+trabalhar como escravo.
+Em Cassiopéia, a maioria dos reinos
+considera escravidão ilegal, mas ela ocorre – principalmente em áreas isoladas. Em
+Arkânia escravidão é legalizada e muitos
+crimes sentenciam o réu à escravidão. Habitantes de outros reinos capturados em
+Arkânia também são, via de regra, escravizados. Finalmente, nas Terras Secas, tribos bárbaras mantêm escravos capturados
+de culturas civilizadas – principalmente
+tebrynianos e parbani. Ou você fugiu das
+Terras secas ou de Arkânia ou era escravo
+de algum criminoso ou Coronel em Tebryn,
+Bryne, Parband, Londérien ou Dagothar.
+De uma forma ou outra, você agora
+está livre, tendo comprado sua liberdade,
+fugido ou sido libertado por inimigos do
+seu senhor, e provavelmente pretende se
+manter um homem livre pelo resto dos
+seus dias – e talvez ajudar a libertar outros
+dos muitos escravos de Cassiopéia.
+*Requisito: Nenhum.
+Benefícios: Você está acostumado
+a realizar trabalho pesado e fazer isso da
+forma mais despercebida possível – chamar a atenção de um escravagista nunca
+é bom. Você recebe um bônus de +2 em
+todos os seus testes para se esconder, disfarçar e mover-se em silêncio, e também
+em testes para evitar ficar fatigado. Além
+disso, sua Carga é calculada como se sua
+Força fosse 2 pontos mais alta.
+Equipamento Extra: Uma ferramenta qualquer de qualidade baixa (veja a lista de equipamentos no final desse Guia).
+**Fazendeiro/Fazendeira**
+*Descrição: Fazendeiros são uma
+das profissões mais comuns de Tebryn.
+Mais de um quarto da população se dedica a trabalhar no campo e produzir
+alimentos para o reino. Como vivem do
+campo, possuem bons conhecimentos sobre plantas e animais, tanto no seu manejo como em evitar plantas e criaturas perigosas – ou lidar com elas caso tudo mais
+falhe! Em muitas regiões as fazendas ficam afastadas dos centros urbanos, e é
+necessário desbravar novas áreas, lidando com plantas e animais desconhecidos,
+e a maioria dos fazendeiros de Tebryn
+tem alguma história para contar sobre
+plantas com propriedades estranhas ou
+ataques de animais perigosos. Além disso, a maioria dos fazendeiros tem algum
+conhecimento sobre ervas medicinais, e
+a maioria deles possuem animais de tração, guarda ou transporte que devem ser
+adestrados e cuidados adequadamente.
+*Requisito: Nenhum.
+Benefícios: Fazendeiros recebem
++2 em todos os seus testes relacionados
+a plantas (incluindo criaturas do tipo Vegetal) e Bestas.
+Equipamento Extra: Uma ferramenta qualquer de qualidade normal
+(veja a lista de equipamentos no final
+desse Guia).
+**Fidalgo/Fidalga**
+*Descrição: Fidalgos são aqueles cidadãos de Tebryn que receberam uma
+educação superior devido a títulos de nobreza ou posição social e financeira. Nobres, comerciantes, Regentes, Burgomestres, Juízes e Conselheiros precisam ser
+versados em uma variedade de campos
+teóricos para lidarem com suas atribuições. Fidalgos são treinados desde cedo
+em administração, estratégia, etiqueta e
+conhecimentos gerais para serem capazes de lidar com suas funções futuras. A
+maioria deles não possui títulos de nobreza de fato, sendo geralmente filhos de
+comerciantes prósperos ou de indivíduos
+com títulos de nobreza ou justiça que não
+serão passados para seus filhos, mas mesmo assim são considerados como “nobres
+menores” – particularmente porque muitos deles de fato acabam adquirindo títulos de nobreza eventualmente, seja por
+hereditariedade ou mérito pessoal.
+*Requisito: Inteligência 3.
+Benefícios: Fidalgos recebem +2
+em todos os seus testes relacionados à
+pesquisa, conhecimento e em todos os
+seus testes sociais.
+Equipamento Extra: 100 moedas.
+**Grumete**
+*Descrição: Grumetes são aprendizes
+de marinheiros que realizam os trabalhos
+mais simples a bordo de uma embarcação
+– como limpar o convés, distribuir comida
+à tripulação, levar mensagens e verificar
+o clima. Enquanto realizam essas tarefas,
+eles são ensinados pela tripulação sobre
+como cozinhar e estocar alimentos, os funcionamentos dos cordames, o modo correto de hastear velas e lidar com vários tipos
+de clima, como pilotar uma embarcação e
+todos os rudimentos do funcionamento de
+barcos e navios em geral.
+A maioria dos grumetes acaba por
+se tornar marinheiro, tanto em navios
+mercantes, pesqueiros ou em navios de
+guerra, mas alguns acabam por se tornar
+estivadores ou trabalhar em funções diversas em cidades portuárias. Não raro,
+no entanto, grumetes decidem abraçar a
+vida de aventureiro, tanto no mar quanto
+em terra, perseguindo riquezas e locais
+sobre os quais ouviram histórias nos seus
+anos servindo no mar.
+*Requisito: Nenhum.
+Benefícios: Grumetes recebem +2
+em todos os seus testes relacionados à
+navegação, escalada, natação e equilíbrio.
+Equipamento Extra: Uma adaga.
+**Mascate**
+*Requisito: Nenhum.
+*Descrição: Você passou uma boa
+parte de sua vida carregando itens e vendendo-os em localidades distantes. Talvez
+você venha de uma família de vendedores
+ambulantes. Talvez você (ou sua família)
+tenha sido banido das guildas de mercadores por algum motivo ou você simplesmente não concorda com as práticas das
+guildas e prefere trabalhar sozinho.
+Seja como for, você trabalha (ou
+trabalhou) sozinho carregando grandes
+quantidades de itens por longas distâncias
+e está acostumado com o esforço envolvido – além de ter desenvolvido um olho
+treinado para reconhecer bons negócios.
+Benefício: sua capacidade de carga é calculada como se tivesse Força +2,
+e você recebe +2 em suas rolagens para
+resistir à efeitos de fadiga, venenos e doenças naturais. Finalmente, você recebe
++2 em seus testes para reconhecer a qualidade de um item de qualquer tipo.
+Equipamento Extra:
+- Mochila grande
+- 50 moedas em itens diversos com
+custo igual à 10 moedas ou menos cada um.
+**Suburbano/Suburbana**
+*Descrição: Você é um habitante do
+Submundo de Tebrynia – a área subterrânea sob a capital de Tebryn – ou de outras
+áreas subterrâneas populosas, como as galerias montanhosas de Stord ou os túneis
+ancestrais dos Mahoks ao longo das Montanhas dos Cristais. Seja de onde for que você
+tenha vindo, você passou muito tempo
+nesse local, e provavelmente nasceu lá. Seja
+um marginal de Tebrynia, um trabalhador
+de Stord ou um explorador das rotas das
+Montanhas dos Cristais, você viveu a maior
+parte da sua vida na escuridão subterrânea,
+e se adaptou perfeitamente à ela.
+*Requisito: Inteligência 4.
+Benefícios: Você recebe a Habilidade Raça Subterrânea (veja o Guia Básico
+página 48 para detalhes).
+Equipamento Extra:
+- Um embornal contendo:
+- Meia dúzia de barras de giz
+- Odre cheio de água
+- 10 provisões
+---

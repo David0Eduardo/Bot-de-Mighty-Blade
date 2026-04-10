@@ -1,0 +1,79 @@
+**Evolução do Personagem**
+
+---
+Ao final de cada partida, o mestre
+recompensará cada personagem com
+Pontos de Experiência - veja Premiando
+os Jogadores, na página 150 para mais
+detalhes. Quando conquistar 10 pontos
+de experiência, o personagem sobe de
+nível.
+Conforme sobe de nível o personagem recebe os seguintes benefícios:
+*Habilidades:
+O personagem recebe uma Habilidade nova a cada nível adquirido, que
+pode ser escolhida dentro da lista de sua
+Classe ou Raça, ou dentro da lista de Habilidades Gerais na página 13.
+*Ponto de Evolução:
+O personagem recebe 1 Ponto de
+Evolução a cada nível adquirido. O ponto de evolução deve ser gasto imediatamente para adquirir UM dos seguintes benefícios permanentemente:
+-*Pontos de Mana +10: o personagem
+aumenta seus Pontos de Mana máximos
+em 10.
+-*Pontos de Vida +10: o personagem
+aumenta seus Pontos de Vida máximos
+em 10.
+-*Pontos de Mana +5 e Pontos de
+Vida +5: o personagem aumenta seus Pontos de Vida e Mana máximos em 5.
+-*Aprendiz de [Classe]: o personagem pode adquirir esse benefício – veja
+caixa de destaque abaixo:
+/*
+Aprendiz de [Classe]
+Se o personagem desejar, ele pode
+iniciar no aprendizado de uma Classe
+diferente daquela que o personagem
+já segue. Para fazer isso o Mestre pode
+exigir que ele tenha algum tipo de instrução na classe desejada, normalmente
+na forma de um mentor. Esse mentor
+pode ser um PdM com quem ele tenha
+convivido por algum tempo, ou um do
+seus companheiros de grupo. Quando
+seleciona Aprendiz de [Classe] o personagem adquire a Habilidade Automática da Classe da qual se tornou aprendiz
+ou, se ele já possuir a Habilidade Automática da Classe da qual se tornou
+aprendiz, uma Habilidade da nova
+Classe que ele atenda os Requisitos. A
+partir desse momento ele é considerado um Aprendiz da Classe escolhida
+(Anote isso na Ficha, na área dedicada à
+Classe do personagem), podendo escolher Habilidades da lista da sua Classe
+ou da Classe que se tornou aprendiz.
+Cada personagem só pode se tornar
+Aprendiz de mais uma Classe ao longo
+de sua carreira – esse benefício só pode
+ser selecionado uma vez.
+*\
+-*Aprendiz de [Caminho]: O jogador pode selecionar o benefício no mesmo nível em que preencher seus Requisitos (um personagem que chegasse ao nível 4 e aumentasse sua Inteligência para 5 e selecionasse Herbalismo como sua nova Habilidade poderia usar imediatamente seu ponto de evolução para escolher o Caminho Alquimista, por exemplo). – veja
+caixa de destaque abaixo:
+/*
+Aprendiz de [Caminho]
+Quando seleciona o esse benefício, o personagem adquire a Habilidade
+Automática do Caminho que decidiu
+trilhar. Se ele já possuir a Habilidade
+Automática do Caminho, ele seleciona
+qualquer Habilidade do Caminho cujos
+Requisitos ele preencha ao adquirir
+esse benefício.
+A partir do momento em que escolhe um Caminho, o personagem é
+considerado um membro do Caminho
+que selecionou (Anote isso na Ficha, na
+área dedicada à Classe do personagem)
+e pode escolher Habilidades do Caminho como se fossem Habilidades da sua
+Classe.
+Cada personagem só pode trilhar
+um Caminho ao longo de sua carreira
+– por tanto esse benefício só pode ser
+selecionado uma vez.
+*\
+-*Atributos:
+Nos níveis 4, 7 e 10, o personagem
+escolhe 2 Atributos diferentes e aumenta
+cada um deles em +1
+---

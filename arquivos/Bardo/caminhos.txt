@@ -1,0 +1,542 @@
+Caminhos
+Caminhos são opções avançadas para personagens, que podem estar disponíveis
+para os jogadores dentro do cenário da Campanha se o Mestre considerar apropriado. Eles
+funcionam como uma espécie de Classe especializada, com uma pequena lista de Habilidades que podem ser selecionadas pelos personagens em conjunto com as Habilidades de
+Classe e Raça para criar combinações ainda mais diversificadas.
+
+---
+
+**Charlatão**
+
+*Descrição:
+Os charlatões muitas vezes são
+especialistas em se passar por um homem de fé, dando a falsa impressão de
+que sua inspiração tem origem divina
+– muito embora seu carisma e capacidade de manipulação sejam, de fato,
+capazes de fazer com que seus alvos se
+beneficiem de um aumento de moral.
+Já alguns charlatões, diferentes
+dos demais, são pessoas desonestas
+que passam informações falsas às pessoas para tentar enganar outras pessoas
+fazendo elas desacreditarem na física e
+na lógica. Por exemplo: um charlatão
+pode fazer com que ele ganhe um jogo
+de cartas mesmo tendo perdido totalmente a partida ou fazendo acreditar
+que você é o rei destas terras mesmo sabendo que você não é o próprio. Além
+disso, charlatões também são capazes
+de fazer você acreditar que uma ferida mortal, ou veneno, nunca tenha te
+atingido, inibindo quase por completo
+a dor que você é capaz de sentir.
+
+*Raças:
+Humanos são, de longe, os Charlatões mais comuns. Vindo de diversas
+culturas diferentes e distintas entre si, é
+muito difícil para alguém que não seja
+particularmente viajado conseguir diferenciar uma barganha interessante de
+um golpe elaborado – particularmente
+quando relatos de coisas miraculosas
+são relativamente comuns em todos os cantos.
+Os Goblins, devido a sua vida enganando pessoas e vivendo às custas
+das mesmas, acabam se tornando grandes charlatões, enrolando a todos com
+uma mistura de insistência e falação incessante, tentando fazer com que todos
+acreditem que são seres tão inferiores
+que precisam de ajuda de outras raças
+para viver – o que, de certa forma...
+Alguns Metadílios, principalmente em áreas onde a Raça é pouco conhecida, costumam aplicar uma técnica semelhante à dos Goblins, mas em geral,
+eles preferem se manter longe desse tipo
+de tramóia, e Metadílios Charlatões são
+extremamente raros – e, por isso mesmo,
+geralmente bem-sucedidos.
+Finalmente, os Tailox muitas vezes se tornam Charlatões muito mais
+pela oportunidade de pregar peças do
+que utilizar como uma forma excusa
+de enganação para tirar vantagens dos
+outros. A maior parte das brincadeiras
+dos Tailox, no entanto, são consideradas de gosto duvidoso pelas outras
+Raças – mas entre os Tailox, elas fazem
+bastante sucesso.
+
+---
+
+**Cortesão**
+
+*Descrição:
+Os Cortesãos são especialistas na
+arte da sedução e da enganação. São capazes de atrair seus alvos com falas e
+gestos sedutores, para no fim chegar nos
+seus propósitos, sendo o mais comum
+deles aproveitar-se de seu alvo.
+Cortesãos são treinados muitas
+vezes por outros cortesãos mais experiente, fazendo com que seus ensinamentos sempre sejam passados adiantes. Normalmente um cortesão mestre
+acolhe pelo menos até 5 alunos novos
+para instruir no ramo, ainda assim é extremamente raro encontrar um cortesão
+que praticou sozinho, já que muitas vezes os cortesãos são treinados em tavernas ou em bordéis.
+Apesar de serem pouco percebidos em Cassiopéia, os cortesãos têm
+seu ramo dentro de cidades e metrópoles, não só para atrair seus alvos para
+mata-lôs, mas também para servirem
+de espiões dentro de reinos vizinhos.
+Boa parte dos cortesãos são normalmente Menestréis, mas é possível
+avistar alguns Bardos e Ladinos seguindo este ramo, já que é uma das formas
+mais comuns e rápidas de conseguir
+dinheiro. Alguns cortesãos trabalham normalmente para organizações criminosas como Cesto
+das Adagas ou até mesmo os
+Capuzes Vermelhos para
+conseguir um dinheiro rápido, em raros casos é possível ver cortesãos trabalhando em conjunto com
+a Ordem da Espada de
+Mirah, ou com a Hoste
+de Hadorn, ajudando a
+divertir seus soldados
+ou realizando algumas
+missões de espionagem
+em Arkania, mas também é possível encontrá-
+-los nas cortes trabalhando contra e a favor dos
+nobres.
+
+*Raças:
+Os Humanos são as
+raças mais comuns de serem vistas entre os cortesãos. Devido a grande ganância dos humanos, eles
+tentam chegar a fama rápido demais, assim escolhendo os caminhos mais curtos mesmo que
+tenham que matar para chegar lá.
+Faunos e Tailox são as segundas
+raças mais frequentes seguindo o rumo
+de cortesãos, mas com seus próprios
+interesses de sedução igonrando seus
+trabalhos de espionagem e de assassinato, já que com frenquência preferem
+somente seduzir seus alvos com motivações mais lascivas.
+Muitos Elfos, fora
+de sua terra de origem,
+se entretêm com jogos
+palacianos e aproveitam o interesse geral
+de outras Raças para
+usar ferramentas de sedução com sucesso. Caso
+semelhante ocorre com os
+Fira, muito embora isso
+não se aplique apenas
+fora de sua Cultura, já
+que jogos de sedução
+são relativamente comuns entre eles
+
+---
+
+**Dançarino**
+
+*Descrição:
+Os Dançarinos são mestres da
+expressão corporal, capazes de movimentar seus corpos de forma atraente
+e envolvente, cativando multidões com
+suas performances de dança.
+Pessoas que trilham esse caminho
+possuem o poder de unir seu grupo,
+inspirando-os a agirem de forma harmoniosa no campo de batalha, enquanto intimidam seus oponentes com suas
+danças imponentes. Com suas coreografias impressionantes, os dançarinos
+são capazes de instilar medo nos corações dos inimigos, levando-os a fugir do
+campo de batalha. Além disso, esses artistas são verdadeiros virtuoses quando
+o assunto é música, utilizando-a para
+potencializar seus movimentos e criar
+uma dança imprevisível, pegando seus
+adversários desprevenidos.
+A habilidade dos Dançarinos de se
+mover em perfeita sincronia com o ritmo da música confere-lhes uma vantagem estratégica, permitindo que evitem
+ataques inimigos com elegância e graça.
+Seus movimentos fluidos e precisos tornam-nos extremamente ágeis e difíceis
+de serem atingidos, confundindo seus
+adversários com a imprevisibilidade
+de suas danças. A música se torna sua
+aliada, guiando-os em uma sinfonia de
+passos graciosos e poderosos, enquanto
+seus inimigos tentam acompanhar um
+ritmo que desconhecem.
+No campo de batalha, os dançarinos se tornam verdadeiros coreografos,
+guiando seu grupo com movimentos
+coordenados e inspiradores. Eles sabem
+como extrair o melhor de cada indivíduo,
+elevando suas habilidades e potencializando seus ataques. Com suas danças
+marciais, misturando beleza e destreza,
+eles se transformam em uma força imparável, capaz de enfrentar qualquer desafio que surja em seu caminho.
+
+*Raças:
+A dança remonta aos estágios iniciais de todas as civilizações, representando uma expressão intrínseca à natureza de cada raça. Nos tempos primitivos, 
+a dança servia como uma linguagem
+universal, comunicando emoções, rituais religiosos e eventos significativos na
+vida comunitária. Presente em pinturas
+rupestres, a dança desempenhava papéis
+vitais em celebrações sazonais, rituais
+de caça e cerimônias ligadas ao sagrado.
+Além disso, a prática era uma forma de
+expressar identidades culturais únicas,
+transmitidas oralmente entre gerações,
+contribuindo para a preservação de
+tradições e costumes ao longo da
+história humana.
+Dessa forma, a arte da
+dança está presente, de
+uma forma ou de outra, na cultura de todas as raças. Cada uma
+criou maneiras originais
+de se expressar através
+do movimento, para algumas, isso é mais relevante do que para outras,
+mas sempre existe algum
+tipo de dança em todas
+elas.
+Há três manifestações de dança que merecem uma atenção especial:
+os Levents são especializados
+na arte da dança, graças à sua capacidade de voo e sua constituição
+fluida e leve, eles criam formas de danças
+aéreas que representam sua conexão com
+os céus, transmitindo harmonia e emoção. Suas coreografias simbólicas criam
+um espetáculo único, elevando o espírito
+de todos que testemunham sua arte. De
+modo semelhante, os Tritões têm formas
+de dança subaquática únicas, envolvendo piruetas e padrões que criam padrões
+hipnóticos, usadas não apenas como
+pura demonstração artística, mas também para espantar grandes bestas marinhas ou dirigir o caminho de cardumes.
+Por fim, a cultura do Astérios
+tem um lugar importante para a dança. Por um lado, os machos praticam
+uma forma de dança tribal – o Kapa-
+-Haka – que tem por intuito intimidar os inimigos no campo de batalha,
+assim como fortalecer a
+ligação dos guerreiros Astérios com demonstrações
+de força e coordenação. Por
+outro lado, as fêmeas da Raça, muito
+menores e mais frágeis – e quase sempre
+mantidas bem longe
+dos campos de batalha
+– possuem uma forma
+de dança peculiar, com
+cada um dos movimentos rítmicos fazendo alusão a um elemento natural, desde uma montanha
+até as ondas do mar, além
+de sentimentos como o
+amor e raiva humana, criando danças capazes de, literalmente, contar histórias.
+Não se tem notícias de
+Centauros, Nagas ou Mahoks dançarinos. Nos dois primeiros casos, costuma-se acreditar que o principal motivo
+seja puramente biológico – a forma
+quadrúpede dos centauros parece mais
+engraçada do que graciosa quando se
+imagina eles dançando, e no caso dos
+Mahoks, sua pele pesada e dura impede movimentos fluidos de modo geral. 
+No entanto, há um componente cultural envolvido – como acontece, primariamente, com as Naga: as culturas
+dessas Raças são muito mais voltadas a
+outras formas de expressão artística (escultura, especialmente, entre Centauros
+e Mahoks) focadas principalmente em
+estabilidade e resistência, e menos em
+agilidade e fluxo. Além disso, ambas
+as Raças possuem expressões corporais
+na forma de esportes e competições, e
+a maioria deles se foca muito mais em
+contextos comunais ao invés de individuais. Já no caso das Nagas, a questão
+é muito mais simples e direta: Não há
+espaço dentro da sua cultura para expressões artísticas que não tenham por
+objetivo agradar Glycon, e, aparentemente, ele não se interessa por dança.
+
+---
+
+**Gótico**
+
+*Descrição:
+Os Góticos são uma expressão artística que mergulha nas profundezas
+da melancolia e do mistério, explorando temas mórbidos e trágicos, com uma
+fascinação única pela morte. Os góticos
+são artistas multifacetados, principalmente músicos, que utilizam sua arte
+para transmitir emoções sombrias e
+introspectivas. Suas músicas utilizam
+sonoridades melancólicas, letras poéticas e uma atmosfera enigmática, muitas
+vezes inspirada por elementos sobrenaturais e folclore obscuro.
+A maioria dos Góticos tende a
+se vestir com roupas escuras e sóbrias,
+próprias para ocasiões fúnebres, mas
+muitos deles incorporam elementos que
+evocam ou sugiram mortalidade e a pós-
+-vida – como adornos feitos com ossos
+e dentes ou em formatos de crânios ou
+animais necrófagos. Maquiagens que simulem a palidez cadavérica ou mesmo
+padrões que sugiram o formato de crânio também são extremamente comuns
+entre eles.
+Aqueles que seguem este caminho são indivíduos sensíveis e introspectivos, que encontram consolo e inspiração nas profundezas da emoção.
+Paradoxalmente, no entanto, eles são
+conhecidos por expressarem muito
+pouco seus sentimentos, e são considerados, em geral, frios e distantes pela
+maioria – embora pessoas próximas em
+geral reconheçam que essa aparente falta de sensibilidade se dá por um controle extremo de seus impulsos e instintos,
+e não por falta deles.
+Eles abraçam a dualidade da existência, apreciando a beleza efêmera da
+vida, mais aceitam a realidade sombria
+e a efemeridade da vida. Através de sua
+arte, os Góticos buscam despertar reflexões, estimular a sensibilidade e criar
+uma conexão emocional com aqueles
+que se identificam com a escuridão interior.
+
+*Raças:
+É comum ver os Faens seguirem
+este caminho, pois muitos deles trazem consigo um ar de enigma e mistério. Com seu jeito peculiar e tamanho
+diminuto, os Faens Góticos exploram
+os temas sombrios e trágicos da vida,
+expressando suas emoções através da
+música e da arte. Com suas vestes negras e olhares intensos, eles transmitem
+uma aura de profundidade e reflexão,
+intrigando e fascinando
+aqueles ao seu redor.
+Apesar de sua estatura
+pequena, os Faens são
+capazes de transmitir uma profundidade
+emocional que desafia as
+expectativas.
+Elfos, seres conhecidos por sua harmonia
+com a natureza e sua graciosidade, surpreendem ao
+abraçar o caminho do Gótico.
+Esses Elfos mergulham nas
+profundezas sombrias da alma,
+explorando o lado obscuro da
+existência e expressando sua
+melancolia por meio de sua
+arte. Elfos são mestres na
+arte da música melancólica
+e triste.
+Os Gnolls, conhecidos
+por sua natureza feroz e
+selvagem, raramente são
+associados ao caminho
+Gótico. No entanto, aqueles Gnolls que seguem
+esse caminho trazem
+consigo uma dualidade intrigante. Com
+seus corpos fortes e dentes afiados,
+eles expressam sua melancolia através
+de rituais sombrios e pinturas macabras.
+
+---
+
+**Metaleiro**
+
+*Descrição:
+Metaleiro são músicos especializados em performances agressivas e
+barulhentas. Eles recebem seu nome
+devido ao fato de darem preferência
+à armaduras de metal em suas apresentações, utilizando as vibrações das
+placas das armaduras para reverberar
+e distorcer as notas de suas músicas
+furiosas. Eles dominam a arte da música agressiva, canalizando emoções
+poderosas e expressando a fúria e a
+rebeldia através de suas composições.
+Em suas performances, eles não apenas entretêm, mas também inspiram
+a coragem e a força para enfrentar os
+desafios de cabeça erguida, sem nunca se deixar derrotar.
+Metaleiros possuem uma cultura
+particular, inspirada pelas chamadas
+Lendas do Metal: músicos virtuosos que
+romperam com os padrões tradicionais
+e canalizam atitude em performances
+arrebatadoras. O legado das Lendas do
+Metal vive através de cada Metaleiro que
+se esmera em aperfeiçoar cada vez mais
+suas músicas, impressionando plateias
+através de suas vozes poderosas e solos
+alucinantes. As notas distorcidas de suas
+músicas também ecoam pelos campos
+de batalha – o palco mais almejado pelos
+Metaleiros, onde sua música é realmente
+colocada à prova – inflamando o espírito dos valentes e aterrorizando seus inimigos, onde o som de seus instrumentos
+e de seus gritos de guerra retumbam nos
+ouvidos como trovões desabando!
+Música é tudo para um Metaleiro,
+e quanto mais barulhenta ela for, melhor!
+
+*Raças:
+Os Aesires Metaleiros são guerreiros destemidos que canalizam sua fúria e
+devoção através de hinos épicos que contam as sagas de Eishelm. Com selvageria, eles bradam suas músicas – as vezes
+uivando e urrando como lobos ou ursos
+– ou fazem ecoar seus berrantes e chifres
+instigando os aliados ao combate ou incitando a paixão e a energia do público.
+Os Anões são conhecidos por entoar suas músicas tradicionais acompanhados do repicar dos martelos nas bigornas
+enquanto trabalham, e essa tradição ecoa
+no campo de batalha, onde eles acompanham suas marchas de guerra com o
+tanger das armas nos escudos e armaduras – estas, às vezes, ornamentadas com
+carrilhões de metal.
+Os Humanos abraçam a essência
+dos Metaleiros em dedilhados complexos de instrumentos de corda que reverberam e distorcem em placas de metal,
+produzindo refrões energéticos nos palcos e campos de batalha.
+Há também outras raças
+em que é comum se tornarem
+metaleiros como Orcs e Jubans, que utilizam berros
+estraçalhadores e refrões
+potentes para se energizar
+nos campos de batalha.
+
+---
+
+**Orador**
+
+*Descrição:
+Os seguidores deste caminho têm
+o dom da palavra e da música para
+transmitir os ensinamentos divinos e
+inspirar os corações daqueles que os
+ouvem. Com vozes melodiosas e melodias encantadoras, os Oradores entoam
+cânticos sagrados e recitam os dogmas,
+invocando a presença e a bênção dos
+deuses.
+Oradores combinam a habilidade vocal, domínio musical e profundo
+conhecimento dos dogmas religiosos.
+Eles estudam os textos sagrados, aprendem os rituais e se dedicam a aprimorar sua voz e técnica musical. Através
+de suas melodias, os Oradores tocam as
+emoções mais profundas das pessoas,
+despertando a fé, a esperança e a conexão com o divino.
+Em cerimônias e rituais sagrados,
+os Oradores desempenham um papel
+central, conduzindo as orações e entoando cânticos em honra aos deuses.
+Suas vozes ressoam nos templos e santuários, enchendo o ambiente com uma
+aura de reverência e sacralidade. Através da sua arte, os Oradores inspiram e
+fortalecem a fé, transmitindo os valores
+e princípios que regem a vida.
+
+*Raças:
+Entre os Anões, é comum ver alguns abraçando o caminho do Orador,
+e honrando o deus da Forja, Hou. Esses
+Anões, combinam sua habilidade inigualável na forja de metais com o dom
+da eloquência e da palavra falada. Com
+vozes ressonantes e poderosas, eles entoam cânticos sagrados para invocar as
+bênçãos de Hou sobre suas criações enquanto forjam.
+Elfos dedicados a este caminho
+tendem a reverenciar a deusa da natureza Lathellanis. Esses Elfos dominam a
+arte do discurso melódico e da comunicação com a natureza. Com vozes límpidas e envolventes, eles entoam cantos
+sagrados que ecoam pela floresta, despertando a harmonia e a conexão com a
+natureza ao seu redor.
+É comum que Jubans adotem o
+caminho do Orador. Guiados por Ahogr, os Jubans Oradores são mestres na
+arte da palavra eloquente e da persuasão racional, fazendo com que seus sermões sejam bastante apreciados. 
+
+---
+
+**Sátiro**
+
+*Descrição:
+Sátiros são indivíduos que por uma
+razão ou outra se especializaram em fazer de sua voz a sua principal arma, não
+necessariamente por meio de canções
+como fazem alguns bardos. As palavras
+de um Satírico penetram mais fundo do
+que a maioria das espadas e machados,
+vão mais longe que a maioria das flechas
+e feitiços, e corroem os corações de seus
+alvos com mais letalidade do que os piores venenos. Ou ao menos é assim que as
+vítimas de seus abusos poderiam descrever seus encontros com estes peculiares
+(e muitas vezes detestáveis) indivíduos.
+No entanto, a habilidade dos Sátiros de causar impacto com suas palavras não se limita apenas em deixar os
+outros com raiva. Suas habilidades de
+entretenimento são capazes de encantar
+multidões, envolvendo-os em narrativas
+fascinantes e provocando risos com seu
+humor sagaz. Os Sátiros são frequentemente encontrados em tavernas e salões,
+onde suas performances são aguardadas
+ansiosamente pelos espectadores em
+busca de diversão e distração.
+
+*Raças:
+Sátiros podem ser vistos entre todas as raças de uma forma ou de outra,
+mesmo quando são ativamente censurados por agitação política, ou apenas por
+serem particularmente irritantes. Eles
+podem ser encontrados como comediantes ou arlequins entre os Humanos, Metadílios e Elfos; bardos provocadores entre os Tailox, e até mesmo como Skalds
+de vida curta entre os Aesires e Anões.
+Em particular, os Faunos possuem disputas verbais para debochar e satirizar
+de forma profissional, muitas vezes sequer distinguindo seus bardos normais
+dos Sátiros, como assim os nomearam.
+
+---
+
+**Skald**
+
+*Descrição:
+Skalds são poetas-guerreiros entre os povos do norte de Cassiopéia,
+responsáveis por passar adiante as tradições orais de seu povo e também oferecer inspiração no campo de batalha.
+Essa inspiração pode vir de suas melodias e gritos de guerra, mas também de
+seus feitos em combate.
+Como se postam na frente de
+combate, Skalds geralmente preferem
+o uso de Gritos e Canções ao invés de
+Músicas que exijam instrumentos musicais, embora muitos deles utilizem
+berrantes e chifres em combate, aumentando o alcance de seus gritos de guerra
+enquanto portam armas.
+Embora sejam famosos por seu
+papel em combate, inspirando aliados e
+amedrontando inimigos, os Skalds também possuem um papel importante fora
+dos campos de batalha. Eles são versados
+em várias canções, poemas e contos populares entre seus povos, e em comunidades
+mais afastadas e com poucos recursos,
+são uma fonte de conhecimento essencial para a manutenção da cultura. Graças a isso, muitos deles gozam de status
+elevados dentro de suas comunidades, e
+muitos deles ocupam posições de importância, como conselheiros e historiadores.
+Além disso, eles são, obviamente,
+requisitados como contadores de histórias, músicos e oradores, mantendo plateias entretidas ao redor das fogueiras.
+
+*Raças:
+Entre os Aesires, a tradição de
+contar histórias e recitar poemas épicos
+contando a trajetória de heróis lendários é reconhecida em toda Cassiopéia.
+A maioria dos Skalds prefere usar Gritos em combate, geralmente usando
+berrantes e chifres tanto ao usar gritos
+quanto no uso de Melodias – geralmente agressivas ou intimidadoras.
+Os Anões Skalds brandam com
+seus gritos inspirando coragem e determinação nos corações dos guerreiros.
+No calor da batalha, os Anões Skalds são líderes vocais, encorajando seus
+companheiros com suas músicas fortes
+e gritos de guerra poderosos.
+Também é comum ver Orcs e Jubans que seguem e se guiam por este caminho. Os Jubans utilizam seus rugidos
+selvagens e ressonantes para despertar
+o fogo interior dos aliados, impulsionando-os a enfrentar qualquer desafio. Já os Orcs utilizam seus poderosos
+gritos e música para
+se fortalecer e causar
+uma quantidade de
+dano massiva aos seus inimigos.
+
+---
+
+**Trovador**
+
+*Descrição:
+Os trovadores são aqueles músicos interessados menos na virtuosidade e mais na emoção que suas canções podem transmitir. Eles praticam a
+música pela música, com uma leveza e
+descontração em suas canções, encantando aqueles mais simples e – se mais
+nada – entretendo os mais requintados.
+Praticando formas simples de cantar e
+tocar instrumentos, eles costumam ser
+fonte de conforto e simplicidade para
+aqueles que os rodeiam.
+No campo de batalha, os trovadores desempenham um papel crucial
+ao usar sua música para fortalecer aliados e enfraquecer adversários. Suas
+canções impulsionam Guerreiros e
+Paladinos a atingirem novos níveis de
+bravura, enquanto confortam aqueles
+em agonia, aliviando ferimentos e restaurando a vitalidade dos companheiros feridos.
+Fora do combate, os trovadores
+destacam-se por criar atmosferas encantadoras em encontros sociais. Sua
+música envolvente estabelece um clima
+de romance e emoção, aproximando corações e encantando os casais. Seja em
+jantares à luz de velas ou serenatas sob
+a lua, a presença de um trovador torna os encontros românticos ainda mais
+memoráveis e inesquecíveis, proporcionando uma experiência única e cativante aos participantes.
+
+*Raças:
+Humanos que seguem o caminho
+do Trovador se destacam por sua inclinação natural ao romantismo. Com sua
+voz melódica e habilidades musicais,
+eles encantam corações. Normalmente
+requisitados por nobres para conquistar suas amadas e amados, os humanos
+trovadores sempre são muito bem vistos pela corte.
+Os Mahoks e Tailox que seguem
+o caminho do Trovador são mestres na
+arte de cultivar amizades e espalhar alegria por onde passam. Suas músicas cativantes encantam a todos ao
+seu redor. Seus ritmos e melodias contagiantes ecoam nas festas e celebrações, enchendo o ar com uma energia
+contagiante. Amantes da diversão, os
+Mahoks e Tailox trovadores são conhecidos por criar um ambiente de festa e
+farra, onde a amizade é fortalecida e risadas são compartilhadas.
+Astérios e Draganos elevam
+o espírito de batalha e inspiram
+seus companheiros a lutar
+com bravura. Em Arkania,
+canções de guerra ressoam nos campos de treinamento, alimentando
+a coragem e a determinação de todos aqueles
+que os ouvem. Seja liderando uma carga de ataque ou animando suas
+tropas nos momentos
+mais difíceis, os Astérios
+e Draganos Trovadores
+se destacam por sua presença cativante e seu talento inigualável no campo de
+batalha. 
+
+---

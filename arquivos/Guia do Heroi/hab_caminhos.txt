@@ -1,0 +1,1255 @@
+HABILIDADES CAMINHOS
+
+---
+
+**ALQUIMISTA**
+
+---
+/*
+REQUISITOS
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Herbalismo (Habilidade)
+• Inteligência 5
+HABILIDADE AUTOMÁTICA
+--Alquimia Básica--
+Habilidade (Técnica) – Suporte
+Descrição: Você possui um conhecimento considerável sobre fenômenos físicos e químicos e das características de substâncias de origem animal, vegetal e mineral
+que podem ter efeitos úteis. Você é considerado apto para processar matérias primas
+e recebe +2 em seus testes para encontrar
+jazidas e extrair material delas.
+Finalmente, você pode fazer testes
+de Inteligência para identificar qualquer poção (A dificuldade é igual ao processo com
+dificuldade mais baixa usado para produzir
+a poção) desde que possa ver ou cheirar a
+poção. 
+*\
+---
+
+HABILIDADES BÁSICAS
+
+---
+--Iátrica--
+Habilidade (Técnica) – Suporte
+Descrição: Você tem uma
+afinidade ou preferência pelas
+poções de cura. Você recebe
++2 em seus testes para produzir
+Elixires e Antídotos e em testes
+de cuidados médicos.
+---
+--Espagiria--
+Habilidade (Técnica) – Suporte
+Descrição: Você se especializou na
+produção e utilização de Extratos – o
+que, via de regra, significa jogar frascos de
+poção à uma boa distância! Você recebe +2 nos
+seus testes para produzir Extratos e em seus teses
+de arremesso.
+---
+--Nigredo--
+Habilidade (Técnica) – Suporte
+Descrição: Você concentrou seus estudos
+alquímicos na decomposição de elementos e no
+uso de venenos. Você recebe +2 nos seus testes
+para produzir venenos e antídotos e também em
+testes para resistir aos efeitos de venenos de qualquer espécie. 
+---
+
+HABILIDADES AVANÇADAS
+
+---
+--Alquimia Avançada--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: Você possui um conhecimento profundo sobre substâncias de origem animal,
+vegetal e mineral que podem ter efeitos úteis e
+onde encontrá-las. Você pode preparar Poções
+Avançadas e também recebe +2 em seus testes
+para encontrar jazidas, forragear, rastrear e identificar poções.
+---
+--Elixir da Longa Vida--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Iátrico
+Descrição: Você é um especialista na fabricação e aplicação de Elixires e antídotos e recebe +1d6 em rolagens para produzir esse tipo de
+poção. Além disso, elixires produzidos por você
+que recuperem Pontos de Vida ou Mana recuperam 10 Pontos de Vida ou Mana a mais, e elixires
+produzidos por você que causem dano causam 5
+pontos de dano a mais.
+---
+--Citrinitas--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Espagíria
+Descrição: Você é um especialista na
+fabricação e uso de Extratos e recebe +1d6
+em rolagens para produzir esse tipo de poção. Além disso, extratos produzidos por você
+que causem dano causam 10 pontos de dano
+a mais, e aqueles que tiverem um teste para
+serem resistidos tem sua dificuldade aumentada em +2.
+---
+--Toxicólogo--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Nigredo
+Descrição: Você é um especialista na fabricação, aplicação e cura de venenos. Você recebe +1d6 em rolagens para produzir venenos e
+antídotos, e venenos produzidos por você tem
+sua dificuldade para serem resistidos aumentada
+em +4. 
+---
+
+Habilidade Final
+
+---
+--Pedra Filosofal--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 10, Alquimia Avançada
+Descrição: Você adquiriu um conhecimento tal sobre os fenômenos físicos
+e químicos, que tornou-se capaz de alterar
+as características de substâncias inanimada.
+Além dos seis processos usados na produção de poções, você pode usar um sétimo
+processo, Magnum Opus, descrito abaixo.
+Magnum Opus: é um processo através do qual as propriedades de uma substância são transmutadas em outra. Os procedimentos específicos do Magnum Opus
+são conhecidos apenas por Alquimistas
+extremamente talentosos, e cuidadosamente
+mantidos em segredo. Através desse processo, um Alquimista pode transformar até
+1 quilo de uma substância em outra, desde
+que sejam da mesma origem (substâncias de
+origem animal podem ser transformadas em
+outras substâncias animais, minerais podem
+ser transformados em outros minerais e
+vegetais em outros vegetais) com um procedimento que leva 1 semana. O alquimista
+precisa verificar o processo diariamente, ou
+a transformação falhará e os ingredientes
+serão perdidos, mas nenhum teste é necessário. O ingrediente utilizado precisa ter um
+custo igual à 10 vezes maior ou menor do
+que o ingrediente que o Alquimista quer
+produzir. Essa transformação é permanente, mas pode ser revertida através do mesmo
+processo. 
+---
+
+**ARQUEIRO**
+
+---
+/*
+REQUISITOS
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Sentidos Apurados (Habilidade)
+• Inteligência 4
+• Força 4
+HABILIDADE AUTOMÁTICA
+--Arqueria--
+Habilidades (Característica) – Suporte
+Descrição: Você recebe +2 em todos
+os seus ataques à distância (incluindo arremessos) e em testes envolvendo Arcos, Bestas, Prodds e fundas de todos os tipos.
+Você sabe como consertar essas armas e como fabricar a munição para elas.
+Especial: para consertar as armas
+ou fabricar a munição, veja Entalhe, na
+página 50. 
+*\
+---
+
+HABILIDADES BÁSICAS
+
+---
+--Aplicar Força--
+Habilidade (Técnica) – Suporte
+Descrição: Você aprendeu a confiar em
+um braço forte e firme para obter uma mira precisa. Você pode usar Força para ataques à distância.
+Além disso, sempre que usar Força para realizar
+arremessos ou ataques à distância com arcos ou
+fundas, adicione +2 ao dano da arma.
+---
+--Disparo Certeiro--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Você realiza um ataque à distância rolando +1d6.
+---
+--Disparo Mirado--
+Habilidade (Técnica) – Suporte
+Descrição: Se você usar uma ação padrão
+mirando em um alvo, você pode rolar +1d6 no
+seu primeiro ataque à distância contra aquele alvo
+no seu próximo turno.
+Especial: Mirar mais de um turno não
+adiciona nenhum benefício extra.
+---
+--Disparo Forte--
+Habilidade (Técnica) – Ação
+Requisito: Retesar Eficiente
+Mana: 10
+Descrição: Faça um ataque à
+distância. Se acertar, some +8 ao
+dano da arma.
+---
+--Prever Posição--
+Habilidade (Técnica) – Suporte
+Requisitos: Vigília
+Descrição: Você aprendeu a
+perceber os indícios de alvos
+camuflados ou invisíveis – pequenos deslocamentos de folhas
+e poeira, cores e brilhos inadequados, sons (ou a falta deles) em
+lugares errados. Se você sabe que
+um alvo invisível ou camuflado existe,
+você pode fazer ataques à distância e testes de visão contra este alvo, mas realizará
+esses testes como se fosse Inapto.
+Além disso, você consegue prever os movimentos erráticos de alvos particularmente velozes, e não se deixa enganar por eles. Ignore sempre os bônus de Esquiva da Defesa do alvo.
+---
+--Retesar Eficiente--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma técnica eficiente em retesar arcos e bestas. Quando estiver
+usando uma besta ou prodd de qualquer tipo,
+você ignora a Característica Carregar dessas armas. Quando estiver usando um arco ou funda de
+qualquer tipo, o dano de seus ataques à distância é
+aumentado em +2.
+---
+--Vigília--
+Habilidade (técnica) – Suporte
+Descrição: Você está sempre atento e preparado para qualquer coisa. Você rola +1d6 em
+seus testes de percepção e de iniciativa. 
+---
+
+HABILIDADES AVANÇADAS
+
+---
+--Agarra Flechas--
+Habilidade (Técnica) – Reação
+Requisitos: Nível 5, Vigília
+Mana: 10
+Descrição: Quando for atingido por
+uma arma arremessada (adaga, machadinha, azagaia, etc.) ou por um projétil (bala
+de funda, flecha, virote, etc.) e tiver uma
+mão livre, você pode agarrar aquele item
+no ar, antes que ele atinja você. Você não
+sofre nenhum dano físico (Corte, Perfuração e Contusão) que aquele item causaria
+– mas ainda sofre qualquer dano elemental
+(Fogo, Frio e Eletricidade) normalmente – e
+está com o item na mão.
+Essa Habilidade só pode ser usada
+uma vez por rodada.
+---
+--Disparo Cego--
+Habilidade (Técnica) – Ação
+Requisitos: Nível 5, Prever Posição
+Mana: 10
+Descrição: Se você sabe que o alvo
+está lá, você pode acertá-lo! Se você sabe
+que um alvo invisível ou camuflado existe, você pode fazer um ataque à distância
+contra ele sem qualquer penalidade. Essa
+Habilidade também se aplica quando o personagem está cego ou de outra forma impedido de perceber inimigos – ele sempre
+pode fazer ataques à distância sem penalidades devido à visão impedida ou ruim.
+---
+--Disparo Devastador--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5, Disparo Forte,
+Aplicar Força
+Descrição: Se você rolar um Sucesso
+Crítico em um ataque à distância, o dano
+será multiplicado por 3 ao invés de 2.
+Este é um efeito de sangramento.
+---
+--Olho da Águia--
+Habilidade (Técnica) – Reação
+Requisito: Nível 5, Disparo Certeiro
+Mana: 10
+Descrição: Sempre que você fizer um
+ataque à distância (incluindo arremessos)
+você pode rolar novamente um dos dados.
+Você pode escolher com qual dos resultados vai ficar.
+Você só pode usar esta Habilidade
+uma vez por turno.
+---
+
+Habilidade Final
+
+---
+--Disparo Perfeito--
+Habilidade (técnica) – Reação
+Requisitos: Nível 10, Disparo Mirado
+Mana: 15
+Descrição: Sempre que você fizer
+um ataque à distância, você pode trocar o
+resultado de um dos dados por um 6.
+Você só pode usar esta Habilidade
+uma vez por turno.
+---
+
+**ARTÍFICE**
+
+---
+/*
+REQUISITOS
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Conhecimento Arcano
+ (Habilidade)
+• Inteligência 5
+HABILIDADE AUTOMÁTICA
+--Encantar Talismã--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa
+Arcana sobre um item, você faz com que a
+próxima Magia conjurada sobre o item fique armazenada nele, podendo ser utilizada
+por seu portador como uma ação padrão.
+Habilidades e itens que alterem propriedades de uma Magia não tem efeitos
+sobre uma Magia conjurada a partir do Talismã.
+Esta Runa Arcana dura indefinidamente (mas pode ser dissipada a qualquer
+momento pelo conjurador) se dissipando
+quando os efeitos da magia armazenada
+no item forem desencadeados. Enquanto
+uma Magia estiver armazenada no item,
+os Pontos de Mana usados para conjurar
+Encantar Talismã não podem ser recuperados.
+*\
+---
+
+HABILIDADES BÁSICAS
+
+---
+--Conjurar Objeto--
+Habilidade (Magia) – Ação
+Mana: 15
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa
+Arcana sobre um item, você o envia
+para o plano etéreo. Qualquer item
+cujo peso seja igual ou menor do
+que a Carga Básica (Guia Básico,
+pág. 20) do conjurador pode ser
+afetado por essa Magia. Quando
+a Runa desenhada sobre o item
+for dissipada, o objeto aparece
+imediatamente nas mãos do
+conjurador.
+Esta Runa Arcana dura indefinidamente, mas pode ser dissipada
+a qualquer momento pelo conjurador. Enquanto estiver ativa, os Pontos de Mana usados para Conjurar
+Objeto não podem ser recuperados.
+---
+--Desativar Item--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade: 11
+Descrição: Desenhando uma Runa Arcana sobre um item, você desativa temporariamente
+seus encantamentos por 10 minutos por ponto de
+Inteligência do conjurador. O item ainda é considerado encantado enquanto estiver desativado.
+Esta Runa também dissipa todas as Runas Arcanas e Selos Místicos do item afetado.
+Itens abençoados não são afetados por essa
+Habilidade.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados. 
+---
+--Enfeitiçar Arma 1--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa Arcana
+sobre uma arma, você confere um bônus de +1 nas
+rolagens de ataque e nos danos dessa arma.
+Essa Runa Arcana dura 1 minuto.
+---
+--Enfeitiçar Armadura--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa Arcana
+sobre uma armadura ou vestimenta, você aumenta
+o bônus de defesa do item em +1 (ou confere +1
+de Armadura para uma peça de roupa comum).
+Essa Runa Arcana dura 1 minuto.
+---
+
+HABILIDADES AVANÇADAS
+
+---
+--Dom do Artífice--
+Habilidade (Magia) – Ação
+Requisitos: Nível 5, Mente Disciplinada
+Mana: 20
+Dificuldade da Magia: 14
+Descrição: Desenhando uma Runa Arcana sobre si mesmo, o conjurador recebe +2 em
+um Atributo à sua escolha. Além disso, se essa
+Runa for realizada antes de uma sessão de encantamento, o Artífice não fica exausto no fim do dia,
+recuperando metade dos seus Pontos de Mana totais durante o ritual. Isso não permite ao Artífice
+apressar o processo de um encantamento, mas ele
+pode se dedicar à dois encantamentos ao mesmo
+tempo.
+Essa Runa Arcana dura 1 minuto.
+---
+--Enfeitiçar Arma 2--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Enfeitiçar Arma
+Mana: 25
+Dificuldade da Magia: 12
+Descrição: Desenhando uma Runa Arcana sobre uma arma, você confere um bônus de +3
+nas rolagens de ataque e nos danos dessa arma.
+Essa Runa Arcana dura 1 minuto.
+---
+--Soldar Magia--
+Habilidade (Magia) – Ação
+Requisito: Nível 5
+Mana: 20
+Dificuldade da Magia: 14
+Descrição: Desenhando uma Runa Arcana sobre um item, você faz com que os efeitos de
+uma outra Magia realizada sobre ele, cujos efeitos
+afetem o próprio personagem, fique armazenada
+naquele item. O efeito da Magia armazenada no
+item pode ser desencadeado por seu portador
+como uma ação livre.
+Habilidades e itens que alterem propriedades de uma Magia não tem efeitos sobre uma Magia conjurada a partir do item.
+Esta Runa Arcana dura indefinidamente
+(mas pode ser dissipada a qualquer momento pelo conjurador) se dissipando quando os
+efeitos da magia armazenada no item forem
+desencadeados. Enquanto uma Magia estiver
+armazenada no item, os Pontos de Mana usados para conjurar Soldar Magia não podem ser
+recuperados.
+---
+
+Habilidade Final
+
+---
+--Abrir Encantamento--
+Habilidade (Magia) – Ação
+Requisitos: Nível 10, Dom do Artífice.
+Mana: 100
+Dificuldade da Magia: Varia
+Descrição: Desenhando uma Runa
+sobre um item mágico, o Artífice pode desestabilizar o encantamento do item temporariamente, permitindo que um segundo
+encantamento seja iniciado sobre o item
+enquanto esta Runa estiver ativa. A Dificuldade dessa Magia é igual à dificuldade do
+encantamento original do item. Um item só
+pode ser afetado por Abrir Encantamento
+uma vez.
+Esta Runa Arcana dura 12 horas. 
+---
+
+**DOMADOR**
+
+---
+/*
+REQUISITOS
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Benção de Ellenis (Habilidade)
+• Vontade 5
+HABILIDADE AUTOMÁTICA
+--Companheiro Animal 1--
+Habilidade – Suporte
+Descrição: Você possui uma ligação
+de fidelidade com um animal. Escolha uma
+Besta dos tipos Mamífero, Ave, Réptil ou
+Peixe e faça um teste de Vontade (Dificuldade igual à soma de todos os atributos do
+animal +1 para cada metro de tamanho que
+o animal tiver). Se passar no teste, o animal
+escolhido será atraído para você e lhe será fiel
+até a morte (ele passa a ter o temperamento Protetor). Se o animal morrer, você pode
+tentar atrair outro animal – que não precisa
+ser do mesmo tipo escolhido anteriormente
+– com fazendo o mesmo teste.
+Este teste pode ser realizado 1 vez por
+dia. Você pode atrair 1 animal de cada vez
+com essa Habilidade.
+*\
+---
+
+HABILIDADES BÁSICAS
+
+---
+--Ataque Simultâneo--
+Habilidade (Técnica) – Ação
+Requisito: Combate em Grupo
+Mana: 20
+Descrição: Você está acostumado a lutar em grupo e sabe como abrir a guarda de um adversário para que seus
+aliados possam atingi-lo. Faça um
+ataque corporal contra um oponente. Se acertar, todos aliados
+que estiverem adjacentes ao mesmo oponente poderão fazer um
+ataque corporal normal contra
+ele imediatamente.
+---
+--Cavaleiro Experiente--
+Habilidade (Técnica) – Suporte
+Descrição: Você passou muito
+tempo com animais de montaria
+e conhece seus hábitos, características e como lidar com eles.
+Você recebe +1d6 em todas as suas
+rolagens referentes à criaturas com a
+Habilidade Montaria – incluindo cavalgar, treinar e atacar.
+---
+--Combate em Grupo--
+Habilidade (Técnica) – Suporte
+Descrição: Você ganha +1 nos testes de
+ataques corporais para cada aliado que esteja em
+combate corporal com o alvo.
+---
+--Combate Montado--
+Habilidade (Técnica) – Suporte
+Requisito: Cavaleiro Experiente
+Descrição: Sempre que fizer um ataque
+corporal enquanto estiver sobre uma montaria,
+acrescente +6 de dano ao ataque.
+---
+--Companheiro Animal 2--
+Habilidade – Suporte
+Requisito: Companheiro animal 1
+Descrição: Seu companheiro animal recebe +1 em 2 Atributos à sua escolha, +5 Pontos de
+vida e +5 Pontos de Mana. Além disso, seu companheiro Animal recebe uma Habilidade do tipo
+Técnica à sua escolha (desde que faça sentido; o
+Mestre tem a palavra final sobre o assunto).
+---
+--Horda Selvagem--
+Habilidade (Característica) – Suporte
+Descrição: Você possui um magnetismo
+especial para um tipo de animal. Escolha uma
+espécie qualquer de Besta do tipo Mamífero,
+Ave, Réptil ou Peixe com menos de 1 metro
+(gatos, corvos, sapos ou carpas, por exemplo).
+Uma quantidade de animais do tipo escolhido
+igual a duas vezes a sua Vontade estão constantemente te acompanhando e, caso morram,
+outros aparecerão assim que você estiver em
+um local onde existam animais daquele tipo.
+Você pode convencê-los a realizar pequenos
+favores, mas eles não irão se colocar em perigo
+por você. Além disso, nenhum animal do tipo
+escolhido vai atacar você a menos que você o
+ataque primeiro.
+---
+
+HABILIDADES AVANÇADAS
+
+---
+--Companheiro Animal 3--
+Habilidade – Suporte
+Requisito: Nível 5, Companheiro animal 2
+Descrição: Seu Companheiro Animal recebe +1 em todos os seus Atributos e +10 Pontos
+de Vida ou +10 Pontos de Mana à sua escolha.
+Além disso, seu Companheiro Animal recebe
+uma Habilidade do tipo Técnica à sua escolha
+(desde que faça sentido; o Mestre tem a palavra
+final sobre o assunto).
+---
+--Mestre Domador--
+Habilidade (Técnica) – Suporte
+Requisito: Nível 5
+Descrição: Você é capaz de domar animais com extrema facilidade. Quando você captura uma criatura do tipo Besta, pode fazer um
+teste de Vontade com dificuldade igual à soma
+de todos os Atributos do animal depois que tiver
+cativo e bem tratado por pelo menos 1 dia inteiro. Se conseguir sucesso no teste, a criatura passa
+a ser considerada seu Companheiro Animal e a
+ter o Temperamento Protetor. Se falhar no teste, você pode tentar novamente uma vez por dia.
+No caso de uma falha crítica no teste, você perde
+completamente a confiança do animal e não será
+capaz de domá-lo.
+Você pode ter, simultaneamente, uma
+quantidade de Companheiros Animais igual à
+metade da sua Vontade (arredondada para baixo).
+---
+--Comando do Alfa--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5
+Mana: 20
+Descrição: Você dá um comando para
+um de seus Companheiros Animais (pule, resista,
+viva, morda, etc.) e o alvo realiza imediatamente
+aquela ação. A ordem não pode ser negativa (falhe, morra, caia, etc.). O alvo ainda rola seu teste,
+apenas para verificar a possibilidade de um sucesso crítico – qualquer outro resultado (mesmo uma
+falha crítica) é considerado um sucesso normal.
+---
+
+Habilidade Final
+
+---
+--Companheiro Animal 4--
+Habilidade – Suporte
+Requisito: Nível 10, Companheiro
+animal 3
+Descrição: Seu Companheiro Animal
+recebe +1 em todos os seus Atributos, +10
+Pontos de Vida e +10 Pontos de Mana. Além
+disso, seu Companheiro Animal recebe uma
+Habilidade do tipo Técnica à sua escolha
+(desde que faça sentido; o Mestre tem a palavra final sobre o assunto).
+Você também recebe +2 em todos os
+seus testes relativos à animais e pode também
+atrair um segundo Companheiro Animal seguindo as mesmas regras de Companheiro
+Animal 1.
+---
+
+**ILUSIONISTA**
+
+---
+/*
+REQUISITOS
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Detectar Magia (Habilidade)
+• Inteligência 5
+HABILIDADE AUTOMÁTICA
+--Ilusão 1--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 9
+Descrição: Desenhando uma Runa
+Arcana ou Selo Místico no ar, você cria uma
+ilusão visual de tamanho máximo de uma
+pessoa ou de um baú grande.
+A Runa Arcana ou Selo Místico que
+mantém a ilusão dura até 30 minutos, mas se
+dissipa se o conjurador perder contato visual
+com ela.
+*\
+---
+
+HABILIDADES BÁSICAS
+
+---
+--Aparência Ilusória--
+Habilidade (Magia) – Ação
+Requisito: Ilusão 2
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando
+uma Runa Arcana ou Selo Místico sobre um Humanóide, você
+pode modificar quaisquer características da aparência do
+alvo (raça, gênero, constituição,
+etc.) incluindo suas roupas, mas
+não seu tamanho relativo (um
+Metadílio não poderia se parecer com um Humano, nem
+um Elfo com um Mahok, por
+exemplo). Para copiar a aparência de alguém específico você
+precisa estar olhando para o alvo.
+A Runa Arcana dura até que
+a criatura afetada durma, mas se dissipa imediatamente se ela sofrer qualquer dano.
+---
+--Ilusão 2--
+Habilidade (Magia) – Ação
+Requisito: Ilusão 1
+Mana: 20
+Dificuldade da Magia: 11
+Descrição: Desenhando uma Runa Arcana ou Selo Místico no ar, você cria uma ilusão visual de tamanho máximo de um elefante ou uma
+carruagem.
+A Runa Arcana ou Selo Místico que mantém a ilusão dura até 30 minutos, mas se dissipa se
+o conjurador perder contato visual com ela.
+---
+--Ilusão Sonora--
+Habilidade (Técnica) – Suporte
+Requisito: Som Ilusório
+Descrição: Você pode acrescentar som a
+qualquer ilusão que crie. Você controla totalmente os sons que a ilusão irá produzir e pode adicionar múltiplos sons ao mesmo tempo (barulho
+de passos e vozes enquanto a ilusão de um casal
+caminha e conversa, ranger de metal, bater de cascos, e relinchos enquanto a ilusão de um guerreiro
+montado em um cavalo, etc.).
+A ilusão terá som durante toda a sua duração.
+---
+--Invisibilidade 1--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: 11
+Descrição: Desenhando uma
+Runa Arcana ou Selo Místico sobre uma criatura, você a torna –
+assim como todas as suas posses invisível.
+Essa Runa Arcana ou Selo Místico dura por uma quantidade
+de minutos igual à Inteligência
+do conjurador.
+---
+--Luz Mágica--
+Habilidade (Magia) – Ação
+Mana: 5
+Dificuldade da Magia: 8
+Descrição: Desenhando uma Runa
+Arcana ou Selo Místico sobre um objeto, você imbui ele com uma luz própria.
+A duração dessa magia depende da intensidade da luz: uma luz fraca como de uma vela dura
+6 horas, uma luz moderada semelhante à de uma
+tocha dura 1 hora, e uma luz intensa como a do
+sol dura 1 minuto.
+---
+--Som Ilusório--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+Descrição: Desenhando uma Runa Arcana ou Selo Místico no ar, você cria um som vindo
+de um lugar que possa ver. Você pode criar múltiplos sons ao mesmo tempo e os controla totalmente, mas eles não podem ter intensidade maior
+que a capacidade da voz humana.
+A Runa Arcana ou Selo Místico que mantém o som dura até 30 minutos, mas se dissipa se
+o conjurador perder contato visual com o local de
+onde o som se origina. 
+
+---
+
+HABILIDADES AVANÇADAS
+
+---
+--Abrigo Invisível--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Invisibilidade 2
+Mana: 50
+Dificuldade da Magia: 14
+Descrição: Desenhando uma Runa Arcana ou Selo Místico sobre uma pequena construção (um casebre, uma carruagem, uma guarita)
+você torna ela e tudo em seu interior invisível. Se
+a construção tiver alguma abertura (uma janela
+aberta, uma carroça sem teto) o interior da construção será visível através da abertura.
+A Runa Arcana ou Selo Místico dura 24
+horas, mas se a construção for perturbada (uma
+porta é aberta, a carruagem se move) ela se dissipa
+imediatamente.
+---
+--Ilusão 3--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Ilusão 2
+Mana: 30
+Dificuldade da Magia: 13
+Descrição: Desenhando uma Runa Arcana ou Selo Místico no ar, você cria uma ilusão
+visual de tamanho máximo de um dragão ancião
+ou um casarão.
+A Runa Arcana ou Selo Místico que mantém a ilusão dura até 30 minutos, mas se dissipa se
+o conjurador perder contato visual com ela.
+---
+--Ilusão Persistente--
+Habilidade (Magia) – Ação
+Requisito: Nível 5
+Mana: Variável
+Dificuldade da Magia: 12
+Descrição: Desenhando uma Runa Arcana ou Selo Místico sobre uma ilusão, você aumenta sua duração em 1 hora para cada 10 Pontos
+de Mana que gastar e não precisa manter contato
+visual para que ela continue ativa.
+A Runa Arcana ou Selo Místico se dissipa
+assim que seus efeitos são desencadeados, mas o
+conjurador pode dissipar a ilusão afetada a qualquer momento.
+---
+--Invisibilidade 2--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Invisibilidade 1
+Mana: 30
+Dificuldade da Magia: 13
+Descrição: Desenhando uma Runa Arcana sobre uma criatura, você a torna – assim como
+todas as suas posses – invisível.
+Essa Runa Arcana ou Selo Místico dura
+por uma quantidade de horas igual à Inteligência
+do conjurador.
+---
+
+Habilidade Final
+
+---
+--Ilusão Eterna--
+Habilidade (Magia) – Ação
+Requisito: Nível 10, Ilusão Persistente
+Mana: 100
+Dificuldade da Magia: 16
+Descrição: Desenhando uma Runa
+Arcana ou Selo Místico sobre uma ilusão,
+ela passa a ter duração permanente e você
+não precisa manter contato visual para que
+ela continue ativa. Além disso, ela não se
+dissipa sob condições em que isso normalmente aconteceria (como alguém sob efeito de Aparência Ilusória sofrer dano, por
+exemplo).
+O conjurador pode dissipar a ilusão a
+qualquer momento ou adicionar uma condição para que ela se dissipe (uma frase, uma
+conjunção astral, um prazo, etc.).
+---
+
+**INVOCADOR**
+
+---
+/*
+REQUISITOS
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Detectar Magia (Habilidade)
+• Vontade 6
+HABILIDADE AUTOMÁTICA
+--Invocar Familiar--
+Habilidade (Magia) – Ação
+Mana: 20
+Dificuldade da Magia: 10
+Descrição: Você conjura um golem
+ou elemental pequeno (de qualquer tipo)
+desenhando uma Runa Arcana ou Selo Místico sobre uma gema com valor de pelo menos 400 moedas. Enquanto a gema encantada estiver intacta, o Familiar tem duração
+permanente. Se o Familiar for destruído,
+a Runa ou Selo na gema se dissipa, mas a
+gema pode ser utilizada novamente. Se a
+gema for destruída ou se a Runa ou Selo
+for dissipada, o Familiar se dissipa imediatamente.
+Veja os dados dos Elementais e Golens no Monstrum Codex para mais detalhes. 
+*\
+---
+
+HABILIDADES BÁSICAS
+
+---
+--Invocação Persistente--
+Habilidade (Técnica) – Suporte
+Descrição: Suas Invocações duram mais e
+são mais resistentes. Criaturas invocadas por você
+têm +10 PVs e permanecem invocadas por até 1
+hora ao invés da sua duração normal.
+---
+--Invocação Versátil--
+Habilidade (Técnica) – Suporte
+Requisito: Invocação Persistente
+Descrição: Você pode invocar criaturas nas mais diversas
+formas. Criaturas invocadas por
+você podem ter uma Habilidade extra dependendo de sua
+forma, e seu bônus automático
+de Defesa é aumentado em 2.
+Golens e Elementais de
+Gelo podem ter Chifres Poderosos, Corpo Equino, Montaria, garras ou Braços Extras 2.
+Elementais de Fogo e Golens de
+Madeira podem ter Asas Pesadas
+ou Asas Leves.
+Especial: Uma criatura com
+a Habilidade Montaria precisa ser pelo
+menos da mesma categoria de tamanho do
+seu cavaleiro. Assim, a maioria das raças (exceto
+Metadílios e Goblins) só poderá montar em Golens ou Elementais de categoria de tamanho Média ou maior.
+---
+--Invocar Elemental do Fogo 1--
+Habilidade (Magia) – Ação
+Mana: varia
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa Arcana ou Selo Místico no ar, você pode invocar um
+elemental do fogo. O elemental age logo depois
+de você a partir do turno em que for invocado.
+Um elemental do fogo pequeno custa 15 Pontos
+de Mana e um elemental do fogo médio custa 30
+Pontos de Mana.
+A runa que mantém o elemental coeso se
+dissipa depois de 10 minutos ou assim que o elemental for destruído.
+---
+--Invocar Elemental do Gelo 1--
+Habilidade (Magia) – Ação
+Mana: varia
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa
+Arcana ou Selo Místico no ar, você pode
+invocar um elemental do gelo. O elemental age logo depois de você a
+partir do turno em que for invocado.Um elemental do gelo pequeno custa 15 Pontos de Mana
+e um elemental do gelo médio
+custa 30 Pontos de Mana.
+A runa que mantém o elemental coeso se dissipa depois de
+10 minutos ou assim que o elemental for destruído.
+---
+--Invocar Golem 1--
+Habilidade (Magia) – Ação
+Mana: varia
+Dificuldade da Magia: 12
+Descrição: Você desenha uma
+Runa Arcana ou Selo Místico sobre
+uma superfície invocando um golem
+do tipo adequado. O golem age logo
+depois de você a partir do turno em que
+for invocado. É possível invocar qualquer tipo
+de golem com esta Magia desde que haja uma
+quantidade suficiente de matéria prima adequada.
+Um golem pequeno custa 20 Pontos de Mana e
+um golem médio custa 40 Pontos de Mana.
+A runa que mantém o golem coeso se dissipa depois de 10 minutos ou assim que o golem
+for destruído. 
+---
+
+HABILIDADES AVANÇADAS
+
+---
+--Ampliar Invocação--
+Habilidade (Magia) – Ação
+Requisitos: Nível 5, Invocação Persistente
+Mana: 15
+Dificuldade da Magia: 15
+Descrição: Desenhando uma Runa Arcana ou Selo Místico sobre um Elemental ou Golem, você pode fazer com ele aumente de tamanho uma categoria.
+A Runa ou Selo se mantém ativa por tanto
+tempo quanto o elemental ou golem estiver coeso, mas você pode dissipá-la a qualquer momento.
+---
+--Invocar Elemental do Fogo 2--
+Habilidade (Magia) – Ação
+Requisitos: Nível 5, Invocar Elemental do
+Fogo 1
+Mana: varia
+Dificuldade da Magia: 14
+Descrição: Descrição: Desenhando uma
+Runa Arcana ou Selo Místico no ar, você pode
+invocar um elemental do fogo. O elemental age
+logo depois de você a partir do turno em que for
+invocado. Um elemental do fogo grande custa 50
+Pontos de Mana e um elemental do fogo gigante
+custa 100 Pontos de Mana.
+A runa que mantém o elemental coeso se
+dissipa depois de 10 minutos ou assim que o elemental for destruído.
+---
+--Invocar Elemental do Gelo 2--
+Habilidade (Magia) – Ação
+Requisitos: Nível 5, Invocar Elemental do
+Gelo 1
+Mana: varia
+Dificuldade da Magia: 14
+Descrição: Descrição: Desenhando uma
+Runa Arcana ou Selo Místico no ar, você pode
+invocar um elemental do gelo. O elemental age
+logo depois de você a partir do turno em que for
+invocado. Um elemental do gelo grande custa 50
+Pontos de Mana e um elemental do gelo gigante
+custa 100 Pontos de Mana.
+A runa que mantém o elemental coeso se
+dissipa depois de 10 minutos ou assim que o elemental for destruído.
+---
+--Invocar Golem 2--
+Habilidade (Magia) – Ação
+Requisitos: Nível 5, Invocar Golem 1
+Mana: varia
+Dificuldade da Magia: 16
+Descrição: Você desenha uma Runa Arcana ou Selo Místico sobre uma superfície invocando um golem do tipo adequado. O golem age logo
+depois de você a partir do turno em que for invocado. É possível invocar qualquer tipo de golem
+com esta Magia desde que haja uma quantidade
+suficiente de matéria prima adequada. um golem
+grande custa 60 Pontos de Mana e um golem gigante custa 120 Pontos de Mana.
+A runa que mantém o golem coeso se dissipa depois de 10 minutos ou assim que o golem
+for destruído.
+---
+--Manter Invocação--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Invocação Persistente
+Mana: 10
+Dificuldade da Magia: 12
+Descrição: Desenhando uma Runa Arcana
+ou Selo Místico sobre uma criatura que você tenha
+invocado, a duração da Runa ou Selo que mantém a invocação é duplicada. Você pode desenhar
+quantas Runas ou Selos desses quiser sobre uma
+criatura invocada, e seus efeitos são cumulativos.
+---
+
+Habilidade Final
+
+---
+--Invocação Prodigiosa--
+Habilidade (Técnica) – Suporte
+Requisitos: Nível 10, Manter Invocação
+Descrição: Você é extremamente
+talentoso em realizar magias de Invocação.
+Todas as suas magias de Invocação têm sua
+Dificuldade reduzida em 2 e custam 5 Pontos
+de Mana a menos. Além disso, você pode realizar suas magias de Invocação como ações
+de turno completo ao invés ações padrão,
+conjurando aquela magia duas vezes simultaneamente. Você precisa fazer o teste e pagar
+o custo em mana de cada magia separadamente. 
+---
+
+**ORÁCULO**
+
+---
+/*
+REQUISITOS
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Conhecimento Místico
+• Vontade 6
+HABILIDADE AUTOMÁTICA
+--Clarividência--
+Habilidade (Técnica) – Ação
+Mana: 10
+Descrição: Fechando os olhos e
+concentrando-se em uma criatura, item ou
+superfície onde haja um Selo Místico que
+você tenha desenhado, você é capaz de ver
+e ouvir o que estiver ocorrendo nos arredores daquele Selo. Você vê e ouve com suas
+próprias capacidades, e não pode usar seus
+outros sentidos para perceber o ambiente ao
+redor do Selo.
+Tanto Selos usados para conjurar magias ou Selos Místicos simples podem ser
+usados como alvos dessa Habilidade.
+Essa Habilidade funciona por tanto tempo quanto você se concentrar, mas
+se o Selo que você estiver observando for
+dissipado esse efeito é cancelado imediatamente. 
+*\
+---
+
+HABILIDADES BÁSICAS
+
+---
+--Janela Mágica--
+Habilidade (Magia) – Ação
+Mana: Varia
+Dificuldade da Magia: 12
+Descrição: Desenhando
+um Selo Místico sobre uma superfície, você é capaz de canalizar os efeitos de Clarividência,
+Psicometria ou Retrocognição,
+criando uma espécie de janela
+onde os eventos que o Oráculo
+perceberia podem ser visualizados
+por qualquer um ao seu redor.
+O custo dessa Magia será igual ao
+custo da Habilidade canalizada.
+Esse Selo Místico dura 10 minutos, mas se
+o Selo Místico que estiver sendo observado com
+Clarividência for dissipado ou o conjurador perder contato com o objeto, superfície ou criatura
+na qual está usando Psicometria ou Retrocognição, o efeito é cancelado imediatamente.
+---
+--Psicometria--
+Habilidade (Técnica) – Ação
+Mana: 20
+Descrição: Fechando os olhos e tocando
+um objeto ou superfície, você é capaz de ver
+e ouvir os eventos relevantes que aconteceram
+ao redor dele. Apenas acontecimentos intensos ou constantes deixam marcas perceptíveis,
+e impressões mais recentes tendem a desbotar
+as mais antigas. O Oráculo recebe impressões
+mais recentes primeiro, sobrepostas à impressões mais antigas, sem nenhuma informação de
+tempo relativo (quando o evento ocorreu ou o
+tempo decorrido entre uma impressão e outra).
+Essa Habilidade demora tanto tempo
+quanto os eventos impressos no objeto ou superfície duraram, já que eles são percebidos em
+tempo real. Raramente um item consegue
+reter mais do que 1 hora de impressões,
+e se acontecimentos relevantes mais
+longos tiverem ocorrido ao redor
+do item eles geralmente estarão
+fragmentadas na forma de cenas
+curtas. Depois de ver todas as
+impressões de um item, o Oráculo pode revê-las em qualquer
+ordem que desejar.
+---
+--Retrocognição--
+Habilidade (Técnica) – Ação
+Mana: 20
+Descrição: Fechando os olhos
+e tocando uma criatura, você
+consegue ver e ouvir os eventos vividos por ela. Apesar da
+memória da criatura em questão
+ser essencial, a maioria dos acontecimentos importantes (do ponto de
+vista da criatura) tendem a se manter
+relativamente intactos em sua memória. Os
+eventos são vistos em tempo real e na ordem inversa em que ocorreram, mas se a criatura estiver
+relembrando um evento específico, essa memória
+será o que o Oráculo irá ver.
+Se o alvo quiser bloquear uma determinada memória, o Oráculo precisa ter um sucesso em um teste de Vontade (dificuldade
+igual à Determinação do alvo) para acessá-la.
+Se falhar em acessar uma determinada memória, o efeito dessa Habilidade cessa imediatamente.
+Este é um efeito mental. 
+---
+
+HABILIDADES AVANÇADAS
+
+---
+--Abrir Janela Mágica--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Janela Mágica
+Mana: 15
+Dificuldade da Magia: 14
+Descrição: Desenhando um Selo Místico
+sobre uma Janela Mágica, você cria uma segunda Janela Mágica diretamente a frente da criatura,
+objeto ou superfície que você estiver observando,
+efetivamente criando um canal de comunicação
+em tempo real.
+Esse Selo Místico dura tanto tempo quanto
+a Janela Mágica sobre a qual for desenhado.
+---
+--Atravessar Janela Mágica--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Janela Mágica
+Mana: 30
+Dificuldade da Magia: 16
+Descrição: Desenhando um Selo Místico
+sobre uma Janela Mágica, você cria um portal diretamente a frente da criatura, objeto ou superfície que você estiver observando, que pode ser
+atravessado em ambas as direções.
+Esse Selo Místico dura tanto tempo quanto
+a Janela Mágica sobre a qual for desenhado.
+---
+--Precognição--
+Habilidade (Técnica) – Ação
+Requisitos: Nível 5, Psicometria, Retrocognição
+Mana: 20
+Descrição: Fechando os olhos e concentrando-se por 1 hora, você visualiza eventos que podem acontecer. As informações obtidas
+são vagas e não fazem sentido até que os eventos vislumbrados comecem a se desenrolar de
+fato. Durante um período em dias igual à sua
+Vontade depois de ter usado essa Habilidade,
+você recebe um bônus de +1d6 em 1 rolagem
+qualquer – você sabe o que vai acontecer e consegue reagir com eficiência. Somente depois
+que tiver usado esse bônus ou que a duração do
+efeito tenha passado você pode usar esta Habilidade novamente.
+---
+
+Habilidade Final
+
+---
+--Interferir no Fluxo--
+Habilidade (Característica) – Reação
+Requisitos: Nível 10, Precognição
+Mana: 30
+Descrição: Você vislumbrou vários
+futuros possíveis e consegue forçar determinados eventos a se tornarem realidade.
+Sempre que uma ação dentro da sua linha
+de visão exigir uma rolagem de dados, você
+pode modificar o resultado daquela rolagem
+em um grau para melhor ou pior – uma falha
+crítica se torna uma falha normal, uma falha
+se torna um sucesso ou um sucesso se torna
+um sucesso crítico, ou vice-versa. Você não
+interfere no resultado dos dados, apenas no
+resultado do teste.
+Essa Habilidade só pode ser usada
+uma vez por turno. 
+---
+
+**TOHUNGA**
+
+---
+/*
+REQUISITOS
+Para seguir este caminho você
+deve preencher os seguintes requisitos:
+• Antecedente Artesão/Artesã [Arte]
+• Vontade 3
+HABILIDADE AUTOMÁTICA
+Primeira Marca
+Habilidade (Característica) – Suporte
+Descrição: Você tatuou uma marca
+pessoal que lhe concede um poderoso senso
+de propósito. Enquanto esta tatuagem estiver
+visível você tem +10 Pontos de Vida OU +10
+Pontos de Mana (essa escolha é feita quando
+você seleciona essa Habilidade e não pode ser
+mudada mais tarde). Além disso, seus ataques
+desarmados são considerados armas marcadas
+com sua Runa Pessoal para todos os propósitos. 
+*\
+---
+
+HABILIDADES BÁSICAS
+
+---
+--Tamoko--
+Habilidade (Característica)
+– Suporte
+Descrição: Você ostenta uma tatuagem que o imbuí
+de um poderoso senso pessoal.
+Escolha um Atributo. Enquanto
+esta tatuagem estiver visível, você
+tem +1 naquele Atributo (essa escolha é feita quando você seleciona
+essa Habilidade e não pode ser mudada mais tarde).
+Você só pode receber o beneficio
+dessa tatuagem uma vez.
+---
+--Tribal de Proteção--
+Habilidade (Característica) – Suporte
+Descrição: Você tatuou um tribal que lhe
+confere proteção física ou espiritual. Escolha entre Bloqueio, Esquiva ou Determinação. Enquanto
+esta tatuagem estiver visível, você tem +2 naquela
+defesa (essa escolha é feita quando você seleciona
+essa Habilidade e não pode ser mudada mais tarde).
+Você só pode receber o beneficio dessa
+tatuagem uma vez.
+---
+--Tribal de Poder--
+Habilidade (Característica) – Suporte
+Descrição: Você tatuou um tribal que lhe
+confere resistência e tenacidade em combate. Enquanto esta tatuagem estiver visível, você tem +2
+em suas rolagens de ataques corporais e não precisa estar usando armaduras ou armas para bloquear. Além disso, seus ataques desarmados causam +2 de dano.
+Você só pode receber o beneficio dessa
+tatuagem uma vez.
+---
+--Invocar Espírito de Tinta--
+Habilidade (Característica) – Ação
+Requisito: Tribal de Proteção
+Mana: 20
+Descrição: Você tem uma tatuagem que representa seu espírito
+animal. Enquanto esta tatuagem estiver visível, você pode
+invocar 1 espírito animal a
+partir dela. Esse espírito tem
+a forma do animal tatuado,
+mas os Atributos dele serão
+todos iguais à sua Vontade.
+Além das Habilidades apropriadas ao animal, todos os
+Espíritos Animais têm Mente
+Bloqueada e Corpo Intangível.
+Seus ataques causam dano igual
+à Força +2 por Corte, Perfuração ou Esmagamento – o que for
+mais apropriado, de acordo com
+os ataques do animal – e recebem os
+bônus referentes ao seu Espírito Animal.
+Espíritos Animais têm 30 Pontos de Vida e 30
+Pontos de Mana e são sempre Bestas do tipo
+Espírito com o temperamento Servo.
+Essa magia dura 1 minuto ou até o animal
+espectral ser destruído.
+Especial: Se você tiver a Habilidade Espírito Animal (veja o Guia Básico página 169 para
+detalhes) os seus bônus serão aplicados aos espíritos invocados com esta Habilidade. Espírito
+Animal: Águia garante um bônus de +1 nos ataques corporais de espíritos invocados, ao invés do
+bônus normal.
+---
+--Tatuar Objeto--
+Habilidade (Característica) – Ação
+Requisito: Tribal de Poder
+Mana: 5
+Descrição: Você transformou um item em
+uma marca permanente em seu corpo, e é capaz
+de conjura-lo a partir dessa marca. Você funde o
+item escolhido à sua pele na forma de uma tatuagem. A tatuagem ocupa uma área equivalente
+ao tamanho natural do objeto – portanto é impossível fundir objetos maiores do que o personagem – e precisa estar toda à mostra para que
+o item possa ser conjurado. O objeto permanece
+conjurado por tanto tempo quanto o personagem
+quiser, mas se passar 1 dia sem contato direto
+com o personagem ou for destruído, ele volta a
+ser uma tatuagem. O custo dessa Habilidade deve
+ser pago quando o item é conjurado e quando for
+transformado em uma tatuagem (incluindo se ele
+for destruído ou ficar mais de um dia longe do
+personagem).
+---
+--Tatuar Magia--
+Habilidade (Característica) – Suporte
+Requisito: Detectar Magia
+Descrição: Você é capaz de tatuar magias em sua pele, como se ela tivesse a característica Registro. Quando conjurar uma Magia
+registrada em sua pele, reduza a dificuldade daquela Magia em 1 e reduz seu Custo de Mana
+em 5. Em todos os outros aspectos, as regras
+referentes à magias lançadas a partir de um item
+com a característica registro se aplicam normalmente (veja o Guia Básico, página 38, para detalhes).
+---
+
+HABILIDADES AVANÇADAS
+
+---
+--Coração de Tinta--
+Habilidade (Característica) – Ação
+Requisito: Invocar Espírito de Tinta
+Descrição: Através da tatuagem do seu
+espírito animal, você é capaz de fortalecer sua
+determinação e em contrapartida seu espírito
+animal também se fortalece. Enquanto a tatuagem do seu espírito animal estiver à mostra, você
+(e quaisquer criaturas que você invocar) recebe
++10 Pontos de Vida e +1 em Bloqueio, Esquiva
+e Determinação.
+---
+--Kirituhi--
+Habilidade (técnica) – Ação
+Requisitos: Nível 5, Tamoko
+Mana: 60
+Descrição: Você é capaz de realizar uma
+tatuagem em um Humanoide ou Esfinge com os
+efeitos de qualquer uma de suas Habilidades de
+Tohunga que não tenham Requisitos. O processo
+leva um dia inteiro, e você precisa ser capaz de falar em uma língua que o alvo entenda, explicando
+sobre os significados e propriedades da tatuagem
+que está produzindo.
+---
+--Tatuar Efeito--
+Habilidade (Característica) – Reação
+Requisitos: Nível 5, Tatuar Magia
+Descrição: Quando conjurar sobre si mesmo uma Magia que tenha tatuado em sua pele, a
+conjuração é realizada como uma ação livre. Você
+não pode usar conjurar outras Magias em turnos
+em que utilizar esta Habilidade nem pode utilizar
+esta Habilidade em turnos que já tiver conjurado
+uma Magia. 
+---
+
+Habilidade Final
+
+---
+--Invocar Exército de Tinta--
+Habilidade (Característica) – Suporte
+Requisito: Nível 10, Espírito de Tinta
+Descrição: Enquanto a tatuagem
+do seu Espírito Animal estiver à mostra,
+você pode invocar múltiplos espíritos animais espectrais a partir dela. Você pode
+invocar múltiplos espíritos de uma só vez
+usando Espírito de Tinta, mas só pode
+manter simultaneamente um número de
+espíritos igual à sua Vontade.
+---

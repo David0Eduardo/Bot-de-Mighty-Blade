@@ -1,0 +1,301 @@
+**Condições Revisadas**
+Aqui estão as descrições de todas
+as condições que podem afetar um personagem ao longo de suas aventuras.
+Algumas Habilidades descrevem seus
+efeitos através de condições, isso permite que a descrição das habilidades
+seja mais direta apenas especificando
+qual condição ela causa ao alvo. As
+condições descritas a seguir tendem a
+abranger o máximo de situações possível, porém o Mestre tem toda a liberdade de ajustar as condições para situações específicas que venham a ocorrer,
+ou até mesmo criar condições novas.
+
+---
+*Agarrando/Agarrado:
+Tanto o personagem agarrando
+outro como o alvo sendo agarrado
+consideram o outro como Carga para
+todos os propósitos, não somam suas
+Agilidades à sua Defesa e não recebem bônus de Defesa em relação um
+ao outro devido à itens (escudo, armadura, ou mesmo Habilidades que
+oferecem bônus de Defesa se o personagem estiver segurando itens, como
+Aparar ou Defesa Agressiva, por
+exemplo). Eles ainda recebem esses
+bônus por itens normalmente contra
+outras criaturas.
+Ambos realizam todos os seus
+ataques como se fossem Inaptos, exceto quando estiverem utilizando armas
+com FN 1 ou 0. Conjurar Magias ou
+tocar Músicas é possível, mas recai nas
+regras de Inaptidão.
+*Amedrontado:
+Personagem sob certos efeitos de
+medo são considerados Amedrontados,
+não podendo se aproximar da sua fonte
+de temor nem utilizar Habilidades de
+Reações com relação à ela, e realizando
+todas as ações – atacar, conjurar Magias, utilizar Músicas ou Habilidades
+de Ação – contra a fonte de seu temor
+como se fossem Inaptos.
+*Atordoado:
+Personagens que sofrem um trauma
+físico considerável e repentino (como uma
+queda, ou alguns ataques contundentes e
+a maioria dos danos por eletricidade) estão atordoados e incapazes de um controle absoluto sobre seus movimentos. Um
+personagem Atordoado realiza todos os
+seus testes como se fosse Inapto, não pode
+utilizar Habilidades nem Manobras de
+Reação nem Ações Completas.
+*Caído:
+O personagem está prostrado no
+chão. Ele pode se mover se arrastando à
+metade do seu Deslocamento normal e
+pode se levantar com uma Ação de Movimento. Enquanto estiver Caído, um
+personagem tem um redutor de -2 em
+sua Defesa contra ataques corporais e
+em todos os seus ataques, mas tem um
+bônus de +2 contra ataques à distância
+(incluindo arremessos).
+Bestas, Prodds e outras armas mecânicas não sofrem a penalidade de -2 nos testes de ataque se o personagem
+estiver Caído. 
+*Cego:
+Um personagem que tenha seus
+olhos feridos ou sua visão totalmente
+obstruída – devido a ambientes totalmente escuros ou tendo sido vendado
+– é considerado Cego. Um personagem
+Cego realiza todos os seus testes como
+se fosse Inapto e falha automaticamente em todos os seus ataques à distância
+(incluindo arremessos).
+Além disso, o personagem precisa
+ser capaz de utilizar um de seus outros
+sentidos para ser capaz de perceber
+seus arredores, e qualquer informação
+puramente visual no ambiente é indetectável por ele.
+Testes para conjurar magias sobre
+um alvo (que o personagem saiba onde
+está) são realizados normalmente, mas
+magias com alcance de Visão falham
+automaticamente.
+*Desidratado:
+Um personagem que passe um dia
+inteiro sem ingerir pelo menos 1 litro de
+água é considerado Desidratado. Um personagem Desidratado tem seus Pontos de Vida e Pontos de Mana máximos reduzidos em 20 a cada dia e não recupera
+Pontos de Vida ou Mana por descanso.
+Essa Condição é removida se o personagem Desidratado beber 1 litro de qualquer líquido (exceto bebidas alcóolicas).
+*Distraído:
+O personagem está sob algum
+efeito que não permite que ele se concentre ou perceba adequadamente o
+ambiente ao seu redor. Efeitos que geram cegueira parcial – como mudanças
+de luminosidade bruscas ou areia nos
+olhos – produzem essa condição, assim
+como embriaguez e áreas com barulho
+extremo. Um personagem Distraído não
+soma bônus de Escudos à sua Defesa,
+realiza todos os seus testes como se
+fosse Inapto, falha automaticamente ao
+tentar conjurar Magias e utilizar Músicas e não pode utilizar Habilidades de
+Reação nem Ações Completas.
+*Dormindo:
+Um personagem que tenha pego
+no sono recebe todos os benefícios de
+descanso pelo tempo em que permanecer
+nessa condição. A maioria dos personagens dormirá por 6 horas em condições
+normais, mas podem ser despertados por
+sons altos – mesmo um sussurro pode
+ser considerado um som alto em um
+ambiente completamente silencioso – ou
+se forem fisicamente afetados – sendo
+chacoalhados (um aliado pode realizar
+uma Ação de Movimento para tanto) ou
+sofrendo um ataque, por exemplo. Para
+todos os efeitos, um personagem Dormindo é considerado Surpreso e não pode
+realizar Habilidades de Reação.
+No turno em que o personagem
+desperta do sono, ele não tem direito
+à sua Ação de Movimento (mas ainda
+pode utilizar sua Ação Padrão para realizar uma Ação de Movimento) e não
+pode utilizar Ações Completas.
+*Enregelado:
+Um personagem enregelado está
+sob algum efeito de frio intenso. Exposição prolongada ao frio – 10 minutos
+sob uma nevasca ou em uma gruta de
+gelo ou uma hora debaixo de chuva fria
+– sem a proteção adequada geram efeitos de enregelamento até que o personagem possa se aquecer de alguma forma.
+Durante o combate, graças ao surto de
+adrenalina e atividade física intensa,
+efeitos de Enregelamento se dissipam
+em 2 turnos. Um personagem Enregelado
+realiza todos os seus testes como se fosse
+Inapto e seu deslocamento fica reduzido
+à metade (arredondado para cima).
+*Exausto:
+Sempre que um personagem realizar um esforço físico extremo ou uma
+ação desgastante (física ou mental) por
+um longo período, ele pode ficar
+Exausto. Um personagem Exausto
+realiza todas as suas ações como se
+fosse Inapto, não pode utilizar Habilidades de Reação, realizar Manobras, conjurar magias nem iniciar
+ou manter Músicas, tem seu Deslocamento reduzido à metade, não
+soma sua Agilidade na Defesa nem
+sua Força em seus danos e não tem
+direito à suas ações de Movimento
+(mas ainda pode utilizar sua Ação
+Padrão para realizar uma Ação de
+Movimento).
+*Faminto:
+Um personagem que passe uma
+quantidade de dias igual a sua Força
+sem ingerir uma refeição é considerado
+Faminto. Um personagem Faminto tem
+seus Pontos de Vida e Pontos de Mana
+máximos reduzidos em 10 a cada dia e
+não recupera Pontos de Vida ou Mana
+por descanso. Essa Condição é removida se o personagem Faminto consumir
+uma refeição.
+*Imobilizado:
+Um personagem Imobilizado é
+considerado Surpreso, exceto com
+relação ao(s) personagem(s) que o
+estiver(em) Imobilizando, não pode
+realizar ações de nenhum tipo (e as
+Músicas que estiver mantendo são
+dissipadas imediatamente) e considera o(s) personagem(s) que o estiver(em) Imobilizando como Carga
+para todos os propósitos.
+*Imobilizando:
+Um personagem Imobilizando é
+considerado Surpreso, exceto com relação ao alvo que estiver Imobilizado, não
+pode conjurar Magias ou iniciar Músicas (e é considerado Inapto nos Confrontos relacionados à Músicas que estiver mantendo), e realiza seus ataques
+como se fossem Inapto, exceto quando
+estiver realizando ataques desarmados
+(geralmente chutes ou ataques com outros apêndices que não seus braços).
+Além disso, ele considera o personagem Imobilizado como Carga para todos
+os propósitos.
+*Imune a [Dano]:
+O personagem não perde PVs
+quando é afetado por um tipo de dano
+(Contusão, Corte, Perfuração, Frio,
+Fogo e Eletricidade), não sofrendo ferimento algum de uma fonte que cause
+esse tipo de dano, nem sendo afetado
+por efeitos extras derivados desses danos.
+Um personagem Imune a um tipo
+de dano que fique Vulnerável àquele
+tipo de dano, passa a ser considerado
+Resistente à este tipo de dano.
+*Inconsciente:
+Um personagem que tenha perdido os sentidos – seja por ficar Por
+um Fio ou devido à embriaguez, por
+exemplo – permanece desacordado por
+pelo menos 6 horas. Estar Inconsciente
+não é considerado descanso, e portanto o personagem não recupera PVs ou
+PMs durante o tempo que permanecer
+desacordado dessa forma. Um personagem Inconsciente só desperta se for
+violentamente chacoalhado (um aliado
+pode realizar uma Ação Completa para
+tanto) ou se sofrer dano (a menos que o
+dano o deixe Por um Fio).
+Para todos os efeitos, um personagem Inconsciente é considerado Surpreso, não pode utilizar Habilidades de
+Reação e não é capaz de perceber o ambiente ao seu redor de forma alguma.
+No turno em que o personagem
+desperta da inconsciência, ele não tem
+direito à sua Ações Padrão, não pode
+realizar Ações Completas e não pode
+utilizar Habilidades de Reação.
+*Indefeso:
+Alvos totalmente contidos (braços e pernas amarrados, sob efeito de
+algum veneno específico ou sendo Imobilizado por alguém com mais do que o
+dobro de sua Força) ou Por um Fio são
+incapazes de se defender, e não têm
+como resistir a nenhum efeito externo,
+sofrendo morte instantânea se sofrerem
+qualquer dano – seja de um ataque, Magia, dano por queda, etc.
+Um personagem Indefeso não
+soma sua Agilidade em sua esquiva,
+nem recebe bônus de quaisquer itens
+que esteja segurando – mas Armaduras
+que o personagem esteja vestindo oferecem seus bônus normalmente.
+*Inapto:
+Um personagem que seja Inapto
+para realizar um teste deve rolar 1d6
+em vez de 2d6. Os bônus numéricos
+fixos nesses casos (+1 ou +2) que o personagem possuir ainda se aplicam normalmente, mas se o personagem recebe algum dado extra na rolagem, cada
++1d6 que ele vier a ter será convertido
+em um bônus fixo de +2 no teste.
+Se duas ou mais condições fizerem o personagem realizar um teste
+como se fosse Inapto – tentar Estabilizar
+um alvo Por um Fio de uma Raça que
+o personagem nunca encontrou antes
+e sem um Kit de Cura em mãos, por
+exemplo – aquela ação não tem chances
+de resultar em um sucesso e o personagem simplesmente falha automaticamente se insistir na ação. 
+*Invisível:
+Um personagem invisível não
+pode ser alvo de ataques à distância
+(incluindo arremessos) nem ser alvo de
+magias, a menos que a magia possa ser
+realizada sobre uma criatura e o conjurador saiba onde o personagem invisível está – se o conjurador estiver lidando com um alvo hostil, mesmo que ele
+saiba onde está o adversário, fará seus
+testes para conjurar magias como se fosse Inapto. Um conjurador pode realizar
+Magias que afetem uma área onde ele
+imagina que o alvo invisível pode estar
+– a Magia é realizada normalmente, mas
+o alvo pode perfeitamente não estar lá.
+Quaisquer outros testes contra
+um alvo invisível – incluindo ataques
+corporais, testes de primeiros socorros,
+agarrar, empurrar, etc – são realizados
+como se o personagem realizando o teste fosse Inapto.
+Músicas não são afetadas por invisibilidade. Se o personagem Invisível
+estiver dentro da área da Música, ele
+será afetado normalmente.
+Além disso, o personagem precisa
+ser capaz de utilizar um de seus outros
+sentidos que não a visão para perceber
+um alvo invisível, e qualquer informação
+puramente visual do personagem invisível é indetectável por outras criaturas.
+*Resistente a [Dano]:
+O personagem sofre menos perda
+de PVs quando é afetado por um tipo
+de dano (Contusão, Corte, Perfuração,
+Frio, Fogo e Eletricidade), sofrendo
+apenas metade do dano (arredondado
+para baixo) de uma fonte que cause
+aquele tipo de dano.
+Resistência a [Dano] e Vulnerabilidade a [Dano] se anulam mutuamente.
+Um personagem Resistente e Vulnerável a um mesmo tipo de dano sofre
+dano normal daquele tipo de dano.
+*Surpreso:
+Se um alvo estiver desatento contra uma ação, o personagem pode rolar
++1d6 em seus testes contra aquele alvo.
+Isso pode ocorrer de diversas formas:
+Um Patrulheiro escondido na copa de
+uma árvore mirando um urso que passa abaixo dele, um Ladino se aproximando furtivamente de um nobre para
+aliviá-lo de suas moedas, um Guerreiro
+que decida subitamente atacar um oponente no meio de uma conversa…
+Apenas ações físicas diretas contra o alvo recebem esse benefício – testes para se esconder de um alvo, ouvir
+furtivamente uma conversa e Habilidades dos tipos Magia e Música nunca recebem benefícios contra alvos Surpresos, já que o personagem está realizando um teste para saber se suas próprias capacidades lhe permitem atingir
+um resultado desejado.
+Em qualquer situação que permite
+que se role Iniciativa, não há mais chances de que um alvo esteja Surpreso; nenhum personagem envolvido em combate é considerado Surpreso, exceto em
+situações especiais, como algumas Habilidades (como Flanquear, por exemplo)
+ou efeito (como uma música que faça o
+personagem dormir, por exemplo). 
+*Vulnerável a [Dano]:
+O personagem perde mais PVs
+quando é afetado por um tipo de dano
+(Contusão, Corte, Perfuração, Frio,
+Fogo e Eletricidade), sofrendo o dobro
+do dano de uma fonte que cause esse
+tipo de dano.
+Resistência a [Dano] e Vulnerabilidade a [Dano] se anulam mutuamente.
+Um personagem Resistente e Vulnerável a um mesmo tipo de dano sofre
+dano normal daquele tipo de dano.
+/*
+**Privação de Sono**
+A cada 24 que o personagem ficar sem dormir, seus Pontos de Mana máximos são reduzidos à metade (arredondado para cima). Depois do primeiro dia
+sem dormir, além da redução de PMs, o personagem fica com um redutor de
+-1 em todos os testes. Depois do segundo dia sem dormir, além da redução de
+PMs, o personagem realiza todos os seus testes como se fosse Inapto. A partir do
+terceiro dia sem dormir, além da Redução de PMs, o personagem é considerado
+Distraído. Esses efeitos só são removidos depois que o personagem for capaz de
+dormir por pelo menos 12 horas ininterruptas. 
+*\
+---

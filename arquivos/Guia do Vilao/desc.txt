@@ -1,0 +1,654 @@
+Capítulo 1 – Regras
+Este capítulo se dedica a ampliar as regras apresentadas no Guia Básico do
+Mighty Blade e também apresentar algumas opções que podem ser adicionadas a
+qualquer aventura ou campanha.
+
+---
+**Abandonando Votos**
+Apesar de raro, às vezes Paladinos,
+Sacerdotes, Dracomantes e Devotos abandonam seus Códigos ou Dogmas. Seja
+através de uma conversão, uma crise de fé
+ou mesmo uma situação que os faça rever
+seus conceitos sobre sua divindade ou sobre os paradigmas do mundo, Sacerdotes
+e Dracomantes abandonam seus patronos
+e Paladinos desistem de seus códigos. Essas situações são bastante raras, já que, em
+geral, um Paladino adota seus Códigos baseado em suas crenças e objetivos, e dificilmente irá contra eles, enquanto Sacerdotes
+e Dracomantes seguem os Dogmas de um
+patrono que apresentam uma percepção de
+mundo semelhante à sua própria ou, às vezes, um ponto de vista que se impregnou
+em seu modo de pensar – e os jogadores
+que fizeram essas escolhas para seus personagens geralmente selecionam essas Habilidades para enriquecer seus personagens
+em termos de interpretação.
+No entanto, algumas vezes, seja por
+questões de interpretação ou por conta de
+regras, um jogador pode decidir que seu
+personagem irá abandonar seus votos. No
+caso dos Sacerdotes o mais comum é que
+ele seja convertido aos ideais de outra divindade, enquanto no caso dos Dracomantes pode ser que eles simplesmente decidam que dominar as criaturas dracônicas é
+muito mais adequado do que se sintonizar
+a elas. No caso dos Paladinos, situações que
+os façam perder a esperança em um aspecto
+de seus Códigos podem levá-lo a abandoná-lo – como no caso de um Paladino com
+Código da Lealdade que seja traído por um
+amigo íntimo, por exemplo.
+Quando um personagem decide
+abandonar um de seus Códigos, seu Dogma ou sua Sintonia Dracônica, ele perde
+aquela Habilidade e quaisquer outras Habilidades que tenham aquela Habilidade
+como Requisito imediatamente. No lugar
+de cada uma das Habilidades que perder,
+o personagem recebe uma “Habilidade Virtual”, que pode ser trocada por qualquer
+outra Habilidade que o personagem puder
+selecionar de sua lista de Classe, de Aprendiz de Classe, Caminho ou Raça. A única
+restrição é que essas Habilidades Virtuais
+só podem ser trocadas por novas Habilidades uma vez para cada nível que o personagem receber – efetivamente permitindo que
+o personagem aprenda duas Habilidades
+a cada nível, até esgotar suas Habilidades
+Virtuais.
+Por conta dessa restrição de, no máximo, duas Habilidades por nível, enquanto
+tiver Habilidades Virtuais um personagem
+não pode selecionar o Benefício Aprendiz
+(de Classe nem de Caminho), já que este Benefício garante uma Habilidade extra imediatamente ao ser selecionado.
+Por exemplo: Um Paladino de nível 5
+com Código da Coragem, Égide e Destemor
+que desista do seu Código, receberia três
+Habilidades Virtuais, uma para cada Habilidade que estará perdendo. Quando subir
+para os níveis 6, 7 e 8, ele pode aprender
+duas Habilidades a cada nível – a Habilidade normal que cada personagem recebe ao
+subir de nível, mais uma Habilidade para
+cada uma das suas Habilidades Virtuais,
+mas nestes níveis ele não poderá selecionar
+o Benefício Aprendiz de [Caminho] nem
+Aprendiz de [Classe].
+Um personagem nunca pode selecionar novamente uma Habilidade que
+tenha perdido dessa forma – sua ligação
+com aquela divindade ou suas convicções
+naquele código de conduta estão rompidas permanentemente. No entanto, ele ainda
+pode selecionar outros Códigos ou a Habilidade Dogma (aplicando a uma nova Divindade).
+A decisão de abandonar um Código
+ou Dogma também afeta o personagem
+diante do cenário, além das questões mecânicas atreladas. Um sacerdote da Tríade
+que tenha abandonado o Dogma da Justiça
+para abraçar o Dogma da Natureza não teria grandes problemas, apesar de seu papel
+dentro da sua Igreja provavelmente sofrer
+mudanças, mas um Sacerdote ligado a uma
+igreja de Hadorn que decidisse abandonar
+seu Dogma em favor do Dogma da Paz, por
+exemplo, seria afastado do corpo clerical da
+igreja imediatamente.
+Enquanto a conversão de um Sacerdote de uma divindade para outra não é
+visto de forma depreciativa – apesar de o
+personagem poder gerar desafetos na Igreja
+que está abandonando ele certamente seria
+aceito de braços abertos entre os membros
+de qualquer congregação de sua nova divindade padroeira – o mesmo não acontece
+com Paladinos. Uma vez que o personagem
+seja afastado de uma Ordem, ele é considerado um apóstata, e nenhuma Ordem aceitará um Paladino apóstata entre os seus. De
+fato, entre algumas Ordens (como a Hoste
+de Hadorn) pode haver retaliação direta, e
+o personagem pode ser efetivamente caçado pelos seus antigos irmãos de armas!
+Dracomantes que abandonem sua
+Sintonia Dracônica são um caso completamente diferente, já que eles não estão deixando de seguir a doutrina de Aurora dos
+Dragões – e, de fato, muitos Dracomantes
+sequer chegam a selecionar uma Sintonia
+Dracônica – mas sim revisando seu papel
+diante de sua doutrina, o que não é comum, mas de forma alguma visto como
+heresia.
+No entanto, aqueles personagens que
+se tornam Apóstatas, virando totalmente
+as costas para códigos de conduta – sejam
+auto-impostos ou ditados por entidades
+superiores – são um caso totalmente diferente. Na maioria dos casos, o personagem
+será considerado um Herege, abertamente
+antagonizado e, muitas vezes tenazmente
+perseguido, sendo considerados uma ameaça para suas instituições – que pode simplesmente desejar descobrir o motivo da
+apostasia, mas muitas vezes simplesmente
+por serem considerados uma anomalia perigosa ou um antagonista embaraçoso que
+deve ser extinguido para não causar mais
+mal à instituição do que simplesmente
+abandoná-la. 
+---
+**A Natureza da Morte**
+A morte quase nunca é o final da
+jornada de uma criatura. No momento
+em que dá seu último suspiro, a alma de
+uma criatura se desprende do corpo, mas
+permanece ligada ao plano material por
+algum tempo – que pode variar de apenas
+alguns segundos para a maioria dos Sacerdotes, Druidas e fiéis de todas as religiões
+de Drakon, cuja considerável ligação com
+os planos celestes permite que se desliguem muito facilmente de suas existências
+mundanas, até vários anos para criaturas
+que morrem de forma vil (como vítimas
+de magias necromânticas ou aqueles que
+viveram por muito tempo sob uma maldição), com assuntos importantes inacabados entre os vivos (geralmente vinganças
+ou amores mal resolvidos) ou por opção
+(no intuito de oferecer aconselhamento e
+guiar seus entes queridos ou comunidades
+ou para tentar encontrar uma solução para
+um pacto infernal, por exemplo). Essas almas ainda ligadas ao mundo material são
+chamadas de Sombras, e são os espíritos
+que, quase sempre, são contactados por
+Necromantes, Xamãs e outros médiuns.
+De fato, muitos Xamãs costumam permanecer em contato com o mundo dos vivos
+por algum tempo, para guiar e aconselhar
+outros Xamãs, enquanto muitos Necromantes permanecem ligados ao mundo
+material na tentativa de retornar em algum tipo de não-vida – muitas vezes manipulando outros Necromantes para isso.
+Quando um Necromante absorve
+a “alma” de uma criatura, ele na verdade está drenando a energia que prende a
+Sombra ao mundo material, não a alma da
+criatura de fato. Este processo de ter suas
+últimas energias mundanas absorvidas
+envia a alma imediatamente para o Plano
+Espiritual, onde ela dará continuidade à
+sua jornada. Sombras também podem ser
+banidas para o Plano Espiritual através de
+Exorcismo (Guia Básico, página 132), contactadas através de Contato com Espíritos
+e Comunhão com Espíritos (Guia Básico,
+página 138) e podem ser manipuladas por
+Necromantes usando Encarnar Espíritos ou
+Conjurar Espectros, por exemplo.
+Uma Sombra cujo corpo tenha sido
+totalmente destruído (seja pela ação do
+tempo, cremação ou diluição em ácido,
+por exemplo) não pode permanecer indefinidamente vagando pelo Plano Material,
+no entanto – ela perde sua ligação com sua
+existência mundana depois de uma quantidade de décadas igual a sua Vontade. Durante esse tempo, no entanto, elas podem se
+tornar outras criaturas espirituais – como
+Bothats, Fantasmas ou Espectros. Nesses
+casos, elas podem permanecer no Plano
+Material por tempo indeterminado.
+Sombras são, via de regra, imateriais
+e invisíveis. Elas não podem interagir com
+o Plano Material diretamente de forma alguma e percebem pouco do que se passa
+ao seu redor, geralmente conscientes de
+sua própria existência quando contactadas
+por criaturas capazes de interagir com espíritos. Sombras em processo de se tornar
+outras criaturas espirituais, no entanto,
+podem provocar fenômenos perceptíveis –
+geralmente na forma de luzes bruxuleantes
+ou lamúrios fantasmagóricos – que muitas
+vezes servem de indício para Xamãs, Necromantes e Médiuns de que há um problema espiritual na região.
+---
+**Contactando o Inferno**
+Fazer contato com seres infernais é
+muito mais fácil e simples do que muitos
+acreditam. Todos os Primordiais e Barões
+Infernais possuem um Selo Profano individual, através do qual seus servos podem
+ser contactados. Realizar um ritual para
+contactar uma entidade infernal requer que
+um mortal desenhe o Selo Profano do Primordial ou Barão Infernal com o qual deseja
+barganhar, utilizando pigmentos de algum
+tipo – giz, tinta, sebo de vela e sangue são
+os materiais mais comuns. Para finalizar o
+processo, é necessário que seja feito um sacrifício de sangue – qualquer criatura viva
+de sangue quente (o que exclui Répteis,
+Vermes, Artrópodes e Plantas) pode ser
+utilizada. A criatura sacrificada precisa estar Indefesa durante todo o ritual, e morre
+imediatamente no processo de conjuração
+da magia. O sacrifício abastece o ritual com
+Mana necessária (ou parte dele) para que a
+invocação ocorra. As dimensões do Símbolo
+Profano precisam ser adequadas para que a
+criatura sacrificada possa ser contida inteiramente dentro dele, além de ter espaço suficiente para o Infernal a ser invocado. 
+Apesar de ser considerado como uma
+magia, esse ritual pode ser traçado por
+qualquer mortal, mesmo aqueles sem conhecimentos sobre magia – Selos Profanos
+são extremamente intrincados, e o próprio
+desenho de um desses símbolos com exatidão é considerado um pequeno ritual que
+focaliza a mente do desenhista no processo
+de conjuração – mas se o personagem não
+possuir nenhuma capacidade de conjurar
+Magias através de Itens de Conjuração, o
+teste para realizar a invocação é feito como
+se ele fosse Inapto. Os Pontos de Mana da
+criatura sacrificada são usados para pagar
+o custo da magia, mas se eles não forem
+suficientes, o próprio personagem terá que
+completar o custo da magia – subtraia os
+Pontos de Mana da criatura sacrificada do
+custo da magia e então complete o que faltar com os Pontos de Mana do personagem
+(no mínimo 5 PMs). O personagem perde
+uma quantidade de Pontos de Vida equivalentes aos PMs que gastou para abastecer
+o ritual. Um conjurador que tenha seus
+Pontos de Vida reduzidos a zero como
+efeito da conjuração de um Selo Profano
+morre imediatamente, e enquanto seu corpo é consumido em chamas sua alma é enviada diretamente ao Inferno. Além disso,
+se um teste para conjurar um Selo Profano
+for uma falha crítica, uma criatura infernal
+é imediatamente conjurada para o plano
+material – geralmente um Lemure no caso
+de magias básicas, uma Shedin no caso de
+magias avançadas ou qualquer coisa que a
+mente depravada do Mestre puder imaginar no caso de uma Habilidade Final que
+lide com o Inferno. Obviamente, este Infernal não está sob controle do invocador.
+Realizar o ritual com sucesso requer
+um teste de Inteligência com Dificuldade 10. O custo do ritual é de 50 Pontos de
+Mana, e ele leva 10 minutos para ser realizado de forma apropriada – mas o conjurador pode realizar um ritual mais rebuscado, gastando mais tempo para reduzir a
+dificuldade da magia – seguindo as regras
+de Rituais (Guia Básico, página 38). De fato,
+a maioria das fontes indicará como realizar
+uma concentração e um ritual de pelo menos 1 hora – para que a dificuldade da magia seja apenas 6.
+Se o ritual for realizado com sucesso, um Shedin (geralmente uma Succubus)
+será invocado, e assumirá que o personagem deseja realizar um pacto – ele estará
+pronto para discorrer sobre os benefícios
+e as consequências oferecidas, de acordo
+com o Pacto específico que seu senhor infernal pode oferecer. Embora o Infernal
+não vá mentir para o invocador – ele deseja
+que sua experiência seja espalhada, afinal
+– ele não tem nenhuma obrigação de dizer a verdade. É comum que o destino da
+alma do personagem seja omitido dessas
+barganhas, ou, se for inquirido sobre isso,
+o Shedin indique que realizar o pacto lhe
+garantirá um local de prestígio dentro do
+Inferno quando sua alma chegar lá.
+O Pacto pode ser selado de diversas
+maneiras, dependendo do Shedin específico e de seu patrono infernal. Pode envolver um literal contrato – que o personagem
+precisará assinar com o próprio sangue –
+uma escarificação com o Símbolo Profano
+adequando, um juramento de sangue entre
+o personagem e o infernal ou um simples
+aperto de mão ou mesmo um beijo.
+Todas as magias que lidam com o Inferno, infernais ou maldições seguem essa
+métrica – traçar um Símbolo Profano, realizar um sacrifício e pagar o custo de Mana
+(e perder PVs no processo). No entanto,
+se o personagem utilizando essas magias
+for um conjurador, ele pode realizar a invocação sem a necessidade de pigmentos,
+simplesmente traçando o Símbolo Profano
+com a ponta do dedo ou com um item de Conjuração, o que reduz o tempo para uma
+ação de turno completo, mais uma ação de
+turno completo se for feito um sacrifício de
+sangue – embora ele seja opcional para conjuradores, ainda será útil para pagar parte
+do custo em Mana da magia.
+Além disso, as magias envolvendo
+invocações de infernais não costumam ser
+realizadas simplesmente desenhando um
+Selo Profano, mas sim um Círculo de Invocação – basicamente, uma barreira de segurança ao redor do Selo. Um Infernal Invocado dentro de um Círculo de Invocação não
+pode atacar fisicamente o invocador e nem
+deixar o Círculo de Invocação a menos que
+ele seja quebrado – ou seja, todo ou parte do
+Círculo precisa ser apagado, borrado ou de
+outra forma removido. Assim, em troca de
+sua liberdade, o Infernal aceita obedecer da
+melhor forma que puder a uma única ordem
+que lhe for dada pelo Invocador, o que o livra
+de sua obrigação e o envia de volta ao Inferno
+no processo e dissipa o Círculo de Invocação.
+É importante observar que, em nenhuma circunstância, um mesmo personagem pode ter mais do que um único Infernal invocado sob seu nome no mesmo
+plano que ele. Assim, para invocar um segundo Infernal, é necessário que o primeiro
+retorne ao Inferno primeiro.
+---
+**Personagens de Nível Zero**
+As regras a seguir foram desenvolvidas com o intuito de oferecer uma forma
+simples e rápida para a criação de fichas
+para personagens do Mestre (PDMs) secundários, aqueles que não são aventureiros experientes ou vilões terríveis, mas sim
+apenas personagens comuns que os personagens encontram todo o tempo pela frente
+– como guardas, fazendeiros, taverneiros,
+artesãos, nobres… Estes personagens, que
+não possuem experiência em se aventurar
+pelo mundo, geralmente não precisam de
+fichas complexas, e via de regra o Mestre
+pode simplesmente ignorar suas “fichas”
+e simplesmente assumir que eles possuem
+um valor medíocre num Atributo e então
+realizar quaisquer testes necessários usando aquele valor como base. No entanto, por
+vezes, o Mestre precisa de uma ficha de fato
+para um desses personagens, devido às circunstâncias da aventura – como um PDMs
+com o qual os personagens dos jogadores
+interagem com frequência, ou talvez alguém que eles tenham resgatado – ou feito
+de refém!
+Estes personagens secundários serão,
+via de regra, personagens de nível 0 de um
+de dois tipos, dependendo de sua função
+no cenário:
+Aspirantes são personagens de nível
+0 que têm aspiração a aventureiros ou que
+desenvolvem uma atividade semelhante
+àquelas de uma Classe. Assim, guardas,
+e soldados são considerados aspirantes a
+Guerreiro, gatunos e jogadores são aspirantes à Ladino, Escudeiros são aspirantes à
+Paladino, acólitos e párocos são aspirantes
+a Sacerdote, batedores e caçadores são aspirantes a Patrulheiro, menestréis são aspirantes a Bardo, para citar alguns exemplos.
+Basicamente, qualquer um que desempenhe as tarefas normalmente consideradas
+de uma determinada classe é considerado
+Aspirante àquela classe – mesmo que não
+aspire, realmente, a se tornar um aventureiro.
+Para criar um Aspirante, escolha a
+Raça do personagem e lhe garanta seus
+Atributos iniciais e sua Habilidade de Raça.
+Seus Pontos de Vida e Pontos de Mana, no
+entanto, serão 40, ao invés dos 60 de um
+personagem de nível 1. Em seguida, selecione a classe do Aspirante, inclua a Habilidade Automática de Classe e então escolha
+um dos modificadores de atributo da Classe para aplicar à ficha – com a restrição de
+que este modificador não pode elevar um
+Atributo acima de 5. Finalmente, escolha
+uma das Habilidades da Classe que mais
+faça sentido para a atividade que ele realiza
+e pronto, o Aspirante está pronto!
+A parte mais importante da criação
+da ficha do Aspirante é a escolha da sua
+Habilidade de Classe inicial, já que ele tem
+apenas uma. Essa Habilidade é uma escolha crucial, já que reflete o papel dele na sociedade ou o seu foco de treinamento. Consideremos um Aspirante a Patrulheiro, por
+exemplo. Um batedor que prefere observar
+seus alvos a uma distância segura sem ser
+percebido teria Furtividade, enquanto um
+caçador teria Armadilheiro ou Companheiro Animal – dependendo do tipo de caça
+que prefere – e um guarda, mais focado em
+combate teria Retesar Eficiente (se for um
+besteiro) ou Disparo Certeiro (se for um arqueiro).
+Alguns Aspirantes podem ter um Antecedente que reforce sua atividade – nos
+exemplos acima, um batedor ou caçador
+poderia ter o Antecedente Caçador, por
+exemplo, para melhorar suas capacidades
+de rastreio e furtividade. No entanto, se
+tiver um Antecedente, o personagem não 
+receberá o ponto extra de Atributo de sua
+Classe, e isso deve ser levado em consideração com relação ao Antecedente em questão, já que os Requisitos dele ainda precisam ser preenchidos.
+Desclassificados, por outro lado, são
+aqueles PDMs que não tem qualquer atividade que seja semelhante à de uma Classe, como no caso de fazendeiros, padeiros,
+ferreiros, vaqueiros, copeiros, lenhadores,
+taverneiros, mineiros, aias… Todos esses
+personagens são pessoas comuns levando vidas cujos desafios enfrentados são os
+mais mundanos possíveis: realizar seu trabalho cotidiano e com isso colocar comida
+na mesa todos os dias.
+Assim como os Aspirantes, os personagens sem classe recebem tanto os Atributos Iniciais quanto a Habilidade Automática de sua Raça. No entanto, por não
+desenvolverem nenhuma atividade semelhante à de qualquer Classe, eles não recebem nenhuma Habilidade Automática de
+Classe e nenhum ponto de Atributo Extra.
+Além disso, eles terão apenas 30 Pontos de
+Vida e Mana iniciais.
+Como não recebe nenhuma Habilidade Automática de Classe, um personagem
+Desclassificado será definido, em geral, por
+um Antecedente. Alguns Antecedentes não
+definem diretamente a atividade de um
+personagem, permitindo alguma flexibilidade. Assim um Sussurrador poderia ser
+um cuidador de estábulos, treinador de
+animais ou trabalhar como vaqueiro, por
+exemplo. Diferente dos Aspirantes – e personagens com uma Classe – personagens
+Desclassificados não recebem pontos de
+Atributos extras e, portanto não precisam
+“pagar” para selecionar um Antecedente
+– no entanto eles ainda precisam observar
+os Requisitos do Antecedente para poder
+selecioná-lo. Caso o personagem não possua Atributos altos suficientes para selecionar um Antecedente apropriado, ele ainda
+pode selecionar uma Habilidade Geral ou
+de Raça que pareça adequada para sua
+profissão. Um garimpeiro Fira poderia selecionar Atletismo ao invés do Antecedente Minerador, por exemplo. Além disso, a
+Habilidade Extra do personagem em geral deve ser selecionada para reforçar sua
+atividade ou distingui-lo de outros profissionais da sua área. Um Apotecário bem-
+-sucedido poderia ter Recursos, enquanto
+um Grumete particularmente saudável e
+disposto poderia ter Atletismo e um Cozinheiro com Sentidos Aguçados seria mais
+eficiente quando seleciona os ingredientes
+para suas receitas, por exemplo. Não temos
+como discorrer sobre cada Habilidade Racial Extra aqui, mas várias delas podem ser
+eficientes quando combinadas com Antecedentes, enquanto outras podem ser utilizadas para tornar um Desclassificado mais
+interessante.
+*Evoluindo:
+Aspirantes e Desclassificados recebem experiência como qualquer personagem normal. Apesar de geralmente não se
+aventurarem tão desprendidamente como
+um aventureiro normal, os Aspirantes em
+geral estão em uma carreira que lhes oferece oportunidades de, literalmente, ganhar
+experiência rápido; soldados lutam em
+guerras ou em defesas contra invasores,
+gatunos precisam fugir ou eventualmente
+confrontar as autoridades, acólitos curam
+ou abençoam os rebanhos de sua igreja, caçadores enfrentam criaturas nas florestas e
+aprendizes de feiticeiros treinam suas magias.
+Quando um Aspirante acumula 10
+Pontos de Experiência, ele passa a ser considerado um membro da sua Classe no nível
+1. Ele recebe 20 pontos de Vida, 20 Pontos
+de Mana, adiciona +1 no outro Atributo da Classe que não selecionou no nível 0 – podendo ultrapassar o limite de 5 em um Atributo – e seleciona 2 Habilidades que podem
+vir da lista de Habilidades de Classe, Raça
+ou Gerais.
+A maioria dos personagens Desclassificados, diferentes de Aspirantes, têm
+poucas chances de ganharem experiência.
+Eles não têm grandes desafios a enfrentar,
+e mesmo que vejam um ou dois combates
+em suas vidas – para defender suas casas
+ou ao serem atacados por animais selvagens ou assaltantes – e sobreviver, dificilmente vão receber experiência suficiente
+para subir de nível. Esses personagens via
+de regra serão de nível 0 ao longo de toda
+sua vida. Se, porventura, um Desclassificado de algum modo receber XP suficiente
+para chegar ao nível 1 – talvez ele seja levado a se aventurar com os personagens
+de um grupo de aventureiros, ou talvez
+seja pego no meio de uma guerra e se recuse a deixar seu lar e se engaje nos combates, por exemplo – ele terá que selecionar uma Classe, recebendo a Habilidade
+Automática daquela Classe, os pontos de
+Atributos adequados (ou apenas 1, se ele
+tiver um Antecedente) além de 30 PVs e
+30 PMs extras. Finalmente ele seleciona 2
+Habilidades que podem vir da lista de Habilidades Gerais, de sua Raça ou da Classe
+que ele escolheu ao chegar ao nível 1.
+---
+**Níveis Finais**
+O Mighty Blade foi desenvolvido ao
+redor do princípio de que ao atingir o nível
+10 – altura na qual a maioria dos aventureiros já acumulou riqueza e influência suficientes para literalmente se aposentarem
+– um personagem encerrou sua carreira e é
+hora de finalizar sua história, mantendo-a
+viva através das lendas e histórias dos bardos. Nossa sugestão sempre será a de que
+uma Campanha foi muito bem explorada
+até o nível 10 e que se um grupo desejar
+continuar a mesma história, o mais indicado seria criar um novo grupo de aventureiros e experimentar, mais uma vez, a
+riqueza do desenvolvimento de novos personagens!
+No entanto, existem circunstâncias
+que podem necessitar de regras para personagens de níveis mais elevados. Seja porque
+uma campanha exija que os personagens se
+desenvolvam um pouco além do nível 10
+para chegar à sua conclusão adequada, seja
+porque um grupo considere interessante jogar com personagens mais poderosos e ter
+o gostinho de usar as deliciosas Habilidade Final de suas Classes favoritas!
+Mas essas regras foram desenvolvidas principalmente como uma ferramenta
+para Mestres que querem desenvolver um
+PDM que exceda as capacidades de personagens tradicionais para construir vilões
+particularmente poderosos e desafiadores
+para suas histórias!
+Personagens de nível acima de 10 podem, em teoria, possuir mais de uma Habilidade Final – eles podem acumular a Habilidade final de sua Classe, de uma Classe da
+qual sejam Aprendizes e de um Caminho
+que trilhem. Um personagem com mais de
+uma Habilidade de nível 10 definitivamente vai desequilibrar seriamente a balança de
+poder de uma campanha, e algumas combinações de Habilidade Final podem ser
+extremamente poderosas. Assim sendo, sugerimos que Mestres restrinjam o número
+de Habilidade Final que um personagem
+jogador pode possuir. Como regra, considere que um personagem só pode ter uma
+Habilidade Final – seja de sua Classe, de
+uma Classe que se tornou aprendiz ou de um Caminho que trilhe. Além disso, nunca
+haverá o desenvolvimento de Habilidades
+com requisitos maiores do que Nível 10 –
+essas já são consideradas as Habilidades
+Finais de uma Classe ou Caminho de propósito.
+A descrição de cada benefício que os
+personagens recebem acima do nível 10 não
+muda, mas para facilitar, além da tabela básica de evolução presente no Guia Básico,
+as descrições de cada benefício estão listadas a seguir. 
+Conforme sobe de nível o personagem recebe os seguintes benefícios:
+*Habilidades:
+O personagem recebe a Habilidade
+Automática da sua Classe e 3 Habilidades
+à sua escolha no primeiro nível, mais 1 Habilidade nova a cada nível adquirido até o
+nível 11 e depois mais 1 Habilidade a cada 2
+níveis. Cada uma dessas Habilidades pode
+ser selecionada dentro da lista de sua Raça,
+Classe, Caminho ou da lista de Habilidades
+Gerais.
+*Ponto de Evolução:
+O personagem recebe 1 Ponto de Evolução no nível 2 e a cada nível depois disso
+até o nível 10 e depois mais 1 Ponto de Evolução nos níveis 12, 14, 18 e 20. Um Ponto
+de Evolução deve ser gasto imediatamente
+para adquirir UM dos seguintes benefícios
+permanentemente:
++10 Pontos de Mana: o personagem
+aumenta seus Pontos de Mana máximos em
+10.
++10 Pontos de Vida: o personagem
+aumenta seus Pontos de Vida máximos em
+10.
++5 Pontos de Mana e +5 Pontos de
+Vida: o personagem aumenta seus Pontos
+de Vida e Mana máximos em 5.
+Aprendiz de [Classe]: o personagem
+pode adquirir esse benefício – veja o Guia
+Básico página 41 para mais detalhes.
+Aprendiz de [Caminho]: o personagem pode adquirir esse benefício – veja o
+Guia do Herói página 21 para mais detalhes.
+Idioma Extra: o personagem aprende
+um idioma extra – veja o Tomo das Muitas
+Línguas página 35 para mais detalhes.
+*Atributos:
+No nível 1 o personagem recebe +1
+em 2 Atributos específicos de acordo com
+a sua Classe. Nos níveis 4, 7, 10 e 16, o personagem escolhe 2 Atributos diferentes e
+aumenta cada um deles em +1.
+/*
+Benefícios Adicionais
+Como regra opcional, um Mestre
+pode considerar que um personagem
+em seus níveis finais adquiriu bastante conhecimento e experiência e pode
+sobrepujar certas limitações dos Benefícios Aprendiz de [Classe] e Aprendiz
+de [Caminho], permitindo que quando ele receba um Ponto de Evolução
+acima do nível 10 possa selecionar
+novamente estes Benefícios mesmo se
+já tiver feito isso – o que, na prática,
+significa que um personagem em seus
+níveis finais poderia ser Aprendiz de
+duas Classes diferentes e/ou poderia
+trilhar dois Caminhos diferentes.
+Mestres que decidam implementar esta regra devem ter em mente que
+ela fará com que os personagens acumulem quantidades exorbitantes de
+Habilidades, e devem ponderar seriamente se essa regra será interessante
+em sua campanha.
+*\
+/*desc.xlsx*\
+---
+**Idade e Envelhecimento**
+Em geral, personagens do Mighty
+Blade são personagens adultos. No entanto, o Mestre pode querer desenvolver a
+ficha para crianças, adolescentes, idosos e
+anciãos de diversas Raças. Além disso, os
+jogadores podem querer jogar com adolescentes ou mesmo crianças em algumas
+ocasiões específicas, e alguns personagens
+podem envelhecer ao longo de uma campanha (de forma natural ou através de efeitos mágicos ou doenças) e atingirem idades
+avançadas, requerendo regras específicas
+para isso.
+As regras a seguir detalham os modificadores para cada faixa etária de personagens de acordo com sua Raça, além dos
+efeitos de idade avançada. Existem seis faixas etárias pelas quais todas as Raças passam ao longo de sua vida – considerando
+que vivam o suficiente para isso, que são:
+Filhote: Um Filhote é um membro
+recém-nascido de uma Raça. Um personagem é considerado um Filhote do momento em que nasce ao primeiro quinto de sua
+idade até se tornar adulto (arredondado
+para baixo). Um Hamelin, por exemplo,
+que seria considerado Adulto aos 10 anos,
+será considerado um Filhote até os 2 anos,
+portanto. Filhotes tem 1 em todos os seus
+atributos, 5 PVs e 5 PMs e não recebem os benefícios de sua Raça. Além disso, eles
+têm duas categorias de Tamanho a menos
+que um membro adulto de sua Raça (para
+a maioria das Raças, isso significa que um
+Filhote será considerado Miúdo).
+Criança: Uma Criança é um membro
+pouco desenvolvido de uma Raça. Essa
+faixa etária vai do fim do período em que
+o personagem é considerado uma Criança
+até dois terços da idade em que a Raça seria considerada Adulta, arredondado para
+baixo. Assim, um Anão, por exemplo, que
+seria considerado Adulto aos 20 anos, será
+considerado uma Criança quando estiver
+entre 4 e 12 anos. Crianças têm -3 em todos
+os Atributos Iniciais de sua Raça (mínimo
+de 1), 10 Pontos de Vida e Mana e não recebem os benefícios de sua Raça. Além disso, eles têm uma categoria de Tamanho a
+menos que um membro adulto de sua Raça
+(para a maioria das Raças, isso significa que
+uma Criança será considerada Pequena).
+Adolescente: Um Adolescente é um
+membro quase totalmente desenvolvido
+de sua Raça. Esta faixa etária vai do fim
+do período em que um personagem é considerado uma Criança até a idade em que
+ele será considerado um adulto. Um Elfo,
+por exemplo, que seria considerado Adulto
+aos 25 anos, será considerado um Adolescente entre os 16 e os 24 anos. Adolescentes têm -1 em todos os Atributos Iniciais da
+sua Raça (Até o mínimo de 2), metade dos
+Pontos de Vida e Pontos de Mana que terão
+quando adultos, e recebem os benefícios da
+sua Habilidade de Raça assim como benefícios de Habilidades Gerais que possam
+escolher durante a criação de personagem
+(Como Atletismo, Nanismo ou Sentidos
+Apurados, por exemplo). Além disso, um
+personagem Adolescente pode ser um Aspirante, mas nesse caso, ao invés das regras
+normais, simplesmente utilize os modificadores apresentados aqui e adicione a Habilidade Automática da Classe escolhida.
+Adulto: Um personagem adulto é um
+exemplar totalmente formado e geralmente
+no pico de excelência de sua Raça, e segue
+as regras normais.
+Idoso: Um personagem Idoso passou
+do ápice de sua forma física, mas em geral
+acumulou bastante experiência e sabedoria
+no processo. Quando atinge essa faixa etária, um personagem deve fazer um teste de
+Força e um teste de Agilidade (ambos com
+dificuldade 10). Falha no teste significa que
+o personagem perde 1 ponto permanentemente naquele Atributo (até um mínimo
+de 2). No entanto, eles recebem 1 Ponto de
+Atributo que pode ser usado para elevar
+sua Vontade ou sua Inteligência, à escolha
+do jogador. A cada ciclo de idade a partir
+daí (o número entre parênteses) o personagem precisa repetir o teste para cada um
+de seus Atributos (incluindo Inteligência e
+Vontade). Nos testes subsequentes depois
+do primeiro, um Atributo pode ser reduzido a um mínimo de 1. Assim um humano
+que chegue aos 50 recebe Inteligência ou
+Vontade, mas deve realizar um teste para
+verificar se não perde Força ou Agilidade.
+Ele deverá repetir este teste, para cada Atributo aos 58, 66 e 74 anos.
+Ancião: Um Ancião é um membro
+que atingiu uma idade bastante avançada
+para os padrões de sua Raça. Quando chega
+nesta faixa etária, o personagem imediatamente perde 1 em todos os seus Atributos.
+Além disso, a cada ciclo nesta faixa etária,
+a dificuldade será 12. Assim, um Mahok
+que chegue aos 80 anos perde 1 em todos
+os seus Atributos, e deve realizar, no ano
+seguinte, um teste para cada Atributo com
+Dificuldade 12, e mais um teste a cada ano
+a partir daí.
+/*desc.xlsx*\
+*Efeitos de Envelhecimento:
+Se um personagem chegar a 1 em algum de seus Atributos devido a seus testes
+por idade avançada, ele será considerado
+debilitado naquele Atributo. Um personagem com Força 1 tem uma saúde extremamente frágil, e não pode realizar ações
+que exijam Esforço Extra – como correr por
+mais de um turno ou segurar peso além
+de sua (agora extremamente reduzida) capacidade de Carga. Um personagem com
+Agilidade 1 terá sérias dificuldades para
+se mover (provavelmente utilizando uma
+bengala ou outro apoio para tanto) e terá
+seu Deslocamento reduzido a 1 e não poderá esquivar, correr ou realizar ações de Encontrão. Um personagem com Inteligência
+1 terá seus sentidos extremamente reduzidos e uma dificuldade geral de perceber o ambiente ao seu redor, realizando todos os
+testes ligados aos seus sentidos (incluindo
+rastrear, forragear e lidar com armadilhas)
+além de testes de ataque à distância como
+se fosse Inapto. Um personagem com Vontade 1 terá dificuldades em se concentrar
+e em compreender a realidade como um
+todo, se tornando incapaz de realizar qualquer ação que exija concentração (incluindo
+Habilidades do tipo Magia e Música).
+Se a Força ou a Agilidade do personagem chegarem a 0, ele sofre de uma falência
+imediata de suas funções físicas e terá um
+ataque do coração, derrame ou algum acidente de saúde similar, e morrerá imediatamente, sem chance de ser salvo. Se a Inteligência ou Vontade de um personagem
+chegam a 0, ele sofre um total e irreversível
+desligamento da realidade como um todo,
+entrando em um coma irreversível ou ficando em um estado vegetativo sem volta.
+*Elfos e Levents:
+Elfos e Levents, diferentes de outras
+Raças, não sofrem efeitos por idade avançada. A partir do momento que chegam à faixa
+etária Idoso, eles recebem +1 em Vontade ou
+Inteligência (como outras Raças), mas não
+precisam fazer testes para verificar se perdem Atributos. No entanto, a cada ciclo de
+anos, eles devem fazer um teste para cada
+Atributo. Ao acumularem 10 Falhas (falhas
+críticas contam como duas falhas) em seus
+testes, eles simplesmente têm uma falência
+completa e morrem no processo. Essa falência não é imediata, e o Elfo ou Levent sabe
+que está para morrer, ficando vivo ainda por
+uma quantidade de dias igual à sua Vontade
+– tempo durante o qual ele pode preparar
+seu próprio funeral ou se despedir de entes
+queridos, por exemplo. Depois disso, ele
+simplesmente morre placidamente – em seu
+sono, ou durante um descanso.
+---

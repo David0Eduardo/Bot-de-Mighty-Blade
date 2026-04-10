@@ -1,0 +1,831 @@
+Habilidades Extras:
+
+**Irmandade do Anel de Bronze**
+
+---
+--Barganha--
+Habilidade (Característica) – Suporte
+*Descrição: Você é um praticante das
+artes da negociação, oratória, retórica e sofisma. Você pode rolar +1d6 em todos os seus
+testes que envolvam comércio e outras negociações.
+---
+--Conhecimento Regional [Tebryn]--
+Habilidade – Suporte
+*Descrição: Você conhece profundamente a história e características de Tebryn.
+Você rola +1d6 em todos os seus testes ligados à história, geografia e folclore ligados ao reino, e conhece os nomes de todas
+as personalidades importantes (nobres com
+qualquer título acima de Cavaleiro, militares
+com títulos acima de Alferes, Burgomestres,
+Regentes e líderes de guildas e organizações)
+de Tebryn.
+---
+--Contatos na Corte--
+Habilidade – Suporte
+*Descrição: Você possui muitos contatos entre os nobres do reino, o que lhe concede alguns privilégios com relação à elite.
+Você pode conseguir informações e favores
+ligados à corte e à nobreza do reino, como
+audiências com os nobres, acesso às dependências da maioria das áreas exclusivas de
+cidades ou castelos e informações referentes
+a figuras importantes da região e da política
+local.
+Obviamente o mestre poderá restringir
+que tipo de ajuda e informação eles fornecerão
+se isto for problemático para o andamento da
+aventura ou da campanha.
+---
+--Contatos no Crime--
+Habilidade – Suporte
+*Descrição: Você possui muitos contatos entre os criminosos – pequenos e grandes.
+Com isto você pode descobrir informações
+privilegiadas ou comprar e vender mercadoria
+roubada. Obviamente o mestre poderá restringir informações se isso for atrapalhar o andamento ou a trama da campanha, e você nem
+sempre será capaz de encontrar qualquer item à
+disposição em qualquer lugar – mas o mercado
+negro nas grandes cidades costuma estar abastecido de praticamente qualquer item disponível na campanha.
+Criminosos pagarão metade do preço
+normal de qualquer item que você quiser
+vender – desde que tenham dinheiro para
+tanto – e venderão itens com um custo um
+terço menor do que o normal. Itens proibidos ou controlados, no entanto, podem ser
+extremamente caros. Informações terão um
+preço dependendo da importância e dificuldade de obtê-las, de acordo com a vontade
+do Mestre.
+---
+--Contatos Políticos--
+Habilidade – Suporte
+*Descrição: Você possui muitos contatos entre os oficiais da maioria dos locais, e
+o símbolo da sua guilda é reconhecido por
+todos. Graças a isso você pode descobrir informações privilegiadas ou evitar problemas
+com a lei. Com um sucesso bem sucedido de
+Vontade (dificuldade igual à Determinação
+do alvo) você pode conseguir que um guarda decida não lhe levar preso ou até mesmo
+uma saída da prisão. Esses favores geralmente vêm acompanhados de algumas moedas
+(geralmente uma quantidade igual a 10 vezes
+a Vontade do alvo) para ser bem-sucedida,
+além de sucesso no teste. Note que nem todo
+guarda que o personagem encontrar vai aceitar suborno, e usar esta Habilidade indiscriminadamente pode trazer problemas para
+o personagem. Além disso, crimes graves
+provavelmente estarão além do alcance dessa Habilidade, bem como grupos grandes de
+guardas e oficiais da lei.
+As informações que o personagem
+pode conseguir com a guarda quase sempre
+serão referentes ao crime local ou organizações militares, mas obviamente o mestre
+poderá restringir informações se isso for
+atrapalhar o andamento ou a trama da campanha.
+---
+
+**Ordem da Espada de Mirah**
+
+---
+--Arma da Ordem--
+Habilidade (Técnica) – Ação
+*Requisito: Dogma – Discípulo da Justiça
+Mana: 20
+*Descrição: Você é capaz de imbuir seus
+ataques com a energia da própria Mirah! Você
+pode fazer um ataque corporal que, se acertar,
+causa um dano adicional igual a 10/Eletricidade. Ignore bônus de Armadura e Bloqueio fornecidos por itens de metal. Criaturas do tipo
+Demônio, Morto-vivo ou Espírito sofrem um
+dano adicional de 10/Eletricidade.
+---
+--Código da Honestidade--
+Habilidade (Característica) – Suporte
+*Descrição: Você sempre cumpre suas
+promessas, não importa quão difícil isso seja, e
+preza a verdade acima de tudo, emanando uma
+aura de honestidade que deixa desconfortáveis
+aqueles que escondem a verdade.
+Você sempre saberá quando alguém estiver mentindo. Nem sempre omitir é mentir,
+depende das intenções da pessoa que está omitindo. Mentir é passar informações erradas propositalmente.
+---
+--Código da Justiça--
+Habilidade (Característica) – Suporte
+*Descrição: Você confia nas leis para se
+apoiar e possui uma crença inabalável na ordem. Você sempre respeita as leis vigentes nos
+locais onde está e não permite que outros as
+descumpram impunemente.
+Sua fé na ordem faz com que criaturas
+geradas no caos se sintam repelidas por você.
+Todo demônio, morto-vivo ou espírito deve
+ser bem sucedido em um teste Vontade (Dificuldade igual à sua Determinação) ou não será
+capaz de se aproximar ou atacar você. Criaturas
+desses tipos com Mente Vazia fazem seus testes
+de baseados em Força, e se falhar serão completamente destruídas.
+---
+--Conhecimento Regional [Tebryn]--
+Habilidade – Suporte
+*Descrição: Você conhece profundamente a história e características de Tebryn.
+Você rola +1d6 em todos os seus testes ligados
+à história, geografia e folclore ligados ao reino,
+e conhece os nomes de todas as personalidades
+importantes (nobres com qualquer título acima
+de Cavaleiro, militares com títulos acima de Alferes, Burgomestres, Regentes e líderes de guildas e organizações) de Tebryn.
+---
+--Dogma: Discípulo da Justiça--
+Habilidade – Suporte
+*Descrição: Você é um devoto de Mirah, a Justiça ou de Ahogr Ruge-Mundos. Você
+deve seguir as leis e jamais pode permitir que
+alguém seja prejudicado injustamente se você
+puder evitar.
+Você tem Vontade +1 enquanto seguir
+este dogma. Se você quebrar uma lei ou permitir que alguém o faça de modo proposital
+sem exigir punição imediata, você perderá esta
+Habilidade, e nunca mais poderá adquiri-la novamente.
+---
+--Justiça Final 1--
+Habilidade (Técnica) – Ação
+*Requisito: Código da Justiça
+Mana: 25
+*Descrição: Você pode fazer um ataque
+corporal que, se acertar, causa o dobro do dano
+normal, ou o triplo do dano normal se a criatura for um demônio, morto-vivo ou espírito.
+---
+--Justiça Final 2--
+Habilidade (Técnica) – Ação
+*Requisito: Nível 5, Justiça Final 1
+Mana: 50
+*Descrição: Você pode fazer um ataque
+corporal que, se acertar, causa o triplo do dano
+normal ou o quádruplo se a criatura for um demônio, morto-vivo ou espírito.
+---
+
+**Forjas de Hou**
+
+---
+/*
+**Arte da Forja**
+Apenas armas de metal podem ser
+alteradas pela Habilidade Arte da Forja
+2, o que exclui o bordão/cajado, a clava/
+cetro, a funda, a plumbata, o fustíbalo, a zarabatana e todos os arcos, assim
+como a túnica pesada e a armadura de
+couro. além disso, uma arma não pode
+ficar com FN 0, então a adaga/punhal
+e a soqueira/manopla não podem receber modificações de diminuição de FN
+– mas podem receber modificação de aumento de dano.
+Apenas uma modificação pode
+ser aplicada à um item – ou aumento de
+dano, ou diminuição de FN. Itens modificados pelo uso de Arte da Forja 2 custam o dobro do preço – independente da
+modificação ser diminuição da FN ou
+aumento do dano. Esse custo deve ser
+somado ao modificador de qualidade do
+item, se houver. Assim, uma espada longa de qualidade alta e com FN -1 custaria 700 moedas (175 multiplicado por 4).
+*\
+--Arte da Forja 1--
+Habilidade (Técnica) – Suporte
+*Descrição: Você recebeu treinamento
+formal nas técnicas mais avançadas de trabalho
+com metais. Sempre que fizer um teste de ferraria, você recebe um bônus de +2. Além disso,
+você gasta metade do tempo normal para criar
+ou consertar itens de metal, e metade do material normalmente necessário para consertar
+itens de metal – ou seja, um quarto do peso
+do item ao ser consertado, ao invés de metade
+do peso daquele item. Finalmente, quando desconstruir um item de metal, você pode reaproveitar todo o metal do item ao invés de apenas
+metade.
+---
+--Arte da Forja 2--
+Habilidade (Técnica) – Suporte
+*Requisito: Arte da Forja 1
+*Descrição: Você exercitou sua maestria sobre a forja de metais e é capaz de criar
+itens mais eficientes do que os normais. Você
+pode criar ou modificar itens de metal de forma que eles tenham FN -1, ou, no caso de
+armas, causem Dano +1. Itens de qualidade
+baixa não podem ser modificados e itens de
+qualidade alta ou obra-prima acumulam seus
+benefícios de qualidade com essas modificações.
+Se estiver modificando um item, você
+deve fazer um teste de ferraria e o resultado
+precisa ser igual ou superior ao necessário para
+criar aquele item. Veja o Guia do Herói (página
+52) para maiores detalhes.
+---
+--Arte da Forja 3--
+Habilidade (Técnica) – Suporte
+*Requisito: Arte da Forja 2
+*Descrição: Você é capaz de adicionar
+uma complexidade maior em suas criações.
+Você pode criar armas com lâminas flamberges, dotadas de ondulações – que dão uma
+semelhança às chamas – que diminuem a superfície de contato, assim facilitando o corte.
+Lâminas flamantes fazem com que qualquer
+arma de corte tenha +2 de dano, mas aumenta
+sua FN em 1.
+Você pode também aplicar estrias nas
+placas de alguns tipos de armaduras (excetuando-se cotas de malha ou armaduras de escamas). Estas estrias aumentam a resistência do
+metal e diminuem sua superfície de contato,
+mas não aumentam significativamente o peso.
+Estrias fazem com que uma armadura com a
+Característica Pesada receba um bônus de Armadura +1.
+Itens de qualidade baixa não podem ser
+modificados e itens de qualidade alta ou obra-
+-prima acumulam seus benefícios de qualidade
+com essas modificações – bem como as modificações realizadas com Arte da Forja 2.
+Se estiver modificando um item, você
+deve fazer um teste de ferraria e o resultado
+precisa ser igual ou superior ao necessário para
+criar aquele item. Veja o Guia do Herói (página
+52) para maiores detalhes.
+---
+--Forjado à Fogo--
+Habilidade (Característica) – Suporte
+*Descrição: Você passou muito tempo nas forjas ou nasceu abençoado por Hou
+com uma resistência inata ao fogo e seus malefícios. Você possui Resistência ao Fogo e
+sua visão e respiração não são afetadas por
+fumaça
+---
+
+**Íris de Maltas**
+
+---
+--Alquimista de Campo--
+Habilidade – Suporte
+*Descrição: Você está acostumado a usar poções e itens
+alquímicos em suas explorações! Você recebe
++2 em todos os seus testes de arremesso e em
+testes nos quais um Kit de Cura seja necessário – como estabilizar uma criatura Por um Fio
+ou qualquer outro uso de Cuidados Médicos.
+Além disso, você pode beber uma poção como
+uma ação padrão, ao invés de uma ação de rodada completa.
+---
+--Alquimista de Combate--
+Habilidade – Suporte
+*Requisito: Nível 5, Alquimista de
+Campo.
+*Descrição: Você tem vasta experiência
+no uso de poções no calor do combate, e se
+tornou particularmente eficiente nisso. Você
+pode arremessar uma poção como uma ação
+livre, desde que possa saca-la como uma ação livre no mesmo turno – ou seja, a poção deve
+estar em uma bandoleira ou cinto. Além disso, você recebe +1 em seus testes de arremesso – esse bônus se acumula com o bônus de
+Alquimista de Campo. Finalmente, você passa
+a poder beber uma poção como uma ação de
+movimento ao invés de uma ação padrão.
+---
+--Herbalismo--
+Habilidade (Técnica) – Suporte
+*Requisito: Sabedoria Selvagem
+*Descrição: Você pode rolar testes de Inteligência para criar poções básicas. Além disso,
+enquanto estiver em um ambiente selvagem,
+você e seus aliados não são afetados por doenças e venenos de origem natural – seus aliados
+passam a ser imunes depois de um dia inteiro
+que estiverem com você desde que eles aceitem
+suas dicas do que comer e do que não comer –
+e você é sempre considerado como tendo um
+Kit de Cura á mão, a menos que o ambiente
+seja completamente estéril (desertos ou áreas
+glaciais).
+---
+--Sabedoria Selvagem--
+Habilidade – Suporte
+*Descrição: Você passou muito tempo
+em ambientes selvagens e dedicou muito tempo ao estudo da natureza em todas as suas formas. Você rola +1d6 em testes que envolvam
+a natureza como forragear, rastrear, encontrar
+abrigo, identificar ervas, etc.
+---
+
+**O Arpão**
+
+---
+--Contatos no Crime--
+Habilidade – Suporte
+*Descrição: Você possui muitos contatos entre os criminosos – pequenos e grandes.
+Com isto você pode descobrir informações
+privilegiadas ou comprar e vender mercadoria
+roubada. Obviamente o mestre poderá restringir informações se isso for atrapalhar o andamento ou a trama da campanha, e você nem
+sempre será capaz de encontrar qualquer item à
+disposição em qualquer lugar – mas o mercado
+negro nas grandes cidades costuma estar abastecido de praticamente qualquer item disponível na campanha.
+Criminosos pagarão metade do preço
+normal de qualquer item que você quiser vender – desde que tenham dinheiro para tanto – e
+venderão itens com um custo um terço menor
+do que o normal. Itens proibidos ou controlados, no entanto, podem ser extremamente
+caros. Informações terão um preço dependendo da importância e dificuldade de obtê-las, de
+acordo com a vontade do Mestre.
+---
+--Durão--
+Habilidade (Característica) – Suporte
+*Descrição: Você viu e fez muita coisa
+na vida, e poucas situações o abalam. Você recebe +1d6 em todos os seus testes para resistir
+a efeitos de medo. Além disso, você tem Determinação +2 e +5 Pontos de Vida.
+---
+--Intimidar--
+Habilidade (Característica) – Ação
+*Descrição: Você pode intimidar um
+oponente que esteja a até 3 metros de você.
+Role um confronto de Vontade com o alvo. Se
+tiver sucesso, o alvo é considerado Amedrontado com relação a você por um número de
+turnos igual à sua Vontade. O alvo responderá
+qualquer pergunta direta que você fizer a ele enquanto estiver intimidado.
+Este é um efeito de medo.
+---
+--Pernas do Mar--
+Habilidade (Característica) – Suporte
+*Descrição: Você passou muito tempo
+sobre as ondas e está acostumado com o balanço do mar. Você recebe +2 em todos os seus
+testes de Força e Agilidade quando estiver em
+uma embarcação ou dentro d’água. 
+---
+
+**Capuzes Negros**
+
+---
+--Cartografia--
+Habilidade (Técnica) – Suporte
+*Descrição: Você nunca se perde em
+qualquer área que já tenha estado ao
+menos uma vez ou que tenha podido
+estudar em mapas adequados. Você pode
+desenhar mapas acurados de uma área que
+tenha tido tempo para estudar, e pode rabiscar de memória mapas eficientes de qualquer área
+através da qual você tenha viajado, não importa
+há quanto tempo tenha estado no local. Além disso, você pode desenhar linhas costeiras tanto por
+terra ou mar, e sabe tanto manufaturar quanto se
+orientar usando cartas náuticas.
+---
+--Contatos no Crime--
+Habilidade – Suporte
+*Descrição: Você possui muitos contatos entre os criminosos – pequenos e grandes.
+Com isto você pode descobrir informações
+privilegiadas ou comprar e vender mercadoria
+roubada. Obviamente o mestre poderá restringir informações se isso for atrapalhar o andamento ou a trama da campanha, e você nem
+sempre será capaz de encontrar qualquer item à
+disposição em qualquer lugar – mas o mercado
+negro nas grandes cidades costuma estar abastecido de praticamente qualquer item disponível na campanha.
+Criminosos pagarão metade do preço
+normal de qualquer item que você quiser vender – desde que tenham dinheiro para tanto – e
+venderão itens com um custo um terço menor
+do que o normal. Itens proibidos ou controlados, no entanto, podem ser extremamente
+caros. Informações terão um preço dependendo da importância e dificuldade de obtê-las, de
+acordo com a vontade do Mestre.
+---
+--Contatos Políticos--
+Habilidade – Suporte
+*Descrição: Você possui muitos contatos entre os oficiais da maioria dos locais, e o
+símbolo da sua guilda é reconhecido por todos.
+Graças a isso você pode descobrir informações privilegiadas ou evitar problemas com a
+lei. Com um sucesso bem sucedido de Vontade
+(dificuldade igual à Determinação do alvo) você
+pode conseguir que um guarda decida não lhe
+levar preso ou até mesmo uma saída da prisão.
+Esses favores geralmente vêm acompanhados
+de algumas moedas (geralmente uma quantidade igual a 10 vezes a Vontade do alvo) para ser
+bem-sucedida, além de sucesso no teste. Note
+que nem todo guarda que o personagem encontrar vai aceitar suborno, e usar esta Habilidade
+indiscriminadamente pode trazer problemas
+para o personagem. Além disso, crimes graves
+provavelmente estarão além do alcance dessa
+Habilidade, bem como grupos grandes de guardas e oficiais da lei.
+As informações que o personagem pode
+conseguir com a guarda quase sempre serão referentes ao crime local ou organizações militares, mas obviamente o mestre poderá restringir
+informações se isso for atrapalhar o andamento
+ou a trama da campanha.
+---
+--Mestre Domador--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5
+*Descrição: Você é capaz de domar animais com extrema facilidade. Quando você
+captura uma criatura do tipo Besta, pode fazer
+um teste de Vontade com dificuldade igual à
+soma de todos os Atributos do animal depois
+que tiver cativo e bem tratado por pelo menos
+1 dia inteiro.
+Se conseguir sucesso no teste, a criatura
+passa a ser considerada seu Companheiro Animal e a ter o Temperamento Protetor. Se falhar
+no teste, você pode tentar novamente uma vez
+por dia.
+No caso de uma falha crítica no teste,
+você perde completamente a confiança do animal e não será capaz de domá-lo. Você pode
+ter, simultaneamente, uma quantidade de Companheiros Animais igual à metade da sua Vontade (arredondada para baixo).
+---
+
+**Cesto de Adagas**
+
+---
+--Contatos no Crime--
+Habilidade – Suporte
+*Descrição: Você possui muitos contatos entre os criminosos – pequenos e grandes.
+Com isto você pode descobrir informações
+privilegiadas ou comprar e vender mercadoria
+roubada. Obviamente o mestre poderá restringir informações se isso for atrapalhar o andamento ou a trama da campanha, e você nem
+sempre será capaz de encontrar qualquer item à
+disposição em qualquer lugar – mas o mercado
+negro nas grandes cidades costuma estar abastecido de praticamente qualquer item disponível na campanha.
+Criminosos pagarão metade do preço
+normal de qualquer item que você quiser vender – desde que tenham dinheiro para tanto – e
+venderão itens com um custo um terço menor
+do que o normal. Itens proibidos ou controlados, no entanto, podem ser extremamente
+caros. Informações terão um preço dependendo da importância e dificuldade de obtê-las, de
+acordo com a vontade do Mestre.
+---
+--Eloquente--
+Habilidade (Característica) – Suporte
+*Descrição: Você tem um talento de
+convencer ou comover outras pessoas apenas
+falando do jeito certo. Você recebe +1d6 em
+todos os seus testes para persuadir, mentir, perceber mentiras, intimidar ou em qualquer outra
+interação social.
+---
+--Falsificador--
+Habilidade (Característica) – Suporte
+*Descrição: Você é capaz de duplicar
+qualquer selo, assinatura ou mesmo documento
+escrito do qual tenha uma cópia, podendo realizar pequenas mudanças no texto – comumente
+os nomes. Também permite avaliar documentos, jóias e itens mágicos, identificando se são
+verdadeiros (no caso de documentos), quanto
+valem (no caso de jóias) ou se são mágicos ou
+mundanos (mas não identificar suas características, caso sejam mágicos).
+Quando realizar um teste para falsificar,
+faça um teste de Inteligência (com um bônus
+de +2) e verifique a tabela de qualidade dos
+itens (Guia do Herói, página 52). Um item de
+qualidade baixa indica uma imitação grosseira
+e obviamente falsa, enquanto uma falsificação
+de qualidade mediana permite um teste de Inteligência por qualquer um que manipule o item
+para perceber a falsificação. Um item de qualidade alta ou obra-prima só pode ser identificado como falso mediante uma inspeção minuciosa (a dificuldade para perceber a falsificação
+será igual ao resultado do falsificador).
+Uma assinatura leva apenas 1 minuto
+para ser falsificada, enquanto um selo ou página leva 10 minutos para ser copiada. Verificar
+a autenticidade de um item leva o dobro desse
+tempo.
+*Especial: Instrumentos de escrita (Guia
+do Herói, página 61) são exigidos para que
+qualquer falsificação seja possível, e sem essas
+ferramentas é impossível realizar a falsificação
+corretamente. Sem uma lupa, um teste de avaliação é realizado como se o personagem fosse
+Inapto.
+---
+--Furtivo--
+Habilidade (Característica) – Suporte
+*Descrição: Você é particularmente
+discreto quando quer. Você pode rolar +1d6
+quando fizer testes para se mover em silêncio,
+se esconder, camuflar, ou usar disfarces.
+---
+--Trapaceiro Impecável--
+Habilidade (Característica) – Suporte
+*Requisito: Nível 5, Eloquente
+*Descrição: Você está acostumado a enganar e mentir, e seu raciocínio se tornou tão
+condicionado a extrapolar situações rapidamente que até ler (ou mesmo dominar) sua mente
+é mais difícil! Sua Inteligência é considerada o
+dobro em Confrontos para tentar esconder ou
+dissimular a verdade e para calcular sua Determinação contra magias e efeitos que tentem ler
+sua mente ou perceber suas intenções.
+---
+
+**Corvos Negros**
+
+---
+--Armadura de Gelo--
+Habilidade (Magia) – Ação
+*Requisito: Nível 5, Parede de Gelo.
+Mana: 25
+Dificuldade da Magia: 11
+*Descrição: Desenhando uma Runa Arcana sobre uma criatura, você a envolve em
+uma camada de gelo mágico que age como uma
+armadura. A armadura não causa dano por frio
+à criatura dentro dela (mas transmite uma sensação de frescor), não compromete sua movimentação ou seus sentidos e permite respirar
+e falar normalmente. A armadura absorve os
+ataques que atingiriam a criatura dentro dela, e deve ser destruída antes que a criatura possa ser
+ferida – qualquer dano que exceda os Pontos
+de Vida da armadura serão aplicados ao usuário
+dentro dela – e não é ignorada por Falhas na
+Armadura ou outros efeitos similares. A armadura tem uma quantidade de Pontos de Vida
+igual a 5 vezes a Vontade do conjurador, é Vulnerável a Fogo e sempre que receber dano por
+Frio recupera Pontos de Vida ao invés de sofrer
+dano. Ataques de Eletricidade causam dano
+normal à armadura e à criatura no interior dela.
+Essa Runa Arcana dura por 1 minuto,
+mas se dissipa imediatamente se a armadura
+perder todos os seus Pontos de Vida.
+---
+--Aura Congelante--
+Habilidade (Magia) – Ação
+*Requisito: Congelar
+Mana: 10
+Dificuldade da Magia: 10
+*Descrição: Desenhando uma Runa Arcana sobre um objeto ou criatura, você faz com
+que o alvo passe a emitir uma aura de frio intensa que causa dano igual a 6/Frio em todas as
+criaturas e objetos adjacentes quando você ativa esta Habilidade, quando eles terminam seu
+deslocamento ou quando ela iniciar seu turno
+dentro dessa área. Se a magia tiver como alvo
+um objeto inanimado, ela congela até 100 litros
+ou 100 quilos de material – que então passa a
+emitir a aura de frio ao seu redor. Além disso, objetos inanimados se congelam depois de
+3 turnos dentro da área de efeito da aura, enquanto criaturas que sofram dano pela aura por
+3 turnos consecutivos ficam Enregeladas.
+Esta Runa Arcana dura por 1 minuto, mas
+o gelo criado é permanente e descongela em velocidade normal depois que a Runa se dissipar.
+---
+--Barreira de Gelo--
+Habilidade (Magia) – Reação
+*Requisito: Parede de Gelo, Mente Disciplinada
+Mana: 10
+Dificuldade da Magia: 10
+*Descrição: Esta Runa Arcana desenvolvida especificamente para defesa tem um desenho simples e rápido de fazer, e gera uma fina
+camada de gelo que absorve danos direcionados contra o conjurador. Sempre que for alvo
+de um ataque ou magia que cause dano, você
+pode utilizar esta Runa. Ela reduz o dano que
+você sofreria em um valor igual à sua Determinação. Se o ataque causar dano por Frio a
+barreira absorve todo o dano daquele ataque.
+Se o ataque causar dano por Fogo, a barreira
+reduz o dano em um valor igual à sua Vontade.
+Essa Habilidade pode ser usada uma vez
+por rodada.
+Essa Runa Arcana se dissipa assim que
+seus efeitos forem desencadeados.
+---
+--Frio Intenso--
+Habilidade (Técnica) – Suporte
+*Requisito: Congelar
+*Descrição: Você aprendeu a produzir
+magias que produzem um frio muito mais intenso. Suas magias que causem dano pro Frio
+causam 6 pontos de dano adicionais. Além disso, se uma magia congelar objetos ou criaturas,
+elas permanecerão congeladas por uma quantidade de horas igual à sua Vontade antes de
+começarem a descongelar normalmente.
+*Especial: Em climas particularmente
+quentes, como desertos ou áreas vulcânicas,
+esse efeito dura apenas metade do tempo (arredondado para baixo). Além disso, se o gelo
+for atingido por magias que causem dano por
+fogo, esse efeito é cancelado imediatamente, e
+o gelo passará a descongelar na sua velocidade
+normal.
+---
+--Sopro Gélido--
+Habilidade (Magia) – Ação
+*Requisito: Nível 5, Congelar
+Mana: 20
+Dificuldade da Magia: 14
+*Descrição: Desenhando uma Runa Arcana à sua frente você faz com que ela exale
+uma nuvem de frio intenso que cobre uma área
+com um diâmetro em metros igual à sua Vontade. Todas as criaturas vivas dentro dessa área
+sofrem dano igual a 10/Frio e ficam Enregelados. Criaturas dos tipos construto, morto-vivo
+e réptil sofrem o dobro de dano e ficam paralisadas por 1 turno antes de ficarem enregeladas.
+Objetos inanimados dentro da área se congelam.
+Essa Runa Arcana se dissipa assim que
+seus efeitos forem desencadeados, mas o gelo
+criado é permanente e descongela em velocidade normal depois que a Runa se dissipar. 
+---
+
+**Crânios Vermelhos**
+
+---
+--Contatos no Crime--
+Habilidade – Suporte
+*Descrição: Você possui muitos contatos entre os criminosos – pequenos e grandes.
+Com isto você pode descobrir informações
+privilegiadas ou comprar e vender mercadoria
+roubada. Obviamente o mestre poderá restringir informações se isso for atrapalhar o andamento ou a trama da campanha, e você nem
+sempre será capaz de encontrar qualquer item à
+disposição em qualquer lugar – mas o mercado
+negro nas grandes cidades costuma estar abastecido de praticamente qualquer item disponível na campanha.
+Criminosos pagarão metade do preço
+normal de qualquer item que você quiser
+vender – desde que tenham dinheiro para
+tanto – e venderão itens com um custo um
+terço menor do que o normal. Itens proibidos ou controlados, no entanto, podem ser
+extremamente caros. Informações terão um
+preço dependendo da importância e dificuldade de obtê-las, de acordo com a vontade
+do Mestre.
+---
+--Crânio Vermelho--
+Habilidade (Característica) – Reação
+*Requisito: Nível 5, Mandíbula Vermelha
+Mana: 10
+*Descrição: Quando você recebe um
+contrato, você acha seu alvo – e ele morre!
+Sempre que você fizer um teste contra um alvo
+que você tenha sido contratado para matar,
+você pode rolar novamente um dos dados.
+Você pode escolher com qual dos resultados vai ficar.
+Você só pode usar esta Habilidade uma
+vez por turno.
+*Especial: Uma vez que tenha aceito um
+contrato, a menos que ele seja rescindido ou
+que o alvo morra, você não pode selecionar um
+novo alvo. Se o contrato tiver múltiplos alvos,
+você recebe esse benefício para um número
+máximo de alvos igual à sua Vontade.
+---
+--Mandíbula Vermelha--
+Habilidade (Característica) – Suporte
+*Requisito: Presas Vermelhas
+*Descrição: Você aprendeu a ser letal em
+emboscadas. Quando fizer um ataque contra
+um alvo que esteja Desprevenido com relação
+a você, você pode escolher utilizar Inteligência
+ou Agilidade (o que for mais alto) ao invés de
+sua Força para calcular o dano do ataque.
+---
+--Presas Vermelhas--
+Habilidade (Característica) – Suporte
+*Descrição: Você possui uma calma inquietante e parece sempre estar sob um autocontrole pronto para explodir em violência.
+Você recebe +2 em seus testes de Iniciativa,
+confrontos sociais e Determinação.
+*Especial: Você precisa ter passado pela
+iniciação dos Crânios Vermelhos, e portanto
+possuir uma tatuagem que cubra seus lábios
+para poder adquirir esta habilidade.
+---
+--Tatuador da Guilda--
+Habilidade (Técnica) – Suporte
+*Descrição: Você aprendeu a realizar tatuagens de forma eficiente e sabe fazer isso da
+forma mais indolor – ou dolorosa – que desejar. Você recebe +2 em seus testes para realizar
+tatuagens e quando fizer testes para detectar
+mentiras de um alvo Indefeso que você possa interrogar. O bônus de detectar mentiras
+aumenta para +1d6 caso você tenha acesso à
+ferramentas adequadas (instrumentos de escrita, de talha, de forja ou de costura).
+*Especial: Esta Habilidade pode substituir o Antecedente Artesão/Artesã [Arte]
+como Requisito para o Caminho Tohunga. 
+---
+
+**Lobos dos Mares**
+
+---
+--Investida Acrobática--
+Habilidade (Técnica) – Ação
+Mana: 15
+*Descrição: Você pode usar o ambiente
+para ganhar impulso e desferir um ataque de
+uma direção inusitada. Enquanto tiver uma
+mão livre e estiver em um ambiente com mobília e outros obstáculos (como um convés de
+navio, pátios, feiras ou no interior da maioria
+das construções) você pode fazer uma manobra
+de encontrão contra o alvo mesmo que esteja à
+menos de 3 metros dele. Esse ataque causa +10
+de dano e ignora quaisquer bônus de escudo e
+Esquiva do alvo.
+*Especial: Você não pode utilizar esta
+Habilidade se estiver usando uma armadura
+com a característica Pesada, se estiver carregando uma carga acima da básica ou se você
+for realizar o ataque como Inapto por qualquer
+motivo.
+---
+--Lutar no Convés--
+Habilidade (Técnica) – Suporte
+*Descrição: Você usa o que tiver a mão
+para vencer suas lutas. Enquanto tiver uma
+mão livre e estiver em um ambiente com mobília e outros obstáculos (como um convés de
+navio, pátios, feiras ou no interior da maioria
+das construções) você pode usar o ambiente
+para se proteger e atrapalhar o adversário, recebendo +1 em seus ataques corporais e +2
+em Esquiva.
+---
+--Navegador--
+Habilidade – Suporte
+*Descrição: Você sabe o que é necessário
+para pilotar um navio com eficiência. Você rola
++1d6 em todos os testes ligados a navegação,
+incluindo ler mapas marítimos, fazer qualquer
+serviço de convés, escalar cordames, pescar, se
+localizar no mar e nadar.
+---
+--Pernas do Mar--
+Habilidade (Característica) – Suporte
+*Descrição: Você passou muito tempo
+sobre as ondas e está acostumado com o balanço do mar. Você recebe +2 em todos os seus
+testes de Força e Agilidade quando estiver em
+uma embarcação ou dentro d’água.
+---
+
+**Hoste de Hadorn**
+
+---
+--Ataque Simultâneo--
+Habilidade (Técnica) – Ação
+*Requisito: Combate em Grupo
+Mana: 20
+*Descrição: Você está acostumado a lutar em grupo e sabe como abrir a guarda de um
+adversário para que seus aliados possam atingi-
+-lo. Faça um ataque corporal contra um oponente. Se acertar, todos aliados que estiverem
+adjacentes ao mesmo oponente poderão fazer
+um ataque corporal normal contra ele imediatamente.
+---
+--Código da Coragem--
+Habilidade (Característica) – Suporte
+*Descrição: Você não teme a morte,
+principalmente na proteção dos indefesos.
+Você nunca pode fugir de uma luta justa e deve
+sempre proteger os mais fracos – com a vida,
+se necessário.
+Você é imune a todos os efeitos de Medo.
+---
+--Combate em Grupo--
+Habilidade (Técnica) – Reação
+*Descrição: Você ganha +1 nos testes de
+ataques corporais para cada aliado que esteja
+em combate corporal com o alvo.
+---
+--Conhecimento Regional [Tebryn]--
+Habilidade – Suporte
+*Descrição: Você conhece profundamente a história e características de Tebryn.
+Você rola +1d6 em todos os seus testes ligados à história, geografia e folclore ligados ao reino, e conhece os nomes de todas
+as personalidades importantes (nobres com
+qualquer título acima de Cavaleiro, militares
+com títulos acima de Alferes, Burgomestres,
+Regentes e líderes de guildas e organizações)
+de Tebryn.
+---
+--Dogma: Discípulo da Guerra--
+Habilidade – Dogma
+*Descrição: Você segue os ensinamentos
+de Hadorn Braço de Ferro. Você nunca pode fugir de uma luta – a menos que seja uma morte
+certa – e deve sempre honrar a morte de quem
+morreu lutando. Você tem Força +1 enquanto
+seguir este dogma. Se em qualquer momento
+você fugir de uma luta ou desonrar os mortos,
+você perderá esta Habilidade, e nunca mais poderá adquiri-la novamente.
+---
+--Égide--
+Habilidade (Técnica) – Reação
+*Requisito: Código da Coragem
+Mana: 15
+*Descrição: Você sempre está pronto para
+se interpor diante do perigo. Se um ataque ou
+magia for atingir um alvo adjacente a você,
+você pode se interpor e sofrer o ataque no lugar
+do alvo original. Você sofre apenas metade do
+dano do ataque ou magia, mas sofre quaisquer
+outros efeitos normalmente.
+---
+--Médico de Campo--
+Habilidade (Característica) – Suporte
+*Descrição: Você remendou uma boa
+quantidade de ferimentos tanto durante quanto
+depois de combates e sabe o que precisa ser consertado primeiro. Logo depois de um combate,
+você pode realizar um teste de Cuidados Médicos (Dificuldade 12) em qualquer personagem
+que tenha sofrido dano. Se for bem-sucedido,
+aquele personagem recupera 5 Pontos de Vida.
+Você pode usar este efeito apenas uma vez em
+um personagem a cada vez que ele sofrer dano.
+Além disso, toda vez que você for bem-
+-sucedido em um teste para remover efeitos de
+sangramento, venenos ou estabilizar um personagem Por um Fio, aquele personagem recupera 5 Pontos de Vida adicionais além dos efeitos
+normais do seu teste de Cuidados Médicos.
+Finalmente, o tempo que você leva para
+aplicar Cuidados Médicos em um personagem
+é reduzido para um número de rodadas completas igual à 10 menos sua Inteligência (mínimo de uma rodada completa).
+---
+--Militar--
+Habilidade – Suporte
+*Descrição: Você faz – ou fez – parte da
+Hoste de Hadorn e recebe auxílio da organização. Você sempre pode contar com um catre
+em qualquer quartel da Hoste de Hadorn para
+você e um número de aliados igual à sua Vontade, e recebe primeiros socorros e manutenção
+do seu equipamento nesses locais sem qualquer
+custo.
+*Especial: Assim que adquire essa Habilidade – inclusive durante a criação de personagem – você recebe, gratuitamente, uma
+Armadura Simples com o brasão da Hoste de
+Hadorn engastado nela. Essa armadura não
+pode ser vendida – nem mesmo no mercado
+negro ela é aceita – mas pode ser devolvida à
+Ordem. Se devolver a armadura, você recebe
+100 peças e perde essa Habilidade, se desligado
+oficialmente da Hoste de Hadorn – você pode
+selecionar uma nova Habilidade no lugar desta
+na próxima vez que subir de nível – efetivamente selecionado duas Habilidades ao invés
+de uma. 
+---
+
+**Guarda das Fronteiras Rochosas**
+
+---
+--Caçador das Cordilheiras--
+Habilidade (Técnica) – Suporte
+*Descrição: Você se especializou em
+combater as criaturas mais comuns das Cordilheiras dos Cristais e das terras ao redor. Você
+recebe +2 em seus testes e causa +2 pontos de
+dano em todos os ataques contra a Raça Orcs e
+criaturas do tipo Gigante e Artrópode.
+---
+--Estabilidade--
+Habilidade (Característica) – Suporte
+*Descrição: Você gosta de ter os dois
+pés solidamente plantados no chão – e faz isso
+muito bem! Você sempre rola +1d6 em todos
+os seus testes de evitar quedas e manter o equilíbrio.
+---
+--Furtivo--
+Habilidade (Característica) – Suporte
+*Descrição: Você é particularmente
+discreto quando quer. Você pode rolar +1d6
+quando fizer testes para se mover em silêncio,
+se esconder, camuflar, ou usar disfarces.
+---
+--Matador das Cordilheiras--
+Habilidade (Técnica) – Suporte
+*Requisito: Nível 5, Caçador das Cordilheiras.
+*Descrição: Você sempre causa +2 pontos de dano em todos os ataques contra a Raça
+Orc e criaturas dos tipos Gigante e Artrópode
+(esse bônus se acumula com o bônus de Caçador das Cordilheiras). Além disso, você passa
+a rola +1d6 em todos os testes relacionados a
+essa criatura (esse bônus substitui o bônus de
+Caçador das Cordilheiras).
+---
+--Nascido nas Montanhas--
+Habilidade – Suporte
+*Descrição: Você nasceu ou passou grande parte da sua vida em ambientes montanhosos. Você recebe +2 em seus testes ligados a
+locais rochosos e montanhosos – como escalar
+rocha (nua ou trabalhada), percepção e sobrevivência em áreas montanhosas, identificar animais dessas regiões, avaliar formações rochosas e pedras brutas ou trabalhadas (incluindo
+construções de pedra e pedras preciosas) e para
+trabalhar em pedra – seja artesanato, alvenaria
+ou joalheria.
+---

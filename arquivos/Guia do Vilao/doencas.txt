@@ -1,0 +1,563 @@
+Capítulo 5 – Doenças
+Doenças podem afetar os personagens em várias situações diferentes. Eles podem ser afetados
+por doenças por andarem por tempo demais em ambientes inóspitos, graças ao contato com criaturas particularmente insalubres ou mesmo por ferimentos superficiais que não foram tratados de
+forma adequada.
+Todas situações bastante comuns na vida de um aventureiro mediano, mas o Mestre deve
+usá-las com moderação para não perder o controle das virulências do cenário. Uma epidemia pode
+acontecer em uma cidade ou região, mas isso não é comum – principalmente graças à grande quantidade de Alquimistas e, principalmente, Sacerdotes em Cassiopéia. Na maioria das vezes, alguns
+casos de uma doença ocorrem e logo em seguida os infectados – e pessoas próximas – são tratados
+com Purgar e/ou com Antídotos adequados.
+As regras a seguir cobrem as doenças mais comuns encontradas em Drakon, incluindo não só
+seus efeitos e sintomas, mas meios de infecção e métodos de cura.
+
+---
+**Descrição das Doenças**
+Nome: O nome mais comum pelo
+qual a doença é conhecida, e se ela é Natural ou Mágica.
+Contaminação: Formas de se contrair
+a doença, incluindo os testes para resistir à
+infecção. Sucesso neste teste significa que o
+personagem não contraiu a doença – mas se
+for afetado por um outro vetor da mesma
+doença, ou se permanecer numa área onde
+a doença pode causar infecção, terá que fazer novos testes como indicado.
+Sintomas: Efeitos da enfermidade no
+organismo, incluindo possíveis Condições
+enquanto o personagem estiver infectado.
+Tratamento: Quais os tratamentos
+que podem ser aplicados à doença específica, descrições de possíveis sequelas e tratamentos para amenizar os efeitos – quando
+houver – e quando a doença se cura naturalmente – quando isso ocorrer.
+*Axradhiase (Mágica):
+Contaminação: A doença é transmitida pelo contato com os fluidos de Traça de Grimório, uma espécie de traça que
+se alimenta exclusivamente de grimórios,
+missais, cajados e outros materiais com a
+característica Registro. Diferente das traças
+comuns, essas traças são capazes de picar, o
+que não causa danos, mas pode transmitir a
+doença – amassar a traça, para matá-la, também tem uma chance de transmitir Axradhiase. Se o personagem tiver um item de
+registro que contenha traças de grimório (o
+que pode ocorrer se um item com Registro
+seja exposto a uma biblioteca que contenha
+outros itens de Registro com traças, ou caso
+o conjurador encontre outro Conjurador
+cujos itens de Registo estejam infestados
+com Traças de Grimório, por exemplo) ele
+deve fazer um teste de Inteligência (Dificuldade 10) a cada dia para perceber a presença
+das traças. Se ele falhar neste teste, ele deve
+realizar um teste de Força (dificuldade 13)
+para não ser infectado. Se ele perceber a infestação, ele pode tentar se livrar das traças,
+literalmente recolhendo todas elas (com um
+teste de Inteligência, dificuldade 13). Falhando ou passando, ele deve fazer um teste de
+Força (Dificuldade 8) para não ser infectado
+com a doença. Os sintomas aparecem 1 hora
+depois da contaminação.
+Sintomas: O personagem começa a
+ter dificuldades em formar palavras coerentes, fazendo qualquer teste que envolva
+comunicação – incluindo mentir, negociar
+ou barganhar – como se fosse Inapto. A
+partir do segundo dia, o personagem não
+é capaz de se comunicar de forma eficiente,
+se tornando totalmente incompreensível. A
+cada dia, o personagem deve realizar um
+teste de Vontade (dificuldade 13). Se tiver
+uma Falha no teste, o personagem muda,
+de forma aleatória e permanente um de
+seus Idiomas Conhecidos (o que pode incluir seu idioma natural) por algum outro
+que ainda não possua (escolhido de forma
+aleatória). Se tiver uma Falha Crítica no teste, o personagem perde um de seus idiomas
+conhecidos permanentemente.
+Tratamento: Um personagem estará curado se tiver 7 sucessos consecutivos
+(sucessos decisivos contam como 2 sucessos). Leitura de textos mundanos durante
+pelo menos seis horas em um dia oferece
+um bônus de +2 no teste. A Magia Purgar
+ou a ingestão de um Antídoto Universal
+não curam a doença imediatamente, mas
+contam como um sucesso – então o uso de
+7 Purgar ou Antídotos Universais são necessários para curar Axradhiase em apenas
+1 dia – a administração pode ser feita em
+várias ocasiões diferentes ou no mesmo dia. 
+*Corpo de Ferro (Natural):
+Contaminação: Transmitida pelo
+contato desprotegido com areia ou terra
+que contenham fezes – ou em contato direto com dejetos (Força, Dificuldade 8).
+Embora o método de transmissão mais comum seja por ferimentos com objetos contaminados (Força, Dificuldade 14). Armas
+usadas por mortos-vivos, Goblins, Gnolls,
+Hamelins e Orcs, geralmente mantidas em
+péssimo estado de manutenção, costumam
+transmitir tétano, e depois de um combate
+onde um personagem foi ferido por essas
+armas, o teste de contaminação é necessário. Os sintomas aparecem 1 dia depois da
+contaminação.
+Sintomas: Gases fedorentos, contração dos músculos da boca, rigidez muscular no pescoço, na costa e no abdômen e dificuldade para engolir. Todos os testes para
+realizar Magias, tocar Músicas, interações
+sociais ou realizar operações delicadas (incluindo armar e desarmar armadilhas) são
+feitas como se o personagem fosse Inapto.
+A cada dia, o personagem também precisa
+fazer um teste de Força (Dificuldade 11).
+No caso de sucesso, o personagem sofre de
+dores musculares e não consegue descansar de forma eficiente, e não recupera PMs
+ou PVs por descanso. No caso de falha no
+teste, o personagem tem cãibras constantes que o impedem de se mover ou falar,
+e o personagem falha automaticamente
+ao utilizar Magias, Músicas e Gritos, interações sociais e operações delicadas, e faz
+testes como se fosse Inapto para todas as
+outras ações. Se tiver uma falha crítica no
+teste, o personagem sofre um ataque cardíaco e perde todos os seus PVs e PMs e fica
+Por um Fio, não podendo sair deste estado
+enquanto estiver infectado, a menos que
+tenha um sucesso decisivo no teste para
+resistir aos efeitos da doença. Se tiver uma
+segunda falha crítica para resistir aos efeitos da doença enquanto estiver Por um Fio,
+o personagem morre.
+Tratamento: Corpo de Ferro dura, em
+média, 7 dias. Cada sucesso decisivo no teste diminui esse tempo em 1 dia (mas conta como um sucesso simples para definir
+os efeitos da doença naquele dia). Não há
+tratamentos conhecidos para amenizar os
+efeitos da doença, mas a Magia Purgar ou a
+ingestão de um Antídoto Universal curam
+completamente o personagem e seus efeitos se dissipam em 1 hora
+*Febre do Dragão (Mágica):
+Contaminação: A doença é transmitida quando um personagem permanece
+muito tempo em um Nexo Dracônico – ou,
+muito raramente, se estiver próximo a alguém que morra da doença quando isso
+ocorre. Qualquer criatura dentro da área de
+um Nexo Dracônico pode ser afetada pela
+doença, embora os efeitos nas cercanias
+do Nexo não sejam tão potentes quanto no
+centro do mesmo. Criaturas nas cercanias
+do Nexo Dracônico podem ser infectados
+com a doença mas não necessariamente sofrer efeitos imediatos – eles simplesmente
+passam a doença para seus descendentes,
+que geralmente apresentam características dracônicas como resultado. Entrar no
+centro de um Nexo Dracônico, no entanto,
+é muito mais perigoso – e danoso. Qualquer criatura nas cercanias de um Nexo
+Dracônico precisa fazer um teste de Força
+(Dificuldade 10) a cada dia inteiro que permaneçam na área – a dificuldade aumenta
+cumulativamente em +1 a cada dia dentro
+da área além do primeiro. Se falharem no
+teste, eles ficam infectados pela versão latente da doença – passando ela para seus
+descendentes. Criaturas que entrem no
+centro do Nexo Dracônico, no entanto, precisam realizar o teste a cada hora, com uma
+dificuldade 12 (+1 para cada hora que a criatura passar dentro do Nexo Dracônico).
+Uma criatura infectada enquanto estiver no
+centro do Nexo Dracônico é afetada pela
+versão ativa da doença, detalhada à seguir.
+Criaturas do tipo Dragão são totalmente imunes à doença, assim com criaturas com a Habilidade Sintonia Dracônica ou Linhagem Dracônica. Além disso,
+criaturas naturalmente resistentes ao tipo
+de energia com o qual o Nexo seja sintonizada também são imunes à doença dentro
+desses Nexos específicos – mas podem ser
+infectados se entrarem em Nexos com energias elementais diferentes. Assim, um Aesir nunca será infectado enquanto estiver
+dentro de um Nexo Dracônico do frio, mas
+se entrar em um Nexo Dracônico do fogo
+ou da eletricidade ele deve fazer os testes
+normalmente para não ser infectado. Os
+sintomas aparecem imediatamente quando
+a criatura é infectada.
+Sintomas: O personagem sente fraqueza e vertigem. Uma criatura precisa ter
+sucesso em um teste de Força – a Dificuldade do teste será igual ao último teste que realizou dentro do Nexo Dracônico. Perceba
+que, enquanto estiver dentro de um Nexo
+Dracônico, falhando ou passando no teste
+de Contaminação, a dificuldade sempre
+aumentará em 1 a cada hora – assim, uma
+criatura dentro do centro de um Nexo Dracônico por 4 horas fará seu teste com uma
+Dificuldade 16. Se a criatura falhar no teste,
+ela perde 1 Ponto de Vida permanentemente. Além disso, a cada dia que estiver infectada, a criatura também precisa fazer um
+teste de Força (Dificuldade 12). Se tiver sua
+Força ou Agilidade reduzidas à 1, ela sofrerá os mesmo efeitos descritos na página 20
+(Efeitos de Envelhecimento). Uma criatura que tenha seus Pontos de Vida, Pontos
+de Mana, Força ou Agilidade reduzidos à
+0 morre imediatamente, em uma explosão
+de energia elemental apropriada ao Nexo onde o personagem foi infectado. Essa
+explosão causa uma quantidade de dano
+igual elemental igual à 30 em uma área em
+metros igual à Determinação da criatura – e
+qualquer criatura que sofra dano pela explosão deve fazer um teste de Força (Dificuldade 10) ou será infectado pela doença.
+Tratamento: O personagem pode
+utilizar um Antídoto Universal para se livrar da doença, mas seus efeitos (incluindo
+perda de PVs, PMs e Atributos) até aquele
+ponto serão perenes. O personagem pode,
+no entanto, utilizar um Extrato da Resistência (de qualquer tipo) para impedir os efeitos da doença de se manifestarem durante 1
+dia. Pontos de Vida, Pontos de Mana e Atributos perdidos podem ser recuperados se o
+personagem ingerir um Elixir dos Deuses.
+Se ele beber o Elixir dos Deuses enquanto
+ainda estiver infectado, ele ainda poderá
+voltar perder PVs, PMs e Atributos devido
+à infecção, no entanto.
+*Febre do Pântano (Natural):
+Contaminação: Picadas de mosquitos e outros insetos peçonhentos (inclusive
+suas versões gigantes) em áreas de alta insalubridade e umidade – calabouços, áreas
+pobres de cidades ribeirinhas, pântanos
+e tumbas submersas. A cada vez que um
+personagem passa por essas áreas ou passa
+mais de 1 dia em uma área dessas, ele deve
+fazer um teste de Força (Dificuldade 11) ou
+será infectado. Os sintomas aparecem 1 dia
+depois da contaminação.
+Sintomas: Dores musculares e nas juntas, sonolência e erupções cutâneas. A cada
+dia após os sintomas aparecerem o personagem deve fazer um teste de Força (Dificuldade 12). Sucesso significa que os sintomas
+são leves e o personagem tem -1 em todos os
+testes ao longo do dia, enquanto um sucesso
+decisivo tem os mesmos efeitos, mas o próximo teste para resistir aos efeitos da doença será realizado com +2. Falha significa que o
+personagem fica extremamente desanimado
+e dolorido, fazendo todos os testes como se
+fosse Inapto. Uma Falha Crítica indica que,
+além dos efeitos normais da falha, o personagem perde 20 Pontos de Vida devido a
+hemorragias internas e externas (suando
+sangue pelas erupções cutâneas). Estes Pontos de Vida perdidos não podem ser recuperados até que o personagem seja curado da
+Febre do Pântano.
+Tratamento: Um personagem estará
+curado se tiver 4 sucessos consecutivos (sucessos decisivos contam apenas 1 sucesso).
+Descanso, chás quentes e alimentação leve
+e quente oferecem um bônus de +2 nos testes para resistir aos efeitos da doença. De
+forma semelhante, ingerir um Antídoto Básico ou um Antídoto Avançado oferecem
+um bônus de +2 no teste (esses bônus são
+cumulativos). A Magia Purgar ou a ingestão de um Antídoto Universal curam completamente o personagem e os efeitos da
+doença se dissipam em 1 hora.
+*Febre da Tumba (Mágica):
+Contaminação: A doença é transmitida por alguns tipos específicos de mortos-vivos – notoriamente, múmias – mas pode ser
+contraída se uma criatura tiver contato com
+as cinzas de uma vítima fatal dessa doenças
+(nesse caso, o alvo precisa fazer um teste de
+Força com Dificuldade 13). Os sintomas aparecem 1 hora depois da contaminação.
+Sintomas: Febre, palidez, garganta
+seca e perda agravada de peso. O personagem O personagem sofre os efeitos de
+Desidratação mesmo que beba líquidos em
+abundância – o personagem perde 20 Pontos de Vida e Mana por dia, além de não
+poder recuperar Pontos de Vida ou Mana
+por descanso. Se o personagem perder todos os Pontos de Vida ou Mana devido
+aos efeitos da doença, ele se desintegra em
+uma nuvem de cinzas – quando isso ocorre,
+qualquer criatura viva a uma quantidade
+de metros do alvo igual à sua Força podem
+contrair a doença. As cinzas se dispersam
+se houver qualquer brisa, se tornando inofensivas, mas em locais fechados – como
+tumbas, cavernas ou salas fechadas – as
+cinzas se assentam, e se forem remexidas
+podem transmitir a doença para criaturas
+na área.
+Tratamento: Não se conhece tratamento conhecido. Descanso em áreas frescas e úmidas e ingestão de líquidos amenizam os efeitos da doença, permitindo que a
+criatura afetada reduza seu valor de Força
+do total de Pontos de Vida e Mana perdidos a cada dia. A ingestão de um Antídoto
+Universal cura completamente o personagem, mas os efeitos da doença perduram
+por mais 1 dia, embora amenizada mesmo
+que a criatura não esteja em condições ideais.
+*Glabro (Mágica):
+Contaminação: Pode ocorrer pelo
+contato direto com mortos-vivos de todos os tipos, tanto ataques dessa criaturas
+– como mordidas – ou quando um personagem realiza ataques desarmados contra
+elas. Ao final de qualquer combate em que
+o personagem atacou ou foi atacado por
+uma dessas criaturas, ele deve fazer um teste de Força (Dificuldade 13). Os sintomas
+aparecem 1 dia depois da contaminação.
+Sintomas: Dores musculares e febre,
+e eventualmente, perda dos pelos do corpo.
+O personagem que teve uma falha no teste
+de contágio precisa fazer um teste de Força a cada dia, ou perde 4 PMs permanentemente (uma falha crítica no teste indica
+a perda de 6 PMs). Além disso, o personagem sofre perda dos pelos corporais, que
+não são evitados com sucessos no teste de
+Força. Nos primeiros três dias o personagem fica com os pelos do corpo mais ralos,
+mas a partir do quarto dia, começam a aparecer falhas óbvias até que, no sétimo dia, o
+personagem estará totalmente desprovido
+de pelos no corpo.
+Para a maioria das Raças, os efeitos de
+perda de pelos são apenas estéticos – embora possa ser devastador nesse quesito no
+caso de Jubans e Tailox, por exemplo, e é
+particularmente pavorosa para os Anões –
+mas é particularmente nocivo no caso dos
+Levents, já que a perda das penas fará com
+que eles se tornem incapazes de voar! A
+partir do quarto dia sem tratamento, um
+Levent afetado pelo Glabro perde parte de
+sua capacidade de voo – sendo capaz de se
+deslocar apenas em uma velocidade igual à
+seu Deslocamento normal, e precisando parar de hora em hora para descansar devido
+ao esforço extra para se manter no ar. No
+sétimo dia, o personagem perderá suas últimas penas e se tornará totalmente incapaz
+de voar, apresentando apenas dois apêndices inúteis em suas costas, onde antes estariam suas asas.
+Raças que não possuam pelos ou penas – como Draganos, Tritões e Mahoks
+– não sofrem quaisquer efeitos estéticos
+devido à doença, mas ainda perdem PVs e
+podem transmitir a doença normalmente.
+Tratamento: O personagem pode
+utilizar um Antídoto Universal para se livrar da doença, mas seus efeitos (incluindo perda de PMs permanentes) até aquele
+ponto serão perenes. O personagem pode,
+no entanto, ao invés disso, utilizar um Elixir Cola-Carne ou um Extrato Regenerativo
+ao longo da semana em que está infectado
+para impedir seus efeitos. O elixir deve ser
+tomado uma vez ao dia por 1 semana, enquanto a doença ainda estiver ativa. O personagem ainda perderá os PMs, mas não
+perderá pelos nos dias que tomar o Elixir,
+e ao final de uma semana ele pode recuperar todos os PMs perdidos por descanso. A
+doença deixa de fazer efeito e é considerada curada no sétimo dia, independente dos
+resultados.
+*Infecção Comum (Natural):
+Contaminação: Ferimentos não tratados corretamente podem infeccionar em
+contato com sujeira do ambiente. A cada 12
+horas que o personagem permanecer com
+menos Pontos de Vida do que seu total, ele
+deve realizar um teste de Força (dificuldade 10) ou um de seus ferimentos desenvolve uma infecção. Os sintomas aparecem 12
+horas depois da contaminação.
+Sintomas: Febre e coceira ao redor
+do ferimento. O personagem não consegue
+recuperar Pontos de Vida enquanto estiver
+infectado, e deve fazer um teste de Força
+(dificuldade 10) a cada hora. Falha significa
+a perda de 1 Ponto de Vida, enquanto Falha
+Crítica indica a perda de 5 Pontos de Vida.
+Tratamento: Limpar o ferimento (com
+um teste de Inteligência, dificuldade 12, utilizando um kit de cura), a ingestão de um
+Antídoto Básico ou de um Elixir Cola-Carne remove os efeitos da infecção por 6 horas. Se este tratamento for realizado várias
+vezes ao longo de um dia inteiro, a infecção
+será curada. Além disso, a Magia Purgar ou
+a ingestão de um Antídoto Universal curam
+completamente o personagem e os efeitos
+da doença se dissipam em 1 hora.
+*Larvas de Vermes (Natural):
+Contaminação: ocorre pelo contato
+com a mucosa que cobre alguns tipos de
+vermes gigantes, assim como a mordida
+dessas criaturas, exigindo, ao final de um
+combate com esse tipo de criatura, um teste
+de Força (Dificuldade 13). Pode ocorrer na
+natureza, se o personagem beber água diretamente de um corpo de água onde há a
+presença de vermes. Os sintomas aparecem 7 dia depois da contaminação.
+Sintomas: Náuseas eventuais, geralmente causadas pela grande ingestão
+de alimentos, uma vez que o personagem
+infectado passa a sentir muito mais fome
+do que o normal. Personagens infectados
+recuperam apenas metade dos PVs e PMs
+por descanso, e sentem os efeitos de Fome/
+Desidratação (Guia básico, página 172) na
+metade do tempo normal. As larvas dentro
+do organismo do alvo só deixam o corpo do
+hospedeiro caso ele morra, e não causam
+outros efeitos nocivos.
+Tratamento: Não existe tratamento
+além de comer e beber com regularidade e
+de preferência de forma farta para prevenir
+os efeitos de Fome/Desidratação. A Magia
+Purgar curam completamente o personagem apenas se for conjurada sobre ele nos
+primeiros sete dias de infecção, antes dos
+sintomas aparecerem. A ingestão de um
+Antídoto Universal, no entanto, é bastante
+eficiente, cura completamente o personagem e os efeitos se dissipam em 1 hora –
+embora ele sinta muitas náuseas e possivelmente diarreia nesse período.
+*Lepra (Natural):
+Contaminação: apesar do medo relacionado à doença, lepra é muito difícil de
+ser transmitida. Mesmo o ato sexual não a
+transmite facilmente. Alguém em contato
+constante com um portador que já tenha
+manifestado a doença deve fazer um teste
+de Força (Dificuldade 8) a cada dia. Se o
+personagem tiver contato moderado com
+alguém infectado ou viver muito tempo em
+péssimas condições de higiene (como calabouços, áreas pantanosas), ele deve fazer
+o teste a cada mês. Os sintomas aparecem
+4d6 anos depois da contaminação.
+Sintomas: Manchas na pele que coçam e irritam e posteriormente evoluem
+para descamações e eventualmente chagas.
+O personagem também sofre de dores nas
+extremidades, o que pode lhe causar penalidades em todos os seus testes, conforme a
+intensidade da dor. A cada dia, realize um
+teste de Força (Dificuldade 10). Em caso de
+sucesso decisivo, as dores não causam incômodo naquele dia. Em caso de sucesso, o
+personagem sofre -1 em todos os seus testes físicos. Em caso de falha, todos os testes
+(incluindo testes mentais) terão um redutor
+de -2 devido às dores constantes. Uma falha
+crítica no teste significa que o personagem
+sofre de dores atrozes ao longo do dia, e fará
+todos os seus testes como se fosse Inapto
+(incluindo o teste para resistir aos efeitos da
+doença no próximo dia). Além disso, sempre que tiver uma falha crítica no teste para
+resistir aos efeitos da doença, o personagem
+perde um de seus dedos (das mãos ou pés). 
+Se tiver duas falhas críticas consecutivas, o
+personagem perde uma mão, pé, nariz ou
+algum outro apêndice (como cauda ou uma
+asa, dependendo de suas características físicas específicas). Mahoks afetados por Lepra
+perdem suas placas rochosas, e sempre que
+tiverem uma falha crítica nos testes para
+resistirem aos efeitos, eles perdem 1 de sua
+Defesa devido à Pele de Pedra.
+Tratamento: Antídoto Cola-Carne ou
+um Extrato Regenerativo oferece um bônus
+de +1d6 nos testes para resistir aos efeitos
+da doença, e mesmo no caso de falhas críticas, impedem que o infectado desenvolva
+chagas e perca partes do corpo – embora
+não restaure partes que já foram perdidas.
+A Magia Purgar ou a ingestão de um Antídoto Universal curam completamente o
+personagem e os efeitos da doença se dissipam em 1 hora – embora partes perdidas
+não sejam restauradas.
+*Mal do Ygdrus (Magica):
+Contaminação: contato com seiva
+de Ygdrus (Força, Dificuldade 12) ou com
+a fumaça de sua lenha (Força, Dificuldade
+14). Os sintomas aparecem imediatamente
+depois da contaminação.
+Sintomas: O personagem começa a
+envelhecer rapidamente, em uma progressão extremamente alta – cerca de 1 ano por
+dia. O envelhecimento causado pela doença pode não ser óbvio nos primeiros dias,
+mas depois de uma semana, o personagem
+certamente irá perceber que alguma coisa
+está muito, muito errada. Identificar a presença da doença não é simples, e em geral
+será necessário uma análise com Detectar
+Magia ou um teste de Inteligência com dificuldade 16 para perceber a presença da
+doença em um indivíduo – o que pode ser
+totalmente desnecessário se alguém souber
+que o personagem teve contato com seiva
+ou fumaça de Ygdruss.
+Tratamento: Não existem tratamentos conhecidos para a doença, mas se o personagem ficar em descanso completo, ele
+reduz a taxa de envelhecimento pela metade. A ingestão de um Antídoto Universal
+cura completamente o personagem em 1
+hora, mas os efeitos de envelhecimento até
+aquele ponto não são recuperados – inclusive eventuais efeitos por passagem de faixa etária ou de idade avançada.
+*Malogro (Natural):
+Contaminação: Proximidade com
+alguém infectado (Dificuldade 12 a cada 1
+hora); Exposição prolongada ao tempo frio,
+chuva ou condições de inverno (Dificuldade 10 a cada 2 horas). Os sintomas aparecem 6 horas depois da contaminação.
+Sintomas: Febre, espirro, coriza e
+tosses. A cada dia após sua manifestação o
+personagem deve fazer um teste de Força
+(Dificuldade 12). Sucesso crítico significa
+que o personagem se cura imediatamente
+da doença e não apresenta mais sintomas.
+Sucesso significa que os sintomas são leves
+e o personagem recupera apenas metade
+dos PVS e PMS normais por descanso ao
+longo do dia. Falha (ou falha crítica) significa que o personagem estará fraco (-1 em
+todos os seus testes ao longo daquele dia)
+e febril (não recupera PVs ou PMs por descanso durante aquele dia). Sucesso no teste
+também significa que o próximo teste será
+feito com +1, enquanto falhas críticas significam que o personagem fará o próximo
+teste com -1.
+Tratamento: Um personagem estará curado se tiver um sucesso decisivo ou
+três sucessos consecutivos. Além disso, se
+o personagem utilizar um Antídoto Básico
+ou um Antídoto Avançado antes dos primeiros sintomas aparecerem, ele não será
+afetado pela doença. Descanso, chás quentes e alimentação leve e quente oferecem um bônus de +2 nos testes para resistir aos
+efeitos da doença. A Magia Purgar ou a
+ingestão de um Antídoto Universal curam
+completamente o personagem e os efeitos
+da doença se dissipam em 1 hora.
+*Olho de Goblin (Natural):
+Contaminação: Proximidade com
+alguém infectado (Dificuldade 11 a cada 1
+hora) ou contato com utensílios e ambientes
+utilizados por pessoas infectadas (Dificuldade 9, até o utensílio ou ambiente ter sido
+limpo). O nome da doença vem do fato de
+ser dito que os Goblins transmitem a doença para outros humanoides – de fato, a Raça
+é imune aos efeitos da doença, mas podem
+ser um vetor para a doença. Os sintomas
+aparecem 1 dia depois da contaminação.
+Sintomas: Olhos vermelhos e lacrimejantes, pálpebras inchadas, coceira, fotofobia e visão borrada. O personagem tem
+um redutor de -1 em todos os seus testes
+se estiver sob luz direta do sol. Além disso,
+a cada dia, o personagem faz um teste de
+Força (Dificuldade 10). Sucesso indica que
+o personagem faz todos os testes de visão e
+ataques à distância com um redutor de -2.
+Falha significa que todos os testes de visão
+e ataques à distância, além de todos os testes realizados sob a luz direta do sol são realizados como se o personagem fosse Inapto. Uma falha crítica significa que um dos
+olhos do personagem necrosa – o personagem ficará caolho, ou, se sofrer duas falhas
+críticas, estará permanentemente cego.
+Tratamento: Olho de Goblin dura 14
+dias, normalmente – embora o personagem
+ainda possa transmitir os efeitos por mais
+uma semana depois de deixar de apresentar os sintomas. Cada sucesso decisivo
+no teste para resistir aos efeitos da doença
+reduzem este tempo em 1 dia. Descanso e
+exposição apenas a ambientes escuros oferecem um bônus de +1d6 nos testes para
+resistir aos efeitos da doença. Elixir Cola
+Carne administrado em um dia no qual o
+personagem tenha tido uma falha crítica
+no teste para resistir à doença impede que
+seus olhos necrose – embora não restaure
+a visão de olhos que já tiverem necrosado
+anteriormente. A Magia Purgar não remove os efeitos dessa doença, mas oferece um
+bônus de +1d6 no próximo teste para resistir aos seus efeitos. A Magia Purgar ou a
+ingestão de um Antídoto Universal curam
+completamente o personagem e os efeitos
+da doença se dissipam em 1 hora – embora
+olhos necrosados não sejam restaurados.
+*Peste Negra (Natural):
+Contaminação: É transmitida por roedores (ratos, ratazanas, coelhos, marmotas, esquilos). Espalha-se entre eles e para
+outras criaturas através de suas pulgas,
+embora não facilmente; a transmissão de
+um tipo de criatura para outra (Humanoide, Besta, Troglodita ou Esfinge) é bastante
+rara, e é necessário contato constante com
+alguém infectado e em um ambiente pouco
+salubre para que haja pulgas, carrapatos ou
+mosquitos suficientes que possam transmitir a doença entre eles (Força, Dificuldade
+8, 1 vez por dia). No entanto, a transmissão
+dentro de uma mesma categoria de criaturas é bastante rápida – e com efeitos diferentes. Contato direto com uma criatura do
+mesmo tipo que tenha Peste Negra exige
+um teste de Força (Dificuldade 14) 1 vez
+por hora. Em Bestas e Esfinges, a doença
+não tem efeitos visíveis, embora possa ser
+transmitida normalmente. Entre Humanoides e Trogloditas, no entanto, a doença tem
+efeitos devastadores (descritos abaixo). Os
+sintomas aparecem 1 dia depois da contaminação.
+ Sintomas: Inchaço dos gânglios do
+pescoço, axilas e das gônadas, febre alta,
+dores musculares e convulsões. O personagem precisa fazer um teste de Vontade
+(Dificuldade 13) para realizar qualquer
+ação que requeira uma hora ou mais para
+ser completada. Para ações mais longas, é
+necessário um teste a cada hora, com dificuldade aumentando em +2 para cada hora
+além da primeira. Além disso, o personagem deve fazer um teste de Força (Dificuldade 12) a cada dia. Em caso de sucesso decisivo, o personagem não tem penalidades
+adicionais. Sucesso significa que o personagem não sofre redutores, mas perde 3 Pontos de Vida e Mana. Falha no teste significa
+que as dores causam um redutor de -1 em
+todos os testes além da perda de 6 Pontos
+de Vida e Mana. Falha crítica significa que o
+personagem sofre de febre e dores musculares atrozes, perdendo 12 Pontos de Vida e
+Mana e fazendo todos os seus testes como
+se fosse inapto (inclusive para resistir aos
+efeitos da doença).
+Tratamento: Pontos de Vida e Mana
+perdidos pelos efeitos da doença não podem ser recuperados por descanso ou com
+poções – apenas meios mágicos podem
+ser utilizados para recuperá-los. É preciso
+acumular 15 sucessos nos testes descritos
+anteriormente para ser considerado curado (um sucesso crítico conta por 2, enquanto falhas críticas eliminam 1 sucesso).
+Não existem tratamentos para melhorar
+as chances de sobrevivência do infectado,
+mas a Magia Purgar ou a ingestão de um
+Antídoto Universal curam completamente
+o personagem e seus efeitos se dissipam
+em 1 hora, inclusive permitindo que o personagem recupere Pontos de Vida e Mana
+novamente.
+*Tuberculose (Natural):
+Contaminação: Proximidade com
+alguém infectado (Dificuldade 10 a cada 1
+hora). No entanto, apenas se o personagem
+tiver uma falha crítica no teste ele apresentará os sintomas. No caso de uma falha normal, o personagem fica infectado (podendo
+transmitir a doença), mas não apresenta
+qualquer sintoma – mas ainda precisa fazer
+um teste de contaminação a cada dia que
+estiver próximo a alguém infectado. Se falhar novamente no teste de contaminação,
+um personagem infectado passará a apresentar os sintomas. Os sintomas aparecem
+1d6 dia depois da contaminação.
+Sintomas: Tosses secas e constantes,
+palidez acentuada e suor frio. O personagem deve fazer um teste de Força (dificuldade 10) diariamente. No caso de um sucesso decisivo, os sintomas não aparecem
+durante aquele dia. No caso de um sucesso,
+o personagem tem tosses constantes, realizando todos os seus testes para se Mover
+em Silêncio como se fosse Inapto. No caso
+de uma falha, o personagem tosse constantemente, incluindo perdendo sangue, o
+que causa os mesmos efeitos de um sucesso além da perda permanente de 1 PV e 1
+PM. No caso de uma Falha Crítica, as tosses
+causam sangramento severo, ocasionando
+os mesmos efeitos de um sucesso além da
+perda de 5 PV e 5 PM permanentemente
+e impede a recuperação de PVs e PMs por
+descanso naquele dia.
+Tratamento: Consumo de bebidas
+alcoólicas reduzem os efeitos da doença
+(transformando uma falha crítica em falha
+comum e uma falha comum em um sucesso). No entanto, o personagem nunca se
+cura naturalmente da doença. Um personagem que não tenha apresentado os sintomas da Tuberculose pode passar a apresentar quando são infectados com outras
+doenças – faça o mesmo teste de infecção
+novamente – e passará a sentir os efeitos
+dela a partir daí. A Magia Purgar ou a ingestão de um Antídoto Universal curam
+completamente o personagem e os efeitos
+da doença se dissipam em 1 hora.
+---

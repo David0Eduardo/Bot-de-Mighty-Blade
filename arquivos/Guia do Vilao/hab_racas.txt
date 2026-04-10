@@ -1,0 +1,576 @@
+Habilidades Raças
+
+---
+
+**Draganos**
+
+---
+/*
+Atributos Iniciais:
+Força 4
+Agilidade 3
+Inteligência 2
+Vontade 3
+Classes comuns: Guerreiro, Dracomante, Patrulheiro.
+Habilidade Automática
+--Linhagem Dracônica--
+Habilidade (Característica) – Suporte
+Descrição: Você descende dos dragões, e possui a resistência – e fraqueza –
+elemental de seus ancestrais. Escolha entre
+ser descendente dos dragões vermelhos e ter
+Resistência a Fogo, descender dos dragões
+brancos e ter Resistência a Frio ou descender
+dos dragões verdes e ser Resistente à Eletricidade. Depois, escolha um dos dois elementos diferentes da sua herança dracônica para
+ser Vulnerável.
+Especial: Estas escolhas são permanentes e não podem ser mudadas mais tarde. 
+*\
+---
+
+Habilidades Extras
+
+---
+--Armas Naturais--
+Habilidade (Característica) – Suporte
+Descrição: Você possui um arsenal de armas naturais à sua disposição na forma de garras,
+presas, chifres, escamas afiadas e espigões pontudos. Seus ataques desarmados causam dano igual
+à Força +3, e você sempre pode escolher se esse
+dano será por Contusão, Corte ou Perfuração.
+---
+--Asas Pesadas--
+Habilidade (Característica) – Suporte
+Descrição: Você possui grandes asas e
+pode voar, precisando de um espaço igual à sua
+envergadura para pegar impulso antes de alçar
+voo. Quando estiver voando, você não pode parar no ar (mas pode planar) e seu deslocamento é
+o dobro de seu deslocamento normal.
+Especial: O dano de qualquer manobra
+de Encontrão usada em voo é duplicado (mas o
+dano da arma que você usar no Encontrão não é
+alterado, nem quaisquer outros possíveis efeitos
+do Encontrão).
+---
+--Escamas Pesadas--
+Habilidade (Característica) – Suporte
+Descrição: Suas escamas são mais grossas
+e resistentes do que as de outros da sua raça. Você
+reduz todo o dano que sofrer em 2, independente
+da fonte.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Linhagem Dracônica 2--
+Habilidade (Característica) – Suporte
+Descrição: A linhagem dracônica dos seus
+ancestrais é ainda mais perceptível em você. Se
+você tiver Resistência a Fogo você recebe Imunidade a Fogo, se você tiver Resistência a Frio você
+recebe Imunidade a Frio e se você for Resistente
+à Eletricidade você recebe Imunidade à Eletricidade.
+---
+--Membrana Nictitante--
+Habilidade (Característica) – Suporte
+Descrição: Seus olhos possuem uma segunda pálpebra que serve para manter seus olhos
+limpos e ampliar a visão. Você consegue enxergar
+normalmente no escuro e não é afetado por efeitos não mágicos que restrinjam a visão – como
+água lamacenta, fumaça, poeira, areia, chuva, etc.
+– e você também recebe +2 em todos os seus testes de Percepção que envolvam a visão.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Reflexos Dracônicos--
+Habilidade (Técnica) – Reação
+Descrição: Você possui os reflexos agressivos dos seus ancestrais dracônicos. Se alguém
+se aproximar do seu alcance de ataques corporais,
+você pode imediatamente realizar um ataque com
+sua cauda contra o alvo. Esse é um ataque desarmado que causa dano igual à Força/Contusão.
+Esta Habilidade só pode ser usada uma vez
+por rodada.
+---
+--Sopro Dracônico--
+Habilidade (Característica) – Ação
+Mana: 30
+Descrição: Você consegue concentrar sua
+vontade em uma potente rajada de energia, como
+seus ancestrais dracônicos. Este sopro atinge tudo
+e todos a uma distância em metros igual à sua
+Vontade à sua frente. O tipo de dano e os efeitos
+dependem de sua Linhagem Dracônica (20/Fogo
+para dragões de fogo, 10/Frio e qualquer criatura
+que sofra dano pelo sopro fica Enregelado para
+dragões do frio ou 15/Eletricidade e qualquer
+criatura que sofra dano pelo sopro fica Atordoado por 1 turno para dragões do relâmpago).
+---
+--Anfíbio--
+Habilidade (Característica) – Suporte
+Descrição: Seu organismo é adaptado
+tanto para ambientes secos quanto subaquáticos.
+Você consegue respirar e se movimentar tanto
+sob quanto sobre a água normalmente. Além disso, você recebe +2 em todos os seus testes para
+resistir a venenos, doenças e exaustão. 
+---
+
+**Gnolls**
+
+---
+/*
+Atributos Iniciais:
+Força 4
+Agilidade 4
+Inteligência 2
+Vontade 2
+Classes Comuns: Ladino, Patrulheiro, Xamã.
+Habilidade Automática
+--Salteador--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado a
+emboscar, lutar e fugir com o mesmo desprendimento. Você recebe +2 em seus testes
+de percepção, se esconder, correr, escalar, se
+equilibrar (incluindo evitar ser derrubado) e
+em sua Iniciativa. Além disso, seu Deslocamento é aumentado em 1. 
+*\
+---
+
+Habilidades Extras
+
+---
+--Faro--
+Habilidade (Característica) – Suporte
+Descrição: Você possui um faro extremamente aguçado. Você rola +1d6 quando puder
+fazer testes que envolvam o faro, e pode perceber, detectar, rastrear e identificar pessoas e locais
+através dele. O Mestre pode realizar testes para
+ver se você consegue farejar mesmo quando você
+não estiver ativamente procurando odores específicos.
+---
+--Mordida Poderosa--
+Habilidade (Característica) – Ação
+Descrição: Você pode usar seus dentes
+para fazer um ataque desarmado. O dano da sua
+mordida é igual à Força +4/Corte.
+---
+--Postura Quadrúpede--
+Habilidade (Característica) – Suporte
+Descrição: Você pode usar seus quatro
+membros para locomoção. Seu deslocamento é
+calculado como se você tivesse duas vezes sua
+Agilidade normal e você pode rolar +1d6 quando
+fizer testes de correr, saltar ou evitar ser derrubado. Você não recebe estes benefícios em um
+turno que utilizar suas mãos para realizar qualquer
+outra tarefa que não seja se locomover.
+---
+--Sede de Sangue--
+Habilidade (Característica) – Ação
+Descrição: Como uma ação de rodada
+completa, você bebe o sangue de um cadáver
+que ainda esteja quente (morto no último minuto) ou uma criatura que esteja Indefesa ou Por
+um Fio e recebe um bônus de +1 em Força,
+Agilidade e Vontade durante uma quantidade
+de minutos iguais à sua Vontade. Este bônus é
+cumulativo, mas seus benefícios só podem ser
+conseguidos uma vez de cada alvo. Se o bônus
+em um Atributo exceder a sua Inteligência,
+você entra em um frenesi sanguinário, ficando
+imune a efeitos de Medo e atacando a criatura
+mais próxima até matá-la (e utilizando Sede de
+Sangue nela) enquanto os efeitos dessa Habilidade persistirem.
+Se o alvo estiver Indefeso ele perde todos
+os seus Pontos de Vida e fica Por um Fio. Se
+o alvo estiver Por um Fio ele morre automaticamente.
+---
+--Sentidos de Caçador--
+Habilidade (Característica) – Suporte
+Descrição: Você possui sentidos aguçados, próprios de um caçador. Você rola +1d6 em
+todos os seus testes de percepção.
+---
+--Astuto--
+Habilidade (Característica) – Suporte
+Descrição: Você é mais astuto que a maioria dos indivíduos da sua raça. Você tem Inteligência +1 e recebe +2 em todos os testes de Inteligência e Agilidade que envolvam percepção,
+mover-se em silêncio, camuflagem, furtar bolsos,
+e testes semelhantes.
+---
+--Combate em Grupo--
+Habilidade (Técnica) – Suporte
+Descrição: Você ganha +1 nos testes de
+ataques corporais para cada aliado que esteja em
+combate corporal com o alvo.
+---
+--Consumir Cadáver--
+Habilidade (Característica) – Ação
+Descrição: Como uma ação de rodada
+completa, você devora parte de um cadáver que
+ainda esteja quente (morto no último minuto) ou
+uma criatura que esteja Indefesa ou Por um Fio e
+recupera uma quantidade de Pontos de Vida e de
+Mana iguais à sua Determinação. Se o alvo estiver
+Indefeso ele perde todos os seus Pontos de Vida
+e fica Por um Fio. Se o alvo estiver Por um Fio
+ele morre automaticamente. 
+---
+
+**Hamelins**
+
+---
+/*
+Atributos Iniciais:
+Força 2
+Agilidade 5
+Inteligência 3
+Vontade 2
+Classes comuns: Ladino, Necromante, Xamã.
+Habilidade Automática
+--Habitante do Esgoto--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado aos
+ambientes escuros e insalubres dos subterrâneos
+onde sua Raça costuma habitar. Você é capaz
+de enxergar no escuro com perfeição e é imune
+a todas as doenças e venenos naturais, além de
+receber +1d6 para resistir aos efeitos de doenças
+e venenos mágicos. Finalmente, qualquer alvo
+que sofra dano por seu ataque de mordida deve
+passar em um teste de Força (dificuldade igual à
+sua Determinação) ou ficará sob o efeito de uma
+doença natural – a doença específica que um Hamelin transmite deve ser decidida rolando 2d6 e
+verificando na tabela abaixo.
+/*
+Doença Resultado
+Lepra 2
+Larvas de Vermes 3
+Febre do Pântano 4
+Tétano 5
+Infecção Comum 6-8
+Malogro 9
+Tuberculose 10
+Olho de Goblin 11
+Peste Negra 12
+Este resultado é permanente, e só poderá ser mudado se você adquirir a Habilidade Infecção Grave. A dificuldade de infecção
+da doença (igual à sua Determinação) não
+afeta a dificuldade para resistir aos sintomas
+da doença, que permanecem inalterados.
+O dano de sua mordida é igual à Força/Corte. 
+*\
+---
+
+Habilidades Extras
+
+---
+--Esconderijo Invisível--
+Habilidade (Característica) – Ação
+Mana: Varia
+Descrição: Você é extremamente hábil em
+se esconder, e consegue fazer isso de modo quase
+sobrenatural! O mestre deve estipular o custo de
+Mana de acordo com o esconderijo à disposição,
+entre 10 (se for um local escuro e/ou com boa
+cobertura, como um arbusto de folhagem densa
+com o dobro do seu tamanho) e 30 (atrás de uma
+pedra do seu tamanho, no meio de um dia ensolarado). Você pode permanecer no seu esconderijo
+por até 1 hora, e enquanto fizer isso, você é considerado Invisível.
+---
+--Faro--
+Habilidade (Característica) – Suporte
+Descrição: Você possui um faro extremamente aguçado. Você rola +1d6 quando puder
+fazer testes que envolvam o faro, e pode perceber, detectar, rastrear e identificar pessoas e locais
+através dele. O Mestre pode realizar testes para
+ver se você consegue farejar mesmo quando você
+não estiver ativamente procurando odores específicos.
+---
+--Flexível--
+Habilidade (característica) – Suporte
+Descrição: Você tem o corpo muito flexível, capaz de se dobrar, esticar e espremer de maneira extremas. Você pode passar por aberturas
+como se tivesse apenas metade do seu tamanho,
+consegue escorregar para fora de grilhões e amarras com facilidade, pode se esticar e dobrar de
+modos a alcançar pontos de apoio difíceis numa
+escalada além de ser mais ágil quando corre e escapa de obstáculos, recebendo um bônus de +2
+em testes de correr, escalar, se equilibrar e escapar
+de amarras e de tentativas de agarrões.
+Especial: Armaduras com a Característica
+Pesada impedem que você receba os benefícios
+dessa Habilidade.
+---
+--Infecção Grave--
+Habilidade (Característica) – Suporte
+Descrição: Quando você morde uma criatura viva, ela é afetada com muito mais violência
+pela doença que você transmite. Um alvo mordido
+por você que não tenha sucesso em resistir à sua
+infecção é afetado imediatamente pela doença que
+você transmite como se tivesse falhado no primeiro teste para verificar os efeitos dos sintomas.
+Especial: Ao selecionar esta Habilidade,
+você pode rolar novamente na tabela de Doenças Naturais e escolher se vai permanecer com
+sua infecção inicial ou se vai ficar com a nova
+doença – resultados que indiquem a mesma doença devem ser desconsiderados. Esta escolha é
+permanente.
+---
+--Rei dos Ratos--
+Habilidade (Característica) – Suporte
+Descrição: Você é capaz de se comunicar
+com todos os tipos de roedores, e essas criaturas
+são particularmente atraídas por você. Uma quantidade de roedores igual a duas vezes a sua Vontade estão constantemente te acompanhando e,
+caso morram, outros aparecerão assim que você
+estiver em um local onde existam roedores. Estes
+animais possuem temperamento Protetor com
+relação a você, realizando pequenas tarefas e até
+mesmo lhe protegendo se necessário.
+Se algum efeito (mágico ou mundano) for
+utilizado para controlar os roedores, eles fugirão
+em pânico ao invés de serem afetados e só retornarão depois que o tempo do efeito tiver passado.
+---
+--Vetor de Pragas--
+Habilidade – Suporte
+Requisito: Rei dos Ratos
+Descrição: Os roedores que o acompanham se tornaram vetores para a doença que
+você é capaz de transmitir, e em combate atacarão qualquer criatura que o ameace – embora
+façam isso com certa cautela, atacando e fugindo.
+No começo de cada um de seus turnos, cada criatura que tiver realizado ataques corporais contra
+você (tenham acertado ou não) será atacada por
+1 roedor, que além de dano pode infectar criatura
+com a mesma doença que sua mordida transmite
+(a dificuldade da contaminação será baseada na
+própria doença, não na sua Determinação).
+Especial: Se você tiver a Habilidade Infecção Grave, considere que todos os roedores que
+seguem você também possuem esta Habilidade.
+---
+--Astuto--
+Habilidade (Característica) – Suporte
+Descrição: Você é mais astuto
+que a maioria dos indivíduos da
+sua raça. Você tem Inteligência +1
+e +2 em todos os testes de Inteligência e Agilidade que envolvam percepção, mover-se em silêncio, camuflagem,
+furtar bolsos e testes semelhantes.
+---
+--Cauda Hábil--
+Habilidade (Característica) – Suporte
+Descrição: Você treinou para usar sua cauda para ajudar em diversas atividades. A cauda não
+tem estrutura para ser usada como arma, mas pode
+segurar e arrastar objetos, desenhar Runas Arcanas
+e Selos Místicos ou ser usada como apoio para auxiliar em escaladas ou usada para se segurar. Sempre que puder usar sua cauda para lhe auxiliar na
+tarefa que estiver realizando – como em testes de
+escalar ou agarrar – você recebe +2 no teste. Este
+bônus não se aplica a testes de conjurar magias.
+---
+
+**Naga**
+
+---
+/*
+ATRIBUTOS INICIAIS
+Machos Fêmeas
+Força 3 Força 2
+Agilidade 4 Agilidade 3
+Inteligência 3 Inteligência 4
+Vontade 2 Vontade 3
+CLASSES COMUNS (MACHO)
+Espadachim, Rúnico e Paladino.
+CLASSES COMUNS (Fêmea)
+Feiticeiro, Necromante e Rúnico.
+HABILIDADE AUTOMÁTICA
+--Corpo Ofídio--
+Habilidade (Característica) – Suporte
+Descrição: Você possui um corpo
+alongado, flexível e forte com uma cauda no
+lugar de pernas. Você recebe +2 em seus testes de nadar e agarrar quando utiliza sua cauda, e você pode se levantar como uma ação
+livre. Sua cauda pode ser usada para segurar e
+arrastar objetos (mas não utilizá-los para realizar ataques), realizar ataques desarmados
+(dano igual à Força/Contusão) e desenhar
+Runas Arcanas ou Selos Místicos.
+Você não é capaz de cavalgar, e não é
+capaz de impulsionar seu corpo todo acima
+do chão.
+Além disso, você recebe +1d6 para resistir a efeitos de venenos naturais e mágicos
+e não é afetado por efeitos não-mágicos que
+restrinjam a visão – como água lamacenta,
+fumaça, poeira, areia, chuva, etc.
+*\
+---
+
+Habilidades Extras
+
+---
+--Ameaçador--
+Habilidade (Característica) – Suporte
+Requisitos: Intimidador
+Descrição: Você é tão assustador que é
+difícil para qualquer um tentar manipulá-lo sem
+pensar nos riscos. Você tem Determinação +2 e
+se for alvo de um efeito de Medo ou tentativa de
+intimidação ou persuasão e o efeito não for um
+sucesso, o personagem que tentou afetá-lo sofrerá automaticamente (sem ser necessário qualquer
+teste) os efeitos da Habilidade Intimidador.
+---
+--Anfíbio--
+Habilidade (Característica) – Suporte
+Descrição: Seu organismo é adaptado
+tanto para ambientes secos quanto subaquáticos. Você consegue respirar e se movimentar
+tanto sob quanto sobre a água normalmente.
+Além disso, você recebe +2 em todos os seus
+testes para resistir a venenos, doenças e exaustão.
+---
+--Constritor--
+Habilidade (Técnica) – Suporte
+Descrição: Você pode utilizar seu corpo
+serpentiforme para agarrar e apertar em combate. Você recebe +2 em seus testes de agarrar
+para tentar constringir um alvo. Como usa seu
+corpo para constringir o alvo, sem precisar de
+seus braços, você pode realizar ataques normais
+(mas não usar Habilidades de Ação) durante o
+seu turno, e pode usar sua ação de Movimento
+(ao invés de uma ação padrão) para apertar a sua
+vítima.
+Você não pode atacar a criatura que estiver constringindo com qualquer arma de haste
+ou que tenha a característica Duas Mãos, e não
+pode se deslocar enquanto estiver constringindo
+um alvo.
+---
+--Escamas Grossas--
+Habilidade (Característica) – Suporte
+Descrição: Suas escamas são particularmente resistentes e fortes. Você tem Defesa +2 e
+você reduz todo o dano que sofrer em 2, independente da fonte (esses bônus de Defesa e redução
+de dano contam como Armadura).
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Intimidador--
+Habilidade (Técnica) – Ação
+Mana: 15
+Descrição: Você é particularmente assustador quando quer. Você pode intimidar um
+oponente que esteja a até 3 metros de você. Faça
+um Confronto de Força ou Vontade (o que for
+mais alto) contra a Vontade do alvo. Este é um
+teste Social e você recebe +1d6 nele. Se você tiver sucesso, o alvo é considerado Amedrontado
+com relação a você até que você saia da linha de
+visão dele. Além disso, imediatamente depois de
+usar esta Habilidade com sucesso, você pode fazer uma pergunta direta contra o alvo e ele terá
+que responder da melhor forma possível (embora
+ainda possa tentar suprimir informações, ele não
+pode mentir).
+Este é um efeito de Medo.
+---
+--Mordida Venenosa--
+Habilidade (Característica) – Suporte
+Descrição: Você possui glândulas em sua
+boca que produzem veneno que pode ser injetado
+através da sua mordida. Você pode fazer um ataque desarmado com seus dentes que causa dano
+igual à Força +2/Perfuração. Qualquer alvo que
+sofra dano por sua mordida será injetado com uma dose de Veneno Paralisante (Guia do Herói,
+página 78).
+Esse veneno é considerado natural.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---
+--Regeneração Instantânea--
+Habilidade – Reação
+Mana: 5
+Descrição: Seu corpo consegue se regenerar numa velocidade sobrenatural. Sempre que sofre dano, você pode recuperar uma
+quantidade de Pontos de Vida igual à sua
+Vontade (até no máximo o dano sofrido pelo
+ataque).
+---
+--Visão Olfativa--
+Habilidade (Característica) – Suporte
+Descrição: Você possui um olfato extremamente apurado. Mesmo que não seja capaz de
+ver, você consegue perceber o tamanho e a localização aproximada dos objetos ao seu redor.
+Você só é considerado cego se, além da sua visão,
+seu olfato também for anulado de alguma forma.
+Quando estiver se localizando apenas pelo olfato,
+não consegue definir detalhes específicos (como
+cores, inscrições ou fisionomias). Além disso,
+você também rola +1d6 quando fizer testes que
+envolvam o sentido do olfato, e pode rastrear trilhas recentes – menos de 6 horas – usando este
+sentido.
+---
+
+**Orc**
+
+---
+/*
+Atributos Iniciais:
+Força 4
+Agilidade 3
+Inteligência 2
+Vontade 3
+Classes comuns: Druida, Guerreiro, Patrulheiro e Xamã.
+Habilidade Automática
+--Sangue Orc--
+Habilidade (Característica) – Suporte
+Descrição: Você possui características aguçadas pelos hábitos noturnos e predatórios da sua raça. Você tem +10 Pontos
+de Vida e consegue enxergar na completa escuridão, mas nesses ambientes não consegue
+distinguir cores.
+*\
+---
+
+Habilidades Extras
+
+---
+--Ameaçador--
+Habilidade (Técnica) – Suporte
+Requisitos: Intimidador
+Descrição: Você é tão assustador que é
+difícil para qualquer um tentar manipulá-lo sem
+pensar nos riscos. Você tem Determinação +2 se
+for alvo de um efeito de Medo e tentativa de Persuasão ou se um personagem tentar afetar você
+com um desses efeitos e falhar, ele sofrerá automaticamente (sem ser necessário qualquer teste)
+os efeitos da Habilidade Intimidador.
+---
+--Fúria Orc--
+Habilidade (Técnica) – Reação
+Mana: 30
+Descrição: Quando você entra em combate, seu sangue ferve e você é tomado por uma fúria destrutiva, ficando neste estado até o final do
+combate – ou até ficar 2 turnos sem atacar. Você
+pode entrar em um estado de Fúria sempre que
+for atacado (tendo sido atingido ou não), for alvo
+de uma Habilidade do tipo Magia ou sofrer dano
+causado por outra criatura. Enquanto estiver em
+Fúria, você recebe +2 em Força, Determinação
+e Deslocamento. Você não pode estar em Fúria
+Orc e Fúria de Batalha ao mesmo tempo.
+---
+--Intimidador--
+Habilidade (Técnica) – Ação
+Mana: 15
+Descrição: Você é particularmente assustador quando quer. Você pode intimidar um
+oponente que esteja a até 3 metros de você. Faça
+um Confronto de Força ou Vontade (o que for
+mais alto) contra a Vontade do alvo. Este é um
+teste Social e você recebe +1d6 nele. Se você tiver sucesso, o alvo é considerado Amedrontado
+com relação a você até que você saia da linha de
+visão dele. Além disso, imediatamente depois de
+usar esta Habilidade com sucesso, você pode fazer uma pergunta direta contra o alvo e ele terá
+que responder da melhor forma possível (embora
+ainda possa tentar suprimir informações, ele não
+pode mentir).
+Este é um efeito de Medo.
+---
+--Mordida Poderosa--
+Habilidade (Característica) – Ação
+Descrição: Você pode usar seus dentes
+para fazer um ataque desarmado. O dano da sua
+mordida é igual a sua Força +4/Corte.
+---
+--Nômade do Deserto--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado a ambientes desérticos e aprendeu a viver nesses
+locais. Você recebe um bônus de +1 em todos
+os seus testes quando está em um ambiente de
+deserto ou savana. Além disso, você pode passar
+uma quantidade de dias iguais à sua Força sem
+precisar ingerir água antes de ficar Desidratado e
+não é afetado por climas particularmente quentes
+ou áridos.
+---
+--Potência--
+Habilidade (Característica) – Suporte
+Descrição: Você é mais forte e resistente
+do que a maioria dos indivíduos da sua raça. Você
+tem Força +1 e +5 Pontos de Vida.
+---
+--Robustez--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma constituição
+vigorosa para os padrões da sua raça. Você tem
++5 Pontos de vida e rola +1d6 em testes de Resistência.
+---
+--Sangue Orc 2--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma fisiologia
+particularmente resistente, mesmo para os padrões Orcs. Você é imune a todas as doenças naturais e tem +10 Pontos de Vida.
+Especial: Você só pode selecionar essa
+Habilidade durante a criação do personagem.
+---

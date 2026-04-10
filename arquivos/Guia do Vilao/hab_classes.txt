@@ -1,0 +1,1412 @@
+Habiliades Classes
+
+---
+
+**Dracomante**
+
+--
+/*
+Bônus de Atributos:
+Força +1
+Vontade +1
+Habilidade Automática:
+--Conhecimento Místico--
+Habilidade (Técnica) – Suporte
+Descrição: Você está ligado às energias místicas provenientes de forças superiores e consegue comungar com elas. Você
+pode ler e utilizar tomos mágicos e desenhar
+Selos Místicos (veja o Guia Básico, pág. 36
+para regras sobre magia). Você também pode
+entrar em um estado de transe se concentrando por 1 minuto. Enquanto continuar
+meditando dessa forma, você recupera uma
+quantidade de Pontos de Mana igual à sua
+Vontade a cada 10 minutos.
+*\
+---
+
+Habiliades Basicas
+
+---
+--Aparar Magia--
+Habilidade (Técnica) – Reação
+Requisito: Detectar Magia
+Mana: 5
+Descrição: Sempre que for alvo de uma
+magia que cause dano ou perda de vida, você
+pode reduzir aquele dano ou perda de vida pela
+metade.
+Essa Habilidade não afeta quaisquer outros efeitos da magia além de dano ou perda
+de vida.
+Especial: Se você tiver Resistência ao
+tipo de dano que a magia causa, você não sofre
+dano e evita qualquer outro efeito da magia.
+---
+--Arcipreste--
+Habilidade (Característica) – Suporte
+Descrição: Você possui um considerável conhecimento e uma compreensão intuitiva sobre os desígnios da Aurora dos Dragões.
+Você rola +1 em todos os seus testes envolvendo magias (incluindo conjurá-las) e criaturas
+dracônicas. Além disso, o custo em Mana de
+todas as Habilidades do tipo Magia que você
+conjurar é diminuído em 5.
+---
+--Arsenal Dracônico--
+Habilidade (Característica) – Suporte
+Requisitos: Vínculo Dracônico
+Descrição: Você desenvolve garras, presas, chifres, escamas afiadas e espigões pontudos
+que podem ser usados como armas naturais.
+Seus ataques desarmados sempre causam dano
+igual à Força +2 (ou Força +4 em manobras de
+Encontrão), e você sempre pode escolher se esse
+dano será por Contusão, Corte ou Perfuração.
+---
+--Asas Elementais--
+Habilidade (Magia) – Ação
+Mana: 15
+Dificuldade da Magia: 10
+Descrição: Desenhando um Selo Místico sobre uma criatura viva, você faz com que
+um par de asas de energia surjam em suas costas. O alvo ganha a Habilidade Asas Fortes.
+Esse Selo Místico dura uma quantidade de
+minutos igual à Determinação do conjurador.
+---
+--Aura do Dragão--
+Habilidade (Magia) – Ação
+Mana: 15
+Dificuldade da Magia: 10
+Descrição: Desenhando um Selo Místico sobre si mesmo, você gera uma aura de
+energia elemental (Fogo, Frio ou Eletricidade)
+– essa escolha é feita quando você conjura a
+magia. Qualquer criatura que esteja adjacente a
+você quando conjurar esta magia, quando ela
+terminar seu deslocamento ou quando ela iniciar seu turno sofrem uma quantidade de dano
+do elemento selecionado igual à sua Vontade.
+Este Selo Místico dura 1 minuto.
+---
+--Bafo do Dragão Negro--
+Habilidade (Magia) – Ação
+Mana: 25
+Dificuldade da magia: 11
+Descrição: Desenhando um Selo Místico no ar, você projeta uma rajada de fumaça
+que se espalha rapidamente por uma área igual
+à sua Determinação à sua frente. Todas as criaturas ficam cegas e distraídas e são consideradas
+Invisíveis enquanto estiverem dentro da área.
+Esse Selo Místico se dissipa imediatamente depois que seus efeitos são desencadeados, mas a fumaça dura por 1 minuto – metade
+disso em climas quentes ou o dobro disso em
+climas frios. Ventos intensos dissipam a neblina
+mais rapidamente, dependendo da sua intensidade – a critério do Mestre.
+---
+--Cauda Dracônica--
+Habilidade (Característica) – Suporte
+Requisitos: Vínculo Dracônico
+Descrição: Sua sintonia dracônica faz
+com que você desenvolva uma cauda dracônica
+forte e muscular. Sua cauda não é hábil suficiente
+para manipular itens com destreza, mas pode ser
+usada para segurar e arrastar objetos e é capaz de
+realizar ataques desarmados (dano igual à Força/Contusão). A cauda oferece um bônus de +2
+em testes de nadar e agarrar e, uma vez por rodada, quando uma criatura se aproximar do seu
+alcance corpo-a-corpo, você pode imediatamente realizar um ataque desarmado com sua cauda
+contra o alvo, como uma Reação.
+---
+--Companheiro Dragão 1--
+Habilidade – Suporte
+Requisito: Sintonia Dracônica
+Descrição: Você pode conjurar um Ovo
+Elemental. Este Ovo é considerado um item de
+Drakonite com as Características Canalizador,
+Foco Mágico, Cerne Místico e Cerne Arcano.
+Um Dracomante não pode conjurar mais
+do que um Ovo Elemental de cada vez, nem
+pode conjurar um Ovo Elemental se possuir
+um Companheiro Dragão. O Dracomante
+sempre sabe a direção e a distância de seu Ovo
+Elemental. Se ficar mais de um dia inteiro sem
+contato com o Dracomante – ou se estiver em
+um plano diferente do Dracomante – o Ovo se
+dissipa em energia elemental.
+---
+--Companheiro Dragão 2--
+Habilidade – Suporte
+Requisito: Companheiro Dragão 1.
+Descrição: Você pode transmutar seu
+ovo em um pequeno Dragão. Você possui um
+contato telepático com o Companheiro Dragão
+e sempre sabe qual a direção e a distância dele, e, fechando os olhos e se concentrando, pode
+usar os sentidos do seu Companheiro Dragão
+(ficando Desprevenido com relação ao seu próprio corpo enquanto isso). Um Companheiro
+Dragão é uma Besta (Dragão) de tamanho pequeno, com o temperamento Servo, a mesma
+Sintonia Dracônica que você, 3 em todos os
+Atributos +1 em 2 Atributos à sua escolha. Ele
+tem 40 Pontos de Vida e Mana, +10 Pontos
+de Vida para cada nível que você tiver e uma
+quantidade de Pontos de Mana a mais iguais a
+5 vezes a sua Vontade. Além disso, ele possui
+todas as Características Dracônicas listadas na
+raça Dragano (Página 25).
+---
+--Defesa do Dragão do Relâmpago--
+Habilidade (Magia) – Reação
+Requisito: Aura do Dragão
+Mana: 10
+Dificuldade da Magia: 12
+Descrição: Você é capaz de produzir um
+campo de magnetismo ao seu redor, repelindo
+metal. Desenhando um Selo Místico sobre si
+mesmo, você sempre pode ativá-lo se for alvo
+de um ataque de uma arma com componentes
+de metal, impedindo que a arma o toque, evitando o ataque completamente.
+Esse Selo Místico se dissipa apenas quando você dormir (ou perder a consciência de
+alguma forma) e não quando é ativado – mas
+consome seu custo em Mana sempre que seu
+efeito for desencadeado.
+---
+--Detectar Magia--
+Habilidade (Técnica) – Ação
+Descrição: Concentrando-se nos fluxos de energias mágicas, você pode enxergar a
+aura de objetos mágicos, Runas Arcanas e Selos Místicos. Você pode analisar a aura mágica
+de um Selo, Runa ou objeto para entender suas
+propriedades observando-a por 1 minuto.
+---
+--Escamas Dracônicas--
+Habilidade (Característica) – Suporte
+Requisitos: Vínculo Dracônico
+Descrição: Sua sintonia dracônica faz
+com que sua pele seja recoberta de escamas
+grossas e resistentes. As escamas lhe fornecem
+Defesa +2 (esse bônus de Defesa conta como
+Armadura) e você reduz todo o dano que sofrer
+em 2, independente da fonte.
+---
+--Exalação do Dragão do Frio--
+Habilidade (Magia) – Ação
+Requisito: Aura do Dragão
+Mana: 30
+Dificuldade da magia: 11
+Descrição: Desenhando um Selo Místico
+no ar, você projeta uma rajada de refrescante que
+acalma e renova as criaturas dentro dela. Todas
+as criaturas dentro de uma área ao seu redor igual
+à sua Vontade restauram Pontos de Vida – mas
+não Pontos de Mana – como se tivessem descansado por um número de horas iguais à sua
+Vontade. Todos os efeitos que ocorreriam ou
+expirariam dentro desse tempo (fadiga, exaustão,
+venenos, magias, doenças) são dissipados sem
+produzir qualquer efeito. Além disso, os efeitos
+de desidratação (mas não fome) de todas as criaturas dentro da área são removidos.
+Esse Selo Místico se dissipa imediatamente depois que seus efeitos são desencadeados.
+---
+--Fôlego do Dragão Marinho--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando um Selo Místico
+sobre uma criatura viva, você faz com que ela seja
+capaz de respirar sob a água e receba um bônus de
++1d6 em testes de natação. Este efeito funciona
+mesmo que o alvo seja imerso em outros líquidos
+que não sejam água – como lama, óleo ou piche –
+e o torna imune a efeitos referentes à respiração –
+como fumaça ou gases venenosos, por exemplo.
+Este Selo Místico dura por 1 hora.
+---
+--Fúria do Dragão--
+Habilidade (Técnica) – Reação
+Mana: 10
+Descrição: Você é capaz de canalizar a
+fúria elemental dos Dragões com seus ataques!
+Quando fizer um ataque desarmado, você pode
+adicionar uma quantidade de dano elemental
+(Fogo, Frio ou Eletricidade) àquele ataque igual
+à sua Vontade.
+---
+--Hálito do Dragão--
+Habilidade (Magia) – Ação
+Mana: 25
+Dificuldade da Magia: 11
+Descrição: Desenhando um Selo Místico no ar à sua frente, você conjura uma rajada elemental que simula o sopro dos dragões – essa escolha é feita quando você conjura a
+magia. Esta magia atinge tudo e todos a uma
+distância em metros igual à sua Vontade à sua
+frente, e seu dano (e possíveis efeitos) varia de
+acordo com o elemento selecionado: Hálito de
+Fogo causa dano igual a 20/Fogo. Hálito de
+Frio causa dano igual a 10/Frio e qualquer criatura que sofra dano pelo sopro fica Enregelado.
+Hálito de Eletricidade causa dano igual a 15/
+Eletricidade e qualquer criatura que sofra dano
+pelo sopro fica Atordoado por 1 turno.
+Este Selo Místico se dissipa imediatamente depois que seus efeitos forem desencadeados.
+---
+--Rugido do Dragão do Deserto--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 13
+Descrição: Desenhando um Selo Místico no ar você cria um poderoso estrondo semelhante ao rugido de um grande dragão do
+deserto. Todas as criaturas a um número de
+metros igual à sua Vontade a sua frente ficam
+Atordoadas e surdas por uma quantidade de
+turnos igual à sua Vontade.
+Esse Selo Místico se dissipa imediatamente depois que seus efeitos são desencadeados.
+---
+--Sintonia Dracônica--
+Habilidade (Característica) – Suporte
+Descrição: Você está sintonizado com a
+energia elemental de um tipo de dragão. Escolha entre ser sintonizado com dragões de fogo
+e ter Resistência a Fogo, ser sintonizado aos
+dragões do frio e ter Resistência a Frio ou ser
+sintonizado com os dragões do relâmpago ser
+Resistente à Eletricidade. Em seguida, escolha
+um tipo de energia (Fogo, Frio ou Eletricidade)
+diferente daquele ligado ao tipo de dragão que
+você é sintonizado. Você perde Resistência ou
+Imunidade contra aquele elemento (se possuir)
+e não pode se tornar Resistente ou Imune a ele
+de forma alguma (nem mesmo através de magias ou itens mágicos). Essas escolhas são permanentes e não podem ser mudadas mais tarde.
+Especial: Sempre que utilizar uma Habilidade que cause o mesmo dano da Resistência que
+tiver escolhido, aquela Habilidade causa dano +6.
+---
+--Travessia do Dragão do Fogo--
+Habilidade (Magia) – Ação
+Requisitos: Aura do Dragão
+Mana: 40
+Dificuldade da Magia: 13
+Descrição: Desenhando um Selo Místico sobre uma chama com tamanho equivalente a uma fogueira de acampamento ou maior
+enquanto se concentra em um local que já tenha visitado pelo menos uma vez. A chama
+sobre a qual você conjurou a magia explode
+engolfando você e causando uma quantidade
+de dano igual à sua Determinação/Fogo em
+tudo e todos numa área de 3 metros de raio.
+Você surge no local em que se concentrou
+com uma explosão flamejante que causa o
+mesmo dano.
+O Selo Místico se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Vínculo Dracônicov
+Habilidade – Suporte
+Descrição: Você passou muito tempo lidando com nexos dracônicos e/ou com
+Dragões em pessoa e foi alterado pelas energias que eles emanam. Seus olhos se tornaram semelhantes aos de um dragão, e você
+consegue enxergar no escuro com perfeição.
+Além disso, você ignora efeitos de climas extremos e não é afetado por efeitos de envelhecimento.
+---
+
+Habiliades Avançadas
+
+---
+--Asas Dracônicas--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Vínculo Dracônico.
+Descrição: Você desenvolve grandes
+asas dracônicas em suas costas com uma envergadura igual ao dobro de sua altura. Você é
+capaz de alçar voo se possuir espaço suficiente
+para abrir as asas. Você é capaz de planar, parar
+no ar e permanecer voando indefinidamente, e
+sua velocidade de voo é o triplo de seu deslocamento normal.
+Especial: O dano de qualquer manobra
+de Encontrão usada em voo é duplicado (mas
+o dano da arma que você usar no Encontrão
+não é alterado, nem quaisquer outros possíveis
+efeitos do Encontrão).
+---
+--Átrio Elemental--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Aura do Dragão.
+Mana: 40
+Dificuldade da Magia: 12
+Descrição: Você desenha um Selo Místico
+no ar que se transforma em uma aura elemental
+centrada em você e com um diâmetro em metros
+igual à sua Determinação. Quando conjurar esta
+magia, você deve escolher um tipo de energia
+elemental (Fogo, Frio ou Eletricidade). Todas as
+Magias e Habilidades que causem dano do tipo
+de energia escolhida causam um dano adicional
+igual à sua Vontade. Além disso, todas as criaturas dentro da área que forem Imunes àquele tipo
+de energia se tornam Resistentes a ela e criaturas
+Resistentes à energia selecionada perdem esta característica (você não é afetado por este efeito).
+Este Selo Místico dura 1 minuto.
+---
+--Benção do Dragão--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Sintonia Dracônica.
+Mana: 20
+Dificuldade da Magia: 12
+Descrição: Desenhando um Selo Místico
+sobre um alvo, ele passa a absorver o elemento da
+sua Sintonia Dracônica (recuperando uma quantidade de Pontos de Vida iguais a qualquer quantidade de dano que sofreria por aquele elemento).
+Esse Selo Místico dura 1 minuto.
+Especial: Se essa magia for lançada a
+partir de um item de registro sem que o conjurador tenha Sintonia Dracônica, ela funciona
+exatamente como Resistência Elemental.
+---
+--Companheiro Dragão 3--
+Habilidade – Suporte
+Requisito: Nível 5, Companheiro Dragão 2.
+Descrição: Você possui uma ligação ainda mais potente com seu Companheiro Dragão
+– que agora também possui uma forma maior e
+mais robusta. Fechando os olhos e se concentrando, você pode assumir o controle do corpo
+se seu companheiro como se fosse seu (ficando
+Desprevenido com relação ao seu próprio corpo enquanto isso). Seu companheiro se torna
+uma criatura de tamanho Médio, ganha +1 em
+todos os seus Atributos, +1 em 2 Atributos à
+sua escolha. Além disso, você pode escolher 2
+Habilidades da lista das Habilidades Raciais dos Draganos (Página 26) para seu Companheiro
+Dragão.
+---
+--Companheiro Dragão 4--
+Habilidade – Suporte
+Requisito: Nível 5, Companheiro Dragão 3.
+Descrição: Seu Companheiro Dragão se
+torna uma criatura formidável com a qual você
+possui uma ligação profunda. Enquanto estiver
+em contato físico direto com seu Companheiro Dragão vocês compartilham seus Pontos de
+Mana e podem transferir Pontos de Mana um
+para o outro como uma Ação livre. Seu companheiro se torna uma criatura de tamanho
+Grande, ganha +1 em todos os seus Atributos,
++1 em 2 Atributos à sua escolha. Além disso,
+ele recebe a Habilidade Montaria e mais 1 Habilidade da lista do Dragano (pagina 26) à sua
+escolha.
+---
+--Dissipar Magia--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Aparar Magia.
+Mana: Variável
+Descrição: Você dissipa todas as Runas
+Arcanas ou Selos Místicos de uma criatura, objeto ou estrutura com seu toque. Essa Habilidade
+não tem efeito em Runas ou Selos com efeitos
+instantâneos (como Curar Ferimentos, Rajada de
+Espinhos ou Teleporte) nem reverte efeitos permanentes de magia (como restaurar os Pontos
+de Vida perdidos devido a uma Bola de Fogo,
+dissipar água criada por Princípio Natural ou
+reverter água afetada por Raio Gélido de volta
+ao estado líquido). Você pode também escolher
+quais Runas ou Selos dissipar e quais não, caso o
+alvo tenha mais de um Selo ou Runa afetando-o.
+O custo para dissipar um Selo ou Runa é
+igual ao custo usado para conjurá-los.
+---
+--Exarca--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Arcipreste.
+Descrição: Você acumulou um grande
+conhecimento sobre os desígnios da Aurora
+dos Dragões. Você rola +1 em todos os seus
+testes envolvendo magias (incluindo conjurá-
+-las) e criaturas dracônicas. Além disso, o dano
+causado por todas as Habilidades do tipo Magia e Característica que causem dano elemental
+(Fogo, Frio e Eletricidade) causam uma quantidade de dano extra igual à sua Vontade.
+Estes bônus se acumulam com os bônus
+de Arcipreste.
+---
+--Forma Dracônica--
+Habilidade (Característica) – Ação
+Requisito: Nível 5, Presença Dracônica.
+Mana: 50
+Descrição: Você é capaz de assumir a forma de um dragão! Você assume a forma de um
+Dragão Jovem do elemento ao qual é sintonizado.
+Use as estatísticas do dragão em que se transformou, mantendo apenas sua Inteligência, Vontade
+e Pontos de Mana. Quando você retorna para sua
+forma natural, você volta a ter os Pontos de Vida
+que tinha antes de se transformar.
+Você mantém todas as Habilidades que
+possuir, mas não será capaz de utilizar a maioria
+dos itens que forem adequados a criaturas humanoides – como armas, itens de conjuração,
+livros e kits de cura, por exemplo.
+Todo o equipamento que você estiver
+carregando é absorvido e desaparece na transformação e nenhum deles oferecerá nenhum
+modificador enquanto você permanecer na forma animal (incluindo itens mágicos).
+Você pode permanecer nesta forma por
+até 1 hora, mas pode retomar sua forma natural
+a qualquer momento. Se sua forma de dragão
+ficar sem Pontos de Vida, você retorna à sua
+forma natural imediatamente, e qualquer dano
+que seja causado além dos Pontos de Vida da
+forma dracônica serão perdidos pela sua forma
+natural.
+---
+--Hálito do Dragão Ancião--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Hálito do Dragão.
+Mana: 45
+Dificuldade da Magia: 13
+Descrição: Desenhando um Selo Místico no ar à sua frente, você conjura uma rajada elemental com o poder da baforada de um
+grande dragão! – essa escolha é feita quando
+você conjura a magia. Esta magia atinge tudo
+e todos a uma distância em metros igual à sua
+Determinação à sua frente, e seu dano (e possíveis efeitos) varia de acordo com o elemento
+selecionado: Hálito de Fogo causa dano igual a
+40/Fogo. Hálito de Frio causa dano igual a 20/
+Frio e qualquer criatura que sofra dano pelo sopro fica Enregelado. Hálito de Eletricidade causa dano igual a 30/Eletricidade e qualquer criatura que sofra dano pelo sopro fica Atordoado
+por um número de turnos igual à sua Vontade.
+Este Selo Místico se dissipa imediatamente depois que seus efeitos forem desencadeados.
+---
+--Presença Dracônica--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Exarca, Vínculo
+Dracônico.
+Descrição: Seu vínculo com as energias
+dracônicas faz com que você exale uma aura
+que faz com a maioria das criaturas se sinta perturbada em sua presença. Você tem Determinação +2 e em testes para perceber mentiras, intimidar e barganhar. Além disso, você é imune a
+efeitos de medo e efeitos mentais. 
+---
+
+Habilidade Final
+
+---
+--Flagelo da Aurora--
+Habilidade (Magia) – Ação
+Requisitos: Nível 10, Exarca, Hálito do Dragão, Vínculo Dracônico.
+Mana: 60
+Dificuldade da Magia: 16
+Descrição: Desenhando um Selo
+Místico no ar, você abre um portal para os
+planos elementais, conjurando poderosas
+energias que assumem a forma de dragões
+de cada um dos diferentes tipos de elementos (Fogo, Frio e Eletricidade). Enquanto
+este Selo estiver ativo, você pode comandar essas energias para atingir alvos dentro da sua linha de visão, cada uma delas
+causando 30 Pontos de Dano do elemento
+referente – elas podem ser direcionadas
+contra um mesmo alvo, ou você podem
+direcionar cada uma delas contra um alvo
+diferente à sua escolha, e estes alvos podem ser alterados livremente no começo
+de cada um de seus turnos, como uma ação
+livre.
+Esse Selo Místico dura uma quantidade de turnos igual à sua Vontade, mas
+se dissipa imediatamente se você conjurar
+outra magia ou sofrer dano.
+---
+
+**Necromante**
+
+--
+/*
+Bônus de Atributo:
+Inteligência +1
+Vontade +1
+Habilidade Automática
+--Conhecimento Arcano--
+Habilidade (Técnica) – Suporte
+Descrição: Você é capaz de decifrar e
+canalizar os fenômenos do sobrenatural. Você
+pode ler e utilizar tomos mágicos e desenhar
+Runas Arcanas (veja o Guia Básico, pág. 36
+do Guia Básico para regras sobre magia). Você
+também é capaz de canalizar sua energia para
+a conjuração de fenômenos mágicos com eficiência. Sempre que usar uma Habilidade do
+tipo Magia, você pode gastar Pontos de Vida ao
+invés de Pontos de Mana para pagar seu custo.
+Nesse caso, cada 2 Pontos de Vida equivalem a
+1 Ponto de Mana.
+*\
+---
+
+Habiliades Basicas
+
+---
+--Absorver Alma--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: Determinação do Alvo
+Descrição: Se alguma criatura do
+tipo Humanoide ou Esfinge chegou a 0
+Pontos de Vida no último minuto, você
+pode desenhar uma Runa Arcana sobre
+ela e absorver a energia vital daquela
+criatura, restaurando uma quantidade
+de Pontos de Mana igual à quantidade de Pontos
+de Mana permanentes do alvo – se a criatura estiver Por um Fio, ela morre imediatamente.
+A Runa Arcana se dissipa imediatamente depois que seus efeitos são desencadeados.
+Este é um efeito de dreno de energia.
+---
+--Aparar Magia--
+Habilidade (Técnica) – Reação
+Requisito: Detectar Magia
+Mana: 5
+Descrição: Sempre que for alvo de uma
+magia que cause dano ou perda de vida, você pode
+reduzir aquele dano ou perda de vida pela metade.
+Essa Habilidade não afeta quaisquer outros
+efeitos da magia além de dano ou perda de vida.
+Especial: Se você tiver Resistência ao
+tipo de dano que a magia causa, você não sofre
+dano e evita qualquer outro efeito da magia.
+---
+--Armadura Necromântica--
+Habilidade (Magia) – Ação
+Requisitos: Contato com Espíritos
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando
+uma Runa Arcana sobre uma Sombra, você
+transforma a energia
+dela em uma armadura de energia que
+protege o usuário.
+A Sombra perde todos os seus Pontos
+de Mana e é imediatamente enviada para
+o Plano Espiritual.
+A energia retirada da
+sombra é transferida
+para uma criatura que
+você possa tocar, que fica
+envolta em uma aura espiritual
+com uma Resistência igual aos Pontos de Mana da Sombra + a Determinação do conjurador. Quando um
+ataque, magia ou efeito causar dano,
+remover Pontos de Vida ou de Mana
+do alvo, o efeito afetará a Resistência
+da armadura antes de afetar o usuário.
+Essa Runa Arcana dura 1 minuto, ou
+até que a armadura fique sem Resistência.
+---
+--Comunhão com Espíritos--
+Habilidade (Característica) – Suporte
+Requisito: Contato com Espíritos
+Mana: 10
+Descrição: Enquanto estiver utilizando
+Contato com Espíritos, você pode tocar outro personagem que será capaz de ouvir e ver
+qualquer espírito num raio de 20 metros por 10
+minutos. Um personagem sob esse efeito pode
+gastar 10 Pontos de Mana para ser capaz de tocar espíritos por 1 minuto.
+---
+--Condenar o Corpo--
+Habilidade (Magia) – Ação
+Requisitos: Despertar dos Mortos 1
+Mana: 15
+Dificuldade da Magia: Determinação
+do Alvo
+Descrição: Desenhando uma Runa Arcana entre você e uma criatura viva, você enfraquece a ligação entre o corpo e o espírito daquela
+criatura, fazendo com que, se a criatura morrer,
+sua alma se desligue do corpo imediatamente,
+indo para o Plano Espiritual, enquanto o corpo
+se erguerá como um zumbi. Se o alvo desta magia estiver dentro da sua linha de visão no momento em que morrer, o zumbi estará automaticamente sob seu controle – caso contrário, ele se
+erguerá como um morto-vivo errante.
+Esta Runa Arcana dura uma quantidade
+de dias igual à sua Determinação, mas assim
+que o corpo morrer, ela se torna uma Runa
+Arcana idêntica àquela de Despertar dos Mortos 1.
+---
+--Condenar a Alma--
+Habilidade (Magia) – Ação
+Requisitos: Contato com Espíritos
+Mana: 10
+Dificuldade da Magia: Determinação
+do Alvo
+Descrição: Desenhando uma Runa Arcana entre você e uma criatura viva consciente, você
+enfraquece a ligação entre o corpo e o espírito
+daquela criatura, fazendo com que, se a criatura
+morrer, sua alma se desligue do corpo imediatamente tornando-se uma Sombra que virá até você
+o mais rápido que puder. Ela permanecerá sob
+seu controle até ser destruída de alguma forma.
+Esta Runa Arcana dura uma quantidade
+de dias igual à sua Determinação.
+---
+--Contato com Espíritos--
+Habilidade (Característica) – Ação
+Mana: 5
+Descrição: Você pode se comunicar
+com os espíritos que estejam próximos. Você
+é capaz de ouvir e ver qualquer espírito num
+raio de 20 metros. Esse efeito dura 10 minutos.
+Você pode gastar 10 Pontos de Mana enquanto
+estiver sob o efeito dessa Habilidade para ser
+capaz de tocar espíritos por 1 minuto.
+---
+--Controlar Mortos-Vivos--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: Determinação
+do Alvo
+Descrição: Desenhando uma Runa Arcana sobre um morto-vivo ou espírito, ele fica
+sob seu controle. Se o morto-vivo estiver sendo
+controlado por outra criatura, a dificuldade será
+igual à Determinação do controlador. Um morto-vivo ou espírito controlado dessa forma será
+completamente leal ao conjurador e aceitará
+quaisquer comandos verbais simples (Me proteja, ataque meus inimigos, defenda esse local,
+carregue esses itens, etc.).
+Alvos com Mente Bloqueada são imunes
+a este efeito.
+Essa Runa Arcana dura por uma quantidade de horas igual à sua Determinação.
+---
+--Crânio Sentinela--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 11
+Descrição: Desenhando uma Runa Arcana sobre um crânio intacto, você cria uma
+ligação necromântica com ele. Um Crânio Sentinela tem uma quantidade de Pontos de Vida
+igual à sua Determinação, e você pode ver
+através dos olhos dele (a visão será em preto-
+-e-branco, mas funciona mesmo na escuridão
+completa), ouvir o que se passa em seus arredores e falar através dele (isso exige concentração e impede que você faça qualquer ação e o
+deixa Desprevenido). Além disso, sempre que
+uma criatura se aproxima a uma quantidade de
+metros do crânio igual à sua Determinação, ou
+se o crânio for destruído ou a Runa Arcana nele
+for dissipada, você ficará ciente disso imediatamente. Se estiver dormindo ou desacordado, você ainda pode interagir com o crânio (como
+uma espécie de sonho consciente).
+Você pode ter uma quantidade máxima
+de Crânios Sentinelas ativos igual à sua Vontade.
+Essa Runa Arcana é perene, mas pode ser
+dissipada a qualquer momento pelo conjurador.
+---
+--Cura Sombria--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 9
+Descrição: Desenhando uma Runa Arcana sobre uma criatura, você a envolve em
+energia espectral que cura uma quantidade de
+Pontos de Vida igual à sua Determinação se o
+alvo for um morto-vivo ou espírito. Se o alvo
+for uma criatura viva, ele perde uma quantidade de Pontos de Vida igual à sua Determinação
+e você recupera uma quantidade de Pontos de
+Vida igual à quantidade perdida pelo alvo.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+Quando usada sobre uma criatura viva esta
+magia é considerada um efeito de dreno de energia.
+---
+--Despertar dos Mortos 1--
+Habilidade (Magia) – Ação
+Mana: 15
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa Arcana sobre os restos de uma Besta ou Humanoide de tamanho Médio ou menor, você o
+transforma em um morto-vivo do tipo apropriado: ossadas vão se transformar em Esqueletos enquanto cadáveres com quantidades
+consideráveis de carne vão se transformar em
+Zumbis. Os restos não precisam estar intactos
+ou sequer completos, mas dependendo do estado em que estiverem, podem ter formas bizarras e dificuldades para realizar certas ações.
+O morto-vivo estará sob seu controle e
+acatará quaisquer comandos verbais simples
+(Ataque aquela criatura, defenda esse local, carregue esses itens, etc.).
+Essa Runa Arcana dura uma quantidade
+de horas igual à sua Determinação.
+---
+--Detectar Magia--
+Habilidade (Técnica) – Ação
+Mana: 0
+Dificuldade da Magia: 8
+Descrição: Concentrando-se nos fluxos de energias mágicas, você pode enxergar a
+aura de objetos mágicos, Runas Arcanas e Selos Místicos. Você pode analisar a aura mágica
+de um Selo, Runa ou objeto para entender suas
+propriedades observando-a por 1 minuto.
+---
+--Energia Sombria 1--
+Habilidade (Magia) – Ação
+Mana: 0
+Dificuldade da Magia: 9
+Descrição: Desenhando uma Runa Arcana
+no ar, você projeta uma rajada de energia espectral
+que, ao atingir uma criatura viva, faz com que ela
+perca uma quantidade de Pontos de Vida e Pontos
+de Mana igual à sua Vontade – se o alvo for um morto-vivo ou espírito, ele recupera uma quantidade de
+Pontos de Vida igual à sua Vontade ao invés disso.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+Quando usada sobre uma criatura viva esta
+magia é considerada um efeito de dreno de energia.
+---
+--Esconjurar--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: Especial
+Descrição: Desenhando uma Runa Arcana
+sobre uma criatura, você desfaz quaisquer ligações
+sobrenaturais que ela possua. Se a criatura estiver
+sendo controlada, o controlador do alvo imediatamente perde 10 Pontos de Mana e fica Atordoada
+por um número de turnos igual à sua Vontade. Se
+o alvo for um elemental, infernal, deva, espírito ou
+criatura invocada, ela é imediatamente banida para
+seu plano de origem. Se for uma criatura convocada, ela retorna ao seu comportamento normal
+– geralmente fugindo em confusão. Se o alvo for
+um construto, todos os Selos Místicos e Runas Arcanas sobre ele são dissipados. Se o alvo for um
+morto-vivo, ele se torna um cadáver inanimado e
+não pode mais ser reanimado.
+A dificuldade desta magia é igual à Determinação da criatura OU da criatura controlando o alvo, se ele estiver sendo controlado.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+---
+--Invocar Espectro--
+Habilidade (Magia) – Ação
+Requisito: Contato com Espíritos
+Mana: 20
+Dificuldade da Magia: Determinação
+do Alvo
+Descrição: Desenhando uma Runa Arcana sobre uma Sombra, você a transforma em um Espectro Soldado sob seu comando. O
+espectro criado é permanente, será completamente leal a você e acatará quaisquer comandos
+verbais simples (Me proteja, ataque meus inimigos, defenda esse local, carregue esses itens,
+etc.) pela duração da magia.
+A Runa Arcana dura uma quantidade de
+minutos igual à Vontade do conjurador, mas
+a transformação em Espectro é permanente –
+quando a Runa se dissipa, o espectro passa a
+agir de forma independente.
+---
+--Lanterna dos Mortos--
+Habilidade (Característica) – Suporte
+Requisitos: Contato com Espíritos
+Descrição: Você exerce uma estranha
+atração sobrenatural sobre espíritos. Uma quantidade de Sombras igual à sua Vontade estão
+constantemente te acompanhando e, caso sejam destruídas de alguma forma, outras aparecerão assim que você estiver em um local onde
+existam Sombras. Além disso, você recebe +2
+em todos os seus testes referentes a Espíritos e
+a dificuldade de qualquer Espírito resistir a um
+efeito conjurado por você é aumentado em 2.
+---
+--Mente Disciplinada--
+Habilidade (Característica) – Suporte
+Descrição: Você possui uma vontade
+extremamente organizada, acostumada a se
+concentrar em tarefas complexas. Você tem
+Determinação +2 e as dificuldades de todas as
+magias que você realiza são reduzidas em 1.
+---
+--Proteção Cadavérica--
+Habilidade (Magia) – Ação
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa Arcana sobre o cadáver de uma criatura você o protege
+de efeitos de apodrecimento e impede que ele seja
+transformado em um morto-vivo por qualquer
+efeito. Essa magia pode ser conjurada sobre um
+corpo completo ou sobre partes removidas dele
+– útil para transportar cadáveres, manter partes
+decepadas inteiras para serem colocadas de volta
+no lugar ou mesmo para preservar comida!
+Mortos-vivos afetados por esta Magia recebem Redução de Dano 2.
+Essa Runa Arcana é perene, mas pode ser
+dissipada a qualquer momento pelo conjurador.
+---
+--Sustentar Mortos-Vivos--
+Habilidade (Magia) – Ação
+Requisito: Despertar dos Mortos 1
+Mana: 30
+Dificuldade da Magia: 11
+Descrição: Desenhando uma Runa Arcana sobre um morto-vivo, você o imbui com energias necromânticas que o tornam mais resistente.
+– e reforça seu controle. O morto-vivo recebe
++10 Pontos de Vida e Força +2. Além disso, se o
+alvo estiver sob controle de uma criatura (incluindo você), o tempo de controle se estende pela duração dessa Runa ao invés do tempo normal.
+Essa Runa Arcana dura uma quantidade
+de dias igual à sua Vontade.
+---
+--Transferência Espiritual--
+Habilidade (Magia) – Ação
+Requisitos: Contato com Espíritos
+Mana: 10
+Dificuldade da Magia: 10
+Descrição: Desenhando uma Runa Arcana sobre uma Sombra, você transfere a energia dela para outra criatura. A Sombra perde todos os seus Pontos de Mana e é imediatamente
+enviada para o Plano Espiritual. Você então
+transfere a energia retirada da Sombra para uma
+criatura que possa tocar, que imediatamente recupera aquela quantidade de Pontos de Mana. 
+---
+
+Habiliades Avançadas
+
+---
+--Aptidão Necromântica--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Mente Disciplinada
+Descrição: Você possui um domínio
+considerável sobre os fluxos de energias necromânticas. Todas as suas magias custam 5 Pontos de Mana a menos para serem conjuradas e
+todas as suas magias que causam perda de vida
+ou Perda de Mana causam uma perda adicional
+igual à sua Vontade. Além disso, você é imune
+a efeitos de dreno de energia.
+---
+--Caminhada Fantasma--
+Habilidade (Característica) – Ação
+Requisito: Nível 5, Comunhão com Espíritos.
+Mana: 40
+Descrição: Você tornou-se um canal entre o mundo físico e o mundo espiritual. Você (e tudo o que você estiver carregando) pode
+tomar forma de um espírito, adquirindo a Habilidade Corpo Intangível – você não tem peso,
+pode voar ao seu Deslocamento normal em
+qualquer direção e atravessar objetos sólidos.
+Você pode materializar partes do seu corpo,
+permitindo que você ataque ou conjure magias,
+e a menos que escolha o contrário, você é Imune à Corte, Perfuração e Contusão. Magias que
+causem danos desses tipos, no entanto, afetam
+você normalmente. Além disso, você pode ver,
+ouvir e tocar espíritos ou criaturas com a Habilidade Corpo Intangível enquanto estiver sob
+efeito dessa Habilidade.
+Este efeito dura um número de minutos
+igual à sua Determinação. Se o efeito terminar
+enquanto você estiver dentro de algum material
+sólido, você é expelido para fora e sofre dano
+igual a 30/Contusão.
+Especial: Se você tiver Imunidade Espiritual, os efeitos dessa Habilidade não funcionam enquanto você estiver sob efeito de Caminhada Fantasma.
+---
+--Crânio Guardião--
+Habilidade (Magia) – Ação
+Requisitos: Nível 5, Crânio Sentinela.
+Mana: 20
+Dificuldade da Magia: 13
+Descrição: Desenhando uma Runa Arcana sobre um crânio que esteja sob efeito de
+Crânio Sentinela, o Conjurador cria um elo
+poderoso entre si mesmo e o crânio. Além de
+todos os efeitos de um Crânio Vigia, o Conjurador será capaz de conjurar magias através dele
+– embora seja impossível fazer isso enquanto
+estiver dormindo ou desacordado.
+Um Crânio Guardião é considerado
+como um de seus Crânios Vigias para propósitos de definir o limite de Crânios ativos ao
+mesmo tempo.
+Essa Runa Arcana é perene.
+---
+--Despertar dos Mortos 2--
+Habilidade (Magia) – Ação
+Requisito: Despertar dos Mortos 1
+Mana: 20
+Dificuldade da Magia: 13
+Descrição: Desenhando uma Runa Arcana sobre os restos de uma criatura qualquer,
+você os transforma em um morto-vivo do tipo apropriado: ossadas vão se transformar em Esqueletos enquanto cadáveres com quantidades
+consideráveis de carne vão se transformar em
+Zumbis. Os restos não precisam estar intactos
+ou sequer completos, mas dependendo do estado em que estiverem, podem ter formas bizarras ou dificuldades para realizar certas ações.
+O morto-vivo criado é permanente, e
+será completamente leal a você e acatará quaisquer comandos verbais simples (Me proteja,
+ataque meus inimigos, defenda esse local, carregue esses itens, etc.) pela duração da magia
+– quando a Runa se dissipa, o morto-vivo passa
+a agir de forma independente.
+Essa Runa Arcana dura uma quantidade
+de horas igual à sua Determinação.
+---
+--Dissipar Magia--
+Habilidade (Técnica) – Ação
+Requisito: Nível 5, Aparar Magia.
+Mana: Variável
+Descrição: Você dissipa todas as Runas Arcanas ou Selos Místicos de uma criatura,
+objeto ou estrutura com seu toque. Essa Habilidade não tem efeito em magias com efeitos
+instantâneos (como Curar Ferimentos, Rajada
+de Espinhos ou Teleporte) nem reverte efeitos permanentes de magia (como restaurar os
+Pontos de Vida perdidos devido a uma Bola de
+Fogo, consertar um objeto alvo de Ferrugem
+ou reverter água afetada por Raio Gélido de
+volta ao estado líquido). Você pode também
+escolher quais Runas ou Selos dissipar e quais
+não, caso o alvo tenha mais de um Selo ou
+Runa afetando-o.
+O custo para dissipar um Selo ou Runa é
+igual ao custo usado para conjurá-los.
+---
+--Encarnar Espírito--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Despertar dos Mortos 1, Contato com Espíritos.
+Mana: 30
+Dificuldade da Magia: Determinação
+da Sombra
+Descrição: Desenhando uma Runa Arcana sobre um cadáver, você o reanima induzindo uma Sombra próxima para dentro dele.
+Ossadas vão se transformar em Esqueletos
+enquanto cadáveres com quantidades consideráveis de carne vão se transformar em Zumbis. 
+Os restos não precisam estar intactos ou sequer
+completos, mas dependendo do estado em que
+estiverem, podem ter formas bizarras ou dificuldades para realizar certas ações.
+Diferente de um esqueleto ou zumbi
+normal, no entanto, esse morto-vivo não terá
+Mente Vazia e possui a consciência da Sombra
+contida dentro dele – incluindo sua Inteligência, Vontade e quaisquer Habilidades que a
+Sombra possuísse em vida, exceto Características. Sombras encarnadas dessa forma não são
+capazes de Conjurar Magias ou utilizar Músicas
+que tenham um custo em Mana maior do que
+zero. Um morto-vivo criado dessa forma será
+completamente leal a você e aceitará quaisquer
+comandos verbais simples (Me proteja, ataque
+meus inimigos, defenda esse local, carregue esses itens, etc.), mas ainda é capaz de raciocinar
+normalmente, e pode criar estratégias ou táticas
+tão elaboradas quanto apropriado.
+Essa Runa Arcana dura uma quantidade
+de horas igual à sua Vontade, e o morto-vivo se
+desfaz em pó quando a Runa se dissipa.
+---
+--Energia Sombria 2--
+Habilidade (Magia) – Ação
+Requisito: Nível 5, Energia Sombria 1.
+Mana: 20
+Dificuldade da Magia: 11
+Descrição: Desenhando uma Runa Arcana no ar, você projeta uma rajada de energia
+espectral que, ao atingir uma criatura viva, faz
+com que ela perca uma quantidade de Pontos
+de Vida e Pontos de Mana igual à sua Determinação – se o alvo for um morto-vivo ou espírito, ele recupera uma quantidade de Pontos de
+Vida igual à sua Determinação ao invés disso.
+A Runa Arcana se dissipa imediatamente
+depois que seus efeitos são desencadeados.
+Quando usada sobre uma criatura viva
+esta magia é considerada um efeito de dreno
+de energia.
+---
+--Imunidade Espiritual--
+Habilidade (Característica) – Suporte
+Requisito: Nível 5, Comunhão com Espíritos.
+Descrição: Você não recebe nenhum
+dano de criaturas etéreas (fantasmas, espectros,
+etc.), e rola +1d6 em todos os testes de Vontade ligados a estas criaturas.
+---
+--Resistência dos Mortos--
+Habilidade – Suporte
+Requisito: Nível 5, Sustentar Mortos-vivos.
+Descrição: Todos os mortos-vivos que
+você criar têm Defesa +2 (escolha entre Bloqueio ou Esquiva quando cria o morto-vivo;
+essa escolha é permanente e não pode ser mudada mais tarde), +10 Pontos de Vida e a Runa
+Arcana que o mantém sob controle passa a durar o dobro do tempo.
+---
+--Resistência Necromântica--
+Habilidade (Magia) – Ação
+Requisitos: Nível 5, Armadura Necromântica.
+Mana: 30
+Dificuldade da Magia: 13
+Descrição: Desenhando uma Runa Arcana sobre uma Sombra, você drena a energia
+dela e a redireciona para uma criatura que possa tocar. A Sombra perde todos os seus Pontos de Mana e é imediatamente enviada para o
+Plano Espiritual. A criatura para qual a energia
+for redirecionada recebe as Habilidades Corpo
+Amórfico e Mente Bloqueada.
+Essa Runa Arcana dura 1 minuto. 
+---
+
+Habilidade Final
+
+---
+--Mestre dos Mortos--
+Habilidade – Suporte
+Requisito: Nível 10, Resistência dos
+Mortos.
+Descrição: Todos os mortos-vivos
+criados por você duram indefinidamente
+enquanto estiverem a uma quantidade de
+metros igual ao triplo da sua Determinação
+ao seu redor. Se forem destruídos enquanto estiverem dentro dessa área, eles retornam após 1 minuto (com todos os Pontos
+de Vida e Pontos de Mana).
+Além disso, todas as Runas Arcanas
+que você tiver conjurado sobre um morto-
+-vivo dentro desta área (incluindo aquelas
+que foram utilizadas para criá-los) são consideradas perenes, e se o morto-vivo deixar
+a área, sua duração é renovada (como se
+você tivesse acabado de conjurar a magia
+sobre ele). 
+---
+
+**Senescal**
+
+--
+/*
+Bônus de Atributos:
+Inteligência +1
+Vontade +1
+Habilidade Automática:
+--Posição Distinta--
+Habilidade – Suporte
+Descrição: Graças à função que exerce você costuma ser bem-vindo em praticamente qualquer círculo social, e as pessoas assumem que você tem todo o direito de estar
+ali. Aldeões, camponeses e serviçais sempre
+se esforçarão ao máximo para agradá-lo e nobres o tratarão como igual.
+Além disso, sua posição lhe concede alguns benefícios materiais. Você possui
+uma vestimenta adequada ao seu cargo e um
+distintivo de sua posição. Finalmente, depois
+que tiver comprado seus itens iniciais, você
+pode selecionar um desses itens e ele será
+considerado de qualidade superior (veja o
+Guia do Herói página 53 para maiores detalhes) sem qualquer custo adicional.
+*\
+---
+
+Habiliades Basicas
+
+---
+--Contatos na Corte--
+Habilidade – Suporte
+Descrição: Você possui muitos contatos
+entre os nobres do reino, o que lhe concede alguns privilégios com relação à elite. Você pode
+conseguir informações e favores ligados à corte
+e à nobreza do reino, como audiências com os
+nobres, acesso às dependências da maioria das
+áreas exclusivas de cidades ou castelos e informações referentes a figuras importantes da região e da política local.
+Obviamente o mestre poderá restringir
+que tipo de ajuda e informação eles fornecerão
+se isto for problemático para o andamento da
+aventura ou da campanha.
+Contatos Políticos
+---
+--Habilidade – Suporte--
+Descrição: Você possui muitos contatos entre os oficiais da maioria dos locais, e
+o símbolo da sua guilda é reconhecido por
+todos. Graças a isso você pode descobrir informações privilegiadas ou evitar problemas
+com a lei. Com um teste bem sucedido de
+Vontade (dificuldade igual à Determinação
+do alvo) você pode conseguir que um guarda decida não lhe levar preso ou até mesmo
+conceda uma saída da prisão. Esses favores
+geralmente vêm acompanhados de algumas
+moedas (geralmente uma quantidade igual a
+10 vezes a Vontade do alvo) para ser efetiva, além de sucesso no teste. Note que nem
+todo guarda que o personagem encontrar vai
+aceitar suborno, e usar esta Habilidade indiscriminadamente pode trazer problemas para
+o personagem. Além disso, crimes graves
+provavelmente estarão além do alcance dessa Habilidade, bem como grupos grandes de
+guardas e oficiais da lei.
+As informações que o personagem pode
+conseguir com a guarda quase sempre serão referentes ao crime local ou organizações militares, mas obviamente o mestre poderá restringir
+informações se isso for atrapalhar o andamento
+ou a trama da campanha.
+---
+--Distintivo de Ofício--
+Habilidade – Suporte
+Descrição: O distintivo que aponta
+sua ocupação tem um poderoso efeito sobre a disposição geral daqueles ao seu redor.
+Sempre que seu distintivo estiver visível para
+alguém com quem você está negociando um
+bem ou serviço, você recebe automaticamente um desconto em moedas igual à sua Determinação no preço final do produto. Esse
+benefício se aplica apenas a você – seus aliados não recebem nenhum benefício por essa
+Habilidade.
+---
+--Distração--
+Habilidade (Técnica) – Ação
+Requisito: Eloquente
+Mana: 10
+Descrição: Você é capaz de usar sua
+oratória para chamar a atenção de um alvo para
+você e confundi-lo no processo. Você escolhe
+uma criatura que esteja a uma distância em metros igual à sua Vontade e que seja capaz de
+compreender o que você diz. Aquela criatura
+precisa passar em um teste de Inteligência (Dificuldade igual à sua Determinação) ou ficará
+Distraída por 1 turno.
+Esse é um efeito mental.
+---
+--Eloquente--
+Habilidade (Característica) – Suporte
+Descrição: Você tem um talento de
+convencer ou comover outras pessoas apenas
+falando do jeito certo. Você recebe +1d6 em
+todos os seus testes para persuadir, mentir, perceber mentiras, intimidar ou em qualquer outra
+interação social.
+---
+--Erudito--
+Habilidade – Suporte
+Descrição: Você passou anos estudando livros sobre os mais diversos assuntos.
+Você rola +1d6 em qualquer teste ligado à
+história, heráldica, geografia, religião, astrologia ou qualquer tipo de conhecimento teórico. 
+---
+--Farda--
+Habilidade – Suporte
+Descrição: Você sabe como envergar uma
+farda adequadamente e está ciente disso, o que
+lhe garante não apenas uma presença imponente,
+mas também um incremento em sua autoconfiança. Sempre que estiver utilizando uma vestimenta
+adequada ao seu posto você recebe +2 em todos
+os testes sociais e em sua Determinação.
+---
+--Formação de Batalha 1--
+Habilidade (Técnica) – Ação
+Requisito: Táticas de Batalha
+Mana: 10
+Descrição: Dando ordens precisas para
+seus aliados você aumenta sua eficiência em
+combate. Todos os aliados que puderem lhe ouvir recebem um bônus de +1 na Defesa por 1
+minuto. Esse efeito é cancelado se o personagem
+ficar desacordado ou sob um efeito de Medo.
+Esse bônus de Defesa pode ser tanto de
+Bloqueio quanto de Esquiva, à escolha do jogador que recebe o bônus.
+---
+--Gregário--
+Habilidade (Característica) – Suporte
+Descrição: Você consegue compreender muito rapidamente as estruturas sociais de
+uma cultura e seus indivíduos e é capaz de fazer amigos em qualquer lugar. Depois de cinco
+minutos de conversa, a pessoa com quem você
+esteja interagindo – e que não seja obviamente
+hostil a você, como um captor ou um inimigo jurado – torna-se propensa a ajudá-lo. Essa
+Habilidade geralmente serve para colher informações gerais (apesar de segredos não serem
+possíveis de conseguir) ou pequenos favores –
+como ser apresentado a alguém ou conseguir
+uma cerveja de graça. Você também recebe +2
+em testes de seduzir, mentir, detectar mentiras
+ou qualquer outra interação social.
+---
+--Guarda-Costas--
+Habilidade – Suporte
+Requisito: Séquito
+Descrição: Você promoveu um de seus
+seguidores – ou dispensou um deles para contratar outro – para que ele pudesse oferecer
+efetivamente alguma proteção para você. Um
+de seus seguidores passa a ser um PDM de nível 1 de uma Classe que não seja conjuradora.
+Você pode criar a ficha do seu guarda-costas
+ou optar que o Mestre faça isso – um Paladino com o Código da Coragem é a opção mais
+indicada. O guarda-costas é um PDM controlado pelo Mestre, mas ele seguirá suas ordens
+desde que possa manter você dentro da sua
+linha de visão.
+Caso seu guarda-costas morra, seja dispensado, lhe abandone ou de alguma outra
+forma deixe de servir você, você pode contratar ou atrair um novo guarda-costas usando as
+mesmas regras listadas. O guarda-costas terá
+equipamentos adequados à sua Classe que não
+ultrapassem 200 moedas, mas você pode fornecer equipamentos melhores se tiver condições.
+---
+--Inspirar Coragem--
+Habilidade (Técnica) – Ação
+Requisito: Presença Inspiradora
+Mana: 20
+Descrição: Você reforça a determinação
+de um aliado através de palavras inspiradoras.
+Aquele aliado recupera imediatamente 20 Pontos de Vida e quaisquer efeitos de Medo que o
+estiver afetando são removidos.
+Este efeito não pode ser utilizado em
+você mesmo.
+---
+--Língua Afiada--
+Habilidade (Técnica) – Ação
+Requisito: Eloquente
+Mana: 10
+Descrição: Você possui uma língua ferina e um talento especial para insultar seus
+adversários. Escolha um inimigo do tipo Humanoide ou Esfinge. Você faz uma série de
+comentários jocosos ou degradantes sobre ele.
+Faça um confronto de Vontade contra o alvo.
+Se você tiver um resultado igual ou maior do
+que o alvo e se ele for capaz de entendê-lo, ele
+ataca você em detrimento de qualquer outro
+alvo, e é considerado Desprevenido para todos
+os seus aliados – mas não para você.
+Este é um efeito mental.
+---
+--Mastim--
+Habilidade (Característica) – Suporte
+Descrição: Você está acostumado a lidar
+com criminosos e raramente se deixa enganar
+ou amedrontar. Você tem Determinação +2 e
+recebe +1d6 em todos os Confrontos e testes para resistir a tentativas de persuasão e intimidação, perceber mentiras e resistir a efeitos
+mentais.
+---
+--Presença Confiante--
+Habilidade (Característica) – Suporte
+Requisito: Farda
+Descrição: Você possui tanta confiança
+em sua posição – e compreende que ela gera
+respeito naqueles ao seu redor – que é capaz de
+trajá-la como uma armadura! Sempre que estiver utilizando uma vestimenta adequada ao seu
+posto você recebe +1 na Defesa para cada 2
+pontos de Vontade.
+Esse é um bônus de Esquiva.
+---
+--Presença Inspiradora--
+Habilidade (Característica) – Suporte
+Descrição: Você inspira confiança em
+seus aliados com sua mera presença. Todos os
+seus aliados, mas não você, recebem Determinação +2 e +1 em todos os seus testes enquanto você estiver dentro do seu alcance de visão.
+Esses benefícios deixam de ter efeito se você
+ficar desacordado ou sob um efeito de Medo.
+---
+--Reposicionar--
+Habilidade (Técnica) – Ação
+Mana: 30
+Descrição: Verificando a melhor disposição de seus aliados em campo, você dá ordens
+para que eles se posicionem melhor. Um número de aliados igual à sua Vontade pode, imediatamente, realizar uma Ação de Movimento.
+Nenhuma criatura pode usar Habilidades do
+tipo Reação contra estes aliados durante essa
+movimentação.
+Utilizar esta Habilidade requer uma Ação
+de Rodada Completa, e você não se beneficia
+dos efeitos da Habilidade.
+---
+--Séquito--
+Habilidade – Suporte
+Descrição: Você possui um séquito
+composto por um número de PDMs de nível
+0 igual à sua Vontade. Esses seguidores devem exercer funções distintas e que não sejam
+combativas – eles podem acompanhar o grupo
+em aventuras oferecendo suporte e realizando
+serviços para o grupo, mas não entrarão em
+masmorras ou ruínas para auxiliar o grupo em
+combates, a menos que sejam forçados a isso.
+Perceba que seguidores descontentes podem
+simplesmente abandonar você se o considerarem tirânico ou despótico – e podem até mesmo traí-lo ou roubá-lo!
+Caso algum seguidor seu morra, seja
+dispensado, lhe abandone ou de alguma outra
+forma deixe de servir você, você pode contratar novos ou atrair novos seguidores até um
+máximo de igual à sua Vontade. Seguidores
+têm roupas e equipamentos comuns para sua
+função, mas você pode fornecer equipamentos
+melhores se tiver condições.
+Seguidores comuns incluem aias, pajens,
+cartógrafos, cozinheiros, apotecários, mensageiros, menestréis, clérigos, curandeiros, médicos e secretários.
+---
+--Táticas de Batalha--
+Habilidade (Técnica) – Suporte
+Descrição: Discutindo táticas militares básicas com seus aliados ao longo de suas jornadas,
+você permite que eles fiquem mais bem preparados para entrarem em combate. Todos os seus
+aliados, incluindo você, recebem um bônus de +2
+em seus testes de Iniciativa enquanto você estiver
+dentro do seu alcance de visão. Eles também recebem +2 na sua Defesa quando estiverem Surpresos ou Desprevenidos (esse bônus de Defesa
+pode ser tanto de Bloqueio quanto de Esquiva, à
+escolha do jogador que recebe o bônus), e podem
+utilizar suas Habilidades de Reação normalmente
+quando estiverem Cegos ou Distraídos.
+---
+--Um Bom Conselho 1--
+Habilidade (Característica) – Ação
+Mana: 20
+Descrição: Você incentiva um aliado
+com palavras de encorajamento sobre as aptidões dele. Aquele aliado recebe +1 sua Determinação e em todas as suas rolagens por 1 hora.
+---
+--Voz de Comando 1--
+Habilidade (Técnica) – Ação
+Requisito: Presença Inspiradora
+Mana: 10
+Descrição: Você está acostumado a dar
+ordens – e ser prontamente obedecido! Você
+ordena um aliado a fazer uma ação, e ele imediatamente realiza aquela ação. O alvo pode se
+recusar, se desejar. Essa deve ser uma ação simples – o alvo não pode usar nenhuma Habilidade do tipo Ação quando realizá-la. 
+---
+
+Habiliades Avançadas
+
+---
+--Abrir a Guarda--
+Habilidade (Técnica) – Ação
+Requisitos: Nível 5, Distração.
+Mana: 20
+Descrição: Você chama a atenção de uma
+criatura fazendo com que ela perca o foco em
+combate e abra sua guarda. Você escolhe uma
+criatura que esteja a uma distância em metros
+igual à sua Vontade e que seja capaz de compreender o que você diz. Aquela criatura se desconcentra do combate e abre a guarda, permitindo
+que cada criatura adjacente a ela possa realizar,
+imediatamente, um ataque corporal contra ela.
+Este é um efeito mental.
+---
+--Conselheiro Pessoal--
+Habilidade – Suporte
+Requisitos: Nível 5, Séquito.
+Descrição: Você tem um conselheiro
+fiel dentro do seu séquito. Um de seus seguidores passa a ser um PdM Bardo, Xamã ou de
+uma Classe conjuradora com metade do nível
+do Senescal (arredondado para baixo). Você
+pode criar a ficha do seu conselheiro ou optar
+que o Mestre faça isso – Sacerdotes e Bardos
+são as Classes mais indicadas. O Conselheiro é
+um PDM controlado pelo Mestre, mas ele seguirá suas ordens desde que possa manter você
+dentro da sua linha de visão. Ele acompanhará você em aventuras, mas dará preferência a
+Habilidades defensivas – entrando em combate
+direto apenas em último caso.
+Caso seu conselheiro morra, seja dispensado, lhe abandone ou de alguma outra forma
+deixe de servir você, você pode contratar ou
+atrair um novo conselheiro usando as mesmas
+regras listadas. O conselheiro terá equipamentos adequados à sua Classe que não ultrapassem
+200 moedas, mas você pode fornecer equipamentos melhores se tiver condições.
+---
+--Formação de Batalha 2--
+Habilidade (Técnica) – Ação
+Requisitos: Nível 5, Formação de Batalha 1.
+Mana: 20
+Descrição: Dando ordens precisas para
+seus aliados você aumenta sua eficiência em
+combate. Todos os aliados que puderem lhe
+ouvir recebem um bônus de +2 na Defesa por
+1 minuto. Esse efeito é cancelado se o personagem ficar desacordado ou sob um efeito de
+Medo.
+Esse bônus de Defesa pode ser tanto de
+Bloqueio quanto de Esquiva, à escolha do personagem que recebe o bônus.
+---
+--Guarda de Honra--
+Habilidade – Suporte
+Requisitos: Nível 5, Guarda-Costas.
+Descrição: Seu guarda-costas adquiriu
+muita experiência protegendo você – ou talvez
+você tenha contratado um combatente mais eficiente. Seu guarda-costas agora será um PdM
+com metade de seu nível (arredondado para
+cima) de uma Classe que não seja conjuradora.
+Você pode criar a ficha do seu guarda-costas ou
+optar que o Mestre faça isso – Paladino com o
+Código da Coragem é a opção mais indicada. O
+guarda-costas é um PDM controlado pelo Mestre, mas ele seguirá suas ordens desde que possa
+manter você dentro da sua linha de visão.
+Caso seu guarda-costas morra, seja dispensado, lhe abandone ou de alguma outra
+forma deixe de servir você, você pode contratar ou atrair um novo guarda-costas usando as mesmas regras listadas. O guarda-costas
+terá equipamentos adequados à sua Classe que
+não ultrapassem 200 moedas, mas você pode
+fornecer equipamentos melhores se tiver condições.
+---
+--Juiz--
+Habilidade (Característica) – Ação
+Requisitos: Nível 5, Mastim.
+Mana: 25
+Descrição: Você é muito bom em extrair
+a verdade de seus interlocutores. Quando tiver
+detectado uma mentira, você pode ordenar ao
+alvo que diga a verdade. O alvo realiza um teste
+de Vontade (dificuldade igual à sua Determinação) e se falhar ele deve, imediatamente, contar
+a verdade dentro dos seus conhecimentos (o
+alvo não pode modificar nenhum fato nem suprimir nenhuma informação que souber). Além
+disso, o alvo também fica Amedrontado em relação a você por um número de minutos igual
+à sua Vontade.
+Este é um efeito mental.
+---
+--Persuadir--
+Habilidade (Técnica) – Ação
+Requisitos: Nível 5, Gregário.
+Mana: 20
+Descrição: Você escolhe uma criatura
+que esteja a uma distância em metros igual à
+sua Vontade e lhe dá um comando. Se a criatura for capaz de compreender o que você disse, ela precisa passar em um teste de Vontade
+(Dificuldade igual à sua Determinação; o alvo
+pode escolher realizar a ação sem resistir) ou
+realiza o comando imediatamente. O comando não tem efeito depois disso – assim, um
+alvo que seja comandado a deitar-se no chão
+pode se levantar no próximo turno, enquanto um alvo comandado para correr para longe
+pode se aproximar novamente na sua próxima
+ação.
+O comando deve poder ser realizado
+como uma Ação Livre ou como uma Ação de
+Movimento e não pode ter mais do que uma
+palavra por ponto de Vontade que você tiver
+(“largue a espada”, “deite no chão”, “corra para
+longe de mim”). Se o comando disser respeito
+a ações involuntárias do alvo ou se for contra
+suas crenças ou sua segurança (“durma”, “se
+jogue pela janela”, “empurre o Rei do parapeito”) o alvo é automaticamente bem sucedido
+no teste.
+Este é um efeito mental.
+---
+--Restaurar Convicção--
+Habilidade (Técnica) – Ação
+Requisitos: Nível 5, Eloquente.
+Mana: 20
+Descrição: Você revigora o foco de um
+aliado através de palavras inspiradoras. Um
+aliado que possa lhe ouvir e que esteja a uma
+distância em metros igual à sua Vontade imediatamente recupera metade dos Pontos de
+Mana que tiver gastado e/ou perdido em seu
+último turno.
+Este efeito não pode ser utilizado em
+você mesmo.
+---
+--Trapaceiro Impecável--
+Habilidade (Característica) – Suporte
+Requisitos: Nível 5, Eloquente.
+Descrição: Você está acostumado a
+enganar e mentir, e seu raciocínio se tornou
+tão condicionado a extrapolar situações rapidamente que até ler (ou mesmo dominar) sua
+mente é mais difícil! Sua Inteligência é considerada o dobro em Confrontos para tentar esconder ou dissimular a verdade e para calcular sua
+Determinação contra efeitos mentais – mas não
+efeitos de medo.
+---
+--Um Bom Conselho 2--
+Habilidade (Técnica) – Ação
+Requisitos: Nível 5, Um Bom Conselho 1.
+Mana: 40
+Descrição: Você incentiva um aliado
+exultando suas capacidades de modo excepcional. Aquele aliado recebe +2 em sua determinação e em todos os seus testes por 1 hora.
+---
+--Voz de Comando 2--
+Habilidade (Técnica) – Ação
+Requisitos: Nível 5, Voz de Comando 1.
+Mana: 20
+Descrição: Suas ordens sempre são obedecidas com eficiência! Você ordena um aliado
+a fazer uma ação, e ele imediatamente realiza
+aquela ação com um bônus de +1d6. Se a ação
+for de movimento, o aliado não poderá ser alvo
+de Reações durante essa ação. O alvo pode se
+recusar, se desejar. Essa deve ser uma ação simples – o alvo não pode usar nenhuma Habilidade do tipo Ação quando realizá-la.
+---
+
+Habilidade Final
+
+---
+--Magistrado--
+Habilidade (Característica) – Suporte
+Requisitos: Nível 10, Juiz.
+Descrição: Você possui uma aura
+de autoridade que faz com que aqueles ao
+seu redor se sintam desconfortáveis em
+confrontá-lo. Você tem Determinação +2
+e toda vez que alguém tentar mentir para
+você, intimidá-lo, manipulá-lo ou utilizar
+um efeito Mental ou efeito de Medo e falhar,
+o alvo fica Amedrontado em relação a você
+por um número de turnos igual à sua Vontade. Durante esse tempo, você pode fazer
+uma pergunta para o alvo que deve responder da maneira mais franca possível dentro
+de seus conhecimentos.
+Este é um efeito mental. 
+---

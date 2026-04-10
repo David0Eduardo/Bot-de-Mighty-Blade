@@ -1,0 +1,719 @@
+Capítulo III – Classes
+A seguir temos a descrição das 11 principais Classes de personagens encontradas em Drakon. Enquanto algumas delas são exclusivas - como o Xamã e o Rúnico - e
+outras têm características diferentes de outros cenários de RPG - como os Druidas e
+Paladinos - a maioria delas se encaixa nas definições mais tradicionais dessas profissões, e podem ser facilmente usadas em qualquer cenário de fantasia.
+
+---
+**Bardo**
+*Descrição:
+Apesar dos Bardos serem geralmente conhecidos como contadores de histórias, músicos itinerantes, atores mambembes, poetas líricos e menestréis da corte,
+eles são bem mais do que apenas isso. Diferente do trovador comum, que não passa, realmente, de um músico e contador de
+histórias, os Bardos são mestres em uma
+forma de arte complexa, capaz não só de
+encantar plateias como também produzir
+efeitos tão (e as vezes mais!) extraordinários que os das magias dos conjuradores.
+Apesar do estudo das artes musicais dos Bardos geralmente ser ensinado
+na estrada, em companhias de cantores
+itinerantes, poetas ambulantes ou mesmo de pai para filho, há vários Liceus de
+Bardos em Cassiopéia, que formam um
+grande número de Bardos – que em geral
+trabalham para a corte desses reinos. Os
+mais famosos são o Liceu de Tebrinia, em
+Tebryn e o Salão dos Bardos, em Bryne.
+Além disso, graças ao amplo conhecimento de diversas músicas, histórias e
+poemas, Bardos são depositários de uma
+enorme quantidade de conhecimento
+teórico, às vezes superiores àqueles de
+estudiosos formais e suas imensas bibliotecas. Seu conhecimento vivo, construído
+durante suas andanças pelo mundo, está
+em constante processo de atualização e
+um bom Bardo sabe diferenciar os fatos
+reais da fantasia, filtrando as histórias
+que lhes são contadas e destilando a verdade na forma de novas composições
+cujo conteúdo, além de entreter plateias,
+serve para carregar conhecimento. Essas
+histórias, tocadas ao redor de fogueiras
+entre Bardos que se encontram nas estradas ou cantadas nos grandes salões reais
+fornecem aos Bardos um vasto conhecimento sobre história, lendas e até mesmo
+geografia e política.
+Graças à isso, muitos Bardos são
+empregados em cortes como conselheiros, e a maioria dos vilarejos, cidades e
+metrópoles vibra com a chegada de companhias de menestréis e trovadores ambulantes, sabendo que eles trarão, além
+de entretenimento, notícias de outras áreas do reino.
+Grupos de aventureiros, de forma
+semelhante, apreciam a presença de Bardos não apenas pelos benefícios que eles
+trazem à moral do grupo e pelos efeitos
+que eles são capazes de produzir em combate, mas também porque eles são a melhor fonte de notícias – e possíveis novas
+aventuras! – que um grupo pode esperar. 
+*Raças:
+Faunos possuem uma cultura intrinsecamente ligada à música, e Bardos são
+extremamente comum entre eles. Todas as
+comunidades de Faunos terão, ao menos,
+um Bardo, e a maioria delas inclui vários deles. Faunos dão preferência a Melodias
+(geralmente usando instrumentos de sopro) e Canções, e geralmente não usam
+Gritos. Metadilios e Humanos produzem muitos Bardos também, geralmente
+vindos de Liceus formais, famosos por
+sua proeza no uso de instrumentos musicais. Eles dão preferência às Canções, e
+preferem instrumento de corda (alaúdes,
+banjos, harpas, liras e violinos). Entre os
+Tailox, uma raça de andarilhos por natureza, Bardos formados na estrada, junto a
+companhias itinerantes são extremamente
+comuns. Tailox são particularmente
+afeiçoados a Melodias e Gritos
+(geralmente uivados) e demonstram uma preferência a
+instrumentos de percussão.
+Entre os Aesires a tradição
+de contar histórias e recitar
+poemas épicos contando
+a trajetória de heróis legendários é reconhecida
+em toda Cassiopéia. A
+maioria dos Skalds (ou
+poetas guerreiros, como
+os Bardos são chamados
+entre eles) prefere usar Gritos em combate, geralmente
+usando berrantes e chifres
+tanto ao usar gritos quanto no
+uso de Melodias – geralmente
+agressivas ou intimidadoras.
+---
+**Druida**
+*Descrição:
+Druidas são, em essência, pessoas
+cujo espírito está profundamente ligado à
+natureza. Apesar de muitos se isolarem da
+civilização, vivendo como ermitões solitários, membros de comunidades remotas
+ou ainda em círculos formados apenas por
+Druidas e Druidisas, muitos deles transitam
+por grandes cidades e, às vezes, até mesmo
+habitam em metrópoles. Alguns Druidas
+urbanos se especializam na natureza intrínseca das cidades enquanto outros se tornam
+moderadores entre as comunidades onde
+habitam e as regiões naturais ao redor delas.
+Em geral, comunidades druídicas ou
+grupos próximos compartilham alguns rituais comuns, mas mesmo dentro de comunidades com rituais bem definidos, quase
+todos possuem práticas e definições individuais consideravelmente diferente dos
+demais. Essas diferenças de visão, crença e
+prática não são apenas toleradas, mas também encorajadas, e a individualidade e a
+busca por um entendimento particular da
+natureza são extremamente bem vistas pelos Druida.
+Diferente dos Sacerdotes, os Druidas
+não reúnem congregações nem espalham
+a palavra de suas divindades. Ao invés disso, eles oferecem seu conhecimento sobre
+flora, fauna e fenômenos naturais àqueles
+ao seu redor, por vezes de forma concreta,
+auxiliando fazendeiros com suas plantações
+e animais, às vezes de forma simbólica, realizando rituais de boa colheita ou plantio,
+casamentos e funerais.
+Apesar dessa diferença considerável
+entre o uso de seus conhecimentos de clericato com relação àqueles demonstrados
+pelos Sacerdotes, eles entendem a natureza dos rituais, das fórmulas e formas dos
+mesmos utilizados em outras formas de
+sacerdócio, e são capazes de compreender e
+reconhecer perfeitamente os processos e objetivos dos rituais realizados por qualquer
+outra religião.
+*Raças:
+Druidas são comuns em todas as
+raças mais ligadas à natureza, como Faens, Elfos e Faunos. De fato, entre essas
+raças, eles são muito mais comuns do
+que Sacerdotes. Na Floresta dos Antigos,
+em Tebryn, praticamente todas as comunidades possuem ao menos um Druida.
+Anbrook, apesar de ser considerada uma
+grande metrópole – considerando o número de habitantes – possui uma grande
+quantidade de Druidas, a maioria Elfos,
+que trabalham lado a lado com os Sacerdotes de Lathellanis. Há um grande número de Druidas Tailox na região, geralmente solitários ou vivendo em pequenas
+comunidades Tailox na fronteira leste da
+Floresta dos Antigos, nos vales do Dragão
+e das Orquídeas. Em Parband, apesar de
+existirem Druidas Tailox, a grande maioria dos membros da Classe é formada por
+Mahoks, encontrados principalmente nos
+Picos Orientais. Já em Eishelm, no norte
+gelado, Druidas formam o único corpo sacerdotal existente, já que entre os Aesires
+Sacerdotes são praticamente inexistentes.
+---
+**Espadachim**
+*Descrição:
+Espadachins são combatentes especializados no uso de armamentos leves,
+focados na mobilidade e na velocidade
+para vencer obstáculos. Preferem armas
+corporais que prezem a rapidez e precisão
+ao invés de potência, geralmente usando
+armas de corte e perfuração, ideais para
+ferir e incapacitar oponentes através de
+golpes bem aplicados, seja com o intuito
+de causar ferimentos profundos, causar
+ferimentos incapacitantes ou enfraquecer
+os oponentes aos poucos.
+Apesar da maioria dos Espadachins
+concentrar seu treinamento na maestria e
+proeza física, muitos deles preferem lançar
+mão de artifícios variados, truques sujos,
+enganação e até mesmo verborragia intensa para vencer desafios – de fato, muitos
+deles possuem línguas mais hábeis do que
+suas espadas! Um bom número de Espadachins é capaz de simplesmente abrir caminho através de inimigos simplesmente
+com sua capacidade de persuasão.
+Além disso, Espadachins sempre
+preferem armaduras que restrinjam minimamente sua movimentação. Muitos até mesmo preferem não usar nenhum
+tipo de armadura, confiando puramente
+em seus reflexos para se defender.
+Essas características somadas, muitas vezes fazem com que os Espadachins
+sejam vistos como medrosos, espertalhões ou, no mínimo, fanfarrões imprudentes – rótulos que, aliás, a maioria
+deles tende a incentivar, já que isso faz
+com que a maioria dos seus oponentes
+os subestimem em combate (geralmente
+apenas uma vez).
+No entanto, existe um considerável
+número de Espadachins que veem os subterfúgios como uma maneira realmente covarde de lidar com inimigos e situações de
+perigo. Para estes, a proeza em combate e
+a coragem diante de qualquer desafio são
+as melhores armas à sua disposição. Esses
+Espadachins, em geral, são mais sérios e
+compenetrados, treinando incessantemente para aprimorar sua técnica de combate
+e tornar seus reflexos tão afiados quanto às
+lâminas que empunham, desdenhando de
+artifícios e artimanhas para vencer obstáculos – mas jamais subestimando aqueles que
+lançam mão de tais estratagemas.
+Certamente a maioria dos combatentes que navegam pelos mares de
+Drakon são Espadachins. Além da agilidade necessária para se manter equilibrado em um convés durante uma batalha
+naval, poucos seriam ousados – ou estúpidos – para vergar armaduras pesadas
+em um ambiente que pode transformar a
+proteção que elas oferecem em uma lenta
+e agonizante morte por afogamento.
+Apesar deles não serem a maioria
+absoluta – Ladinos, Patrulheiros, Magos
+e Sacerdotes tanto de Ran quanto de Taranis são bastante numerosos nos conveses de navios mercantes ou de combate
+– os Espadachins certamente são os mais
+famosos marinheiros de Drakon. De fato,
+na maioria das áreas costeiras, Espadachim é sinônimo de Marinheiro.
+*Raças:
+Espadachins não são comuns entre
+muitas raças. A maioria deles é Humana,
+e eles são mais comumente encontrados
+em Tebryn, particularmente na costa do
+Mar do Comércio, onde encontram trabalho mais facilmente como marinheiros,
+corsários – e às vezes piratas! Entre os
+Levent, ainda, Espadachins são bastante
+comuns, já que, além de não possuirem
+uma tradição bélica particularmente forte, os Levent preferem armaduras leves e armas velozes que possam
+ser mais bem aproveitadas em
+combate aéreo. Em Parband,
+Espadachins também são comuns, particularmente entre os Firas e os Tailox – e
+esses últimos geralmente
+também podem ser largamente encontrados em
+Bryne e em Tebryn. Os
+Firas possuem uma tradição consistente na formação de Espadachins,
+já que em Ofidien, lar
+original da raça, o terreno arenoso e a escassez de
+metal fizeram da existência
+de combatentes leves e ágeis
+uma necessidade. De fato, essa
+tradição criou até mesmo categorias especializadas de Espadachins,
+como os Dervixes, Espadachins dedicados à defesa dos templos e das crenças de
+Hou e as Odaliscas, que aprendem uma
+forma extremamente complexa de dança
+que serve tanto para entreter uma platéia
+como para se engajar em combate. Entre
+os Naga, também nativos de Ofidien, as
+características geográficas do continente, somadas à agilidade natural da raça
+e suas pesadas escamas, que já oferecem
+proteção considerável, favorece o aparecimento de Espadachins.
+---
+**Feiticeiro**
+*Descrição:
+Feiticeiros são conjuradores especializados na manipulação das formas
+mais básicas de energia: calor e eletricidade. São capazes de produzir quantidades
+imensas de calor, literalmente criando
+fogo a partir de suas mãos, de remover
+o calor do ambiente, criando colunas e
+paredes de gelo a partir do congelamento do próprio ar, ou gerar energia elétrica
+suficiente para projetar poderosas descargas de eletricidade.
+Apesar de possuírem um domínio considerável sobre a teoria geral da
+magia arcana, os Feiticeiros focam seus
+esforços no domínio e manipulação dessas energias brutas, geralmente para fins
+combativos. Muitos Feiticeiros ocupam
+posições em exércitos ou guardas organizadas, às vezes na linha de frente, às
+vezes como conselheiros ou em posições de liderança. Em geral, aqueles que decidem seguir o aprendizado de Feiticeiro
+são pessoas com sede de aventura ou de
+poder, o que geralmente lhes rende bons
+frutos em organizações com cadeias de
+comando bem estruturadas.
+No entanto, muitos Feiticeiros estudam as teorias elementais da magia em
+busca de significados mais filosóficos.
+Esses Feiticeiros geralmente evitam usar
+magias de forma destrutiva, procurando usá-las de modo mais brando, usualmente preferindo magias defensivas e
+utilitárias em lugar de magias puramente
+ofensivas. 
+*Raças:
+Elfos e Faens possuem uma afinidade natural para magia. Assim, entre eles
+Feiticeiros são extremamente comuns.
+Ambas as raças possuem uma inclinação
+maior às magias de Eletricidade e Frio,
+por motivos diferentes: Elfos não gostam
+de magias de fogo, pois elas colocam em
+risco o bem-estar do ambiente onde essa
+raça costuma viver. Entre os Faen, apesar de essas preocupações existirem, as
+magias de Frio e Eletricidade são menos
+agressivas, e podem ser utilizadas para
+debilitar a movimentação de seus adversários, uma tática que a raça costuma gostar de empregar. Os Fira, por outro lado,
+possuem uma grande afinidade com o
+fogo, e entre eles, Feiticeiros especializados nesse elemento são consideravelmente comuns – apesar de alguns deles
+preferirem o domínio de outras formas
+de magias elementais, tanto para surpreender adversários quanto para terem um
+maior leque de possibilidades ofensivas.
+Metadilios e Humanos, apesar de não
+possuírem uma afinidade particular com
+a magia, possuem uma curiosidade considerável sobre os fenômenos mágicos, e
+Feiticeiros são bastante comuns entre eles 
+ de fato, em Bryne, Metadilios Feiticeiros são extremamente comuns, uma vez
+que a maioria das defesas do reino é feita
+por grupos de Feiticeiros em detrimento
+aos exércitos de combatentes regulares
+presentes em outros reinos.
+---
+**Guerreiro**
+*Descrição:
+Guerreiros são, de longe, a Classe
+mais comum de ser encontrada entre os
+combatentes de Drakon. Em um ambiente rico em metais e mão-de-obra especializada para fabricar armas e armaduras
+eficientes e com uma quantidade considerável de atritos entre reinos e ameaças
+palpáveis, os Guerreiros encontram um
+ambiente fértil para se desenvolverem.
+De fato, a maioria das cidades mantém um pequeno contingente de guardas,
+treinado no uso de armaduras pesadas,
+escudos e armas corporais e a maioria dos
+reinos de Cassiopéia mantém um exército permanente de combatentes especializados para lidarem com invasões e fazer
+frente aos ataques de nações hostis. Além
+disso, muitas companhias de mercenários
+treinam e mantêm um bom número de
+guerreiros a soldo, prontos para empreenderem todo tipo de conflito armado. Finalmente, histórias de aldeões obrigados a
+pegarem em armas para defenderem seus
+lares contra bandidos ou, em alguns casos,
+monstros e que acabam por seguir nos caminhos dos homens de armas são relativamente comuns em Drakon.
+Considerando a abundância de minérios em Cassiopéia, mesmo um guerreiro com pouco treinamento pode sobreviver no caminho da guerra, comprando
+armas e equipamentos adequados de proteção. Graças a isso, os exércitos, guardas
+e companhias de mercenários costumam
+manter seus homens bem equipados,
+e a profissão de Guerreiro é vista como
+digna e estável, fazendo com que muitos escolham segui-la em busca de glória
+e fama – apesar de poucos conseguirem
+tais distinções.
+Apesar das guardas e exércitos não
+pagarem muito bem, elas oferecem alojamento, alimentação e manutenção de
+armas, armaduras e equipamentos necessários para o cumprimento do dever, enquanto companhias mercenárias pagam
+mais, mas apresentam riscos bem maiores – já que costumam ser procuradas
+para resolver problemas difíceis, geralmente envolvendo monstros, ou para engrossar as linhas de frente dos exércitos,
+no caso de conflitos em larga escala.
+*Raças:
+Guerreiros são comuns em praticamente todas as raças. No entanto, algumas
+raças são mais conhecidas por suas táticas
+avançadas ou por características que diferenciam seus Guerreiros dos demais.
+Anões, Astérios e Jubans são conhecidos
+por seus guerreiros extremamente disciplinados e suas táticas de guerra sólidas.
+Aesires, Centauros e Orcs, por outro lado,
+são temidos por seus guerreiros extremamente tenazes e ferozes, que lutam sem
+qualquer tipo de disciplina e uma violência capaz de insuflar medo no coração de
+seus inimigos. Os Naga são famosos por
+seus Guerreiros individualmente poderosos, que geralmente agem com uma disciplina quase mágica e são capazes de derrotar grupos de adversários muitas vezes superiores em número. E os Tritões, com
+sua cultura combativa por natureza, possuem os mais bem adaptados guerreiros
+marinhos, sendo temidos e admirados por
+qualquer marinheiro que tenha a oportunidade de lutar ao lado deles – já que poucos dos que lutam contra eles realmente
+sobrevivem para temê-los.
+---
+**Ladino**
+*Descrição:
+Ladinos são especialistas em atingir seus objetivos por qualquer meio
+necessário. Seja através de subterfúgios,
+truques, manipulação, contatos ou mesmo meios criminosos, os Ladinos sempre
+conseguem o que querem – e os bons Ladinos conseguem fazer isso e viver para
+contar a história!
+Apesar de muitos verem os Ladinos
+com desconfiança, muitas vezes considerando seus meios pouco honrados ou
+mesmo vis, a grande maioria dos Ladinos
+de Cassiopéia atua ao lado da lei. Eles costumam trabalhar como batedores, espiões,
+investigadores e exploradores. Eles auxiliam ordens militares com informações
+sobre movimentos de tropas inimigas e
+obtendo informações secretas ou plantando informações falsas, usam suas redes
+de contatos para descobrir criminosos ou
+apurar veracidade de informações e são
+particularmente apreciados em exploração de ruínas e tumbas (particularmente
+comuns em Tebryn e nas Terras Secas, onde grandes civilizações ergueram imensos complexos que foram devastados ao
+logo dos séculos, durante a Revoada dos
+Dragões e o Expurgo) e na invasão de cavernas e complexos subterrâneos habitados por raças ou monstros hostis.
+Muitos Ladinos também trabalham
+como marinheiros, piratas e corsários,
+assim como os Espadachins. Eles podem
+ser combatentes eficientes em condições
+onde agilidade, velocidade e versatilidade são mais importantes do que simples
+proeza marcial, como no convés de um
+navio.
+É claro, muitos Ladinos usam seus
+conhecimentos e aptidões para cometer crimes. Além de um bom número de
+piratas, Ladinos são conhecidos por engrossarem bastante as fileiras de ladrões,
+embusteiros, atravessadores e traficantes
+de toda Cassiopéia.
+*Raças:
+O modo de pensar e agir dos Ladinos se encaixa bem na mentalidade dos
+Faens, Goblins e Hamelins por fatores
+totalmente diversos. Enquanto Faens
+evitam confrontos diretos sempre que
+possível, tentando encontrar saídas pacíficas para qualquer situação, Goblins e
+Hamelins são famosos por sua covardia
+e modos traiçoeiros. Assim, enquanto os
+Faen geralmente se tornam bons batedores e espiões, Goblins e Hamelins geralmente preferem carreiras no mundo do
+crime, geralmente como gatunos. Metadilios, Humanos e Tailox, por outro lado,
+consideram os modos astutos com que
+os Ladinos lidam com qualquer situação
+uma maneira ideal de lidar com problemas, e muitos deles se tornam Ladinos,
+geralmente trabalhando como batedores,
+exploradores e (no caso dos Metadilios e
+Humanos) detetives ou (no caso dos Tailox) caçadores de recompensa.
+---
+**Paladino**
+*Descrição:
+O Paladino é um guerreiro movido
+por um conjunto de códigos de conduta
+que usa para disciplinar seu espírito e
+realizar feitos que muitos veriam como
+sobrenaturais.
+A maioria dos Códigos de um
+Paladino são autoimpostos; regras de
+conduta sob as quais ele escolhe viver
+considerando que são o único caminho
+realmente digno de existir ou para expiar
+algum grande erro que cometeu e não
+deseja jamais repetir. Alguns, no entanto,
+carregam códigos impostos por forças externas, como dogmas espirituais determinados por uma crença da qual ele comunga ou princípios sob os quais o Paladino
+deve viver por fazer parte de uma ordem.
+De toda forma, esses Códigos exigem
+uma grande disciplina para serem observados completamente a cada momento, o
+que fortalece grandemente à vontade e o
+espírito do Paladino no processo.
+Alguns Paladinos vivem sob um
+único Código, estando ligados apenas a
+uma obrigação específica, enquanto outros adotam vários Códigos em uma tentativa de se aperfeiçoar e se tornar cada
+vez mais puros, dignos ou simplesmente por possuírem uma índole que naturalmente os leva em direção a eles. Não há limites para o número de Códigos que cada
+Paladino pode possuir, mas obviamente,
+quanto mais Códigos um Paladino precisa
+observar, mais limitado ele fica em relação
+aos rumos que pode tomar diante de uma
+determinada situação – e alguns deles
+podem gerar conflitos (por exemplo, um
+Paladino com o Código da Honestidade e
+o Código da Coragem diante de uma situação em que apenas uma mentira poderia
+salvar a vida de um indefeso) o que pode
+quebrar o espírito de um Paladino permanentemente, caso não consiga seguir os
+ditames de um ou mais de seus Códigos.
+Apesar de todos os Paladinos serem,
+obviamente, honrados, isso não significa que não possam ser malignos. Tiranos
+que impões sua força sobre os mais fracos
+podem perfeitamente seguir o Código da
+Lealdade, estando cercado de impiedosos
+(e fiéis) aliados, e guerreiros sanguinários que seguem estritamente o Código
+da Coragem são inimigos absolutamente
+terríveis no campo de batalha. Mas, é claro, estas são exceções à regra. Em geral,
+Paladinos são heróis que lutam pela manutenção do Status Quo, pela defesa dos
+inocentes e pela manutenção das leis.
+Muitas ordens de Paladinos exigem
+que seus membros observem obrigatoriamente um Código específico, ao menos –
+todos os Paladinos da Ordem da Espada
+de Mirah precisam seguir o Código da
+Justiça, e a Hoste de Hadorn é formada
+por Paladinos que seguem o Código da
+Coragem – e a observação desses Códigos é ostensivamente ensinada aos escudeiros que desejam ingressar na Ordem,
+enquanto outras são mais flexíveis – os
+Paladinos da Mão Ígnea precisam seguir
+o Código da Honestidade ou o Código
+da Lealdade e os Faris exigem que seus
+membros sigam o Código da Cortesia ou
+o Código da Lealdade, apesar deles comumente seguirem ambos – e são, geralmente, menos severos em suas doutrinas.
+*Raças:
+Anões, Firas e Jubans, com suas culturas estruturadas em torno de ideais de
+honra e valor são um terreno fértil para o
+surgimento de Paladinos. De fato, essas
+raças possuem poderosas ordens de Paladinos – nenhuma delas tão grande quanto
+a Espada de Mirah, mas membros dessas
+três raças estão fortemente presentes nessa Ordem em conjunto com os Humanos
+que originalmente a fundaram.
+Os Astérios, com sua disciplina militar e seus ideais simples também são
+comuns entre as ordens de Paladinos, e muitos membros das ordens de Parband são Astérios.
+Além disso, eles formam o
+grosso da Armada da Aurora, a organização militar
+mais reconhecida de Arkânia, que, apesar de não ser
+uma ordem de Paladinos, é formada majoritariamente por essa Classe. 
+---
+**Patrulheiro**
+*Descrição:
+Patrulheiros são uma classe versátil, que atua em vários campos diferentes.
+Apesar da maioria dela ser composta por
+caçadores, rastreadores e guardiões de
+áreas florestais, muitos Patrulheiros são
+arqueiros de exércitos ou milícias, exploradores de regiões remotas, caçadores de
+recompensas e domadores de animais.
+A maioria dos Patrulheiros está
+intrinsecamente ligada às regiões selvagens, preferindo atuar em florestas,
+pântanos, bosques, selvas e regiões montanhosas, onde podem usar o ambiente
+para abater presas à distância, montar
+armadilhas com facilidade e rastrear de
+modo eficiente. De fato, muitos Patrulheiros não gostam das regiões urbanas, com gente demais, cheiros demais, rastros demais e regras demais. A liberdade das regiões florestais geralmente faz
+parte de um Patrulheiro tanto quanto um
+bom arco, e a grande maioria deles possui uma profunda ligação com a natureza, geralmente de forma reverente.
+No entanto, por mais que essa seja
+a regra, há uma boa quantidade de exceções. Patrulheiros podem ser encontrados em cidades, trabalhando como
+caçadores de recompensa, dedicando-se
+a caçar criminosos ao invés de criaturas
+selvagens ou como guardas e vigias, com
+suas habilidades focadas em percepção e
+uso de arcos. Além disso, muitos Patrulheiros concentram seu treinamento apenas no manejo do arco e ingressam nas
+linhas de arqueiros de exércitos, milícias
+ou companhias mercenárias.
+Enquanto Druidas geralmente usam Companheiros Animais como
+sentinelas e vigias, e Xamãs geralmente
+possuem ligações quase familiares com
+seus Companheiros Animais, a maioria
+dos Patrulheiros usa essas criaturas como
+uma ferramenta. Muitos, claro, criam poderosos vínculos afetivos com seus Companheiros, e podem manter um mesmo
+Companheiro Animal por muitos anos.
+A maioria, porém, possui Companheiros
+Animais por curtos períodos de tempo,
+geralmente pela duração de uma tarefa,
+devolvendo-o à natureza depois disso.
+Em áreas selvagens que não conhecem
+bem o bastante, é comum que um Patrulheiro convoque uma criatura da região
+para lhe servir como guia, enquanto caçadores de recompensa geralmente usam
+Companheiros Animais para obter informações de seus alvos ao planejar a captura. Muitos convocam Companheiros Animais para apenas uma tarefa, como um
+pássaro para lhe fornecer informações sobre uma área, um animal de hábitos noturnos para servir de vigia por uma noite ou um animal de montaria para levá-lo a
+um determinado destino, e alguns Patrulheiros menos escrupulosos usam predadores para auxiliá-los em combates mais
+perigosos. A maioria dos Patrulheiros,
+no entanto, prefere não envolver animais
+em tarefas perigosas, dado seu profundo
+respeito pela natureza.
+É comum, também, que um Patrulheiro mantenha um Companheiro
+Animal por mais tempo se dedicar-se a
+uma mesma tarefa com frequência. Caçadores muitas vezes estão acompanhados de lobos ou águias, enquanto
+guardas e vigias costumam ter
+corujas, morcegos e felinos ao
+seu lado, e a maioria dos caçadores de recompensa usa
+cães e ratazanas para seguir
+seus alvos. Muitos acabam
+se afeiçoando a esses animais, e os mantém por
+perto mesmo quando sua
+tarefa foi cumprida, quase como animais de estimação.
+Além disso, muitos Patrulheiros mantêm
+animais de montaria como
+Companheiro Animal, o que
+lhes garante um meio rápido
+e seguro de transporte em uma
+emergência. 
+*Raças:
+Patrulheiros são comuns entre praticamente todas as raças de Drakon. Com
+efeito, esta é a Classe mais amplamente
+distribuída entre todas as culturas conhecidas. Elfos, Faens e Faunos são, possivelmente, as raças com os mais proeminentes Patrulheiros, graças a sua ligação
+intrínseca com a natureza. Em geral, essas
+raças concentram-se em Habilidades de
+sobrevivência, mas os Elfos e Faunos geralmente dedicam uma boa quantidade
+de treinamento no uso de arcos, enquanto os Faens preferem se dedicar a Habilidades furtivas. De modo semelhante, os
+Goblins e Metadilios geralmente preferem Habilidades ligadas à Furtividade, e
+são particularmente conhecidos pelo seu
+uso de armadilhas e emboscadas. Efetivamente, a maioria das guardas do reino
+de Bryne é formada por rastreadores especializados em táticas de guerrilha. Draconianos e Tailox costumam dedicar boa
+parte de seu treinamento no uso de armadilhas, assim como rastreio, já
+que a maioria dos Patrulheiros
+dessas duas raças costuma se
+tornar caçadores de recompensas. Orcs Patrulheiros
+geralmente dedicam-se a
+Habilidades de detecção e
+rastreio, e formam o grosso dos batedores, sentinelas e caçadores das
+Terras Secas. Enquanto
+isso, sob as ondas dos
+mares de Drakon, Grotons e Tritões possuem
+muitos Patrulheiros, mas
+enquanto os Grotons se
+dedicam primariamente a
+Habilidades ligadas à sobrevivência, os Tritões são conhecidos
+por suas capacidades como caçadores e domadores, e quase todos os Patrulheiros da raça possuem Companheiros
+Animais. 
+---
+**Rúnico**
+*Descrição:
+O Rúnico é um conjurador arcano
+cujo estudo da estrutura da conjuração
+é reprimido em detrimento do estudo
+marcial e do uso de ambas as técnicas em
+conjunto. Assim, o Rúnico utiliza seus
+conhecimentos arcanos de forma restrita,
+incapaz de realizar fenômenos particularmente espetaculares de conjuração de magias, incapaz de realizar fenômenos particularmente espetaculares de conjuração
+– a menos que tenha acesso a um Grimório
+– mas, em contra partida, possui capacidades combativas muito superiores às de outros conjuradores, sendo capaz, inclusive,
+de se engajar em combate com eficiência
+sem precisar lançar mão de nenhuma magia – uma capacidade particularmente útil
+em áreas de magia morta.
+Além disso, muitos Rúnicos concentram parte de sua atenção especificamente ao uso de itens mágicos, particularmente
+armas mágicas, não só para aumentar seu
+arsenal mas também quando combatem
+outros conjuradores, que podem ser eficientes na defesa contra conjurações mas
+geralmente não podem se defender tão
+bem de itens mágicos permanente. Muitos Rúnicos também focam seus interesses em itens mágicos na direção oposta,
+usando habilidades que desativem itens
+mágicos temporariamente e eliminem Selos e Runas de seus inimigos, como uma
+forma de eliminar as vantagens de seus
+oponentes quando os mesmos são outros
+Rúnicos ou quando fazem uso extensivo
+de itens mágicos e encantamentos.
+Rúnicos possuem, no entanto, um
+conhecimento teórico sobre o uso de magia arcana do mesmo modo que qualquer
+outro conjurador, e além de terem alguns
+conhecimentos de magias mais básicas –
+principalmente defensivas – são capazes
+de conjurar qualquer magia arcana a partir de um tomo, e muitos deles carregam
+consigo um grimório com algumas magias que podem ser úteis (como Levitar
+ou Teleporte) ou que podem lhes fornecer mais opções em combate (como Ariete Mágico ou Manto Crepitante).
+Essas características somadas tornam os Rúnicos combatentes competentes,
+particularmente eficientes contra conjuradores e criaturas sobrenaturais. De fato,
+alguns reinos – como Parband, Dagothar e
+Bryne – mantém contingentes de Rúnicos
+para lidar especificamente com conjuradores malignos e ameaças mágicas. 
+*Raças:
+Os Rúnicos mais proeminentes certamente se encontram entre os Anões.
+Apesar de não se dedicarem ao estudo
+arcano com tanto afinco como outras raças – ou talvez por causa disso – os Anões
+consideram a disciplina arcana usada a
+serviço do combate marcial extremamente apropriada, além de fornecer meios
+eficientes para lidarem com ameaças
+mágicas que por ventura possam precisar enfrentar. Os Mahoks possuem uma
+visão semelhante a respeito da Classe,
+apesar de não possuírem um número tão
+expressivo de Rúnicos. Entre os Firas,
+Rúnicos são vistos como uma expressão
+equilibrada entre duas formas de arte,
+a da magia e a da guerra, e Rúnicos são
+mais comuns entre eles do que Feiticeiros. Os Aesires, cuja cultura glorifica a
+proeza em combate e despreza o uso de
+subterfúgios e de covardia, consideram os Rúnicos como a única
+classe conjuradora digna de
+respeito. Os Humanos, por
+sua vez, vêem nos Rúnicos
+um combatente versátil, e
+muitos adotam a Classe
+em consideração a isso.
+---
+**Sacerdote**
+*Descrição:
+Sacerdotes são seguidores e protetores de uma divindade ou panteão,
+cuja fé é tão intensa que eles são capazes de canalizar parte do poder de sua
+divindade patrona na forma de magias.
+A grande maioria dos Sacerdotes
+dedica suas vidas ao estudo e proteção
+de sua fé, à manutenção dos templos
+de sua divindade patrona, ao estudo de
+suas escrituras sagradas, comungando
+com outros professantes da mesma fé
+ou transmitindo seus conhecimentos
+para outros membros da comunidade
+onde habitam. A maioria deles, ainda,
+exerce alguma função na comunidade de acordo com as doutrinas de sua
+divindade: Sacerdotes de Mirah muitas vezes ocupam cargos de juízes ou
+conselheiros de burgomestres ou mesmo monarcas, Sacerdotes de Ellenis
+geralmente auxiliam os fazendeiros e
+caçadores em suas funções, Sacerdotes
+de Denalla costumam trabalhar como
+parteiros ou curandeiros, Sacerdotes
+de Sarfion trabalham em bibliotecas,
+escolas ou como conselheiros civis, Sacerdotes de Hadorn aconselham generais e costumam acompanhar tropas em
+conflitos tanto como médicos de fronte
+quanto como combatentes, Sacerdotes
+de Ran e Taranis muitas vezes embarcam em navios (tanto de guerra quanto
+de comércio ou mesmo de pesca) para
+proteger e aconselhar a tripulação, Sacerdotes de Hou podem ser encontrados em guildas de ferreiros realizando
+funções como artesões ou tesoureiros
+e Sacerdotes de Ahrogr podem tanto
+exercer funções de aconselhamento em
+assuntos civis ou militares como exercer funções de legisladores.
+Muitos Sacerdotes, no entanto, preferem uma vida mais autônoma, viajando constantemente para aumentar sua
+compreensão do mundo ao seu redor na
+tentativa de encontrar uma coesão entre
+as teorias que estudam e o reflexo prático delas no mundo. Entre estes, um bom
+número de Sacerdotes se aventura de
+modo menos passivo, procurando aqueles fenômenos considerados antinaturais
+pela sua fé para expurgá-los do mundo,
+ou exercendo a as doutrinas de sua divindade patrona – enquanto Sacerdotes de
+Marah, Ahogr, Taranis e Hou se sentem
+compelidos a combater por grupos ou
+indivíduos em perigo, os de Denalla e Ellenis são particularmente conhecidos por
+combater mortos-vivos, infernais e outras
+criaturas sobrenaturais, os de Hadorn e
+Ran podem se interessar por qualquer situação de conflito e Sacerdotes de Sarfion
+são célebres exploradores e investigadores. 
+*Raças:
+Anões e Firas possuem uma profunda ligação com Hou, considerado o criador
+de ambas as raças, e Sacerdotes da divindade do fogo são bastante comuns entre eles.
+Elfos, cujo corpo de crenças gira ao redor da
+palavra de Lathellanis (o nome pelo qual
+eles denominam Ellenis) faz com que muitos membros da raça tornem-se seus Sacerdotes. Os Jubans trouxeram de Gaian sua
+crença inabalável na proteção de Ahogr, e
+apesar de outros povos de Parband terem
+se tronado seguidores do Ruge-Mundos,
+a maioria esmagadora dos Sacerdotes de Ahogr são Jubans. Taranis,
+cultuado tanto pelos Levent
+quanto pelos Faens (entre os
+quais é chamado de Zenith),
+tem mais seguidores entre
+os emplumados habitantes
+dos picos, que possuem um
+corpo de crenças culturais
+amplamente ligados aos
+ensinamentos do Asas-de-
+-Nuvens. Mirah, Denalla,
+Sarfion e Hadorn, apesar
+de possuírem seguidores
+de diversas raças, são particularmente cultuados entre os Humanos. E Ran, uma
+divindade marinha, possui
+Sacerdotes entre os marinheiros
+de qualquer raça – mas Sacerdotes
+de Ran são de longe os mais raros de
+serem encontrados.
+---
+**Xamã**
+*Descrição:
+Xamãs são pessoas com uma poderosa ligação com os espíritos. Apesar de
+muitos deles lidarem com os espíritos dos
+mortos, a maioria preferem lidar com os
+espíritos da natureza.
+A ligação com os espíritos naturais
+permite que muitos Xamãs sejam capazes de se comunicar com os animais, comandá-los e criar poderosos vínculos com
+eles. Xamãs particularmente conectados
+aos animais são capazes de tomar a forma
+destes, transformando-se completamente ou adquirindo características animalescas
+– como guelras, garras e asas.
+Xamãs ligados aos espíritos dos
+mortos costumam assumir posições de
+conselheiros nas comunidades onde habitam, enquanto aqueles ligados a espíritos animais tendem a assumir posições
+como caçadores ou campeões tribais. Em
+Anbrook, Lorde Narat mantém uma guarda pessoal de Xamãs especializados em
+metamorfose, e é dito que o rei Honório
+Van Strauss fazia uso de xamãs metamorfos como espiões e sentinelas.
+Apesar de comumente serem encontrados em comunidades tribais, afastadas
+da civilização, é possível encontrar xamãs
+em grandes metrópoles, às vezes simplesmente de passagem, lidando com alguma
+área assombrada por espíritos, ou, mais
+raramente como residentes de áreas infestadas de espíritos – às vezes agindo como
+guardiões, às vezes como carcereiros.
+*Raças:
+Elfos e Faunos são conhecidos por
+produzirem grandes números de Xamãs,
+geralmente ligados aos espíritos animais.
+A maioria das comunidades dessas raças
+possui ao menos um Xamã em uma posição de conselho, e entre os Faunos líderes Xamãs são comuns. Alguns Tailox,
+em busca de sua comunhão com Ellenis
+através do Mtii’Ruah também costumam
+se tornar Xamãs, e comunidades isoladas
+da raça quase sempre são liderados por
+Xamãs. Os Levent, que possuem uma conexão natural com espíritos, costumam
+ter um grande número de Xamãs focados
+em lidar com os espíritos dos mortos em
+busca de iluminação e trabalhando lado
+a lado com os Sacerdotes na manutenção
+das leis e da memória cultural da raça.
+Já entre os Hamelins, que não possuem
+a vocação para o Druidísmo, Xamãs capazes de se comunicar com animais e
+tomar sua forma são consideravelmente
+comuns.
+---

@@ -1,0 +1,88 @@
+Novas Habilidades Gerais
+
+---
+--Conjurar Familiar--
+Habilidade (Técnica) – Suporte
+Raças: Todas
+*Requisito: Conhecimento Arcano ou
+Conhecimento Místico
+*Descrição: Você possui um animal
+ligado à você que pode auxiliá-lo em suas tarefas. Selecione uma criatura do tipo Besta de
+tamanho Miúdo ou Pequeno. Realizando um
+ritual de 1 hora que consome 1 refeição (de
+acordo com a dieta do animal) você conjura
+a criatura selecionada que terá as características de um animal do tipo escolhido – exceto
+que será considerada uma Esfinge com Inteligência 3, Vontade 3 e temperamento Servo
+(ajuste a Determinação dela de acordo). O
+Familiar conhece 3 idiomas à sua escolha –
+mas ao menos 1 deles precisa ser um idioma
+que você conheça.
+Seu Familiar sempre sabe a distância
+e a direção em que ele se encontra em relação a você e tem uma noção aproximada da
+sua saúde e humor, independente da distância entre vocês – e você também tem essas
+informações com relação ao seu Familiar.
+Finalmente, sempre que você conjurar uma
+Magia que deva ser feita sobre um alvo e seu
+Familiar estiver dentro de sua linha de visão,
+você pode conjurar a magia sobre ele – ou
+sobre um alvo que ele estiver tocando.
+*Especial: Você pode conjurar seu
+Familiar novamente realizando o ritual apropriado. Quando fizer isso, você pode conjurar um animal diferente do que conjurou
+anteriormente e pode selecionar se o familiar manterá suas memórias ou não – o que
+permite alterar os idiomas que seu Familiar
+conhece. Um conjurador só pode manter um
+Familiar conjurado de cada vez, e se conjurar
+um novo Familiar, o anterior será imediatamente dissipado.
+---
+--Preparar Magias--
+Habilidade (Técnica) – Suporte
+*Requisito: Conhecimento Arcano ou
+Místico
+*Descrição: Você aprendeu a preparar
+magias de pequeno poder contidas em itens
+com a Característica Registro de modo a poder usá-las como se fossem Habilidades na
+sua ficha. Você pode preparar um número
+de magias igual à sua Inteligência (desconsiderando qualquer bônus por itens, magias
+ou qualquer outro bônus temporário) e essas magias devem ter dificuldade 8 ou menor
+(sem levar em conta bônus de itens de qualquer tipo) – Magias de dificuldade variável
+nunca podem ser preparadas.
+O personagem precisa ter acesso às
+magias que deseja preparar através de um item com a Característica Registro que já
+tenha estudado com sucesso e que seja capaz de conjurar normalmente. É necessário
+estudar cada magia individualmente – o que
+leva 1 hora – para considerá-la preparada. É
+possível preparar uma nova magia mesmo
+que o limite já tenha sido alcançado – nesse
+caso, o personagem prepara a nova magia e
+substitui uma das magias que já tinha preparado.
+*Especial: Magias preparadas não podem ser usadas
+como requisitos para aprender
+outras magias, nem precisam de
+requisitos para serem preparadas.
+O personagem não tem o real conhecimento da magia, ele apenas condicionou sua mente a fazê-la quando
+for preciso.
+---
+--Runa de Poder--
+Habilidade (Técnica) – Reação
+Raças: Todas
+*Requisito: Nível 5, Detectar
+Magia
+*Descrição: Quando desenhar Runas Arcanas, você
+pode definir critérios
+para sua ativação (quando alguém se aproximar
+a 10 metros da Runa, em
+10 minutos, ao meio dia depois da próxima lua cheia, quando
+o meu nome for dito a à uma distância de 1 metro da Runa, quando
+uma criatura viva tocar o objeto no
+qual a Runa está desenhada, etc.) que deve
+ser definido em voz alta quando a magia
+é conjurada.
+O custo para conjurar uma magia dessa forma será aumentado em 20 e uma Runa
+Arcana conjurada dessa forma será perene.
+Quando os critérios de ativação forem preenchidos ela é ativada, passando a ter efeito
+pela duração normal da magia. As outras características da magia não são alteradas.
+Detectar Magia utilizada sobre a Runa
+Arcana indica que esta Habilidade foi utilizada sobre ela – e se o Conjurador analisar a
+Runa, ele saberá os critérios para a ativação
+da Magia.
+---
