@@ -7,44 +7,54 @@ class Config(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-    # --- COMANDO DE BARRA (SLASH COMMAND) ---
+    def _salvar_config_canal(self, guild_id: int, canal_id: int):
+        dados = utils.carregar_dados()
+        gid = str(guild_id)
+
+        if "config" not in dados:
+            dados["config"] = {}
+
+        if gid not in dados["config"]:
+            dados["config"][gid] = {}
+
+        dados["config"][gid]["canal_fichas"] = canal_id
+        utils.salvar_dados(dados)
+
     @app_commands.command(
-        name="setfichas", 
+        name="setfichas",
         description="Define o canal onde os tópicos de ficha estão localizados"
     )
     @app_commands.describe(canal="O canal de texto que contém os tópicos das fichas")
     @app_commands.checks.has_permissions(administrator=True)
     async def setfichas_slash(self, interaction: discord.Interaction, canal: discord.TextChannel):
-        """Versão Slash do comando para definir o canal de fichas."""
         self._salvar_config_canal(interaction.guild_id, canal.id)
         await interaction.response.send_message(
             f"✅ **Configuração Salva!**\nAgora buscarei os tópicos de ficha em: {canal.mention}",
-            ephemeral=True # Apenas quem usou o comando vê a resposta
+            ephemeral=True
         )
 
-    # --- COMANDO DE PREFIXO (MANTIDO PARA COMPATIBILIDADE) ---
     @commands.command(name="setfichas", aliases=["set_fichas"])
     @commands.has_permissions(administrator=True)
     async def setfichas_prefix(self, ctx, canal: discord.TextChannel = None):
-        """Versão de prefixo (!) do comando."""
         alvo = canal or ctx.channel
         self._salvar_config_canal(ctx.guild.id, alvo.id)
         await ctx.send(f"✅ **Canal de fichas definido!**\nLocal: {alvo.mention}")
 
     @app_commands.command(
-        name="ver_configs", 
+        name="ver_configs",
         description="Exibe as configurações atuais do servidor"
     )
     @app_commands.checks.has_permissions(administrator=True)
     async def ver_configs_slash(self, interaction: discord.Interaction):
-        """Versão Slash para ver configurações."""
         dados = utils.carregar_dados()
         gid = str(interaction.guild_id)
         config = dados.get("config", {}).get(gid, {})
-        
+
         embed = discord.Embed(title="⚙️ Configurações do Servidor", color=discord.Color.blue())
-        embed.add_field(name="Canal de Fichas", value=f"<#{config.get('canal_fichas', 'Não definido')}>", inline=False)
-        
+        canal_fichas = config.get("canal_fichas")
+        valor_canal = f"<#{canal_fichas}>" if canal_fichas else "Não definido"
+        embed.add_field(name="Canal de Fichas", value=valor_canal, inline=False)
+
         await interaction.response.send_message(embed=embed, ephemeral=True)
 
 async def setup(bot):
